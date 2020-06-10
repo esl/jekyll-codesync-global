@@ -1,0 +1,92 @@
+title: Codesync
+description: > # this means to ignore newlines until "baseurl:"
+  Codesync conferences website
+baseurl: "" 
+url: "https://codesync-staging.erlang-solutions.com" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+
+logo: "./assets/images/icon-large.png"
+
+social: 
+  name: Codesync
+  link: "https://twitter.com/xxxxxx"
+
+# google_site_verification: googleXXXXXXXXXXXXXXXX.html
+
+include: []
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/xxxxxxx
+    username: xxxxxxxxx
+    card: image
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  speakers:
+    output: true
+    sort_by: relevance
+  keynotes:
+    output: true
+    sort_by: relevance
+  trainers:
+    output: true
+    sort_by: relevance
+  trainings:
+    output: true
+    sort_by: relevance
+  talks:
+    output: true
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "speakers"
+    values:
+      layout: "speaker"
+  - scope:
+      path: ""
+      type: "trainers"
+    values:
+      layout: "speaker"
+  - scope:
+      path: ""
+      type: "trainings"
+    values:
+      layout: "training"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Google Map JS api
+# This is my api for this template
+key-api: xxxxxx
+map-text: xxxxxx
+map-text-location: xxxxxx
+map-lat: xxxxxx
+map-lng: xxxxxx
+
+
+
