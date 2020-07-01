@@ -1,4 +1,51 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+- name: featured
+  type: boolean
+  label: Featured
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - article
+    - video
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+- name: speaker1
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: Speaker1
