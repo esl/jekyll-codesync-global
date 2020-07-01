@@ -49,3 +49,13 @@ fields:
       file: 
       path: 
   label: Speaker1
+- name: image_url
+  type: text
+  config:
+    required: false
+  label: Image url
+- name: video_url
+  type: text
+  config:
+    required: false
+  label: Video url
