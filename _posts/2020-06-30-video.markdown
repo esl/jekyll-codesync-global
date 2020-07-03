@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2020-06-15 14:49:28 -0600
-categories: jekyll update
+title: "Video"
+date: 2020-06-30 14:49:28 -0600
+background_image:
+categories: video elixir
+tag: video elixir
 featured: true
-tag: elixir
-type: article
+type: video
+video_url:
+speaker1: _speakers/test-speaker.md
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

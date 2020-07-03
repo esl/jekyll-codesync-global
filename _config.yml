@@ -16,9 +16,24 @@ social:
 
 include: []
 
+####################################
+###########   Plugins    ###########
+####################################
 plugins:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -26,6 +41,13 @@ social:
     url: https://twitter.com/xxxxxxx
     username: xxxxxxxxx
     card: image
+
+####################################
+###########   Pagination    ###########
+####################################
+paginate: 1
+paginate_path: "/media/page:num/"
+
 
 # Build settings
 markdown: kramdown
