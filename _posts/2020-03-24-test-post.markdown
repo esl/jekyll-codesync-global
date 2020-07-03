@@ -4,6 +4,7 @@ title: "COVID-19: community update & support!"
 date: 2020-03-24 14:49:28 -0600
 categories: jekyll update
 featured: false
+type: article
 ---
 
 # LET US KNOW HOW WE CAN HELP
