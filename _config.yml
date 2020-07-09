@@ -45,7 +45,7 @@ social:
 ####################################
 ###########   Pagination    ###########
 ####################################
-paginate: 1
+paginate: 12
 paginate_path: "/media/page:num/"
 
 
