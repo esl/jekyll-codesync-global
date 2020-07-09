@@ -49,7 +49,7 @@
                             </h3>
                             <div class="hashtags">
                                 <ul>
-                                    {% assign tags_list = site.tags %}
+                                    {% assign tags_list = post.tags %}
                                     {% if tags_list.first[0] == null %}
                                         {% for tag in tags_list %}
                                             <li>

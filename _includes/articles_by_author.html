@@ -1,9 +1,9 @@
 <section class="media m-vp-30 m-pb-00 section-container">
     <div class="container--small">
         <div class="grid-gap-100">
-            <h2 class="heading heading--big1 mb--50 m-mb-20">FEATURED ARTICLES</h2>
+            <h2 class="heading heading--big1 mb--50 m-mb-20">ALL ARTICLES</h2>
             <div class="row row__articles" id="featured-articles">
-                {% assign sorted = site.posts | sort: "relevance" | where: 'featured', true %}
+                {% assign sorted = site.posts | sort: "relevance" | where: 'type', 'article' %}
                 {% for post in sorted %}
 
                     {% if post.type == 'article' %}
@@ -50,7 +50,7 @@
                                 </h3>
                                 <div class="hashtags">
                                     <ul>
-                                        {% assign tags_list = post.tags %}
+                                        {% assign tags_list = site.tags %}
                                         {% if tags_list.first[0] == null %}
                                             {% for tag in tags_list %}
                                                 <li>

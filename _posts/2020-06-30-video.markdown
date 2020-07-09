@@ -8,7 +8,7 @@ tag: video elixir
 featured: true
 type: video
 video_url:
-speaker1: _speakers/test-speaker.md
+speaker1: _speakers/jose-valim.md
 permalink: /media/:title
 ---
 
