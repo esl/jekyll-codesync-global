@@ -70,6 +70,8 @@ collections:
     output: true
   posts:
     output: true
+  diversity_programs:
+    output: true
 
 defaults:
   - scope:
