@@ -11,7 +11,7 @@
                     {% for sponsor in sorted %}
                         <a class="grid--3" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
                             <picture>
-                                <img alt="Micosoft Logo" class="lazy" data-src="{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
+                                <img alt="{{ page.title }} Logo" class="lazy" data-src="{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
                             </picture>
                         </a>
                     {% endfor %}
