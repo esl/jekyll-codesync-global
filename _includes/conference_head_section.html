@@ -1,0 +1,78 @@
+<section class="banner vp--100 black-gradient--top black-gradient--bottom">
+    <picture class="banner--background">
+        <source data-srcset="/uploads/media/theme/0001/01/43ac1d189292a3e2bf822a88011531a495ef1dec.jpeg" media="(max-width: 1050px)"/>
+        <img alt="Code BEAM STO Background" class="lazy" data-src="/uploads/media/theme/0001/01/16d70351e4ef837c6fbab1a10e1576a862092484.jpeg">
+    </picture>
+    <div class="container--small">
+        <div class="flex-grid mt--70 m-mt-50">
+            <div class="col-5 t-col-6 m-col-12 conf-logo">
+                <div class="banner__logo">
+                    <picture>
+                        <img alt="Code BEAM STO Logo" class="lazy" data-src="/uploads/media/theme/0001/01/c63a23d43f73b3a938ba1682ed01c646f46fa815.png">
+                    </picture>
+                    <div class="mt--50">
+                        <span class="heading heading--conference-banner">10-11
+                                                        September 2020</span>
+                        <div class="heading heading--conference-banner countdown">
+                            <span id="countdown"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-7 t-col-6 m-col-12 ">
+                <div>
+                    <h2 class="heading heading--normal">DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM</h2>
+                    <p class="paragraph--banner">RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19<br><br>Code BEAM STO is
+                                                the only conference in Europe to bring Erlang, Elixir, and all of the languages that run on the
+                                                BEAM together.<br/><br/>
+
+                        Learn from 50+ cutting-edge talks and our in-depth training program, how BEAM languages are
+                                                revolutionising areas like IoT, Blockchain, Fintech, Security, Machine Learning and more.
+                        <br/><br/>
+                        As of 2018, Code BEAM STO, formerly known as the Erlang User Conference, joined the Code Sync
+                                                family of tech conferences.
+                    </p>
+
+
+                    <a class="btn btn--pink triangle-left-empty mt--50" href="https://codesync.global/conferences/code-beam-sto/#tickets">
+                        <svg data-name="Layer 1" viewbox="0 0 26.634 29.055" xmlns="http://www.w3.org/2000/svg">
+                            <defs>
+                                <filter color-interpolation-filters="sRGB" id="a">
+                                    <feFlood flood-color="#fff" flood-opacity=".16" result="flood"/>
+                                    <feComposite in2="SourceGraphic" in="flood" operator="in" result="composite1"/>
+                                    <feGaussianBlur in="composite1" result="blur" stddeviation="10"/>
+                                    <feOffset dx="16" dy="16" result="offset"/>
+                                    <feComposite in2="offset" in="SourceGraphic" result="fbSourceGraphic"/>
+                                    <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+                                    <feFlood flood-color="#fff" flood-opacity=".16" result="flood"/>
+                                    <feComposite in2="fbSourceGraphic" in="flood" operator="in" result="composite1"/>
+                                    <feGaussianBlur in="composite1" result="blur" stddeviation="10"/>
+                                    <feOffset dy="-10" result="offset"/>
+                                    <feComposite in2="offset" in="fbSourceGraphic" result="composite2"/>
+                                </filter>
+                            </defs>
+                            <path d="M28.5 15.5l-22-12 .03 24z" data-name="Shape 2 copy 2" fill="none" filter="url(#a)" style="box-shadow:0 3px 3.44px .56px rgba(9,14,44,.09)" transform="translate(-4.997 -.97)"/>
+                            <path d="M23.503 14.53l-22-12 .03 24z" data-name="Shape 2 copy 2" fill="none" stroke-width="3" stroke="#fff"/>
+                        </svg>
+                        GET TICKETS</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    var countDownDate = new Date("2020/09/10 09:00:00").getTime(),
+        x = setInterval(function () {
+            var e = (new Date).getTime(),
+                n = countDownDate - e,
+                a = "",
+                s = Math.floor(n / 864e5),
+                t = Math.floor(n % 864e5 / 36e5),
+                o = Math.floor(n % 36e5 / 6e4);
+            a = s > 0
+                ? "<span class=\"huge\">" + s + "</span>d <span class=\"huge\">" + t + "</span>h <span class=\"huge\">" + o + "</span>m"
+                : a = " <span class=\"huge\">" + t + "</span>h <span class=\"huge\">" + o + "</span>m <span class=\"huge\">" + Math.floor(n % 6e4 / 1e3) + "</span>s",
+            document.getElementById("countdown").innerHTML = a,
+            n < 0 && (clearInterval(x), document.getElementById("countdown").innerHTML = "EXPIRED")
+        }, 1e3);
+</script>
