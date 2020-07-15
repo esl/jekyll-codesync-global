@@ -72,6 +72,8 @@ collections:
     output: true
   diversity_programs:
     output: true
+  conferences:
+    output: true
 
 defaults:
   - scope:
