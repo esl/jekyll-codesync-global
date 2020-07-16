@@ -11,3 +11,10 @@ fields:
     schema:
       format: markdown
   label: head_desc
+- name: section_1
+  type: blocks
+  label: section_1
+  template_types: []
+  config:
+    min: 
+    max: 
