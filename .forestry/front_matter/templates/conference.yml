@@ -1,4 +1,13 @@
 ---
 label: Conference
 hide_body: false
-fields: []
+fields:
+- name: head_desc
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: head_desc
