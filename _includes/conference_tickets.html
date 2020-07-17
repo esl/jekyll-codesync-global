@@ -7,8 +7,7 @@
         <div class="row mt--50 t-mt-10">
             <div class="col-8 t-col-12">
                 <div class="paragraph--training mono fw--medium">
-                    <p>Early bird conference,&nbsp;training, tutorial, and certification places will be&nbsp;available
-                                                until 23:59 CEST 28 May&nbsp;2020.</p>
+                    <p>{{ page.tickets_message }}</p>
                 </div>
             </div>
             <div class="col-4 t-col-12">
@@ -70,112 +69,52 @@
                         });
                     </script>
                 </div>
-                <p class="mono fw--medium">All prices exclude fees and VAT</p>
+                <p class="mono fw--medium">{{ page.fees_message }}</p>
             </div>
         </div>
     </div>
     <div class="container--small">
         <div class="row mt--20 t-mt-40 m-mt-20 w--100">
             <div class="register-container">
-                <div class="register-box mt--60 t-mt-20">
-                    <div class="register-content">
-                        <div class="register--border">
-                            <h2>
-                                <p>EARLY BIRD CONFERENCE TICKET</p>
-                            </h2>
-                            <p>Access to the two day conference. Price excludes VAT and fees.</p>
-                            <p class="price fittext-dynamic heading heading--big bold text-center">5,600.00 kr</p>
+                {% for ticket in site.tickets %}
+                    {% if ticket.type == 'regular' %}
+                        <div class="register-box mt--60 t-mt-20 {% if ticket.open == false%}disabled{% endif%}">
+                            <div class="register-content">
+                                <div class="register--border">
+                                    <h2>
+                                        <p>{{ ticket.title }}</p>
+                                    </h2>
+                                    <p>{{ ticket.desc }}</p>
+                                    <p class="price fittext-dynamic heading heading--big bold text-center">{{ ticket.price }}</p>
+                                </div>
+                                {% if ticket.open == true %}
+                                    <div class="btn btn--white btn-arrow" onclick="openEventbrite()">REGISTER</div>
+                                {% else %}
+                                    <div class="btn btn--white btn-arrow disable">COMING SOON</div>
+                                {% endif %}
+                            </div>
                         </div>
-                        <div class="btn btn--white btn-arrow" onclick="openEventbrite()">REGISTER</div>
-                    </div>
-                </div>
-                <div class="register-box mt--60 t-mt-20">
-                    <div class="register-content">
-                        <div class="register--border">
-                            <h2>
-                                <p>EARLY BIRD CONFERENCE + TRAINING TICKET</p>
-                            </h2>
-                            <p>Access to the two day conference and a three-day training course of your choice. Saving
-                                                                of 10%. Price excludes VAT and fees.</p>
-                            <p class="price fittext-dynamic heading heading--big bold text-center">15,061.50 kr</p>
+                    {% endif %}
+                    {% if ticket.type == 'special' %}
+                        <div class="register-box mt--60 t-mt-20">
+                            <div class="register-content">
+                                <div class="register--border">
+                                    <h2>
+                                        <p>{{ ticket.title }}</p>
+                                    </h2>
+                                    <p>{{ ticket.desc }}</p>
+                                    <p class="price fittext-dynamic heading heading--big bold text-center">FREE</p>
+                                </div>
+                                {% if ticket.open == true %}
+                                    <a class="btn btn--white btn-arrow" href="https://www2.codesync.global/l/23452/2020-02-05/6w586s">APPLY</a>
+                                {% else %}
+                                    <div class="btn btn--white btn-arrow disable">COMING SOON</div>
+                                {% endif %}
+                            </div>
                         </div>
-                        <div class="btn btn--white btn-arrow" onclick="openEventbrite()">REGISTER</div>
-                    </div>
-                </div>
-                <div class="register-box mt--60 t-mt-20">
-                    <div class="register-content">
-                        <div class="register--border">
-                            <h2>
-                                <p>EARLY BIRD CONFERENCE + TUTORIAL TICKET</p>
-                            </h2>
-                            <p>Access to the two day conference and a one-day tutorial of your choice. Saving of 10%.
-                                                                Price excludes VAT and fees.</p>
-                            <p class="price fittext-dynamic heading heading--big bold text-center">8,235.00 kr</p>
-                        </div>
-                        <div class="btn btn--white btn-arrow" onclick="openEventbrite()">REGISTER</div>
-                    </div>
-                </div>
-                <div class="register-box mt--60 t-mt-20">
-                    <div class="register-content">
-                        <div class="register--border">
-                            <h2>
-                                <p>ERLANG OR OTP CERTIFICATION</p>
-                            </h2>
-                            <p>Erlang or OTP certification exam. Price excludes VAT and fees.</p>
-                            <p class="price fittext-dynamic heading heading--big bold text-center">2,040.00 kr</p>
-                        </div>
-                        <div class="btn btn--white btn-arrow" onclick="openEventbrite()">REGISTER</div>
-                    </div>
-                </div>
-                <div class="register-box mt--60 t-mt-20">
-                    <div class="register-content">
-                        <div class="register--border">
-                            <h2>
-                                <p>EARLY BIRD TRAINING TICKET</p>
-                            </h2>
-                            <p>Access to a three-day training course of your choice. Price excludes VAT and fees.</p>
-                            <p class="price fittext-dynamic heading heading--big bold text-center">11,135.00 kr</p>
-                        </div>
-                        <div class="btn btn--white btn-arrow" onclick="openEventbrite()">REGISTER</div>
-                    </div>
-                </div>
-                <div class="register-box mt--60 t-mt-20">
-                    <div class="register-content">
-                        <div class="register--border">
-                            <h2>
-                                <p>EARLY BIRD TUTORIAL TICKET</p>
-                            </h2>
-                            <p>Access to a one-day tutorial of your choice. Price excludes VAT and fees.</p>
-                            <p class="price fittext-dynamic heading heading--big bold text-center">3,550.00 kr</p>
-                        </div>
-                        <div class="btn btn--white btn-arrow" onclick="openEventbrite()">REGISTER</div>
-                    </div>
-                </div>
-                <div class="register-box mt--60 t-mt-20">
-                    <div class="register-content">
-                        <div class="register--border">
-                            <h2>
-                                <p>DIVERSITY TICKETS</p>
-                            </h2>
-                            <p>Apply to our diversity scheme which awards under-represented members of the BEAM
-                                                                community free tickets to Code BEAM STO!</p>
-                            <p class="price fittext-dynamic heading heading--big bold text-center">FREE</p>
-                        </div>
-                        <a class="btn btn--white btn-arrow" href="https://www2.codesync.global/l/23452/2020-02-05/6w586v">APPLY</a>
-                    </div>
-                </div>
-                <div class="register-box mt--60 t-mt-20">
-                    <div class="register-content">
-                        <div class="register--border">
-                            <h2>
-                                <p>VOLUNTEER PLACES</p>
-                            </h2>
-                            <p>Join the team as a volunteer and get free access to the conference!</p>
-                            <p class="price fittext-dynamic heading heading--big bold text-center">FREE</p>
-                        </div>
-                        <a class="btn btn--white btn-arrow" href="https://www2.codesync.global/l/23452/2020-02-05/6w586s">APPLY</a>
-                    </div>
-                </div>
+                    {% endif %}
+                {% endfor %}
+
             </div>
         </div>
     </div>
