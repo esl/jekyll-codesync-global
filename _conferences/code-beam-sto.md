@@ -37,11 +37,23 @@ about_group_tickets_message: Get special group discounts for group bookings.&nbs
 about_academic_tickets_message: We love students and academics. Get a special academic discount.
 about_diversity_message: We're committed to diversity at Code BEAM SF. Applications are open until 27 July 2020.
 about_volunteer_message: Join the Code BEAM SF family and get free access to the conference! Applications are open until 27 August 2020.
-#######################
+##########################
 #### Tickets Section #####
-#######################
+##########################
+tickets_bg_image:
 tickets_message: Early bird conference, training, tutorial, and certification places will be available until 23:59 CEST 28 May 2020.
 fees_message: All prices exclude fees and VAT
+eventbrite_url: https://www.eventbrite.co.uk/e/code-beam-sto-2020-tickets-90357035325
+eventbrite_id: 90357035325
+##########################
+####  Group Tickets  #####
+##########################
+group_tickets_paragraph_1: Want to bring your team along to Code BEAM STO? We have group discounts for conference, training and&nbsp;tutorial tickets available.
+group_tickets_paragraph_2: Find out how much you can save!
+enquire_mailto_link: info@codesync.global?subject=Group%20tickets%20for%20Code%20BEAM%20STO%2020
+###########################
+#### Academic Tickets #####
+###########################
 ---
 
 RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19
