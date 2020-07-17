@@ -87,6 +87,11 @@ defaults:
       layout: "speaker"
   - scope:
       path: ""
+      type: "conferences"
+    values: 
+      layout: "conferences"
+  - scope:
+      path: ""
       type: "trainers"
     values:
       layout: "speaker"
@@ -105,11 +110,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-   - scope:
-      path: ""
-      type: "conferences"
-    values:
-      layout: "conference"
   - scope:
       path: ""
     values:
