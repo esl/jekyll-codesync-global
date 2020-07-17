@@ -1,0 +1,40 @@
+<section class="anchor__submenu newsletter section-container vp--100 d-vp-80 t-vp-70 m-vp-20" id="newsletter">
+    <picture class="newsletter-background">
+        <img alt="Code BEAM STO Logo" class="tile__logo lazy" data-src="/uploads/media/theme/0001/01/16d70351e4ef837c6fbab1a10e1576a862092484.jpeg">
+    </picture>
+    <div class="container--small grid-gap-100">
+        <div class="row">
+            <div class="col-12 t-col-12">
+                <h3 class="heading heading--large">
+                    NEWSLETTER
+                </h3>
+                <p class="paragraph paragraph--tiny col-8 t-col-12 t-col-12">
+                    Code Sync and Erlang Solutions care about your data and privacy. By submitting this form you agree
+                                        that your data will be processed according to our
+                    <a class="link" href="https://codesync.global/privacy_policy/">Privacy Policy</a>. Update your email preferences
+                    <a class="link" href="https://www2.erlang-solutions.com/email-preference?epc_hash=JtO6C7Q2rJwCdZxBx3Ad8jI2D4TJum7XcUWcgfjZ8YY" rel="noindex nofollow noopener noreferrer" style="color:#fff" target="_blank" title="Disclaimer Link">Update your
+                                                email preferences</a>
+                </p>
+            </div>
+        </div>
+        <form action="/newsletter_action/" method="post" name="newsletter">
+            <div class="row">
+                <div class="col-8 t-col-12">
+                    <div class="color--main heading error"></div>
+                    <label class="field-placeholder required" for="newsletter_email">Email</label>
+                    <input class="gr-8 t-gr-12" id="newsletter_email" name="newsletter[email]" placeholder="Type your email...." required="required" type="email"/>
+                </div>
+                <div class="col-4 t-col-12">
+                    <div class="input--checkbox">
+                        <div class="color--main heading error"></div>
+                        <input id="newsletter_optIn" name="newsletter[optIn]" required="required" type="checkbox" value="1"/>
+                        <label class="required" for="newsletter_optIn">Yes, I would like to receive email communications
+                                                        from Code Sync</label>
+                    </div>
+                    <input class="btn btn--white" type="submit" value="Subscribe">
+                </div>
+
+            </div>
+        </form>
+    </div>
+</section>
