@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Conferences
   create: all
-  match: "**/*"
+  match: _conferences/**/*
   templates:
   - conference
 - type: jekyll-pages
