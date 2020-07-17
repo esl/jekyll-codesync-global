@@ -18,3 +18,9 @@ fields:
   config:
     min: 
     max: 
+- name: primary
+  type: color
+  label: primary
+  config:
+    required: false
+    color_format: Hex
