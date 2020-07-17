@@ -77,42 +77,45 @@
         <div class="row mt--20 t-mt-40 m-mt-20 w--100">
             <div class="register-container">
                 {% for ticket in site.tickets %}
-                    {% if ticket.type == 'regular' %}
-                        <div class="register-box mt--60 t-mt-20 {% if ticket.open == false%}disabled{% endif%}">
-                            <div class="register-content">
-                                <div class="register--border">
-                                    <h2>
-                                        <p>{{ ticket.title }}</p>
-                                    </h2>
-                                    <p>{{ ticket.desc }}</p>
-                                    <p class="price fittext-dynamic heading heading--big bold text-center">{{ ticket.price }}</p>
-                                </div>
-                                {% if ticket.open == true %}
+                {% if ticket.conference_path == page.path %}
+                            {% if ticket.type == 'regular' %}
+                            <div class="register-box mt--60 t-mt-20 {% if ticket.open == false%}disabled{% endif%}">
+                                <div class="register-content">
+                                    <div class="register--border">
+                                        <h2>
+                                            <p>{{ ticket.title }}</p>
+                                        </h2>
+                                        <p>{{ ticket.desc }}</p>
+                                        <p class="price fittext-dynamic heading heading--big bold text-center">{{ ticket.price }}</p>
+                                    </div>
+                                    {% if ticket.open == true %}
                                     <div class="btn btn--white btn-arrow" onclick="openEventbrite()">REGISTER</div>
-                                {% else %}
+                                    {% else %}
                                     <div class="btn btn--white btn-arrow disable">COMING SOON</div>
-                                {% endif %}
-                            </div>
-                        </div>
-                    {% endif %}
-                    {% if ticket.type == 'special' %}
-                        <div class="register-box mt--60 t-mt-20">
-                            <div class="register-content">
-                                <div class="register--border">
-                                    <h2>
-                                        <p>{{ ticket.title }}</p>
-                                    </h2>
-                                    <p>{{ ticket.desc }}</p>
-                                    <p class="price fittext-dynamic heading heading--big bold text-center">FREE</p>
+                                    {% endif %}
                                 </div>
-                                {% if ticket.open == true %}
-                                    <a class="btn btn--white btn-arrow" href="https://www2.codesync.global/l/23452/2020-02-05/6w586s">APPLY</a>
-                                {% else %}
-                                    <div class="btn btn--white btn-arrow disable">COMING SOON</div>
-                                {% endif %}
                             </div>
-                        </div>
-                    {% endif %}
+                            {% endif %}
+                            {% if ticket.type == 'special' %}
+                            <div class="register-box mt--60 t-mt-20">
+                                <div class="register-content">
+                                    <div class="register--border">
+                                        <h2>
+                                            <p>{{ ticket.title }}</p>
+                                        </h2>
+                                        <p>{{ ticket.desc }}</p>
+                                        <p class="price fittext-dynamic heading heading--big bold text-center">FREE</p>
+                                    </div>
+                                    {% if ticket.open == true %}
+                                    <a class="btn btn--white btn-arrow" href="https://www2.codesync.global/l/23452/2020-02-05/6w586s">APPLY</a>
+                                    {% else %}
+                                    <div class="btn btn--white btn-arrow disable">COMING SOON</div>
+                                    {% endif %}
+                                </div>
+                            </div>
+                            {% endif %}
+                {% endif %}
+           
                 {% endfor %}
 
             </div>
