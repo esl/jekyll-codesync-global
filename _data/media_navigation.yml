@@ -1,0 +1,6 @@
+- name: MIXED
+  link: /media/
+- name: ONLY VIDEOS
+  link: /media/videos/
+- name: ONLY ARTICLES
+  link: /media/articles/

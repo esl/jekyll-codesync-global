@@ -1,0 +1,37 @@
+<section class="anchor__submenu welcome section-container section--spaced" id="">
+    <div class="container--small">
+        <div class="grid-gap-100">
+            <h1 class="heading heading--large">Apply!</h1>
+            <div class="row mt--70 t-mt-00 t-mb-50 m-mb-00 welcome__content">
+                <div class="col-4 t-col-12 t-mt-80 m-mt-40">
+                    <h3>OPEN PROGRAMMES:</h3>
+                    <p>&nbsp;</p>
+                    {% for program in site.diversity_programs %}
+                        <p>
+                            <a href="{{ program.url }}">{{ program.title }}&nbsp;- click HERE to apply</a>
+                        </p>
+                        <p>&nbsp;</p>
+                    {% endfor %}
+                </div>
+                <div class="col-4 t-col-6 m-col-12 t-mt-80 m-mt-40">
+                    <h3>DEADLINES FOR APPLICATIONS:</h3>
+                    {% for program in site.diversity_programs %}
+                        <p>
+                            {{ program.application_deadline | date_to_string }}
+                        </p>
+                        <p>&nbsp;</p>
+                    {% endfor %}
+                </div>
+                <div class="col-4 t-col-6 m-col-12 t-mt-80 m-mb-00 m-mt-40">
+                    <h3>DEADLINES FOR RESULTS:</h3>
+                    {% for program in site.diversity_programs %}
+                        <p>
+                            {{ program.results_deadline | date_to_string }}
+                        </p>
+                        <p>&nbsp;</p>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

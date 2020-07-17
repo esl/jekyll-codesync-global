@@ -16,9 +16,26 @@ social:
 
 include: []
 
+####################################
+###########   Plugins    ###########
+####################################
 plugins:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-menus
+
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -26,6 +43,13 @@ social:
     url: https://twitter.com/xxxxxxx
     username: xxxxxxxxx
     card: image
+
+####################################
+###########   Pagination    ###########
+####################################
+paginate: 12
+paginate_path: "/media/page:num/"
+
 
 # Build settings
 markdown: kramdown
@@ -47,6 +71,12 @@ collections:
   talks:
     output: true
   posts:
+    output: true
+  diversity_programs:
+    output: true
+  conferences:
+    output: true
+  tickets:
     output: true
 
 defaults:
@@ -87,6 +117,5 @@ map-text: xxxxxx
 map-text-location: xxxxxx
 map-lat: xxxxxx
 map-lng: xxxxxx
-
 
 
