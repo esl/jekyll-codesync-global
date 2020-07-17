@@ -105,11 +105,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-   - scope:
-      path: ""
-      type: "conferences"
-    values:
-      layout: "conference"
   - scope:
       path: ""
     values:
