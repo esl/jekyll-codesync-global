@@ -5,10 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: _conferences
   label: Conferences
   create: all
-  match: _conferences/**/*
+  match: "**/*"
   templates:
   - conference
 - type: jekyll-pages
