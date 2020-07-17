@@ -1,4 +1,59 @@
 ---
 layout: conference
 title: Code BEAM V
+#######################
+#### Styles #####
+#######################
+primary: c30000
+secondary: ff00ff
+hover: ff00ff
+
+#######################
+#### Menu Section #####
+#######################
+menu_path:
+
+#######################
+#### Head Section #####
+#######################
+conference_init_date: 2020/08/10 09:00:00
+conference_dates: 10-11 SEPTEMBER 2020
+head_title: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
+#######################
+#### Overview Section #####
+#######################
+overview_heading: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
+number_of_days: 2
+number_of_themes: 7
+number_of_speakers: 50
+number_of_attendees: 300
+about_title_left: The future of the Erlang ecosystem, in the home of Erlang
+about_paragraph_1: Code BEAM STO 2020 has been postponed from May to September 2020 due to public health concerns around COVID-19.
+about_paragraph_2: Code BEAM STO conference is all about discovering the future of the Erlang Ecosystem and bringing together developers as a community to share knowledge &amp; ideas, learn from each other and inspire to invent the future.
+about_paragraph_3: An action-packed two-day conference fused with a mix of talks on innovation and open-source applications based on Erlang, OTP, Elixir, LFE, BEAM and other emerging technologies!
+about_title_right: CODE BEAM STO 2020 - BACK THIS SEPTEMBER!
+about_register_mesage: Early bird tickets are available until 28 May 2020.&nbsp;
+about_group_tickets_message: Get special group discounts for group bookings.&nbsp;
+about_academic_tickets_message: We love students and academics. Get a special academic discount.
+about_diversity_message: We're committed to diversity at Code BEAM SF. Applications are open until 27 July 2020.
+about_volunteer_message: Join the Code BEAM SF family and get free access to the conference! Applications are open until 27 August 2020.
+#######################
+#### Tickets Section #####
+#######################
+tickets_message: Early bird conference, training, tutorial, and certification places will be available until 23:59 CEST 28 May 2020.
+fees_message: All prices exclude fees and VAT
 ---
+
+RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19
+
+Code BEAM
+
+STO is the only conference in Europe to bring Erlang, Elixir, and
+all of the languages that run on the BEAM together.
+
+Learn from 50+ cutting-edge talks and our in-depth training program,
+how BEAM languages are revolutionising areas like IoT, Blockchain,
+Fintech, Security, Machine Learning and more.
+
+As of 2018, Code BEAM STO, formerly known as the Erlang User
+Conference, joined the Code Sync family of tech conferences.

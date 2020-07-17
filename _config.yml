@@ -24,6 +24,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-menus
+
 
 jekyll-archives:
   enabled:
@@ -73,6 +75,8 @@ collections:
   diversity_programs:
     output: true
   conferences:
+    output: true
+  tickets:
     output: true
 
 defaults:
