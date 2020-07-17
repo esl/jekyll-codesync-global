@@ -50,10 +50,13 @@ eventbrite_id: 90357035325
 ##########################
 group_tickets_paragraph_1: Want to bring your team along to Code BEAM STO? We have group discounts for conference, training and&nbsp;tutorial tickets available.
 group_tickets_paragraph_2: Find out how much you can save!
-enquire_mailto_link: info@codesync.global?subject=Group%20tickets%20for%20Code%20BEAM%20STO%2020
+group_enquire_mailto_link: info@codesync.global?subject=Group%20tickets%20for%20Code%20BEAM%20STO%2020
 ###########################
 #### Academic Tickets #####
 ###########################
+academic_tickets_paragraph_1: We love students and academics. We&#39;re thrilled to offer&nbsp;special discounts to academics and students who would like to attend Code BEAM STO.
+academic_tickets_paragraph_2: Simply get in touch to confirm that you&#39;re a student/academic and we will release the discount code.&nbsp;
+academic_enquire_mailto_link: info@codesync.global?subject=Academic%20/%20Student%20tickets%20for%20Code%20BEAM%20STO%2020
 ---
 
 RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19
