@@ -1,23 +1,33 @@
-<section class="background-image volunteer section-container pb--100 m-pb-40 black-gradient--top lazy" data-bg="url('')">
-    <div class="container--small">
-        <div class="grid">
-            <h3 class="anchor__submenu heading heading--large pt--100 m-pt-40 " id="group-tickets">GROUP TICKETS</h3>
-            <div class="row">
-                <div class="col-6 t-col-6 m-col-12">
-                    <div class="grid-middle paragraphBigImportant">
-                        <p>Want to bring your team along to Code BEAM STO? We have group discounts for conference,
-                                                        training and&nbsp;tutorial tickets available.</p>
-                        <p>Find out how much you can save!</p>
-                    </div>
-                </div>
-                <div class="col-6 t-col-6 m-col-12">
-                    <div class="grid-bottom mt--30">
-                        <a class="btn btn--pink btn--primary align--right triangle-left-full" href="mailto:info@codesync.global?subject=Group%20tickets%20for%20Code%20BEAM%20STO%2020">
-                            ENQUIRE
-                        </a>
-                    </div>
-                </div>
-            </div>
+<section
+  class="background-image volunteer section-container pb--100 m-pb-40 black-gradient--top lazy"
+  data-bg="url('')"
+>
+  <div class="container--small">
+    <div class="grid">
+      <h3
+        class="anchor__submenu heading heading--large pt--100 m-pt-40"
+        id="group-tickets"
+      >
+        GROUP TICKETS
+      </h3>
+      <div class="row">
+        <div class="col-6 t-col-6 m-col-12">
+          <div class="grid-middle paragraphBigImportant">
+            <p>{{ page.group_tickets_paragraph_1 }}</p>
+            <p>{{ page.group_tickets_paragraph_2 }}</p>
+          </div>
         </div>
+        <div class="col-6 t-col-6 m-col-12">
+          <div class="grid-bottom mt--30">
+            <a
+              class="btn btn--pink btn--primary align--right triangle-left-full"
+              href="mailto:{{ page.enquire_mailto_link }}"
+            >
+              ENQUIRE
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 </section>

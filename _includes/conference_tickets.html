@@ -1,6 +1,6 @@
 <section class="anchor__submenu section__register section-container section--spaced black-gradient--top black-gradient--bottom" id="tickets">
     <picture class="section__background">
-        <img alt="Code BEAM STO register background" class="tile__logo lazy" data-src="/uploads/media/section/0001/02/bff94d8efbee3518999fbfe7baba730dd4ecf586.png">
+        <img alt="Code BEAM STO register background" class="tile__logo lazy" data-src="{{ page.tickets_bg_image }}">
     </picture>
     <div class="container--small grid-gap-100">
         <h2 class="heading heading--large">TICKETS</h2>
@@ -23,8 +23,8 @@
                     </script>
 
                     <noscript>
-                        <a href="https://www.eventbrite.co.uk/e/code-beam-sto-2020-tickets-90357035325" rel="noopener noreferrer" target="_blank"></noscript>
-                        <button id="eventbrite-widget-modal-trigger-90357035325" type="button">Buy Tickets</button>
+                        <a href="{{ page.eventbrite_url }}" rel="noopener noreferrer" target="_blank"></noscript>
+                        <button id="eventbrite-widget-modal-trigger-{{page.eventbrite_id}}" type="button">Buy Tickets</button>
                         <noscript></a>Buy Tickets on Eventbrite</noscript>
 
                     <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
@@ -61,10 +61,10 @@
                         };
 
                         window.EBWidgets.createWidget({
-                            widgetType: "checkout", eventId: "90357035325", // replace with your event id
+                            widgetType: "checkout", eventId: "{{page.eventbrite_id}}", // replace with your event id
                             modal: true,
                             googleAnalyticsClientId: clientId,
-                            modalTriggerElementId: "eventbrite-widget-modal-trigger-90357035325", // replace with your modal widget trigger for the event
+                            modalTriggerElementId: "eventbrite-widget-modal-trigger-{{page.eventbrite_id}}", // replace with your modal widget trigger for the event
                             onOrderComplete: exampleCallback
                         });
                     </script>
@@ -107,7 +107,7 @@
                                         <p class="price fittext-dynamic heading heading--big bold text-center">FREE</p>
                                     </div>
                                     {% if ticket.open == true %}
-                                    <a class="btn btn--white btn-arrow" href="https://www2.codesync.global/l/23452/2020-02-05/6w586s">APPLY</a>
+                                    <a class="btn btn--white btn-arrow" href="{{ ticket.url }}">APPLY</a>
                                     {% else %}
                                     <div class="btn btn--white btn-arrow disable">COMING SOON</div>
                                     {% endif %}
