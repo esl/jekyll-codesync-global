@@ -57,6 +57,9 @@ group_enquire_mailto_link: info@codesync.global?subject=Group%20tickets%20for%20
 academic_tickets_paragraph_1: We love students and academics. We&#39;re thrilled to offer&nbsp;special discounts to academics and students who would like to attend Code BEAM STO.
 academic_tickets_paragraph_2: Simply get in touch to confirm that you&#39;re a student/academic and we will release the discount code.&nbsp;
 academic_enquire_mailto_link: info@codesync.global?subject=Academic%20/%20Student%20tickets%20for%20Code%20BEAM%20STO%2020
+###########################
+####   Testimonials   #####
+###########################
 ---
 
 RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19
