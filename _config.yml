@@ -80,6 +80,10 @@ collections:
     output: true
   testimonials:
     output: true
+  conference_keynotes:
+    output: true
+  conference_speakers:
+    output: true
 
 defaults:
   - scope:
