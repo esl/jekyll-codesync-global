@@ -5,5 +5,5 @@ price: 5,600.00 kr
 url:
 open: false
 type: regular
-conference_path:
+conference_path: _conferences/code-beam-sto.md
 ---
