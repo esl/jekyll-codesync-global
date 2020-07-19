@@ -4,32 +4,22 @@
             <h1 class="heading heading--large">VENUE</h1>
             <div class="row mt--70 t-mt-00 t-mb-50 m-mb-00">
                 <div class="col-5  t-col-6 m-col-12 address">
-                    <h2 class="heading heading--medium color--main mb--20 bold">Münchenbryggeriet Events &amp;
-                                                                                                Conferences</h2>
+                    <h2 class="heading heading--medium color--main mb--20 bold">{{ page.venue_name }}</h2>
                     <div class="venue__description">
-                        <p>TORKEL KNUTSSONSGATAN 2</p>
-
-                        <p>118 25 STOCKHOLM,</p>
-
-                        <p>SWEDEN</p>
+                        <p>{{ page.venue_address_1 }}</p>
+                        <p>{{ page.venue_address_2 }}</p>
+                        <p>{{ page.venue_address_3 }}</p>
                     </div>
                 </div>
                 <div class="col-7 t-col-6 m-col-12">
                     <div class="arrival__description mb--60 m-mb-00">
                         <h3>PUBLIC TRANSPORT</h3>
-
-                        <p>The nearest metro is&nbsp;<strong>Mariatorget T-bana&lrm;</strong>,&nbsp;exit Torkel
-                                                                                                                Knutssonsgatan. The Google Maps can be a bit misleading when you type in &quot;Mariatorget
-                                                                                                                T-bana&quot;, so to save yourself some walking, we recommend taking this exit (close to
-                                                                                                                Krukmakargatan).</p>
-
+                        <p>{{ page.venue_transport_directions }}</p>
                         <p>
-                            <a href="http://goo.gl/maps/DQuMLzeXBWA2" target="_blank">See MAP</a>
+                            <a href="{{ page.venue_map_url }}" target="_blank">See MAP</a>
                         </p>
-
                         <h3>TAXI</h3>
-
-                        <p>The address for arriving by taxi is&nbsp;Torkel Knutssonsgatan 2, 118 25 Stockholm.</p>
+                        <p>{{ page.venue_taxi_instructions }}</p>
                     </div>
                 </div>
             </div>
