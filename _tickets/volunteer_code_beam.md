@@ -5,5 +5,5 @@ price: FREE
 url: https://www2.codesync.global/l/23452/2020-02-05/6w586s
 open: true
 type: special
-conference_path:
+conference_path: _conferences/code-beam-sto.md
 ---
