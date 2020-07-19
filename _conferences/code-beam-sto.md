@@ -60,6 +60,12 @@ academic_enquire_mailto_link: info@codesync.global?subject=Academic%20/%20Studen
 ###########################
 ####   Testimonials   #####
 ###########################
+###########################
+####   Health Advice   #####
+###########################
+health_advice_p_1: The health, safety and wellbeing of all visitors to our events is of the utmost importance. We are currently monitoring the effect of the outbreak of&nbsp;coronavirus disease (COVID-19) upon our conferences and would like to let you know that&nbsp;Code BEAM STO is still going ahead. If that changes we will notify all ticket holders immediately and post a further statement here.
+health_advice_p_2: Depending on the COVID-19 situation we may need to make changes to the format and/or date of the event. If it becomes necessary to cancel Code BEAM STO entirely, we will issue a full refund to everyone attending. We will not be able to refund any travel or accommodation costs and recommend that all visitors take out appropriate travel insurance to cover any cancellations due to events outside our control
+health_advice_mailto: info@codesync.global?subject=Health%20advice%20for%20Code%20BEAM%20STO
 ---
 
 RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19
