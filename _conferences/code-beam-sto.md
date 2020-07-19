@@ -60,12 +60,22 @@ academic_enquire_mailto_link: info@codesync.global?subject=Academic%20/%20Studen
 ###########################
 ####   Testimonials   #####
 ###########################
-###########################
+############################
 ####   Health Advice   #####
-###########################
+############################
 health_advice_p_1: The health, safety and wellbeing of all visitors to our events is of the utmost importance. We are currently monitoring the effect of the outbreak of&nbsp;coronavirus disease (COVID-19) upon our conferences and would like to let you know that&nbsp;Code BEAM STO is still going ahead. If that changes we will notify all ticket holders immediately and post a further statement here.
 health_advice_p_2: Depending on the COVID-19 situation we may need to make changes to the format and/or date of the event. If it becomes necessary to cancel Code BEAM STO entirely, we will issue a full refund to everyone attending. We will not be able to refund any travel or accommodation costs and recommend that all visitors take out appropriate travel insurance to cover any cancellations due to events outside our control
 health_advice_mailto: info@codesync.global?subject=Health%20advice%20for%20Code%20BEAM%20STO
+##########################
+#######   Venue   ########
+##########################
+venue_name: Münchenbryggeriet Events &amp;Conferences
+venue_address_1: TORKEL KNUTSSONSGATAN 2
+venue_address_2: 118 25 STOCKHOLM,
+venue_address_3: SWEDEN
+venue_transport_directions: The nearest metro is&nbsp;<strong>Mariatorget T-bana&lrm;</strong>,&nbsp;exit Torkel Knutssonsgatan. The Google Maps can be a bit misleading when you type in &quot;Mariatorget T-bana&quot;, so to save yourself some walking, we recommend taking this exit (close to Krukmakargatan).
+venue_map_url: http://goo.gl/maps/DQuMLzeXBWA2
+venue_taxi_instructions: The address for arriving by taxi is&nbsp;Torkel Knutssonsgatan 2, 118 25 Stockholm.
 ---
 
 RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19
