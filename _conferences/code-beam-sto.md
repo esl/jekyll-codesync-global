@@ -1,6 +1,7 @@
 ---
 layout: conference
 title: Code BEAM V
+conference_brand: code-beam
 #######################
 #### Styles #####
 #######################
@@ -76,6 +77,20 @@ venue_address_3: SWEDEN
 venue_transport_directions: The nearest metro is&nbsp;<strong>Mariatorget T-bana&lrm;</strong>,&nbsp;exit Torkel Knutssonsgatan. The Google Maps can be a bit misleading when you type in &quot;Mariatorget T-bana&quot;, so to save yourself some walking, we recommend taking this exit (close to Krukmakargatan).
 venue_map_url: http://goo.gl/maps/DQuMLzeXBWA2
 venue_taxi_instructions: The address for arriving by taxi is&nbsp;Torkel Knutssonsgatan 2, 118 25 Stockholm.
+###########################
+####### Newsletter ########
+###########################
+newsletter_logo_image: /uploads/media/theme/0001/01/16d70351e4ef837c6fbab1a10e1576a862092484.jpeg
+############################
+#######  Diversity  ########
+############################
+diversity_message: We are always looking to improve diversity at our conferences. To help achieve this, we are providing free diversity places to under-represented groups in tech. Applications close&nbsp;on&nbsp;27 July&nbsp;2020.
+diversity_link_url: https://www2.codesync.global/l/23452/2020-02-05/6w586v
+############################
+#######  Volunteer  ########
+############################
+volunteer_message: We would love to have you in our volunteering team! Helping out gives access to talks, networking opportunities and unlimited coffee!&nbsp;Applications&nbsp;close&nbsp;on 27 August&nbsp;2020.
+volunteer_link_url: https://www2.codesync.global/l/23452/2020-02-05/6w586s
 ---
 
 RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19
