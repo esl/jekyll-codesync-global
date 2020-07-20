@@ -84,6 +84,10 @@ collections:
     output: true
   conference_speakers:
     output: true
+  sponsors:
+    output: true
+  conference_sponsors:
+    outpu: true
 
 defaults:
   - scope:
