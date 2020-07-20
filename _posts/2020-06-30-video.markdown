@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Video"
+title: "Video title"
 date: 2020-06-30 14:49:28 -0600
 background_image:
 categories: video elixir
@@ -10,6 +10,7 @@ type: video
 video_url:
 speaker1: _speakers/jose-valim.md
 permalink: /media/:title
+conference_brand: code-beam
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
