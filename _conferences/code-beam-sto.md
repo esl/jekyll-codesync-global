@@ -20,9 +20,9 @@ menu_path:
 conference_init_date: 2020/08/10 09:00:00
 conference_dates: 10-11 SEPTEMBER 2020
 head_title: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
-#######################
+###########################
 #### Overview Section #####
-#######################
+###########################
 overview_heading: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
 number_of_days: 2
 number_of_themes: 7
@@ -91,6 +91,11 @@ diversity_link_url: https://www2.codesync.global/l/23452/2020-02-05/6w586v
 ############################
 volunteer_message: We would love to have you in our volunteering team! Helping out gives access to talks, networking opportunities and unlimited coffee!&nbsp;Applications&nbsp;close&nbsp;on 27 August&nbsp;2020.
 volunteer_link_url: https://www2.codesync.global/l/23452/2020-02-05/6w586s
+#################################
+#######  Call For Talks  ########
+#################################
+call_for_talks_message: Speak at Code BEAM STO! Call for talks&nbsp;closed&nbsp;on 17&nbsp;January 2020. We will be in touch with speakers in the week commencing 27 January about the status of your talk!
+call_for_talks_link:
 ---
 
 RESCHEDULED TO 10-11 SEPTEMBER DUE TO COVID-19
