@@ -4,19 +4,40 @@
             <h2 class="heading heading--large">OUR SPONSORS</h2>
             <div class="row mt--50 d-mt-20">
                 <div>
+                    <p class="heading heading--small mb--30">Global sponsor</p>
+                </div>
+                <div class="logos">
+                    {% for conference_sponsor in site.conference_sponsors %}
+                        {% assign sorted = site.sponsors | where: 'type', 'global' %}
+                        {% for sponsor in sorted %}
+                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
+                                <a class="grid--2" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
+                                    <picture>
+                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
+                                    </picture>
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="row mt--50 d-mt-20">
+                <div>
                     <p class="heading heading--small mb--30">Platinum Sponsors</p>
                 </div>
                 <div class="logos">
-                    <a class="grid--2" href="https://www.klarna.com/uk/" rel="noindex nofollow noopener noreferrer" target="_blank" title="Klarna">
-                        <picture>
-                            <img alt="Klarna Logo" class="lazy" data-src="/uploads/media/sponsors/0001/02/881b4cb0649aa69439e97904956f43b1ca6d2f78.png" style="max-width: 500px; ">
-                        </picture>
-                    </a>
-                    <a class="grid--2" href="https://www.pepsico.com/" rel="noindex nofollow noopener noreferrer" target="_blank" title="PepsiCo">
-                        <picture>
-                            <img alt="PepsiCo Logo" class="lazy" data-src="/uploads/media/sponsors/0001/02/bf7654ff7070866ed0d3171fa0c488630c21f515.png" style="max-width: 500px; ">
-                        </picture>
-                    </a>
+                    {% for conference_sponsor in site.conference_sponsors %}
+                        {% assign sorted = site.sponsors | where: 'type', 'platinum' %}
+                        {% for sponsor in sorted %}
+                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
+                                <a class="grid--2" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
+                                    <picture>
+                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
+                                    </picture>
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
                 </div>
             </div>
             <div class="row mt--50 d-mt-20">
@@ -24,11 +45,18 @@
                     <p class="heading heading--small mb--30">Diversity &amp; Inclusion Sponsors</p>
                 </div>
                 <div class="logos">
-                    <a class="grid--3" href="https://www.klarna.com/uk/" rel="noindex nofollow noopener noreferrer" target="_blank" title="Klarna">
-                        <picture>
-                            <img alt="Klarna Logo" class="lazy" data-src="/uploads/media/sponsors/0001/02/881b4cb0649aa69439e97904956f43b1ca6d2f78.png" style="max-width: 450px; ">
-                        </picture>
-                    </a>
+                    {% for conference_sponsor in site.conference_sponsors %}
+                        {% assign sorted = site.sponsors | where: 'type', 'diversity_sponsor' %}
+                        {% for sponsor in sorted %}
+                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
+                                <a class="grid--3" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
+                                    <picture>
+                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
+                                    </picture>
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
                 </div>
             </div>
             <div class="row mt--50 d-mt-20">
@@ -36,11 +64,18 @@
                     <p class="heading heading--small mb--30">Gold Sponsors</p>
                 </div>
                 <div class="logos">
-                    <a class="grid--3" href="https://www.erlang-solutions.com/" rel="noindex nofollow noopener noreferrer" target="_blank" title="Erlang Solutions">
-                        <picture>
-                            <img alt="Erlang Solutions Logo" class="lazy" data-src="/uploads/media/sponsors/0001/02/b8686f89c93fef203e1b0173dcab11646b29d597.png" style="max-width: 300px; ">
-                        </picture>
-                    </a>
+                    {% for conference_sponsor in site.conference_sponsors %}
+                        {% assign sorted = site.sponsors | where: 'type', 'gold' %}
+                        {% for sponsor in sorted %}
+                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
+                                <a class="grid--3" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
+                                    <picture>
+                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
+                                    </picture>
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
                 </div>
             </div>
             <div class="row mt--50 d-mt-20">
@@ -48,16 +83,22 @@
                     <p class="heading heading--small mb--30">Silver Sponsor</p>
                 </div>
                 <div class="logos">
-                    <a class="grid--4" href="https://duffel.com/" rel="noindex nofollow noopener noreferrer" target="_blank" title="Duffel">
-                        <picture>
-                            <img alt="Duffel Logo" class="lazy" data-src="/uploads/media/sponsors/0001/02/d18a976a452de6ae330c94bb04d398c8d35e953e.png" style="max-width: 250px; ">
-                        </picture>
-                    </a>
+                    {% for conference_sponsor in site.conference_sponsors %}
+                        {% assign sorted = site.sponsors | where: 'type', 'silver' %}
+                        {% for sponsor in sorted %}
+                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
+                                <a class="grid--4" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
+                                    <picture>
+                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
+                                    </picture>
+                                </a>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
                 </div>
             </div>
             <div class="row mt--80 m-mt-20">
-                <a class="btn btn--pink triangle-left-full" href="mailto:john.baughen@codesync.global">BECOME A
-                                        SPONSOR</a>
+                <a class="btn btn--pink triangle-left-full" href="mailto:john.baughen@codesync.global">BECOME A SPONSOR</a>
             </div>
         </div>
     </div>
