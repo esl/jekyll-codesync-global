@@ -87,7 +87,9 @@ collections:
   sponsors:
     output: true
   conference_sponsors:
-    outpu: true
+    output: true
+  conference_brands:
+    output: true
 
 defaults:
   - scope:
