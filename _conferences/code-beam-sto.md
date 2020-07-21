@@ -1,9 +1,10 @@
 ---
 layout: conference
 title: Code BEAM V
-conference_brand: code-beam
+conference_brand: _conference_brands/code-beam-v.md
 past: false
 bg_image: /uploads/media/theme/0001/01/43ac1d189292a3e2bf822a88011531a495ef1dec.jpeg
+logo_img: /uploads/media/theme/0001/01/b334cc7e4a936c7fcfc8faef5e9375ee77f3806d.png
 conference_location: Stockholm
 #######################
 #### Styles #####

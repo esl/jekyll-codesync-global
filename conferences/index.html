@@ -1,0 +1,58 @@
+---
+layout: default
+title: All conferences
+description: All conferences
+keywords: Code Sync, conferences, training, Code BEAM SF, Code BEAM STO, Code Mesh LDN, Code BEAM Lite, Code Elixir LDN
+twitter_site: CodeBEAMio
+twitter_image: http://codesync.global/assets/img/social-image.jpg
+og_image: http://codesync.global/assets/img/social-image.jpg
+head_title: Conferences
+---
+
+{% include header.html %}
+<main>
+    {% include head_title.html %}
+    <section class="vp--100 m-vp-30 section-container">
+        <div class="container--small">
+            {% for conference_brand in site.conference_brands %}
+                <div class="pt--30 m-pt-00" id="CodeBEAMSF">
+                    <h2 class="heading heading--big">{{ conference_brand.title }}</h2>
+                    <div class="grid conferences-grid">
+
+                        <div class="row">
+                            <p class="col-7 t-col-12 pt--20 normal mb--50">{{ conference_brand.content }}</p>
+                        </div>
+
+                        <div class="row">
+                            {% for conference in site.conferences %}
+                                {% if conference.conference_brand == conference_brand.path %}
+                                    <div class="column js-column mb--50">
+                                        <div class="tile tile--old">
+                                            <a class="tile--bg" href="{{ conference.url }}">
+                                                <picture class="tile__bg-image">
+                                                    <img alt="{{ conference.title }}" class="tile__logo lazy" data-src="{{ conference.bg_image }}">
+                                                </picture>
+                                                <picture>
+                                                    <img alt="{{ conference.title }} logo" class="tile__logo lazy" data-src="{{ conference.logo_img }}">
+                                                </picture>
+                                                <p class="heading heading--medium">{{ conference.conference_dates }}</p>
+                                                <p class="heading heading--small">{{ conference.conference_location }}</p>
+                                            </a>
+                                            <a class="btn btn--white btn-arrow" href="{{ conference.url }}">
+                                                {% if conference.past == true %}
+                                                    past
+                                                {% endif %}
+                                                {{ conference.conference_init_date | date: '%Y' }}
+                                                conference</a>
+                                        </div>
+                                    </div>
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </section>
+</main>
+{% include footer.html %}
