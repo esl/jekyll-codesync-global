@@ -1,6 +1,6 @@
 ---
-title: Update Elixir core dev team
-conference_path: _conferences/code-beam-sto.md
+title: Talk two
+conference_path: _conferences/code-beam-sto-two.md
 speaker_path: _speakers/jose-valim.md
 tags: [Elixir, Otp]
 date: 2020/08/10 09:00:00
