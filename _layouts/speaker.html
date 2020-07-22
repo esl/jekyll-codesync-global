@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"
+    xmlns="http://www.w3.org/1999/xhtml">
+{% include imports/head.html %}
+
+<body>
+    {%include imports/google_tag_manager.html %}
+    {%include imports/side_social_sidebar.html %}
+    {%include imports/speaker_styles.html %}
+    {% include header.html %}
+<main>
+    <style>
+        .speaker-img::before {
+            background-image: -webkit-gradient(linear, left top, right top, from(rgba(255, 0, 95, 0.75)), to(rgba(62, 0, 216, 0.75)));
+            background-image: -webkit-linear-gradient(left, rgba(255, 0, 95, 0.75), rgba(62, 0, 216, 0.75));
+            background-image: -o-linear-gradient(left, rgba(255, 0, 95, 0.75), rgba(62, 0, 216, 0.75));
+            background-image: linear-gradient(to right, rgba(255, 0, 95, 0.75), rgba(62, 0, 216, 0.75));
+        }
+    </style>
+    {% include speaker_bio.html %}
+    {% include speaker_upcoming_activities.html %}
+    {% include speaker_past_activities.html %}
+    {% include speaker_media.html %}
+</main>
+    {% include footer.html %}
+    {%include imports/js.html %}
+    <script src="/assets/runtime.b508c316.js"></script>
+    <script src="/assets/main.edcd81d6.js"></script>
+</body>
+</html>
