@@ -1,60 +1,46 @@
-<section
-  class="carousel--section trainings-list anchor__submenu tutorial section-container section--spaced"
-  id="learn"
->
-  <div class="container--small">
-    <h2 class="heading heading--large">LEARN</h2>
-    <div class="row">
-      {% for training in site.trainings %} {% if training.conference_path ==
-      page.path %}
-      <div class="tutorial__slide">
-        <a
-          href="training/#{{ training.url | replace:'/trainings','' | remove:'/'  }}"
-        >
-          <div class="speaker-img">
-            <picture>
-              <img
-                alt="{{ training.img_alt }}"
-                class="lazy"
-                data-src="{{training.img_url }}"
-              />
-            </picture>
-          </div>
-        </a>
-        <div class="color--main heading heading--medium light mt--40">
-          <a
-            class="dont-break-out"
-            href="training/#{{ training.url | replace:'/trainings','' | remove:'/'  }}"
-            >{{ training.title }}</a
-          >
-        </div>
+<section class="carousel--section trainings-list anchor__submenu tutorial section-container section--spaced" id="learn">
+    <div class="container--small">
+        <h2 class="heading heading--large">LEARN</h2>
+        <div class="row">
+            {% for training in site.trainings %}
+                {% if training.conference_path == page.path %}
+                    <div class="tutorial__slide">
+                        <a href="training/#{{ training.url | replace:'/trainings','' | remove:'/'  }}">
+                            <div class="speaker-img">
+                                <picture>
+                                    <img alt="{{ training.img_alt }}" class="lazy" data-src="{{training.img_url }}"/>
+                                </picture>
+                            </div>
+                        </a>
+                        {% for speaker in site.speakers %}
+                            {% if training.trainer_1_path == speaker.path %}
+                                <div class="color--main heading heading--medium light mt--40">
+                                    <a class="dont-break-out" href="{{ page.url | replace:'/conferences','/conferences/trainings'}}#{{ training.url | replace:'/trainings','' | remove:'/' }}">{{ training.title }}</a>
+                                </div>
 
-        <div class="desc">
-          <p class="paragraph mono medium mt--10">
-            {{ training.desc }}/
-          </p>
-          <div class="mb--20 paragraph mono medium">
-            {% for speaker in site.speakers %} {% if training.trainer_1_path ==
-            speaker.path %}
-            <a
-              class="dont-break-out speaker-name"
-              class="training__link dont-break-out"
-              href="{{ speaker.path }}"
-              >{{ speaker.firstname }} {{ speaker.lastname }}</a
-            >
-            {% endif %} {% endfor %}
-          </div>
-          <div class="paragraph mono medium mt--20">
-            <div style="margin-bottom: -20px;">Time/</div>
-            <span class="mt--20 block"
-              >{{ training.date | date_to_string }}<br />
-              {{ training.training_date }}
-            </span>
-            <span class="mt--20 block"></span>
-          </div>
+                                <div class="desc">
+                                    <p class="paragraph mono medium mt--10">
+                                        {{ training.desc }}/
+                                    </p>
+                                    <div class="mb--20 paragraph mono medium">
+
+                                        <a class="dont-break-out speaker-name" class="training__link dont-break-out" href="{{ speaker.path }}">{{ speaker.firstname }}
+                                            {{ speaker.lastname }}</a>
+
+                                    </div>
+                                    <div class="paragraph mono medium mt--20">
+                                        <div style="margin-bottom: -20px;">Time/</div>
+                                        <span class="mt--20 block">{{ training.date | date_to_string }}<br/>
+                                            {{ training.training_date }}
+                                        </span>
+                                        <span class="mt--20 block"></span>
+                                    </div>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            {% endfor %}
         </div>
-      </div>
-      {% endif %} {% endfor %}
     </div>
-  </div>
 </section>

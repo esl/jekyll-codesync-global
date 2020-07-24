@@ -1,5 +1,4 @@
 ---
-layout: conference
 title: Code BEAM V
 conference_brand: _conference_brands/code-beam.md
 past: true
