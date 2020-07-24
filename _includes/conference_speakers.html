@@ -32,7 +32,7 @@
                                         {% if talk.conference_path == page.path %}
                                             {% if talk.speaker_path == speaker.path %}
                                                 <p>
-                                                    <a class="mono medium light gray pt--00 mt--10" href="{{speaker.path}}#{{ talk.path }}">{{talk.title}}</a>
+                                                    <a class="mono medium light gray pt--00 mt--10" href="{{speaker.url}}#{{ talk.url | replace:'/talks','' | remove:'/' }}">{{talk.title}}</a>
                                                 </p>
                                                 <div class="hashtags mt--10">
                                                     <ul>
