@@ -92,40 +92,47 @@ collections:
     output: true
 
 defaults:
-  - scope:
+  - 
+    scope:
       path: ""
-      type: "speakers"
+      type: speakers
     values:
-      layout: "speaker"
-  - scope:
+      layout: speaker
+  - 
+    scope:
       path: ""
-      type: "conferences"
+      type: conferences
     values: 
-      layout: "conferences"
-  - scope:
-      path: ""
-      type: "trainers"
+      layout: conference
+  - 
+    scope: 
+      path: "trainings"
+      type: conferences
+    values: 
+      layout: conferenceTrainings
+  - 
+    scope:
+        path: ""
+        type: trainings
     values:
-      layout: "speaker"
-  - scope:
+      layout: training
+  - 
+    scope:
       path: ""
-      type: "trainings"
+      type: talks
     values:
-      layout: "training"
-  - scope:
+      layout: talk
+  - 
+    scope:
       path: ""
-      type: "talks"
+      type: posts
     values:
-      layout: "talk"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
+      layout: post
+  - 
+    scope:
       path: ""
     values:
-      layout: "default"
+      layout: default
 
 # Google Map JS api
 # This is my api for this template
