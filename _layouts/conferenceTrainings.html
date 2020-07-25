@@ -1,1 +1,85 @@
-<h1>CONFERENCE TRAINING</h1>
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"
+    xmlns="http://www.w3.org/1999/xhtml">
+{% include imports/conferences_head.html %}
+
+<body>
+    {% include imports/google_tag_manager.html %}
+    {% include imports/side_social_sidebar.html %}
+    {% include imports/speaker_styles.html %}
+    {% include header.html %}
+    <!-- Conference includes -->
+    {% include conference_menu.html %}
+    <script>
+        const FIRST_COLOR = "#43d12f";
+        const SECOND_COLOR = "#49cccb";
+    </script>
+    <main class="conference">
+        {% include conference_trainings_head.html %}
+        <section class="section-container mb--50" style="background: none">
+            <div class="container--small">
+                <h2 class="heading heading--large mt--50 activity-name" id="trainings">Training:</h2>
+                {% assign conference_trainings = site.trainings | where: 'conference_path', page.conference_path %}
+                {% for training in conference_trainings %}
+                    <div class="mt--100 m-mt-50">
+                        <div class="accordion training" id="{{ training.url | replace:'/trainings','' | remove:'/' }}">
+                            <div>
+                                <h3 class="heading heading--normal ">{{ training.title }}</h3>
+                                <span class="mt--20 block heading heading--small">{{ training.training_date | to_string }}<br />
+                                    {{ training.hours }}
+                                </span>
+                                {% for speaker in site.speakers %}
+                                {% if taining.trainer_1_path == speaker.path %}
+                                    <span class="mt--20 block">
+                                        <a class="color--main heading heading--normal dont-break-out"
+                                            href="{{ speaker.url }}">{{ speaker.firstname }} {{ speaker.lastname }}
+                                        </a>
+                                    </span>
+                                {% endif %}
+                                {% endfor %}
+
+                            </div>
+                            <span class="arrow arrow--down--white"></span>
+                        </div>
+                        <div class="panel">
+                            <div class="get-a-ticket mt--30">
+                                {% for conference in site.conferences %}
+                                {% if page.conference_path == conference.path %}
+                                    <div>
+                                        <a class="btn btn--white" href="{{ conference.eventbrite_url }}"
+                                            target="_blank">BOOK NOW</a>
+                                    </div>
+                                {% endif %}
+                                {% endfor %}
+                            </div>
+                            <div class="training--description">
+                                <div>
+                                 {{ training.content }}
+                                </div>
+                                
+                            </div>
+                            <div class="get-a-ticket-mobile mt--50">
+                                {% for conference in site.conferences %}
+                                {% if page.conference_path == conference.path %}
+                                <div>
+                                    <a class="btn btn--white" href="{{ conference.eventbrite_url }}" target="_blank">BOOK NOW</a>
+                                </div>
+                                {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </section>
+    </main>
+
+    {% include footer.html %}
+
+    <!-- Bottom Imports -->
+    {% include imports/js.html %}
+    <script src="/assets/runtime.b508c316.js"></script>
+    <script src="/assets/main.edcd81d6.js"></script>
+</body>
+
+</html>
