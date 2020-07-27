@@ -1,4 +1,33 @@
 ---
 label: Talk
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: conference_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: sponsors-daf5610e-9414-4a2b-a8d9-d6e60d5ab7e9
+      file: 
+      path: 
+  label: Conference Path
+- name: speaker_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: Speaker Path
