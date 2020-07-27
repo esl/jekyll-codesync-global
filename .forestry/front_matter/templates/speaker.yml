@@ -1,4 +1,51 @@
 ---
 label: Speaker
 hide_body: false
-fields: []
+fields:
+- name: firstname
+  type: text
+  config:
+    required: false
+  label: Firstname
+- name: lastname
+  type: text
+  config:
+    required: false
+  label: Lastname
+- name: position
+  type: text
+  config:
+    required: false
+  label: Position
+- name: pic_url
+  type: file
+  config:
+    maxSize: 64
+  label: Pic Url
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+- name: twitter
+  type: text
+  config:
+    required: false
+  label: Twitter
+- name: github
+  type: text
+  config:
+    required: false
+  label: Github
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
