@@ -31,12 +31,12 @@ sections:
   templates:
   - conference-brands
 - type: directory
-  path: ''
-  label: Sponsors
+  path: _sponsors
+  label: Conferences
   create: all
   match: "**/*"
   templates:
-  - sponsors
+  - conference
 - type: directory
   path: _conferences
   label: Conferences
