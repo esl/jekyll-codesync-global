@@ -15,7 +15,7 @@ fields:
     options: []
     source:
       type: pages
-      section: sponsors-daf5610e-9414-4a2b-a8d9-d6e60d5ab7e9
+      section: conferences
       file: 
       path: 
   label: Conference Path
