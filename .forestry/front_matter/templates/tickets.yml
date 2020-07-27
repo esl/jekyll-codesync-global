@@ -1,4 +1,51 @@
 ---
 label: Tickets
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: desc
+  type: text
+  config:
+    required: false
+  label: Desc
+- name: price
+  type: text
+  config:
+    required: false
+  label: Price
+- name: url
+  type: text
+  config:
+    required: false
+  label: Url
+- name: open
+  type: boolean
+  label: Open
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: type
+- name: conference_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: conferences
+      file: 
+      path: 
+  label: Conference Path
