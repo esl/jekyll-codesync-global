@@ -1,4 +1,16 @@
 ---
 label: Conference Sponsors
 hide_body: false
-fields: []
+fields:
+- name: conference_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: conferences
+      file: 
+      path: 
+  label: Conference Path
