@@ -14,3 +14,15 @@ fields:
       file: 
       path: 
   label: Conference Path
+- name: sponsor_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: 
+      file: 
+      path: 
+  label: Sponsor Path
