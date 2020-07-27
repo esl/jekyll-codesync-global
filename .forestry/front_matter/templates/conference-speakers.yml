@@ -1,4 +1,40 @@
 ---
 label: Conference Speakers
 hide_body: false
-fields: []
+fields:
+- name: conference_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: Conference Path
+- name: speaker_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: Speaker Path
+- name: talk_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: talks
+      file: 
+      path: 
+  label: Talk Path
