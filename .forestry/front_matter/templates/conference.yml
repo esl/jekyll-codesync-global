@@ -249,3 +249,38 @@ fields:
   config:
     required: false
   label: Venue Taxi Instructions
+- name: newsletter_logo_image
+  type: file
+  config:
+    maxSize: 64
+  label: Newsletter Logo Image
+- name: diversity_message
+  type: text
+  config:
+    required: false
+  label: Diversity Message
+- name: diversity_link_url
+  type: text
+  config:
+    required: false
+  label: Diversity Link URL
+- name: volunteer_message
+  type: text
+  config:
+    required: false
+  label: Volunteer Message
+- name: volunteer_link_url
+  type: text
+  config:
+    required: false
+  label: Volunteer Link URL
+- name: call_for_talks_message
+  type: text
+  config:
+    required: false
+  label: Call For Talks Message
+- name: call_for_talks_link
+  type: text
+  config:
+    required: false
+  label: Call For Talks Link
