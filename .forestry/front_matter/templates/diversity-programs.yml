@@ -1,4 +1,32 @@
 ---
 label: Diversity Programs
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: url
+  type: text
+  config:
+    required: false
+  label: Url
+- name: application_deadline
+  type: datetime
+  label: Application Deadline
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: results_deadline
+  type: datetime
+  label: Results Deadline
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
