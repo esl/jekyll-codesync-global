@@ -2,25 +2,9 @@
 label: Conference
 hide_body: false
 fields:
-- name: head_desc
-  type: textarea
-  default: ''
+- name: title
+  type: text
   config:
     required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: head_desc
-- name: section_1
-  type: blocks
-  label: section_1
-  template_types: []
-  config:
-    min: 
-    max: 
-- name: primary
-  type: color
-  label: primary
-  config:
-    required: false
-    color_format: Hex
+  label: Title
+  description: Title for the conference
