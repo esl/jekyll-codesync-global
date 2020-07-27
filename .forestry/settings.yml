@@ -42,11 +42,11 @@ sections:
   - conference-brands
 - type: directory
   path: _sponsors
-  label: Conferences
+  label: Sponsors
   create: all
   match: "**/*"
   templates:
-  - conference
+  - sponsors
 - type: directory
   path: _conferences
   label: Conferences
