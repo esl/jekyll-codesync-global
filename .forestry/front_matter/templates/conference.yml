@@ -8,3 +8,64 @@ fields:
     required: false
   label: Title
   description: Title for the conference
+- name: conference_brand
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: conference-brands
+      file: 
+      path: 
+  label: Conference Brand
+- name: past
+  type: boolean
+  label: Past
+- name: bg_image
+  type: file
+  config:
+    maxSize: 64
+  label: Bg Image
+- name: logo_img
+  type: file
+  config:
+    maxSize: 64
+  label: Logo Img
+- name: conference_location
+  type: text
+  config:
+    required: false
+  label: Conference Location
+- name: primary
+  type: color
+  label: Primary
+  config:
+    required: false
+    color_format: Hex
+- name: secondary
+  type: color
+  label: Secondary
+  config:
+    required: false
+    color_format: Hex
+- name: conference_init_date
+  type: datetime
+  label: Conference Init Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: conference_dates
+  type: text
+  config:
+    required: false
+  label: Conference Dates
+- name: head_title
+  type: text
+  config:
+    required: false
+  label: Head Title
