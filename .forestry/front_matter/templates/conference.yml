@@ -179,3 +179,23 @@ fields:
   config:
     required: false
   label: Group Tickets Paragraph 2
+- name: group_enquire_mailto_link
+  type: text
+  config:
+    required: false
+  label: Group Enquire Mailto Link
+- name: academic_tickets_paragraph_1
+  type: text
+  config:
+    required: false
+  label: Academic Tickets Paragraph 1
+- name: academic_tickets_paragraph_2
+  type: text
+  config:
+    required: false
+  label: Academic Tickets Paragraph 2
+- name: academic_enquire_mailto_link
+  type: text
+  config:
+    required: false
+  label: Academic Enquire Mailto Link
