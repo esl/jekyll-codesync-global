@@ -69,3 +69,83 @@ fields:
   config:
     required: false
   label: Head Title
+- name: overview_heading
+  type: text
+  config:
+    required: false
+  label: Overview Heading
+- name: number_of_days
+  type: text
+  config:
+    required: false
+  label: Number Of Days
+- name: number_of_themes
+  type: text
+  config:
+    required: false
+  label: Number Of Themes
+- name: number_of_speakers
+  type: text
+  config:
+    required: false
+  label: Number Of Speakers
+- name: number_of_attendees
+  type: text
+  config:
+    required: false
+  label: Number Of Attendees
+- name: about_title_left
+  type: text
+  config:
+    required: false
+  label: About Title Left
+- name: about_paragraph_1
+  type: text
+  config:
+    required: false
+  label: About Paragraph 1
+- name: about_paragraph_2
+  type: text
+  config:
+    required: false
+  label: About Paragraph_2
+- name: about_paragraph_3
+  type: text
+  config:
+    required: false
+  label: About Paragraph 3
+- name: about_title_right
+  type: text
+  config:
+    required: false
+  label: About Title Right
+- name: about_register_message
+  type: text
+  config:
+    required: false
+  label: About Register Message
+- name: about_group_tickets_message
+  type: text
+  config:
+    required: false
+  label: About Group Tickets Message
+- name: about_academic_tickets_message
+  type: text
+  config:
+    required: false
+  label: About Academic Tickets Message
+- name: about_diversity_message
+  type: text
+  config:
+    required: false
+  label: About Diversity Message
+- name: about_volunteer_message
+  type: text
+  config:
+    required: false
+  label: About Volunteer Message
+- name: tickets_bg_image
+  type: file
+  config:
+    maxSize: 64
+  label: Tickets Bg Image
