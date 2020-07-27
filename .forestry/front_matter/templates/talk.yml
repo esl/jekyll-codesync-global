@@ -31,3 +31,21 @@ fields:
       file: 
       path: 
   label: Speaker Path
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: hours
+  type: text
+  config:
+    required: false
+  label: Hours
