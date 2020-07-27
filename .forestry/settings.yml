@@ -5,6 +5,32 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _conference_sponsors
+  label: Conference Sponsors
+  create: all
+  match: "**/*"
+  templates:
+  - conference-sponsors
+- type: directory
+  path: _conference_speakers
+  label: Conference Speakers
+  create: all
+  match: "**/*"
+- type: directory
+  path: _conference_keynotes
+  label: Conference Keynotes
+  create: all
+  match: "**/*"
+  templates:
+  - conference-keynotes
+- type: directory
+  path: _conference_brands
+  label: Conference Brands
+  create: all
+  match: "**/*"
+  templates:
+  - conference-brands
+- type: directory
   path: ''
   label: Sponsors
   create: all
