@@ -1,4 +1,41 @@
 ---
 label: Sponsors
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: url
+  type: text
+  config:
+    required: false
+  label: Url
+- name: image_url
+  type: text
+  config:
+    required: false
+  label: Image Url
+- name: type
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - global
+    - gold
+    - diversity
+    - platinum
+    - silver
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+- name: max_width
+  type: text
+  config:
+    required: false
+  label: Max Width
