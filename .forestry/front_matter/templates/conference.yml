@@ -169,3 +169,13 @@ fields:
   config:
     required: false
   label: Eventbrite Id
+- name: group_tickets_paragraph_1
+  type: text
+  config:
+    required: false
+  label: Group Tickets Paragraph 1
+- name: group_tickets_paragraph_2
+  type: text
+  config:
+    required: false
+  label: Group Tickets Paragraph 2
