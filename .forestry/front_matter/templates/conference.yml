@@ -199,3 +199,53 @@ fields:
   config:
     required: false
   label: Academic Enquire Mailto Link
+- name: health_advice_p_1
+  type: text
+  config:
+    required: false
+  label: Health Advice P 1
+- name: health_advice_p_2
+  type: text
+  config:
+    required: false
+  label: Health Advice P 2
+- name: health_advice_mailto
+  type: text
+  config:
+    required: false
+  label: Health Advice Mailto
+- name: venue_name
+  type: text
+  config:
+    required: false
+  label: Venue Name
+- name: venue_address_1
+  type: text
+  config:
+    required: false
+  label: Venue Address 1
+- name: venue_address_2
+  type: text
+  config:
+    required: false
+  label: Venue Address 2
+- name: venue_address_3
+  type: text
+  config:
+    required: false
+  label: Venue Address 3
+- name: venue_transport_directions
+  type: text
+  config:
+    required: false
+  label: Venue Transport Directions
+- name: venue_map_url
+  type: text
+  config:
+    required: false
+  label: Venue Map URL
+- name: venue_taxi_instructions
+  type: text
+  config:
+    required: false
+  label: Venue Taxi Instructions
