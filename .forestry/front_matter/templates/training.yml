@@ -1,4 +1,109 @@
 ---
 label: Training
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: conference_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: conferences
+      file: 
+      path: 
+  label: Conference Path
+- name: img_url
+  type: text
+  config:
+    required: false
+  label: Img Url
+- name: img_alt
+  type: text
+  config:
+    required: false
+  label: Img Alt
+- name: desc
+  type: text
+  config:
+    required: false
+  label: Desc
+- name: trainer_1_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: Trainer 1 Path
+- name: trainer_2_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: Trainer 2 Path
+- name: trainer_3_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: speakers
+      file: 
+      path: 
+  label: Trainer 3 Path
+- name: hours
+  type: text
+  config:
+    required: false
+  label: Hours
+- name: prerequisites
+  type: text
+  config:
+    required: false
+  label: Prerequisites
+- name: topics
+  type: tag_list
+  default: []
+  label: Topics
+- name: expertise
+  type: text
+  config:
+    required: false
+  label: Expertise
+- name: course_duration
+  type: text
+  config:
+    required: false
+  label: Course Duration
+- name: target_audience
+  type: text
+  config:
+    required: false
+  label: Target Audience
+- name: objectives
+  type: tag_list
+  default: []
+  label: Objectives
+- name: reasons_to_attend
+  type: tag_list
+  default: []
+  label: Reasons To Attend
