@@ -10,17 +10,15 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _tickets
+  label: Tickets
+  create: all
+  match: "**/*"
+- type: directory
   path: _testimonials
   label: Testimonials
   create: all
   match: "**/*"
-- type: directory
-  path: _sponsors
-  label: Sponsors
-  create: all
-  match: "**/*"
-  templates:
-  - sponsors
 - type: directory
   path: _conference_sponsors
   label: Conference Sponsors
