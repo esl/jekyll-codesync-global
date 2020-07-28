@@ -18,6 +18,5 @@ description: Aaron is a Canadian expat living in Switzerland who has been develo
   Erlang code daily as part of that mission.
 twitter: ''
 github: aseigo
-published: false
 
 ---
