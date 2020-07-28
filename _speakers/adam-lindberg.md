@@ -10,6 +10,5 @@ description: Senior software development professional. Experience with distribut
   an open source mocking framework for Erlang.
 twitter: eproxus
 github: eproxus
-published: false
 
 ---
