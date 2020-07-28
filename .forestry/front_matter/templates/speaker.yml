@@ -49,3 +49,5 @@ fields:
       file: 
       path: 
   label: Type
+pages:
+- _speakers/aaron-seigo.md
