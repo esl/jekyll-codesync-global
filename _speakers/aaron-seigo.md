@@ -3,7 +3,7 @@ type: ''
 firstname: Aaron
 lastname: Seigo
 position: FREE SOFTWARE HIPPY WITH A TWIST OF CAPITALISM.
-pic_url: ''
+pic_url: "/uploads/4f540cb654dd1d7ee9c813394c107a34b39a6c59.png"
 description: Aaron is a Canadian expat living in Switzerland who has been developing
   software professionally for some 25 years. He has been a prominent participant in
   the Free / Open Source community starting in the late 90's, and was deeply involved
