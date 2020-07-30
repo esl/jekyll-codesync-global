@@ -69,6 +69,5 @@ volunteer_message: ''
 volunteer_link_url: ''
 call_for_talks_message: ''
 call_for_talks_link: ''
-published: false
 
 ---
