@@ -47,9 +47,11 @@ group_tickets_paragraph_1: Want to bring your team along to Code BEAM V? We have
   discounts for conference, training and tutorial tickets available.
 group_tickets_paragraph_2: Find out how much you can save!
 group_enquire_mailto_link: info@codesync.global?subject=Group%20tickets%20for%20Code%20BEAM%20STO%2020
-academic_tickets_paragraph_1: ''
-academic_tickets_paragraph_2: ''
-academic_enquire_mailto_link: ''
+academic_tickets_paragraph_1: We love students and academics. We're thrilled to offer
+  special discounts to academics and students who would like to attend Code BEAM V.
+academic_tickets_paragraph_2: 'Simply get in touch to confirm that you''re a student/academic
+  and we will release the discount code. '
+academic_enquire_mailto_link: mailto:info@codesync.global?subject=Academic%20/%20Student%20tickets%20for%20Code%20BEAM%20STO%2020
 health_advice_p_1: ''
 health_advice_p_2: ''
 health_advice_mailto: ''
