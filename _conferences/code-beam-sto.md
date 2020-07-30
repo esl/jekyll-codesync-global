@@ -61,9 +61,13 @@ diversity_message: We are always looking to improve diversity at our conferences
   To help achieve this, we are providing free diversity places to under-represented
   groups in tech. Applications close on 30 August 2020.
 diversity_link_url: https://www2.codesync.global/l/23452/2020-02-05/6w586v
-volunteer_message: ''
-volunteer_link_url: ''
-call_for_talks_message: ''
+volunteer_message: We would love to have you in our volunteering team! Helping out
+  gives access to talks and networking opportunities! Applications close on 30 August
+  2020.
+volunteer_link_url: https://www2.codesync.global/l/23452/2020-02-05/6w586s
+call_for_talks_message: Speak at Code BEAM STO! Call for talks closed on 17 January
+  2020. We will be in touch with speakers in the week commencing 27 January about
+  the status of your talk!
 call_for_talks_link: ''
 
 ---
