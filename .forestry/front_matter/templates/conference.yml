@@ -284,3 +284,5 @@ fields:
   config:
     required: false
   label: Call For Talks Link
+pages:
+- _conferences/code-beam-sto-1.md
