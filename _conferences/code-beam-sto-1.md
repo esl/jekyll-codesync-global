@@ -21,24 +21,32 @@ number_of_days: "2"
 number_of_themes: "7"
 number_of_speakers: "50"
 number_of_attendees: "300"
-about_title_left: ''
-about_paragraph_1: ''
-about_paragraph_2: ''
-about_paragraph_3: ''
-about_title_right: ''
-about_register_message: ''
-about_group_tickets_message: ''
-about_academic_tickets_message: ''
-about_diversity_message: ''
-about_volunteer_message: ''
-tickets_bg_image: ''
-tickets_message: ''
-fees_message: ''
-eventbrite_url: ''
-eventbrite_id: ''
-group_tickets_paragraph_1: ''
-group_tickets_paragraph_2: ''
-group_enquire_mailto_link: ''
+about_title_left: THE FUTURE OF THE ERLANG ECOSYSTEM, FROM YOUR HOME!
+about_paragraph_1: Code BEAM V 2020 will now be a virtual event.
+about_paragraph_2: Code BEAM V conference is all about discovering the future of the
+  Erlang Ecosystem and bringing together developers as a community to share knowledge
+  & ideas, learn from each other and inspire to invent the future.
+about_paragraph_3: An action-packed two-day conference fused with a mix of talks on
+  innovation and open-source applications based on Erlang, OTP, Elixir, LFE, BEAM
+  and other emerging technologies!
+about_title_right: CODE BEAM V 2020 - BACK THIS SEPTEMBER!
+about_register_message: 'more information will be available soon. '
+about_group_tickets_message: 'Get special group discounts for group bookings. '
+about_academic_tickets_message: 'We love students and academics. Get a special academic
+  discount. More information will be available soon. '
+about_diversity_message: We're committed to diversity at Code BEAM V. Applications
+  are open until 30 August 2020.
+about_volunteer_message: 'Join the Code BEAM V family and get free access to the conference!
+  Applications are open until 30 August 2020. '
+tickets_bg_image: "/uploads/bff94d8efbee3518999fbfe7baba730dd4ecf586.png"
+tickets_message: Very Early Bird tickets will be available to buy from 22 July.
+fees_message: All prices exclude fees and VAT
+eventbrite_url: https://www.eventbrite.co.uk/static/widgets/eb_widgets.js
+eventbrite_id: "113615013564"
+group_tickets_paragraph_1: Want to bring your team along to Code BEAM V? We have group
+  discounts for conference, training and tutorial tickets available.
+group_tickets_paragraph_2: Find out how much you can save!
+group_enquire_mailto_link: info@codesync.global?subject=Group%20tickets%20for%20Code%20BEAM%20STO%2020
 academic_tickets_paragraph_1: ''
 academic_tickets_paragraph_2: ''
 academic_enquire_mailto_link: ''
