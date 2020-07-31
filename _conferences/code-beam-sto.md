@@ -71,11 +71,7 @@ call_for_talks_message: Speak at Code BEAM STO! Call for talks closed on 17 Janu
 call_for_talks_link: ''
 sortable_list: []
 repeatable_group: []
-menu:
-- template: menu-item
-  conference_path: _conferences/code-beam-sto.md
-  title: Home
-  url: "/"
+menu: []
 
 ---
 ---
