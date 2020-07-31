@@ -72,6 +72,7 @@ call_for_talks_link: ''
 sortable_list: []
 repeatable_group: []
 conference_health_advice: false
+conference_venue: false
 
 ---
 ---
