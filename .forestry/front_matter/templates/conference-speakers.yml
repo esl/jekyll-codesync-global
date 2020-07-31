@@ -38,3 +38,5 @@ fields:
       file: 
       path: 
   label: Talk Path
+pages:
+- _conference_speakers/natalia-chechina.md
