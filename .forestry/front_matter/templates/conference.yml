@@ -284,3 +284,11 @@ fields:
   config:
     required: false
   label: Call For Talks Link
+- name: menu
+  type: blocks
+  label: Menu
+  template_types:
+  - menu-item
+  config:
+    min: 
+    max: 
