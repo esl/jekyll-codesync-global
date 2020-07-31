@@ -207,6 +207,10 @@ fields:
   config:
     required: false
   label: Academic Enquire Mailto Link
+- name: conference_health_advice
+  type: boolean
+  label: Conference Health Advice
+  default: true
 - name: health_advice_p_1
   type: text
   config:
