@@ -12,6 +12,5 @@ description: Natalia Chechina is passionate about distributed systems, cooperati
   is significant, and any of the components may fail or disconnect at any time.
 twitter: nchechina
 github: ''
-published: false
 
 ---
