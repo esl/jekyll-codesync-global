@@ -291,3 +291,10 @@ fields:
     min: 
     max: 
   label: sortable list
+- name: repeatable_group
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: repeatable_group
