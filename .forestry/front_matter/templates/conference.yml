@@ -300,3 +300,7 @@ fields:
   config:
     required: false
   label: Call For Talks Link
+- name: conference_past_conferences
+  type: boolean
+  label: Conference Past Conferences
+  default: true
