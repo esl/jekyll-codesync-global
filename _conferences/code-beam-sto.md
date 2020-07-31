@@ -69,6 +69,13 @@ call_for_talks_message: Speak at Code BEAM STO! Call for talks closed on 17 Janu
   2020. We will be in touch with speakers in the week commencing 27 January about
   the status of your talk!
 call_for_talks_link: ''
+sortable_list: []
+repeatable_group: []
+menu:
+- template: menu-item
+  conference_path: _conferences/code-beam-sto.md
+  title: Home
+  url: "/"
 
 ---
 ---
