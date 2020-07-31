@@ -284,17 +284,3 @@ fields:
   config:
     required: false
   label: Call For Talks Link
-- name: sortable_list
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: sortable list
-- name: repeatable_group
-  type: field_group_list
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: repeatable_group
