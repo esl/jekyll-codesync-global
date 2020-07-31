@@ -226,6 +226,10 @@ fields:
   config:
     required: false
   label: Health Advice Mailto
+- name: conference_venue
+  type: boolean
+  label: Conference Venue
+  default: true
 - name: venue_name
   type: text
   config:
