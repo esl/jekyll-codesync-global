@@ -20,15 +20,21 @@
             {% include conference_speakers.html %}
             {% include conference_keynotes.html %}
             {% include conference_trainings.html %}
-            {% include conference_health_advice.html %}
-            {% include conference_venue.html %}
+            {% if conference_health_advice == true %}
+                {% include conference_health_advice.html %}
+            {% endif %}
+            {% if conference_venue == true  %}
+                {% include conference_venue.html %}
+            {% endif %}
             {% include conference_newsletter.html %}
             {% include conference_diversity.html %}
             {% include conference_volunteer.html %}
             {% include conference_past_talks.html %}
             {% include conference_call_for_talks.html %}
             {% include conference_sponsors.html %}
-            {% include conference_past_conferences.html %}
+            {% if conference_past_conferences == true %}
+                {% include conference_past_conferences.html %}            
+            {% endif %}
         </main>
         {% include footer.html %}
 
