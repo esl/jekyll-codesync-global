@@ -73,6 +73,7 @@ sortable_list: []
 repeatable_group: []
 conference_health_advice: false
 conference_venue: false
+conference_past_conferences: false
 
 ---
 ---
