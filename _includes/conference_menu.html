@@ -1,17 +1,9 @@
 <div class="nav--secondary calculate-offset" style="background-color: #{{page.primary}}">
     <ul>
-        <li><a href="#tickets">{{page.primary}}</a></li>
-        <li><a href="#tickets">TICKETS</a></li>
-        <li><a href="#group-tickets">GROUP TICKETS</a></li>
-        <li><a href="#student-tickets">STUDENT TICKETS</a></li>
-        <li><a href="#speakers">SPEAKERS</a></li>
-        <li><a href="#learn">LEARN</a></li>
-        <li><a href="#health-advice">HEALTH ADVICE</a></li>
-        <li><a href="#venue">VENUE</a></li>
-        <li><a href="#diversity-inclusion">DIVERSITY &amp; INCLUSION</a></li>
-        <li><a href="#volunteer">VOLUNTEER</a></li>
-        <li><a href="#past-talks">PAST TALKS</a></li>
-        <li><a href="#sponsors">SPONSORS</a></li>
-        <li><a href="#past-conferences">PAST CONFERENCES</a></li>
+        {% for menuItem in page.menu %}
+            <li>
+                <a href="{{ menuItem.url }}">{{ menuItem.title }}</a>
+            </li>
+        {% endfor %}
     </ul>
 </div>
