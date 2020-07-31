@@ -74,11 +74,6 @@ repeatable_group: []
 conference_health_advice: false
 conference_venue: false
 conference_past_conferences: false
-menu:
-- template: menu-item
-  title: Tickets
-  url: "#tickets"
-
 ---
 For the health and safety of speakers, attendees and the wider community Code BEAM STO is going VIRTUAL.
 
