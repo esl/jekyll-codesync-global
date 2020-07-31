@@ -2,6 +2,14 @@
 label: Conference
 hide_body: false
 fields:
+- name: menu
+  type: blocks
+  label: Menu
+  template_types:
+  - menu-item
+  config:
+    min: 
+    max: 
 - name: title
   type: text
   config:
@@ -284,11 +292,3 @@ fields:
   config:
     required: false
   label: Call For Talks Link
-- name: menu
-  type: blocks
-  label: Menu
-  template_types:
-  - menu-item
-  config:
-    min: 
-    max: 
