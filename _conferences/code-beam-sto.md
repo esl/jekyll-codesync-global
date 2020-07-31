@@ -71,7 +71,25 @@ call_for_talks_message: Speak at Code BEAM STO! Call for talks closed on 17 Janu
 call_for_talks_link: ''
 sortable_list: []
 repeatable_group: []
-menu: []
+menu:
+- template: menu-item
+  title: Tickets
+  url: "#tickets"
+- template: menu-item
+  title: Speakers
+  url: "#speakers"
+- template: menu-item
+  title: Learn
+  url: "#learn"
+- template: menu-item
+  url: "#diversity-inclusion"
+  title: Diversity & Inclusion
+- template: menu-item
+  url: "#volunteer"
+  title: Volunteer
+- template: menu-item
+  url: "#sponsors"
+  title: Sponsors
 
 ---
 ---
