@@ -85,31 +85,6 @@ repeatable_group: []
 conference_health_advice: false
 conference_venue: false
 conference_past_conferences: false
-menu:
-  - 
-    template: menu-item
-    title: "Tickets"
-    url: "#tickets"
-  - 
-    template: menu-item
-    title: "Speakers"
-    url: "#speakers"
-  - 
-    template: menu-item
-    title: "Learn"
-    url: "#learn"
-  - 
-    template: menu-item
-    title: "Diversity & Inclusion"
-    url: "#diversity-inclusion"
-  - 
-    template: menu-item
-    title: "Volunteer"
-    url: "#volunteer"
-  - 
-    template: menu-item
-    title: "Sponsors"
-    url: "#sponsors"
 ---
 
 For the health and safety of speakers, attendees and the wider community Code BEAM STO is going VIRTUAL.
