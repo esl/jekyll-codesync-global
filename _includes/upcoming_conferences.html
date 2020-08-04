@@ -7,54 +7,27 @@
         <div class="slider-inner">
             <div class="slider-frame">
                 <ul class="columns slider-container">
-                    <li class="column">
-                        <div class="tile ">
-                            <a class="tile--bg" href="http://codesync.global/conferences/code-beam-v/">
-                                <picture class="tile__bg-image"><img alt="Code BEAM V Background" class="tile__logo lazy" data-src="/uploads/media/theme/0001/02/64b0adfb5d5d1e1b7c89d5f3a9d61fa9da867653.jpeg"></picture>
-                                <picture><img alt="Code BEAM V Logo" class="tile__logo lazy" data-src="/uploads/media/theme/0001/02/da389ee79262814b760127d99bbc2c83d7ed2ac9.png"></picture>
-                                <p class="heading heading--medium">28-29 May 2020</p>
-                                <p class="heading heading--small">virtual event</p>
-                            </a>
-                            <a class="btn btn--white btn-arrow" href="http://codesync.global/conferences/code-beam-v/">More Info</a>
-                        </div>
-                    </li>
-                    <li class="column">
-                        <div class="tile ">
-                            <a class="tile--bg" href="http://codesync.global/conferences/code-beam-sto/">
-                                <picture class="tile__bg-image"><img alt="Code BEAM STO Background" class="tile__logo lazy" data-src="/uploads/media/theme/0001/01/43ac1d189292a3e2bf822a88011531a495ef1dec.jpeg"></picture>
-                                <picture><img alt="Code BEAM STO Logo" class="tile__logo lazy" data-src="/uploads/media/theme/0001/01/c63a23d43f73b3a938ba1682ed01c646f46fa815.png"></picture>
-                                <p class="heading heading--medium">10-11 Sep 2020</p>
-                                <p class="heading heading--small">Stockholm</p>
-                            </a>
-                            <a class="btn btn--white btn-arrow" href="http://codesync.global/conferences/code-beam-sto/">More Info</a>
-                        </div>
-                    </li>
-                    <li class="column">
-                        <div class="tile ">
-                            <a class="tile--bg" href="http://codesync.global/conferences/code-beam-lite-italy-2020/">
-                                <picture class="tile__bg-image"><img alt="Code BEAM Lite ITA Background" class="tile__logo lazy" data-src="/uploads/media/theme/0001/01/d63164f0585385d9c2c1b4c6c3d8e73873fe8a6b.jpeg"></picture>
-                                <picture><img alt="Code BEAM Lite ITA Logo" class="tile__logo lazy" data-src="/uploads/media/theme/0001/01/1eb6cc46a693144acc758426e3bbac87d09ad26b.png"></picture>
-                                <p class="heading heading--medium">30 Oct 2020</p>
-                                <p class="heading heading--small">Bologna</p>
-                            </a>
-                            <a class="btn btn--white btn-arrow" href="http://codesync.global/conferences/code-beam-lite-italy-2020/">More Info</a>
-                        </div>
-                    </li>
-                    <li class="column">
-                        <div class="tile ">
-                            <a class="tile--bg" href="http://codesync.global/conferences/code-mesh-ldn/">
-                                <picture class="tile__bg-image"><img alt="Code Mesh LDN Background" class="tile__logo lazy" data-src="/uploads/media/theme/0001/01/7661d6efa5d02d9cc8b38ebc24fe7094fa27141b.jpeg"></picture>
-                                <picture><img alt="Code Mesh LDN Logo" class="tile__logo lazy" data-src="/uploads/media/theme/0001/01/d532fd58d3e35d90be0b398b2f7e13c894c43fcb.png"></picture>
-                                <p class="heading heading--medium">05-06 Nov 2020</p>
-                                <p class="heading heading--small">London</p>
-                            </a>
-                            <a class="btn btn--white btn-arrow" href="http://codesync.global/conferences/code-mesh-ldn/">More Info</a>
-                        </div>
-                    </li>
+                {% assign sorted_conferences = site.conferences | sort: 'date' %}
+                {% for conference in sorted_conferences %}
+                    {% if conference.past == false %}
+                        <li class="column">
+                            <div class="tile ">
+                                <a class="tile--bg" href="{{ conference.url }}">
+                                    <picture class="tile__bg-image"><img alt="{{ conference.title }} Background" class="tile__logo lazy"
+                                            data-src="{{ conference.bg.image }}"></picture>
+                                    <picture><img alt="{{ conference.title }} Logo" class="tile__logo lazy"
+                                            data-src="{{ conference.logo_img }}"></picture>
+                                    <p class="heading heading--medium">{{ conference.conference_dates }}</p>
+                                    <p class="heading heading--small">{{ conference.conference_location }}</p>
+                                </a>
+                                <a class="btn btn--white btn-arrow" href="{{ conference.url }}">More Info</a>
+                            </div>
+                        </li>
+                    {% endif %}
+                {% endfor %}
                 </ul>
             </div>
         </div>
-        <a class="btn btn--pink triangle-left-full color--main mt--80 m-mt-40" href="http://codesync.global/conferences/">All
-                        conferences</a>
+        <a class="btn btn--pink triangle-left-full color--main mt--80 m-mt-40" href="/conferences/">All conferences</a>
     </div>
 </section>
