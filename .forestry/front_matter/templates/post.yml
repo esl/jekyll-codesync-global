@@ -54,8 +54,8 @@ fields:
   config:
     required: false
   label: Image url
-- name: video_url
+- name: embedded_video_url
   type: text
   config:
     required: false
-  label: Video url
+  label: Embedded Video url
