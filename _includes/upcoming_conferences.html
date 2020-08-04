@@ -9,7 +9,7 @@
                 <ul class="columns slider-container">
                 {% assign sorted_conferences = site.conferences | sort: 'date' %}
                 {% for conference in sorted_conferences %}
-                    {% if past == false %}
+                    {% if conference.past == false %}
                         <li class="column">
                             <div class="tile ">
                                 <a class="tile--bg" href="{{ conference.url }}">
