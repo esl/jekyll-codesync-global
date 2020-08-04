@@ -63,6 +63,7 @@ collections:
     output: true
   conferences:
     output: true
+    sort_by: date
   tickets:
     output: true
   testimonials:
