@@ -9,53 +9,48 @@
         <p class="heading heading--large">
             <span>Next conference</span>
         </p>
+        {% assign sorted_conferences = site.conferences | sort: 'date' %}
+
+        {% for conference in sorted_conferences limit:1  %}
         <div class="grid-gap-100 mb--30">
             <div class="row mt--70 m-mt-40">
                 <div class="col-4 t-col-6 s-col-12">
                     <div>
                         <div class="conf-logo">
-                            <a href="http://codesync.global/conferences/code-beam-v/">
+                            <a href="{{ conference.url }}">
                                 <picture>
-                                    <img alt="Code BEAM V Logo" class="lazy" data-src="/uploads/media/theme/0001/02/da389ee79262814b760127d99bbc2c83d7ed2ac9.png">
+                                    <img alt="{{ conference.title }} Logo" class="lazy"
+                                        data-src="{{ conference.logo_img }}">
                                 </picture>
                             </a>
                         </div>
-                        <h3 class="heading heading--medium white mt--50">virtual event</h3>
+                        <h3 class="heading heading--medium white mt--50">{{ conference.conference_location }}</h3>
                         <h3 class="heading heading--medium white">
-                            28-29<br>
-                            May
-                                                        2020
+                            {{ conference.conference_dates }}
                         </h3>
                     </div>
                 </div>
                 <div class="register-container t-col-12">
+                    {% for ticket in site.tickets limit:2 %}
+                    {% if ticket.conference_path == conference.path %}
                     <div class="register-box t-mt-50 t-mb-20 m-mb-00">
                         <div class="register-content">
                             <div class="register--border">
                                 <div class="heading heading--big">
-                                    <span class="bold">EARLY BIRD CONFERENCE
-                                                                                TICKET</span><br/></div>
-                                <p>Access to the virtual conference. Price excludes VAT and fees.</p>
-                                <p class="price heading heading--big bold text-center fittext-dynamic">€50</p>
+                                    <span class="bold">{{ ticket.title }}</span><br /></div>
+                                <p>{{ ticket.desc }}</p>
+                                <p class="price heading heading--big bold text-center fittext-dynamic">{{ ticket.price }}</p>
                             </div>
-                            <a class="btn btn--white btn-arrow" href="https://www.eventbrite.co.uk/e/code-beam-v-2020-tickets-102795441934#tickets" rel="noopener noreferrer" target="_blank">Register</a>
+                            <a class="btn btn--white btn-arrow"
+                                href="{{ ticket.ticket_url }}"
+                                rel="noopener noreferrer" target="_blank">Register</a>
                         </div>
                     </div>
-                    <div class="register-box t-mt-50 t-mb-20 m-mb-00">
-                        <div class="register-content">
-                            <div class="register--border">
-                                <div class="heading heading--big">
-                                    <span class="bold">Training &amp; tutorials</span><br>
-                                </div>
-                                <p>Access to the online training or one of the tutorials + conference. Price excludes
-                                                                        VAT and fees.</p>
-                                <p class="price heading heading--big bold text-center fittext-dynamic">from €131</p>
-                            </div>
-                            <a class="btn btn--white btn-arrow" href="https://codesync.global/conferences/code-beam-v/#learn" rel="noopener noreferrer" target="_blank">REGISTER</a>
-                        </div>
-                    </div>
+                    {% endif %}
+                    {% endfor %}
                 </div>
             </div>
         </div>
+        {% endfor %}
     </div>
 </section>

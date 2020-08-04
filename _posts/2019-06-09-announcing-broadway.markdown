@@ -2,7 +2,7 @@
 lay out: post
 title: "Announcing Broadway"
 date: 2019-06-30 14:49:28 -0600
-video_url: https://www.youtube.com/embed/ZOExnT1PYjs?feature=oembed
+youtube_video_id: 12tQzMMBz1U
 background_image:
 categories: Elixir Code BEAM SF 2019
 tags: [video, elixir]

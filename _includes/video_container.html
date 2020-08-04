@@ -19,56 +19,18 @@
                 </div>
                 <div class="col-5 t-col-12 t-mt--00 banner--menu">
                     <ul>
+                        {% assign active_conferences = site.conferences | where: 'past', false %}
+                        {% for conference in active_conferences %}
                         <li>
-                            <a class="paragraph big mono" href="http://codesync.global/conferences/code-beam-v/">Code
-                                                                                                BEAM V
+                            <a class="paragraph big mono" href="{{ conference.url }}">
+                                {{ conference.title }}
                             </a>
-                            <br/>
-                            <span class="paragraph paragraph--tiny">28-29
-                                                                                                May 2020 - virtual event
+                            <br />
+                            <span class="paragraph paragraph--tiny">
+                                {{ conference.conference_dates }}
                             </span>
                         </li>
-                        <li>
-                            <a class="paragraph big mono" href="https://virtual.elixirconf.eu">ElixirConf EU Virtual
-                            </a>
-                            <br/>
-                            <span class="paragraph paragraph--tiny">18-19
-                                                                                                June 2020 - Virtual
-                            </span>
-                        </li>
-                        <li>
-                            <a class="paragraph big mono" href="http://codesync.global/conferences/code-beam-sto/">Code
-                                                                                                BEAM STO
-                            </a>
-                            <br/>
-                            <span class="paragraph paragraph--tiny">10-11
-                                                                                                September 2020 - Stockholm
-                            </span>
-                        </li>
-                        <li>
-                            <a class="paragraph big mono" href="http://www.elixirconf.eu/">ElixirConf EU
-                            </a>
-                            <br/>
-                            <span class="paragraph paragraph--tiny">06-08
-                                                                                                October 2020 - Warsaw
-                            </span>
-                        </li>
-                        <li>
-                            <a class="paragraph big mono" href="http://codesync.global/conferences/code-beam-lite-italy-2020/">Code BEAM Lite
-                            </a>
-                            <br/>
-                            <span class="paragraph paragraph--tiny">30 October 2020 - Bologna
-                            </span>
-                        </li>
-                        <li>
-                            <a class="paragraph big mono" href="http://codesync.global/conferences/code-mesh-ldn/">Code
-                                                                                                Mesh LDN
-                            </a>
-                            <br/>
-                            <span class="paragraph paragraph--tiny">05-06
-                                                                                                November 2020 - London
-                            </span>
-                        </li>
+                        {% endfor %}
                         <li>
                             <a class="paragraph big mono" href="/conferences/">All Past Conferences</a>
                         </li>
