@@ -1,0 +1,266 @@
+.speaker-name:hover {
+  color: #ff00ff;
+}
+
+.social-buttons ul li {
+  color: #c30000 !important;
+}
+
+.social-buttons ul li:hover {
+  color: black;
+}
+
+.talk .description a {
+  color: #c30000;
+}
+
+.talk .description a:hover {
+  color: #ff00ff;
+}
+
+.header .hamburger span {
+  background-color: #c30000;
+}
+
+.quote g {
+  fill: #c30000;
+}
+
+section.newsletter {
+  background-size: cover;
+  position: relative;
+}
+
+.nav--secondary {
+  background-color: #c30000;
+}
+
+.training__link:hover {
+  color: #c30000;
+}
+
+.academics .grid-middle a {
+  text-decoration: underline;
+  color: #c30000 !important;
+}
+
+.banner--menu li:hover a:before {
+  border-color: transparent #c30000 transparent transparent !important;
+}
+
+.banner--menu li:hover a:after {
+  background-color: #c30000 !important;
+}
+
+.main-links li a:hover {
+  color: #c30000 !important;
+}
+
+.header .nav li:hover {
+  color: #c30000 !important;
+}
+
+.btn--pink {
+  background: #c30000;
+}
+
+.speakers .hashtags a {
+  color: #ff00ff !important;
+}
+
+.media .hashtags a {
+  color: #ff00ff !important;
+}
+
+.media .video__desc span {
+  color: #ff00ff !important;
+}
+
+.welcome .welcome__content a {
+  color: #c30000 !important;
+}
+
+.whoweare__text a {
+  color: #c30000 !important;
+}
+
+.whoweare__numbers a {
+  color: #c30000 !important;
+}
+
+.timeline--line {
+  background: #c30000;
+  background: -webkit-linear-gradient(left, #c30000, #ff00ff);
+  background: -o-linear-gradient(right, #c30000, #ff00ff);
+  background: -moz-linear-gradient(right, #c30000, #ff00ff);
+  background: linear-gradient(to right, #c30000, #ff00ff);
+}
+
+.color--main {
+  color: #c30000;
+}
+
+.triangle-left-empty--pink svg {
+}
+
+main .about li:nth-child(even) {
+  color: #ff00ff;
+}
+
+main .about li:nth-child(odd) {
+  color: #c30000;
+}
+
+main .about li:first-of-type {
+  color: #fff;
+}
+
+.timeline--line:before {
+  background-color: #c30000;
+}
+
+.timeline--line:after {
+  background-color: #ff00ff;
+}
+
+.color--secondary {
+  color: #ff00ff;
+}
+
+.btn.color--main {
+  background-color: #c30000;
+  color: #ffffff;
+}
+
+.btn--transparent.color--main {
+  background-color: transparent;
+  color: #c30000;
+}
+
+.btn.triangle-left-full-pink {
+  background-color: #c30000;
+}
+
+.social-sidebar li:hover i {
+  color: #c30000;
+}
+
+.footer .logo a {
+  color: #c30000;
+}
+
+.footer .logo svg .svg-a {
+  fill: #c30000;
+}
+
+.footer a:hover {
+  color: #c30000 !important;
+}
+
+.footer .contact a {
+  color: #c30000;
+}
+
+.footer .highlight a {
+  color: #c30000;
+}
+
+.footer .social ul li a {
+  color: #c30000 !important;
+}
+
+.link {
+  color: #c30000 !important;
+}
+
+.timeline--text:nth-child(1):before {
+  background: #cb0022;
+}
+
+.timeline--text:nth-child(2):before {
+  background: #d70055;
+}
+
+.timeline--text:nth-child(3):before {
+  background: #e1007f;
+}
+
+.timeline--text:nth-child(4):before {
+  background: #f700dd;
+}
+
+.schedule .active {
+  color: #c30000;
+}
+
+.about__description a {
+  color: #c30000;
+}
+
+.schedule .tablinks:hover,
+.more:hover {
+  color: #c30000;
+}
+
+.btn--transparent.active {
+  color: #c30000 !important;
+}
+
+.conference .video__desc .social-buttons li {
+  border: 1px solid#c30000;
+}
+
+.conference .video__desc .social-buttons li:hover {
+  background-color: #c30000;
+}
+
+.conference .video__desc .social-buttons li i {
+  color: #c30000;
+}
+
+.conference .video__desc .social-buttons li:hover i {
+  color: #000000;
+}
+
+.accordion .arrow--down--white:before {
+  border-color: #c30000 transparent transparent transparent;
+}
+
+.speakers {
+}
+
+.schedule .hashtags a {
+  color: #ff00ff !important;
+}
+
+.speakers p a:hover {
+  color: #c30000;
+  text-decoration: underline;
+}
+
+#Talks .desc h1,
+#Talks .desc h2,
+#Talks .desc h3,
+#Talks .desc h4,
+#Talks .desc h5,
+#Talks .desc h6,
+.heading--pink,
+.training--description h1,
+.training--description h2,
+.training--description h3,
+.training--description h4,
+.training--description h5,
+.training--description h6,
+.welcome__content h1,
+.welcome__content h2,
+.welcome__content h3,
+.welcome__content h4,
+.welcome__content h5,
+.welcome__content h6 {
+  color: #c30000;
+  /* color {{page.primary}} */
+}
+
+.input--checkbox input:checked + label:after {
+  content: url('data:image/svg+xml;charset=UTF-8,<svg aria-hidden="true" width="16px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="%23c30000" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"/></svg>');
+}

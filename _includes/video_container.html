@@ -1,14 +1,14 @@
 <div class=" video--container">
     <div class="baner--homepage"></div>
     <video id="homepage-video" muted playsinline preload="auto">
-        <source src="/assets/video/banner-video.99f5c125.mp4" type="video/mp4">
+        <source src="{{ "/assets/video/banner-video.99f5c125.mp4" | prepend: site.baseurl }}" type="video/mp4">
     </video>
     <div class="video__box container--small">
         <div class="banner--absolute grid-gap-100">
             <div class="row">
                 <div class="col-7 t-col-12 banner--text">
                     <div class="banner--logo">
-                        <img alt="Code Sync Logo" src="/assets/img/conferences/code-sync-logo.48758d77.svg"/>
+                        <img alt="Code Sync Logo" src="{{ "/assets/img/conferences/code-sync-logo.48758d77.svg" | prepend: site.baseurl }}"/>
                     </div>
                     <div class="text">
                         <div class="heading heading--homepage">Share. Learn. Inspire.</div>
