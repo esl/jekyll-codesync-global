@@ -7,6 +7,5 @@ desc: Access to the virtual conference (10-11 September, 13-20 CEST ). Price exc
 price: "€90"
 url: https://www.eventbrite.co.uk/e/code-beam-v-2020-tickets-113615013564
 open: false
-published: false
 
 ---
