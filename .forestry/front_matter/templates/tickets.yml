@@ -51,4 +51,5 @@ fields:
   label: Conference Path
 pages:
 - _tickets/early-bird-conference-ticket.md
+- _tickets/last-minute-conference-ticket.md
 - _tickets/standard-conference-ticket.md
