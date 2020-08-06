@@ -49,3 +49,5 @@ fields:
       file: 
       path: 
   label: Conference Path
+pages:
+- _tickets/early-bird-conference-ticket.md
