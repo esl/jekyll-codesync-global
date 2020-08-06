@@ -7,6 +7,5 @@ desc: Access to the virtual conference (10-11 September, 13-20 CEST). Price excl
 price: "70"
 url: ''
 open: false
-published: false
 
 ---
