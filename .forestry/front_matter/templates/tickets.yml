@@ -50,6 +50,7 @@ fields:
       path: 
   label: Conference Path
 pages:
+- _tickets/conference-training-ticket.md
 - _tickets/early-bird-conference-ticket.md
 - _tickets/early-bird-conference-tutorial-ticket.md
 - _tickets/last-minute-conference-ticket.md
