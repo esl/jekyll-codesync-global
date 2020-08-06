@@ -6,6 +6,5 @@ desc: Learn about academic and student tickets.
 price: "€45"
 url: mailto:info@codesync.global?subject=Student%20tickets%20to%20Code%20BEAM%20V
 open: false
-published: false
 
 ---
