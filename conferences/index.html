@@ -28,17 +28,17 @@ head_title: Conferences
                                 {% if conference.conference_brand == conference_brand.path %}
                                     <div class="column js-column mb--50">
                                         <div class="tile tile--old">
-                                            <a class="tile--bg" href="{{site.baseurl}}/{{ conference.url }}">
+                                            <a class="tile--bg" href="{{site.baseurl}}{{ conference.url }}">
                                                 <picture class="tile__bg-image">
-                                                    <img alt="{{ conference.title }}" class="tile__logo lazy" data-src="{{ conference.bg_image }}">
+                                                    <img alt="{{ conference.title }}" class="tile__logo lazy" data-src="{{site.baseurl}}{{ conference.bg_image }}">
                                                 </picture>
                                                 <picture>
-                                                    <img alt="{{ conference.title }} logo" class="tile__logo lazy" data-src="{{ conference.logo_img }}">
+                                                    <img alt="{{ conference.title }} logo" class="tile__logo lazy" data-src="{{site.baseurl}}{{ conference.logo_img }}">
                                                 </picture>
                                                 <p class="heading heading--medium">{{ conference.conference_dates }}</p>
                                                 <p class="heading heading--small">{{ conference.conference_location }}</p>
                                             </a>
-                                            <a class="btn btn--white btn-arrow" href="{{site.baseurl}}/{{ conference.url }}">
+                                            <a class="btn btn--white btn-arrow" href="{{site.baseurl}}{{ conference.url }}">
                                                 {% if conference.past == true %}
                                                     past
                                                 {% endif %}

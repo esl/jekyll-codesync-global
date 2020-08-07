@@ -1,14 +1,14 @@
 <section class="banner vp--100 black-gradient--top black-gradient--bottom">
     <picture class="banner--background">
-        <source data-srcset="{{ page.bg_image }}" media="(max-width: 1050px)"/>
-        <img alt="{{ page.title }} Background" class="lazy" data-src="{{ page.bg_image }}"/>
+        <source data-srcset="{{site.baseurl}}{{ page.bg_image }}" media="(max-width: 1050px)"/>
+        <img alt="{{ page.title }} Background" class="lazy" data-src="{{site.baseurl}}{{ page.bg_image }}"/>
     </picture>
     <div class="container--small">
         <div class="flex-grid mt--70 m-mt-50">
             <div class="col-5 t-col-6 m-col-12 conf-logo">
                 <div class="banner__logo">
                     <picture>
-                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{ page.logo_img }}"/>
+                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{site.baseurl}}{{ page.logo_img }}"/>
                     </picture>
                     <div class="mt--50">
                         <span class="heading heading--conference-banner">{{ page.conference_dates }}</span>
