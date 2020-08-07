@@ -8,7 +8,7 @@
                         <a href="training/#{{ training.url | replace:'/trainings','' | remove:'/'  }}">
                             <div class="speaker-img">
                                 <picture>
-                                    <img alt="{{ training.img_alt }}" class="lazy" data-src="{{training.img_url }}"/>
+                                    <img alt="{{ training.img_alt }}" class="lazy" data-src="{{site.baseurl}}{{training.img_url }}"/>
                                 </picture>
                             </div>
                         </a>
