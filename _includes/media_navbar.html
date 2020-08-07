@@ -4,11 +4,11 @@
             <div class="media__picker ">
                 <div class="media__buttons">
                     {% for item in site.data.media_navigation %}
-                        <a  href="{{ item.link }}" {% if page.url == item.link %} class="btn active" {% endif %} class="btn">{{ item.name }}</a>
+                        <a  href="{{site.baseurl}}/{{ item.link }}" {% if page.url == item.link %} class="btn active" {% endif %} class="btn">{{ item.name }}</a>
                     {% endfor %}
                 </div>
             </div>
-            <form action="/media/" class="media__search filters">
+            <form action="{{site.baseurl}}/media/" class="media__search filters">
                 <div class="searchBox">
                     <input class="search" name="search" placeholder="SEARCH..." type="text">
                     <label for="iconSearch">

@@ -13,7 +13,7 @@
           {% for conference in past_conferences %}
           <li class="column">
             <div class="tile tile--old">
-              <a class="tile--bg" href="{{ conference.url }}">
+              <a class="tile--bg" href="{{site.baseurl}}/{{ conference.url }}">
                 <picture class="tile__bg-image"
                   ><img
                     alt="{{ conference.title }}"
@@ -33,7 +33,7 @@
                   {{ conference.conference_location }}
                 </p>
               </a>
-              <a class="btn btn--white btn-arrow" href="{{ conference.url }}"
+              <a class="btn btn--white btn-arrow" href="{{site.baseurl}}/{{ conference.url }}"
                 >Learn more</a
               >
             </div>
