@@ -12,7 +12,7 @@
                     {% if conference.past == false %}
                         <li class="column">
                             <div class="tile ">
-                                <a class="tile--bg" href="{{ conference.url }}">
+                                <a class="tile--bg" href="{{site.baseurl}}/{{ conference.url }}">
                                     <picture class="tile__bg-image"><img alt="{{ conference.title }} Background" class="tile__logo lazy"
                                             data-src="{{ conference.bg.image }}"></picture>
                                     <picture><img alt="{{ conference.title }} Logo" class="tile__logo lazy"
@@ -20,7 +20,7 @@
                                     <p class="heading heading--medium">{{ conference.conference_dates }}</p>
                                     <p class="heading heading--small">{{ conference.conference_location }}</p>
                                 </a>
-                                <a class="btn btn--white btn-arrow" href="{{ conference.url }}">More Info</a>
+                                <a class="btn btn--white btn-arrow" href="{{site.baseurl}}/{{ conference.url }}">More Info</a>
                             </div>
                         </li>
                     {% endif %}
@@ -28,6 +28,6 @@
                 </ul>
             </div>
         </div>
-        <a class="btn btn--pink triangle-left-full color--main mt--80 m-mt-40" href="/conferences/">All conferences</a>
+        <a class="btn btn--pink triangle-left-full color--main mt--80 m-mt-40" href="{{site.baseurl}}/conferences/">All conferences</a>
     </div>
 </section>

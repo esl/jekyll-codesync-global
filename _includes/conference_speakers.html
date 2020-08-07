@@ -11,7 +11,7 @@
           {% for keynote in site.conference_keynotes %} {% if
           keynote.conference_path == page.path %} {% for speaker in
           site.speakers %} {% if keynote.speaker_path == speaker.path %}
-          <a href="{{ speaker.path }}">
+          <a href="{{site.baseurl}}/{{ speaker.path }}">
             <div class="speaker-img">
               <!-- Inline dynamic styles for gradient here in speaker-img -->
               <picture>
@@ -35,7 +35,7 @@
           <p>
             <a
               class="mono medium light gray pt--00 mt--10"
-              href="{{speaker.url}}#{{ talk.url | replace:'/talks','' | remove:'/' }}"
+              href="{{site.baseurl}}/{{speaker.url}}#{{ talk.url | replace:'/talks','' | remove:'/' }}"
               >{{talk.title}}</a
             >
           </p>
@@ -68,7 +68,7 @@
         {% for conf_speaker in site.conference_speakers %} {% if
         conf_speaker.conference_path == page.path %} {% for speaker in
         site.speakers %} {% if conf_speaker.speaker_path == speaker.path %}
-        <a href="{{ speaker.url }}">
+        <a href="{{site.baseurl}}/{{ speaker.url }}">
           <div class="speaker-img">
             <picture>
               <img
@@ -90,7 +90,7 @@
         <p>
           <a
             class="mono medium light gray pt--00 mt--10"
-            href="{{speaker.url}}#{{ talk.path }}"
+            href="{{site.baseurl}}/{{speaker.url}}#{{ talk.path }}"
             >{{talk.title}}</a
           >
         </p>

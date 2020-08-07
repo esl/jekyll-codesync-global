@@ -9,7 +9,7 @@
                     {% if post.type == 'article' %}
                         <div class="col-4 t-col-12 t-mt-40 article__box" data-type="article">
                             <h3 class="heading heading--normal">
-                                <a class="heading heading--normal heading--roboto article__title" href="{{ post.url }}">{{ post.title }}
+                                <a class="heading heading--normal heading--roboto article__title" href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}
                                 </a>
                             </h3>
                             <picture>
@@ -17,7 +17,7 @@
                             </picture>
                             <div class="article__desc">
                                 <p class="paragraph">{{ post.excerpt }}</p>
-                                <a href="{{ post.url }}">READ MORE</a>
+                                <a href="{{site.baseurl}}/{{ post.url }}">READ MORE</a>
                             </div>
                             <div class="hashtags">
                                 <ul></ul>
