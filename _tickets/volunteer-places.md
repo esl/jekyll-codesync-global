@@ -1,6 +1,6 @@
 ---
-type: ''
-conference_path: _conferences/trainings/code-beam-sto.md
+type: 'special'
+conference_path: _conferences/code-beam-sto.md
 title: VOLUNTEER PLACES
 desc: Join the team as a volunteer and get free access to the conference!
 price: FREE

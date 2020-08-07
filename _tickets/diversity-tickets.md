@@ -1,6 +1,6 @@
 ---
-type: ''
-conference_path: _conferences/trainings/code-beam-sto.md
+type: 'special'
+conference_path: _conferences/code-beam-sto.md
 title: DIVERSITY TICKETS
 desc: Apply to our diversity scheme which awards under-represented members of the
   BEAM community free tickets to Code BEAM V!
