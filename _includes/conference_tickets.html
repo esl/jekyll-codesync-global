@@ -77,7 +77,9 @@
         <div class="row mt--20 t-mt-40 m-mt-20 w--100">
             <div class="register-container">
                 {% for ticket in site.tickets %}
+
                 {% if ticket.conference_path == page.path %}
+
                             {% if ticket.type == 'regular' %}
                             <div class="register-box mt--60 t-mt-20 {% if ticket.open == false%}disabled{% endif%}">
                                 <div class="register-content">
