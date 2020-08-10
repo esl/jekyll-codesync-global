@@ -1,17 +1,13 @@
 ---
-type: ''
-firstname: ABEBA
-lastname: BIRHANE
-position: PHD CANDIDATE IN COGNITIVE SCIENCE AT UNIVERSITY COLLEGE DUBLIN. FAN OF
-  ANTI-CARTESIAN RANTS, AI AND COFFEE
-pic_url: "/uploads/74bb6ceb63bd9fc07e02b3c7208fd47fd20ab467.png"
-description: Abeba Birhane is a PhD candidate in Cognitive Science at University College
-  Dublin. Her interdisciplinary research, which intersects between embodied cognition,
-  digital technology studies, and critical data science, explores the dynamic and
-  reciprocal relationships between individuals, society and digital technologies.
-  She is a contributor to Aeon Magazine and blogs regularly about cognition, AI, ethics
-  and data science.
+facebook: 
+github: 
+google: 
+linkedin: 
+name: Abeba Birhane
+position: PhD candidate in Cognitive Science at University College Dublin. Fan of anti-Cartesian rants, AI and coffee
+pic_url: uploads/abeba-birhane.png
+slug: abeba-birhane
 twitter: Abebab
-github: ''
-
+youtube: 
 ---
+<p>Abeba Birhane is a PhD candidate in Cognitive Science at University College Dublin. Her interdisciplinary research, which intersects between embodied cognition, digital technology studies, and critical data science, explores the dynamic and reciprocal relationships between individuals, society and digital technologies. She is a contributor to <a href="https://aeon.co/ideas/descartes-was-wrong-a-person-is-a-person-through-other-persons">Aeon Magazine</a> and <a href="https://abebabirhane.wordpress.com/">blogs</a> regularly about cognition, AI, ethics and data science.</p>
