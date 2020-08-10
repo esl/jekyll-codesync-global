@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ken Cross
 position: Software Engineer at HelloSign
-pic_url: uploads/ken-cross.png
+pic_url: /uploads/ken-cross.png
 slug: ken-cross
 twitter: quasarken
 youtube: 

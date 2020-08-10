@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Anayeli Malvaez
 position: Backend Developer at Bunsan.io
-pic_url: uploads/anayeli-malvaez.png
+pic_url: /uploads/anayeli-malvaez.png
 slug: anayeli-malvaez
 twitter: AnayeliMalvaez
 youtube: 

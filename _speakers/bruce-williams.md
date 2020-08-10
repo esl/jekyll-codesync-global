@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bruce Williams
 position: Author of "Craft GraphQL APIs in Elixir" (CargoSense)
-pic_url: uploads/bruce-williams.jpeg
+pic_url: /uploads/bruce-williams.jpeg
 slug: bruce-williams
 twitter: wbruce
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Aleksandar	Filipov
 position: Freelancer at æternity blockchain
-pic_url: uploads/aleksandar-filipov.png
+pic_url: /uploads/aleksandar-filipov.png
 slug: aleksandar-filipov
 twitter: f_aleksandar
 youtube: 

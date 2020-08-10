@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Marc Worrell
 position: Creator of Zotonic, the Erlang CMS
-pic_url: uploads/marc-worrell.png
+pic_url: /uploads/marc-worrell.png
 slug: marc-worrell
 twitter: mworrell
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Lizzie Paquette
 position: Software Engineer	at Brex
-pic_url: uploads/lizzie-paquette.png
+pic_url: /uploads/lizzie-paquette.png
 slug: lizzie-paquette
 twitter: 
 youtube: 

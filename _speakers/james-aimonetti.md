@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: James Aimonetti
 position: Lead developer at 2600Hz
-pic_url: uploads/james-aimonetti.jpeg
+pic_url: /uploads/james-aimonetti.jpeg
 slug: james-aimonetti
 twitter: jamesaimonetti
 youtube: 

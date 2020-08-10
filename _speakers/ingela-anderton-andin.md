@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ingela Anderton Andin
 position: Top female contributor to Erlang/OTP; SW developer in the OTP team
-pic_url: uploads/ingela-anderton-andin.jpeg
+pic_url: /uploads/ingela-anderton-andin.jpeg
 slug: ingela-anderton-andin
 twitter: IngelaAndin
 youtube: 

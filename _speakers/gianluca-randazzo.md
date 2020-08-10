@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Gianluca Randazzo
 position: Senior software engineer & memes/gifs seeker
-pic_url: uploads/gianluca-randazzo.jpeg
+pic_url: /uploads/gianluca-randazzo.jpeg
 slug: gianluca-randazzo
 twitter: fusillicode
 youtube: 

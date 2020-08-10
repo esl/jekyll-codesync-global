@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ivy Rogatko
 position: Lead engineer @ The RealReal
-pic_url: uploads/ivy-rogatko.png
+pic_url: /uploads/ivy-rogatko.png
 slug: ivy-rogatko
 twitter: 
 youtube: 

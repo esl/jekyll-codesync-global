@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mike Watters
 position: Lifelong Learner (AdRoll)
-pic_url: uploads/mike-watters.jpeg
+pic_url: /uploads/mike-watters.jpeg
 slug: mike-watters
 twitter: 
 youtube: 

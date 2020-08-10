@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Julien Leclercq
 position: Developper and versatile experimentator
-pic_url: uploads/julien-leclercq.jpeg
+pic_url: /uploads/julien-leclercq.jpeg
 slug: julien-leclercq
 twitter: 
 youtube: 

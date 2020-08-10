@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sonny Scroggin
 position: Rusterlium core team member
-pic_url: uploads/sonny-scroggin.png
+pic_url: /uploads/sonny-scroggin.png
 slug: sonny-scroggin
 twitter: scrogson
 youtube: 

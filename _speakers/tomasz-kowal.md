@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tomasz Kowal
 position: Always making code simpler
-pic_url: uploads/tomasz-kowal.jpeg
+pic_url: /uploads/tomasz-kowal.jpeg
 slug: tomasz-kowal
 twitter: snajper47
 youtube: 

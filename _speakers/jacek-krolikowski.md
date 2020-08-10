@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jacek Królikowski
 position: Creator of Rexbug and Hoplon, chronic optimiser
-pic_url: uploads/jacek-krolikowski.png
+pic_url: /uploads/jacek-krolikowski.png
 slug: jacek-krolikowski
 twitter: nietaki
 youtube: 

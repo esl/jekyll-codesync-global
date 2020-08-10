@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Hans Elias B. Josephsen
 position: Original creator of Rustler
-pic_url: uploads/hans-elias-b-josephsen.png
+pic_url: /uploads/hans-elias-b-josephsen.png
 slug: hans-elias-b-josephsen
 twitter: hansihe
 youtube: 

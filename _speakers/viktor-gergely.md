@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Viktor Gergely
 position: Software Developer
-pic_url: uploads/viktor-gergely.jpeg
+pic_url: /uploads/viktor-gergely.jpeg
 slug: viktor-gergely
 twitter: 
 youtube: 

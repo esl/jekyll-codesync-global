@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Arif Ishaq
 position: Erlang Evangelist
-pic_url: uploads/arif-ishaq.jpeg
+pic_url: /uploads/arif-ishaq.jpeg
 slug: arif-ishaq
 twitter: 
 youtube: 

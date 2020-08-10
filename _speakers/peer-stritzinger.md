@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Peer Stritzinger
 position: Real bare metal Erlang with GRiSP, Board member Erlang Ecosystem Foundation
-pic_url: uploads/peer-stritzinger.png
+pic_url: /uploads/peer-stritzinger.png
 slug: peer-stritzinger
 twitter: peerstr
 youtube: 

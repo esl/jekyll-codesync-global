@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Gianluca Padovani
 position: Elixir Developer, CTO (Coders51)
-pic_url: uploads/gianluca-padovani.png
+pic_url: /uploads/gianluca-padovani.png
 slug: gianluca-padovani
 twitter: gpad619
 youtube: 

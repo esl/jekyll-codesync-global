@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Marco Otto-Witte
 position: Founder of simplabs
-pic_url: uploads/marco-otto-witte.jpeg
+pic_url: /uploads/marco-otto-witte.jpeg
 slug: marco-otto-witte
 twitter: marcoow
 youtube: 

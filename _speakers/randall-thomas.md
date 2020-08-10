@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Randall Thomas
 position: Hacker. Musician. Bon Vivant
-pic_url: uploads/randall-thomas.png
+pic_url: /uploads/randall-thomas.png
 slug: randall-thomas
 twitter: daksis
 youtube: 

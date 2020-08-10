@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tom Hall
 position: Minister without Portfolio at The Department Of Binary Affairs
-pic_url: uploads/tom-hall.png
+pic_url: /uploads/tom-hall.png
 slug: tom-hall
 twitter: thattommyhall
 youtube: 

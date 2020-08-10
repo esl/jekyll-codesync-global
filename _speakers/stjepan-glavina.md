@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Stjepan Glavina
 position: Programmer trying hard to make concurrency easy
-pic_url: uploads/stjepan-glavina.png
+pic_url: /uploads/stjepan-glavina.png
 slug: stjepan-glavina
 twitter: stjepang
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Simon Unge
 position: Erlang software engineer who will start learning Elixir any day now
-pic_url: uploads/simon-unge.png
+pic_url: /uploads/simon-unge.png
 slug: simon-unge
 twitter: 
 youtube: 

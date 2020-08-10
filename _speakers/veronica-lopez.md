@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Veronica Lopez
 position: Sr. Software Engineer
-pic_url: uploads/veronica-lopez.jpeg
+pic_url: /uploads/veronica-lopez.jpeg
 slug: veronica-lopez
 twitter: maria_fibonacci
 youtube: 

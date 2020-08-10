@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Daiyi Sun
 position: Writing code & making drawings
-pic_url: uploads/daiyi-sun.jpeg
+pic_url: /uploads/daiyi-sun.jpeg
 slug: daiyi-sun
 twitter: daiyitastic
 youtube: 

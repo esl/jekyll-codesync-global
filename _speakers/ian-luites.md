@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ian Luites
 position: Beards, Code, Games
-pic_url: uploads/ian-luites.jpeg
+pic_url: /uploads/ian-luites.jpeg
 slug: ian-luites
 twitter: IanLuites
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Peter Saxton
 position: Elixir developer (Pay with Curl)
-pic_url: uploads/peter-saxton.jpeg
+pic_url: /uploads/peter-saxton.jpeg
 slug: peter-saxton
 twitter: CrowdHailer
 youtube: 

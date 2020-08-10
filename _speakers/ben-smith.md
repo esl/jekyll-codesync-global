@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ben Smith
 position: Bringing event sourcing to the functional world of Elixir.
-pic_url: uploads/ben-smith.jpeg
+pic_url: /uploads/ben-smith.jpeg
 slug: ben-smith
 twitter: slashdotdash
 youtube: 

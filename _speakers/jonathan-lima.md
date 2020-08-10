@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jonathan Lima
 position: Software developer at Brex
-pic_url: uploads/jonathan-lima.png
+pic_url: /uploads/jonathan-lima.png
 slug: jonathan-lima
 twitter: gboxmuchacho
 youtube: 

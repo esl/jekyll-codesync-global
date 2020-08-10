@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Keith Salisbury
 position: Programmer, sailor and kitesurfer
-pic_url: uploads/keith-salisbury.jpeg
+pic_url: /uploads/keith-salisbury.jpeg
 slug: keith-salisbury
 twitter: ktec
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jane Walerud
 position: Persuaded Ericsson's management to release Erlang Open Source (​Walerud Ventures​)
-pic_url: uploads/jane-walerud.jpeg
+pic_url: /uploads/jane-walerud.jpeg
 slug: jane-walerud
 twitter: JaneWalerud
 youtube: 

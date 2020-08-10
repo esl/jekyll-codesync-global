@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: John Feminella
 position: Principal advisor at Pivotal
-pic_url: uploads/john-feminella.png
+pic_url: /uploads/john-feminella.png
 slug: john-feminella
 twitter: jxxf
 youtube: 

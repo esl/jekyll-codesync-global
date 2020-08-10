@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sam Williams
 position: CEO (Archain) and PhD Candidate
-pic_url: uploads/sam-williams.jpeg
+pic_url: /uploads/sam-williams.jpeg
 slug: sam-williams
 twitter: samecwilliams
 youtube: 

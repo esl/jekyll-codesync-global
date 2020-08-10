@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Dmitry Kandalov
 position: Software Developer
-pic_url: uploads/dmitry-kandalov.jpeg
+pic_url: /uploads/dmitry-kandalov.jpeg
 slug: dmitry-kandalov
 twitter: dmitrykandalov
 youtube: 

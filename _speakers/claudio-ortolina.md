@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Claudio Ortolina
 position: Working professionally with Elixir since 2014
-pic_url: uploads/claudio-ortolina.jpeg
+pic_url: /uploads/claudio-ortolina.jpeg
 slug: claudio-ortolina
 twitter: cloud8421
 youtube: 

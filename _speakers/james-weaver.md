@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: James Weaver
 position: Developer, Author and Speaker (Pivotal)
-pic_url: uploads/james-weaver.jpeg
+pic_url: /uploads/james-weaver.jpeg
 slug: james-weaver
 twitter: JavaFXpert
 youtube: 

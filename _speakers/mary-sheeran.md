@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mary Sheeran
 position: Professor at Chalmers University of Technology
-pic_url: uploads/mary-sheeran.png
+pic_url: /uploads/mary-sheeran.png
 slug: mary-sheeran
 twitter: 
 youtube: 

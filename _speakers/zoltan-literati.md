@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zoltan Literati
 position: GM of Erlang Solutions Hungary
-pic_url: uploads/zoltan-literati.jpeg
+pic_url: /uploads/zoltan-literati.jpeg
 slug: zoltan-literati
 twitter: literatizoltan
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Dario Freddi
 position: Qt/C++ coder turned to Elixir and passionate about devops (Ispirata)
-pic_url: uploads/dario-freddi.png
+pic_url: /uploads/dario-freddi.png
 slug: dario-freddi
 twitter: drf_av
 youtube: 

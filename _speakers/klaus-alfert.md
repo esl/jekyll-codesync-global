@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Klaus Alfert
 position: Principal Consultant / CTO
-pic_url: uploads/klaus-alfert.jpeg
+pic_url: /uploads/klaus-alfert.jpeg
 slug: klaus-alfert
 twitter: innovation_code
 youtube: 

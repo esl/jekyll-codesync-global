@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Frieder Nake
 position: Pioneer of algorithmic art, first exhibition in 1965
-pic_url: uploads/frieder-nake.png
+pic_url: /uploads/frieder-nake.png
 slug: frieder-nake
 twitter: CarlCanary
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Michal Muskala
 position: Software engineer, speaker, trainer, open source. Erlang, Elixir, Ruby.
-pic_url: uploads/michal-muskala52.png
+pic_url: /uploads/michal-muskala52.png
 slug: michal-muskala52
 twitter: michalmuskala
 youtube: 

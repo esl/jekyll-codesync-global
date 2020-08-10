@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Dylan Beattie
 position: CTO at Skills Matter
-pic_url: uploads/dylan-beattie.png
+pic_url: /uploads/dylan-beattie.png
 slug: dylan-beattie
 twitter: dylanbeattie
 youtube: 

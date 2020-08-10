@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bruce Tate
 position: Author, editor, founder of grox.io
-pic_url: uploads/bruce-tate.png
+pic_url: /uploads/bruce-tate.png
 slug: bruce-tate
 twitter: redrapids
 youtube: 

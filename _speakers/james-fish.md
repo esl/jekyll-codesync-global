@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: James Fish
 position: Software Engineer (Pinterest)
-pic_url: uploads/james-fish.jpeg
+pic_url: /uploads/james-fish.jpeg
 slug: james-fish
 twitter: fishcodes
 youtube: 

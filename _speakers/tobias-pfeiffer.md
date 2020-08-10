@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tobias Pfeiffer
 position: Benchee Creator & freelancer getting people on the BEAM
-pic_url: uploads/tobias-pfeiffer.png
+pic_url: /uploads/tobias-pfeiffer.png
 slug: tobias-pfeiffer
 twitter: PragTob
 youtube: 

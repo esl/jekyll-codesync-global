@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Daniel Widgren
 position: Launched Nova
-pic_url: uploads/daniel-widgren.png
+pic_url: /uploads/daniel-widgren.png
 slug: daniel-widgren
 twitter: 
 youtube: 

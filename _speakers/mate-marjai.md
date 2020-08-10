@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Máté Marjai
 position: (Testing Pays)
-pic_url: uploads/mate-marjai.jpeg
+pic_url: /uploads/mate-marjai.jpeg
 slug: mate-marjai
 twitter: marjaimate
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Chad Gibbons
 position: Architect, Developer, & Engineering Leader (Alert Logic)
-pic_url: uploads/chad-gibbons.jpeg
+pic_url: /uploads/chad-gibbons.jpeg
 slug: chad-gibbons
 twitter: dcgibbons
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Peter Van Roy
 position: Distributed systems guru
-pic_url: uploads/peter-van-roy.png
+pic_url: /uploads/peter-van-roy.png
 slug: peter-van-roy
 twitter: PeterLodewijk
 youtube: 

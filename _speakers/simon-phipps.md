@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Simon Phipps
 position: President @ Open Source Initiative
-pic_url: uploads/simon-phipps.jpeg
+pic_url: /uploads/simon-phipps.jpeg
 slug: simon-phipps
 twitter: webmink
 youtube: 

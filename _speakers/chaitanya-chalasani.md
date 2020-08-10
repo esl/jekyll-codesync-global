@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Chaitanya Chalasani
 position: Using Erlang and Incubating Erlang Teams in India since 2003
-pic_url: uploads/chaitanya-chalasani.png
+pic_url: /uploads/chaitanya-chalasani.png
 slug: chaitanya-chalasani
 twitter: chaitanyach
 youtube: 

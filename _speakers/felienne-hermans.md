@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Felienne Hermans
 position: ​Assistant Professor​ ​Delft University of Technology​
-pic_url: uploads/felienne-hermans.jpeg
+pic_url: /uploads/felienne-hermans.jpeg
 slug: felienne-hermans
 twitter: ​Felienne
 youtube: 

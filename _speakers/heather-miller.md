@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Heather Miller
 position: Assistant Professor, School of Computer Science at Carnegie Mellon University
-pic_url: uploads/heather-miller.jpeg
+pic_url: /uploads/heather-miller.jpeg
 slug: heather-miller
 twitter: heathercmiller
 youtube: 

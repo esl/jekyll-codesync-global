@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Simon Escobar Benitez
 position: Colombian Software Engineer (Erlang Solutions)
-pic_url: uploads/simon-escobar-benitez.png
+pic_url: /uploads/simon-escobar-benitez.png
 slug: simon-escobar-benitez
 twitter: sescob27
 youtube: 

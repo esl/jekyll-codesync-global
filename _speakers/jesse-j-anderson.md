@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jesse J. Anderson
 position: Front End Designer (Planning Center)
-pic_url: uploads/jesse-j-anderson.jpeg
+pic_url: /uploads/jesse-j-anderson.jpeg
 slug: jesse-j-anderson
 twitter: jessejanderson
 youtube: 

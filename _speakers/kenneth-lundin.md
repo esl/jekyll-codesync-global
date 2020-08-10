@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kenneth Lundin
 position: Head of the Erlang/OTP Team at Ericsson
-pic_url: uploads/kenneth-lundin.png
+pic_url: /uploads/kenneth-lundin.png
 slug: kenneth-lundin
 twitter: 
 youtube: 

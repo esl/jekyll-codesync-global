@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: David Brinnen
 position: Versatile software and Embedded Systems Engineer (Energy Machines)
-pic_url: uploads/david-brinnen.jpeg
+pic_url: /uploads/david-brinnen.jpeg
 slug: david-brinnen
 twitter: 
 youtube: 

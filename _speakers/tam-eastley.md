@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tam Eastley
 position: Developer (Liefery), avid reader
-pic_url: uploads/tam-eastley.jpeg
+pic_url: /uploads/tam-eastley.jpeg
 slug: tam-eastley
 twitter: 
 youtube: 

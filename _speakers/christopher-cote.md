@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Christopher Coté
 position: Technology, Sustainability, Food but Not Always in That Order! (Entropealabs)
-pic_url: uploads/christopher-cote.jpeg
+pic_url: /uploads/christopher-cote.jpeg
 slug: christopher-cote
 twitter: entropealab
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bernardo Amorim
 position: Built a bank using Elixir and created a Word to HTML converter in Ruby that also converted math formulas to MathML.
-pic_url: uploads/bernardo-amorim.jpeg
+pic_url: /uploads/bernardo-amorim.jpeg
 slug: bernardo-amorim
 twitter: BernardoDCGA
 youtube: 

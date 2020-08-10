@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bryan Hunt
 position: Open source contributor, solutions architect at Erlang solutions
-pic_url: uploads/bryan-hunt.png
+pic_url: /uploads/bryan-hunt.png
 slug: bryan-hunt
 twitter: binarytemple
 youtube: 

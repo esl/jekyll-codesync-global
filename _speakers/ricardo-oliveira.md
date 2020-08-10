@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ricardo Oliveira
 position: Technical lead and senior software engineer @ Talkdesk
-pic_url: uploads/ricardo-oliveira.png
+pic_url: /uploads/ricardo-oliveira.png
 slug: ricardo-oliveira
 twitter: picaoao
 youtube: 

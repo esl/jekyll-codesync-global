@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Aditya Giri
 position: Software developer
-pic_url: uploads/aditya-giri.jpeg
+pic_url: /uploads/aditya-giri.jpeg
 slug: aditya-giri
 twitter: brainbuzzerme
 youtube: 

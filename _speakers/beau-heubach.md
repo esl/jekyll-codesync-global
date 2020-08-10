@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Beau Heubach
 position: Pixel Pushing User Advocate
-pic_url: uploads/beau-heubach.jpeg
+pic_url: /uploads/beau-heubach.jpeg
 slug: beau-heubach
 twitter: rheubach
 youtube: 

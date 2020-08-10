@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Liesbeth De Mol
 position: CRCN (permanent researcher) at CNRS
-pic_url: uploads/liesbeth-de-mol.png
+pic_url: /uploads/liesbeth-de-mol.png
 slug: liesbeth-de-mol
 twitter: 
 youtube: 

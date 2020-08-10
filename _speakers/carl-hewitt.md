@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Carl Hewitt
 position: Founder Actor Model and Inference Robustness. Designer of first logic programming language. Emeritus professor
-pic_url: uploads/carl-hewitt.jpeg
+pic_url: /uploads/carl-hewitt.jpeg
 slug: carl-hewitt
 twitter: CarlHewitt
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Paul Schoenfelder
 position: Prolific open source contributor, borderline workaholic. Speaker @ ElixirConf, Code BEAM SF, LoneStar Elixir
-pic_url: uploads/paul-schoenfelder.png
+pic_url: /uploads/paul-schoenfelder.png
 slug: paul-schoenfelder
 twitter: gotbones
 youtube: 

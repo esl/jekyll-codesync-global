@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Cees de Groot
 position: Principal engineer at PagerDuty, Inc.
-pic_url: uploads/cees-de-groot.png
+pic_url: /uploads/cees-de-groot.png
 slug: cees-de-groot
 twitter: cdegroot
 youtube: 

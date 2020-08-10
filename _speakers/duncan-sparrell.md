@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Duncan Sparrell
 position: Cyber security expert at sFractal Consulting
-pic_url: uploads/duncan-sparrell.png
+pic_url: /uploads/duncan-sparrell.png
 slug: duncan-sparrell
 twitter: dsparrell
 youtube: 

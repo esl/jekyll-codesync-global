@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Miriam Pena
 position: Voted one of the women to watch in tech by Women 2.0
-pic_url: uploads/miriam-pena.jpeg
+pic_url: /uploads/miriam-pena.jpeg
 slug: miriam-pena
 twitter: miriampena
 youtube: 

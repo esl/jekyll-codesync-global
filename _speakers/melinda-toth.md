@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Melinda Tóth
 position: Leader of the RefactorErl Project
-pic_url: uploads/melinda-toth.jpeg
+pic_url: /uploads/melinda-toth.jpeg
 slug: melinda-toth
 twitter: 
 youtube: 

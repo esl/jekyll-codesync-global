@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Dániel Szoboszlay
 position: Lead Engineer
-pic_url: uploads/daniel-szoboszlay.jpeg
+pic_url: /uploads/daniel-szoboszlay.jpeg
 slug: daniel-szoboszlay
 twitter: 
 youtube: 

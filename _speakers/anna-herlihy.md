@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Anna Herlihy
 position: Senior engineer at MongoDB
-pic_url: uploads/anna-herlihy.png
+pic_url: /uploads/anna-herlihy.png
 slug: anna-herlihy
 twitter: annaisworking
 youtube: 

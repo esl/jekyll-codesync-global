@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tony Han
 position: Senior Platform Engineer at Tubi
-pic_url: uploads/tony-han.jpeg
+pic_url: /uploads/tony-han.jpeg
 slug: tony-han
 twitter: 
 youtube: 

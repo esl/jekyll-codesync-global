@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Matteo	Brancaleoni
 position: Software Engineer (VoiSmart Srl)
-pic_url: uploads/matteo-brancaleoni.png
+pic_url: /uploads/matteo-brancaleoni.png
 slug: matteo-brancaleoni
 twitter: mbrancaleoni
 youtube: 

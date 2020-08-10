@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Philipp Piwowarsky
 position: Blockchain Engineer (æternity)
-pic_url: uploads/philipp-piwowarsky.jpeg
+pic_url: /uploads/philipp-piwowarsky.jpeg
 slug: philipp-piwowarsky
 twitter: 
 youtube: 

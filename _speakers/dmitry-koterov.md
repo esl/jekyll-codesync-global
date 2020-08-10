@@ -5,7 +5,7 @@ google:
 linkedin: koterov
 name: Dmitry Koterov
 position: Lead developer @ WhatsApp
-pic_url: uploads/dmitry-koterov.png
+pic_url: /uploads/dmitry-koterov.png
 slug: dmitry-koterov
 twitter: 
 youtube: 

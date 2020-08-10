@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Francesco Cesarini
 position: Co-author of Designing for scalability with Erlang/OTP
-pic_url: uploads/francesco-cesarini.png
+pic_url: /uploads/francesco-cesarini.png
 slug: francesco-cesarini
 twitter: FrancescoC
 youtube: 

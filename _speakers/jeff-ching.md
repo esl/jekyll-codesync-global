@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jeff Ching
 position: Software Engineer (Google)
-pic_url: uploads/jeff-ching.jpeg
+pic_url: /uploads/jeff-ching.jpeg
 slug: jeff-ching
 twitter: chingor
 youtube: 

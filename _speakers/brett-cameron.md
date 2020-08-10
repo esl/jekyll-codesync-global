@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Brett Cameron
 position: VP of open source applications and services at VMS Software, RabbitMQ expert
-pic_url: uploads/brett-cameron.png
+pic_url: /uploads/brett-cameron.png
 slug: brett-cameron
 twitter: brc859844
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Matthew Nowack
 position: Senior backend engineer at Discord
-pic_url: uploads/matthew-nowack.png
+pic_url: /uploads/matthew-nowack.png
 slug: matthew-nowack
 twitter: ihumanable
 youtube: 

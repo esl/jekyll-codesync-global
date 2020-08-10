@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Eric Saxby
 position: Senior software engineer at Sparta Science
-pic_url: uploads/eric-saxby.png
+pic_url: /uploads/eric-saxby.png
 slug: eric-saxby
 twitter: ecdysone
 youtube: 

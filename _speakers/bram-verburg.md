@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bram Verburg
 position: Relentless '{verify, verify_peer}' ssl option advocate
-pic_url: uploads/bram-verburg.jpeg
+pic_url: /uploads/bram-verburg.jpeg
 slug: bram-verburg
 twitter: voltonez
 youtube: 

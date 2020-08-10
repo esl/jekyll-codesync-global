@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Boris Kuznetsov
 position: Backend Developer (Evrone)
-pic_url: uploads/boris-kuznetsov.jpeg
+pic_url: /uploads/boris-kuznetsov.jpeg
 slug: boris-kuznetsov
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: László Bácsi
 position: Elixir contributor, Documentation EEF group member and 100Starlings partner
-pic_url: uploads/laszlo-bacsi.png
+pic_url: /uploads/laszlo-bacsi.png
 slug: laszlo-bacsi
 twitter: icanscale
 youtube: 

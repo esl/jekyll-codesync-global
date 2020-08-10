@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Johnny Winn
 position: Host of the Elixir Fountain podcast
-pic_url: uploads/johnny-winn.jpeg
+pic_url: /uploads/johnny-winn.jpeg
 slug: johnny-winn
 twitter: johnny_rugger
 youtube: 

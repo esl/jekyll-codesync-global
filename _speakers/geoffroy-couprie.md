@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Geoffroy Couprie
 position: Security engineer
-pic_url: uploads/geoffroy-couprie.jpeg
+pic_url: /uploads/geoffroy-couprie.jpeg
 slug: geoffroy-couprie
 twitter: gcouprie
 youtube: 

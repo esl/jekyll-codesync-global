@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Aaron Seigo
 position: Free software hippy with a twist of capitalism.
-pic_url: uploads/aaron-seigo.png
+pic_url: /uploads/n-seigo.png
 slug: aaron-seigo
 twitter: 
 youtube: 

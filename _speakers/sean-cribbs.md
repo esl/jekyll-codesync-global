@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sean Cribbs
 position: Staff software engineer at Postmates
-pic_url: uploads/sean-cribbs.png
+pic_url: /uploads/sean-cribbs.png
 slug: sean-cribbs
 twitter: seancribbs
 youtube: 

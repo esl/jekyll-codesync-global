@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Rafal Studnicki
 position: Elixir Team Lead
-pic_url: uploads/rafal-studnicki.jpeg
+pic_url: /uploads/rafal-studnicki.jpeg
 slug: rafal-studnicki
 twitter: 
 youtube: 

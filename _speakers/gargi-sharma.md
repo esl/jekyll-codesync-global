@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Gargi Sharma
 position: Hopeful systems programming romantic, systems engineer at Tarides
-pic_url: uploads/gargi-sharma.png
+pic_url: /uploads/gargi-sharma.png
 slug: gargi-sharma
 twitter: gawwrgi
 youtube: 

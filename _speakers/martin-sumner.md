@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Martin Sumner
 position: Worked long enough in networks, to always blame the application
-pic_url: uploads/martin-sumner.png
+pic_url: /uploads/martin-sumner.png
 slug: martin-sumner
 twitter: masleeds
 youtube: 

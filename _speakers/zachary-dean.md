@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zachary Dean
 position: Data-driven developer
-pic_url: uploads/zachary-dean.jpeg
+pic_url: /uploads/zachary-dean.jpeg
 slug: zachary-dean
 twitter: ZacharyNDean
 youtube: 

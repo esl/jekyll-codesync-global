@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Benoit Chesneau
 position: Founder of Enki Multimedia, author of many open-source libraries written in Erlang & Python including Barrel, Hackney & Gunicorn
-pic_url: uploads/benoit-chesneau.png
+pic_url: /uploads/benoit-chesneau.png
 slug: benoit-chesneau
 twitter: benoitc
 youtube: 

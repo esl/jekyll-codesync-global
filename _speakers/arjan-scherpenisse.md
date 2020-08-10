@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Arjan Scherpenisse
 position: Elixir evangelist, Chatbot metaprogrammer, Appsignal author and Zotonic core developer
-pic_url: uploads/arjan-scherpenisse.jpeg
+pic_url: /uploads/arjan-scherpenisse.jpeg
 slug: arjan-scherpenisse
 twitter: acscherp
 youtube: 

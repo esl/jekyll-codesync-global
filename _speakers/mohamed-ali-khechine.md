@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mohamed Ali Khechine
 position: Monitoring every corner of the BEAM
-pic_url: uploads/mohamed-ali-khechine.jpeg
+pic_url: /uploads/mohamed-ali-khechine.jpeg
 slug: mohamed-ali-khechine
 twitter: 
 youtube: 

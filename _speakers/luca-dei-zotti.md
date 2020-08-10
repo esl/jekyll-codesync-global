@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Luca Dei Zotti
 position: Developer at Athonet S.r.l.
-pic_url: uploads/luca-dei-zotti.jpeg
+pic_url: /uploads/luca-dei-zotti.jpeg
 slug: luca-dei-zotti
 twitter: zoten_deschain
 youtube: 

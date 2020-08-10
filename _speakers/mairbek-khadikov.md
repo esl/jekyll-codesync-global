@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mairbek Khadikov
 position: Software engineer @ Brex
-pic_url: uploads/mairbek-khadikov.png
+pic_url: /uploads/mairbek-khadikov.png
 slug: mairbek-khadikov
 twitter: mairbek
 youtube: 

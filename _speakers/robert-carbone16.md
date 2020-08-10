@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Robert	Carbone
 position: Visualizing the BEAM will Change the World
-pic_url: uploads/robert-carbone16.jpeg
+pic_url: /uploads/robert-carbone16.jpeg
 slug: robert-carbone16
 twitter: ScriptCulture
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mikael Muszynski
 position: Elixir consultant, Haskell amateur, tea enthusiast
-pic_url: uploads/mikael-muszynski.jpeg
+pic_url: /uploads/mikael-muszynski.jpeg
 slug: mikael-muszynski
 twitter: linduxed
 youtube: 

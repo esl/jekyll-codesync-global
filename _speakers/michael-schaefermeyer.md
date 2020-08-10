@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Michael Schaefermeyer
 position: Successfully taught Elixir to juniors and built start-ups in it
-pic_url: uploads/michael-schaefermeyer.png
+pic_url: /uploads/michael-schaefermeyer.png
 slug: michael-schaefermeyer
 twitter: mschae
 youtube: 

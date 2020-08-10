@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Yann Schwartz
 position: Software Engineer
-pic_url: uploads/yann-schwartz.png
+pic_url: /uploads/yann-schwartz.png
 slug: yann-schwartz
 twitter: abolibibelot
 youtube: 

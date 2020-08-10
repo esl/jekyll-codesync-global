@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tom Harding
 position: Lead Engineer (PureScript/Haskell)
-pic_url: uploads/tom-harding.jpeg
+pic_url: /uploads/tom-harding.jpeg
 slug: tom-harding
 twitter: am_i_tom
 youtube: 

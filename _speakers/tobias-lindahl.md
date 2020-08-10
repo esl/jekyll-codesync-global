@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tobias Lindahl
 position: Erlang Beard, creator of Dialyzer
-pic_url: uploads/tobias-lindahl.jpeg
+pic_url: /uploads/tobias-lindahl.jpeg
 slug: tobias-lindahl
 twitter: LindahlTobias
 youtube: 

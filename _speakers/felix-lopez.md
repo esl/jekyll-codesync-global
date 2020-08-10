@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Felix Lopez
 position: Research Master
-pic_url: uploads/felix-lopez.jpeg
+pic_url: /uploads/felix-lopez.jpeg
 slug: felix-lopez
 twitter: flopezluis
 youtube: 

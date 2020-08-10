@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Murali Kashaboina
 position: CEO (Entrigna), Former MD of Enterprise Architecture (United Airlines)
-pic_url: uploads/murali-kashaboina.jpeg
+pic_url: /uploads/murali-kashaboina.jpeg
 slug: murali-kashaboina
 twitter: 
 youtube: 

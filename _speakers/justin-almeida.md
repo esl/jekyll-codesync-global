@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Justin Almeida
 position: Staff software engineer at Change.org, using Elixir to empower users to make the change they want to see
-pic_url: uploads/justin-almeida.png
+pic_url: /uploads/justin-almeida.png
 slug: justin-almeida
 twitter: 
 youtube: 

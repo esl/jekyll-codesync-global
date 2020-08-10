@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Omer Kilic
 position: .
-pic_url: uploads/omer-kilic.png
+pic_url: /uploads/omer-kilic.png
 slug: omer-kilic
 twitter: omerk
 youtube: 

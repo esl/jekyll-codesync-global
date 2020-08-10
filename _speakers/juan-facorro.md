@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Juan Facorro
 position: Creator of Clojure on the BEAM and contributor to Elvis
-pic_url: uploads/juan-facorro.png
+pic_url: /uploads/juan-facorro.png
 slug: juan-facorro
 twitter: jfacorro
 youtube: 

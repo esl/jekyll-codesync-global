@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Eric Meadows-Jönsson
 position: Elixir team member, creator of Hex and Ecto (Cabify)
-pic_url: uploads/eric-meadows-joensson.jpeg
+pic_url: /uploads/eric-meadows-joensson.jpeg
 slug: eric-meadows-joensson
 twitter: emjii
 youtube: 

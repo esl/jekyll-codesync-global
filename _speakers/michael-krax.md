@@ -5,7 +5,7 @@ google:
 linkedin: mkrax/en
 name: Michael Krax
 position: VP Engineering at Qixxit
-pic_url: uploads/michael-krax.png
+pic_url: /uploads/michael-krax.png
 slug: michael-krax
 twitter: mk_mkx
 youtube: 

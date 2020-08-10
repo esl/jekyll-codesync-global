@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Phil Freeman
 position: Lead engineer at Lumi
-pic_url: uploads/phil-freeman.jpeg
+pic_url: /uploads/phil-freeman.jpeg
 slug: phil-freeman
 twitter: paf31
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Todd Resudek
 position: Hex Core team member and Lead engineer
-pic_url: uploads/todd-resudek.png
+pic_url: /uploads/todd-resudek.png
 slug: todd-resudek
 twitter: sprsmpl
 youtube: 

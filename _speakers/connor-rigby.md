@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Connor Rigby
 position: Embedded systems engineer at Farmbot, Inc
-pic_url: uploads/connor-rigby.png
+pic_url: /uploads/connor-rigby.png
 slug: connor-rigby
 twitter: PressY4Pie
 youtube: 

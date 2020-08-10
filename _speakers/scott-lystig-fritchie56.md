@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Scott Lystig Fritchie
 position: Stuck in distributed systems tarpits for 30 years
-pic_url: uploads/scott-lystig-fritchie56.jpeg
+pic_url: /uploads/scott-lystig-fritchie56.jpeg
 slug: scott-lystig-fritchie56
 twitter: slfritchie
 youtube: 

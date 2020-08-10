@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Garrett Smith
 position: Founder Guild AI, deep learning engineer and teacher
-pic_url: uploads/garrett-smith.png
+pic_url: /uploads/garrett-smith.png
 slug: garrett-smith
 twitter: gar1t
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Edwin Brady
 position: Creator of the Idris programming language; Lecturer
-pic_url: uploads/edwin-brady.png
+pic_url: /uploads/edwin-brady.png
 slug: edwin-brady
 twitter: edwinbrady
 youtube: 

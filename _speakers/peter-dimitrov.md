@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Peter Dimitrov
 position: FP enthusiast; key contributor to the Erlang implementation of TLS 1.3
-pic_url: uploads/peter-dimitrov.png
+pic_url: /uploads/peter-dimitrov.png
 slug: peter-dimitrov
 twitter: peterdmv
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Maciej Kaszubowski
 position: Software Developer at AppUnite, Computer Science student
-pic_url: uploads/maciej-kaszubowski.jpeg
+pic_url: /uploads/maciej-kaszubowski.jpeg
 slug: maciej-kaszubowski
 twitter: mkaszubowski94
 youtube: 

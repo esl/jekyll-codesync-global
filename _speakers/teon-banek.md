@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Teon Banek
 position: Senior software engineer at Memgraph Ltd.
-pic_url: uploads/teon-banek.png
+pic_url: /uploads/teon-banek.png
 slug: teon-banek
 twitter: 
 youtube: 

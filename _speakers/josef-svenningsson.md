@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Josef Svenningsson
 position: Programming Language Nerd (Ericsson)
-pic_url: uploads/josef-svenningsson.jpeg
+pic_url: /uploads/josef-svenningsson.jpeg
 slug: josef-svenningsson
 twitter: 
 youtube: 

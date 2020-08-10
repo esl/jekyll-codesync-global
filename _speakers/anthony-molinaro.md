@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Anthony Molinaro
 position: Architecture (OpenX, Inc.)
-pic_url: uploads/anthony-molinaro.jpeg
+pic_url: /uploads/anthony-molinaro.jpeg
 slug: anthony-molinaro
 twitter: djnym
 youtube: 

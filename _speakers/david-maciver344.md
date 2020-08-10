@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: David MacIver
 position: Creator of Hypothesis
-pic_url: uploads/david-maciver344.png
+pic_url: /uploads/david-maciver344.png
 slug: david-maciver344
 twitter: 
 youtube: 

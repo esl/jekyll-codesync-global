@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sean T.  Allen
 position: Pony core team member (Wallaroo Labs)
-pic_url: uploads/sean-t-allen142.jpeg
+pic_url: /uploads/sean-t-allen142.jpeg
 slug: sean-t-allen142
 twitter: seantallen
 youtube: 

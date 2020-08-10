@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Hakan Mattsson
 position: Wrote escript, reltool, megaco - attended all EUC's since 1997
-pic_url: uploads/hakan-mattsson.jpeg
+pic_url: /uploads/hakan-mattsson.jpeg
 slug: hakan-mattsson
 twitter: 
 youtube: 

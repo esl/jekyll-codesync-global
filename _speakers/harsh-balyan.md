@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Harsh Balyan
 position: Senior software engineer @ Scripbox
-pic_url: uploads/harsh-balyan.png
+pic_url: /uploads/harsh-balyan.png
 slug: harsh-balyan
 twitter: 
 youtube: 

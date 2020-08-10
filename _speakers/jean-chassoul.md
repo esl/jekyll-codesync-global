@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jean Chassoul
 position: Software designer
-pic_url: uploads/jean-chassoul.png
+pic_url: /uploads/jean-chassoul.png
 slug: jean-chassoul
 twitter: jchassoul
 youtube: 

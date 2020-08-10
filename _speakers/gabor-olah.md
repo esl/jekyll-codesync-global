@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Gabor Olah
 position: Software engineer and trainer
-pic_url: uploads/gabor-olah.jpeg
+pic_url: /uploads/gabor-olah.jpeg
 slug: gabor-olah
 twitter: olikasg
 youtube: 

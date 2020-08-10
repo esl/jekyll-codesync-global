@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bryan Hughes
 position: Entrepreneur, Innovative and Creative Thinker, CTO of IoT (Space Time Insight)
-pic_url: uploads/bryan-hughes.jpeg
+pic_url: /uploads/bryan-hughes.jpeg
 slug: bryan-hughes
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: magnorsky
 name: Andrea Magnorsky
 position: Functional languages programmer
-pic_url: uploads/andrea-magnorsky.png
+pic_url: /uploads/andrea-magnorsky.png
 slug: andrea-magnorsky
 twitter: silverspoon
 youtube: 

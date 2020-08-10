@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Edmond Begumisa
 position: Experienced enterprise Erlanger building scalable medical messaging systems @ Medical-Objects Pty Ltd.
-pic_url: uploads/edmond-begumisa.jpeg
+pic_url: /uploads/edmond-begumisa.jpeg
 slug: edmond-begumisa
 twitter: 
 youtube: 

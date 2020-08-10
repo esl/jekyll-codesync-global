@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Paul Rogers
 position: Independent Software Developer (Knoxen)
-pic_url: uploads/paul-rogers.jpeg
+pic_url: /uploads/paul-rogers.jpeg
 slug: paul-rogers
 twitter: 
 youtube: 

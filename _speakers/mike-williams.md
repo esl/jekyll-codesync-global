@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mike Williams
 position: Erlang Co-Inventor
-pic_url: uploads/mike-williams.jpeg
+pic_url: /uploads/mike-williams.jpeg
 slug: mike-williams
 twitter: 
 youtube: 

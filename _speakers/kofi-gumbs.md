@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kofi Gumbs
 position: Elm Programmer (HubTran)
-pic_url: uploads/kofi-gumbs.jpeg
+pic_url: /uploads/kofi-gumbs.jpeg
 slug: kofi-gumbs
 twitter: hkgumbs
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tetiana Dushenkivska
 position: Software Engineer
-pic_url: uploads/tetiana-dushenkivska.jpeg
+pic_url: /uploads/tetiana-dushenkivska.jpeg
 slug: tetiana-dushenkivska
 twitter: tetiana12345678
 youtube: 

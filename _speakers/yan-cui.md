@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Yan Cui
 position: Principal Engineer (DAZN)
-pic_url: uploads/yan-cui.png
+pic_url: /uploads/yan-cui.png
 slug: yan-cui
 twitter: theburningmonk
 youtube: 

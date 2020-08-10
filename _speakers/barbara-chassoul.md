@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Barbara Chassoul
 position: Software engineer at Peer Stritzinger GmbH
-pic_url: uploads/barbara-chassoul.png
+pic_url: /uploads/barbara-chassoul.png
 slug: barbara-chassoul
 twitter: chassoula
 youtube: 

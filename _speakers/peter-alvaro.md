@@ -5,7 +5,7 @@ google:
 linkedin: peteralvaro
 name: Peter Alvaro
 position: Computer Science Assistant Professor at the University of California
-pic_url: uploads/peter-alvaro.png
+pic_url: /uploads/peter-alvaro.png
 slug: peter-alvaro
 twitter: palvaro
 youtube: 

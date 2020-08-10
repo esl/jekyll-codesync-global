@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tonći Galić
 position: [alchemist, polyglot, rower, beerlover, father]
-pic_url: uploads/tonci-galic.jpeg
+pic_url: /uploads/tonci-galic.jpeg
 slug: tonci-galic
 twitter: Tuxified
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Robert Virding
 position: Co-creator of Erlang, Trainer
-pic_url: uploads/robert-virding.png
+pic_url: /uploads/robert-virding.png
 slug: robert-virding
 twitter: rvirding
 youtube: 

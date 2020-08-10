@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Willem de Jong
 position: Creator of open source Erlang implementations of XML, SOAP, GRPC
-pic_url: uploads/willem-de-jong.jpeg
+pic_url: /uploads/willem-de-jong.jpeg
 slug: willem-de-jong
 twitter: 
 youtube: 

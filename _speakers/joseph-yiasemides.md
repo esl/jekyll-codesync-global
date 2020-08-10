@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Joseph Yiasemides
 position: Software engineer	at Port Zero GmbH
-pic_url: uploads/joseph-yiasemides.jpeg
+pic_url: /uploads/joseph-yiasemides.jpeg
 slug: joseph-yiasemides
 twitter: _dzol_
 youtube: 

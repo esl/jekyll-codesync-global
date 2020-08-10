@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Miles Sabin
 position: Type astronaut, Typelevel co-founder and Shapeless hacker
-pic_url: uploads/miles-sabin.jpeg
+pic_url: /uploads/miles-sabin.jpeg
 slug: miles-sabin
 twitter: milessabin
 youtube: 

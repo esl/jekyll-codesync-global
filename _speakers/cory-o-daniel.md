@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Cory O'Daniel
 position: Creator of Bonny the Elixir-based Kubernetes Development Framework and the k8s Elixir client
-pic_url: uploads/cory-o-daniel.png
+pic_url: /uploads/cory-o-daniel.png
 slug: cory-o-daniel
 twitter: coryodaniel
 youtube: 

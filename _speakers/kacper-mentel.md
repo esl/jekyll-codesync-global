@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kacper Mentel
 position: RabbitMQ enthusiast and Erlang practitioner
-pic_url: uploads/kacper-mentel.png
+pic_url: /uploads/kacper-mentel.png
 slug: kacper-mentel
 twitter: 
 youtube: 

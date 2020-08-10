@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tjaco Oostdijk
 position: Developer / Consultant
-pic_url: uploads/tjaco-oostdijk.jpeg
+pic_url: /uploads/tjaco-oostdijk.jpeg
 slug: tjaco-oostdijk
 twitter: drumusician
 youtube: 

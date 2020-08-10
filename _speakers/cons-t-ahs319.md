@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Cons T. Ahs
 position: Core developer of network device and network configuration, technical leader @ Cisco
-pic_url: uploads/cons-t-ahs319.png
+pic_url: /uploads/cons-t-ahs319.png
 slug: cons-t-ahs319
 twitter: lisztspace
 youtube: 

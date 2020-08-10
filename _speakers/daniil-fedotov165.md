@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Daniil Fedotov
 position: RabbitMQ core developer, Erlang and Elixir contributor
-pic_url: uploads/daniil-fedotov165.jpeg
+pic_url: /uploads/daniil-fedotov165.jpeg
 slug: daniil-fedotov165
 twitter: hairyhum_
 youtube: 

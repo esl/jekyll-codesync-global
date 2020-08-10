@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Paul Valckenaers
 position: Senior researcher at UCLL and KU Leuven
-pic_url: uploads/paul-valckenaers.png
+pic_url: /uploads/paul-valckenaers.png
 slug: paul-valckenaers
 twitter: 
 youtube: 

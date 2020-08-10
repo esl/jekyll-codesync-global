@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Szymon Mentel
 position: Senior System Engineer at Erlang Solutions
-pic_url: uploads/szymon-mentel.png
+pic_url: /uploads/szymon-mentel.png
 slug: szymon-mentel
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jeff Weiss
 position: Knows more about SCADA protocols than he cares to, Senior Software Engineer @ Enbala Power Networks
-pic_url: uploads/jeff-weiss.png
+pic_url: /uploads/jeff-weiss.png
 slug: jeff-weiss
 twitter: jeffweiss
 youtube: 

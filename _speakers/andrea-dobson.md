@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Andrea	Dobson
 position: Counseling psychologist/GZ psychologist
-pic_url: uploads/andrea-dobson.jpeg
+pic_url: /uploads/andrea-dobson.jpeg
 slug: andrea-dobson
 twitter: 
 youtube: 

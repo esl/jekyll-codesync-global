@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Brian Troutwine
 position: Low-level systems engineer on the Dropbox Performance team. Has thoughts about spacecraft.
-pic_url: uploads/brian-troutwine.jpeg
+pic_url: /uploads/brian-troutwine.jpeg
 slug: brian-troutwine
 twitter: bltroutwine
 youtube: 

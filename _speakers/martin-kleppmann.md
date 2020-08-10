@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Martin Kleppmann
 position: Distributed systems researcher and O'Reilly author
-pic_url: uploads/martin-kleppmann.png
+pic_url: /uploads/martin-kleppmann.png
 slug: martin-kleppmann
 twitter: martinkl
 youtube: 

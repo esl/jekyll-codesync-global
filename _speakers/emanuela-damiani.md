@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Emanuela Damiani
 position: User Experience Designer for Firefox
-pic_url: uploads/emanuela-damiani.png
+pic_url: /uploads/emanuela-damiani.png
 slug: emanuela-damiani
 twitter: 
 youtube: 

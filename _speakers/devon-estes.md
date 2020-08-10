@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Devon Estes
 position: Maintainer of Benchee & Elixir track on exercism.io
-pic_url: uploads/devon-estes.jpeg
+pic_url: /uploads/devon-estes.jpeg
 slug: devon-estes
 twitter: devoncestes
 youtube: 

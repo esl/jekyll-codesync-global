@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jörgen Brandt
 position: PhD student (Humboldt-Universität zu Berlin)
-pic_url: uploads/joergen-brandt.jpeg
+pic_url: /uploads/joergen-brandt.jpeg
 slug: joergen-brandt
 twitter: joergenbr
 youtube: 

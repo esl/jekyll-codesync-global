@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Unnawut Leepaisalsuwanna
 position: Building white-label, blockchain-compatible, e-wallet backend for OmiseGO
-pic_url: uploads/unnawut-leepaisalsuwanna.jpeg
+pic_url: /uploads/unnawut-leepaisalsuwanna.jpeg
 slug: unnawut-leepaisalsuwanna
 twitter: unnawut
 youtube: 

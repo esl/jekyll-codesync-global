@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sylvan Clebsch
 position: Designer Pony programming language
-pic_url: uploads/sylvan-clebsch.jpeg
+pic_url: /uploads/sylvan-clebsch.jpeg
 slug: sylvan-clebsch
 twitter: 
 youtube: 

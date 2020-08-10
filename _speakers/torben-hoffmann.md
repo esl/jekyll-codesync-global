@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Torben Hoffmann
 position: Software engineer  (Alert Logic)
-pic_url: uploads/torben-hoffmann.jpeg
+pic_url: /uploads/torben-hoffmann.jpeg
 slug: torben-hoffmann
 twitter: lehoff
 youtube: 

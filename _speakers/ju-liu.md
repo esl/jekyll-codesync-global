@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ju Liu
 position: Master of the Useless
-pic_url: uploads/ju-liu.jpeg
+pic_url: /uploads/ju-liu.jpeg
 slug: ju-liu
 twitter: arkh4m
 youtube: 

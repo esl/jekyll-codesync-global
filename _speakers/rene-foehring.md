@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: René Föhring
 position: Head of Product Development @ 5Minds
-pic_url: uploads/rene-foehring.png
+pic_url: /uploads/rene-foehring.png
 slug: rene-foehring
 twitter: rrrene
 youtube: 

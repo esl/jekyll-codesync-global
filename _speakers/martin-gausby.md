@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Martin Gausby
 position: Creator of Tortoise, Elixir lead at Erlang Solutions
-pic_url: uploads/martin-gausby.jpeg
+pic_url: /uploads/martin-gausby.jpeg
 slug: martin-gausby
 twitter: gausby
 youtube: 

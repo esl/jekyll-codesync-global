@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Madeleine Malmsten
 position: Squeeder and Prolog geek introducing girls to tech using IoT and horses
-pic_url: uploads/madeleine-malmsten.jpeg
+pic_url: /uploads/madeleine-malmsten.jpeg
 slug: madeleine-malmsten
 twitter: madde
 youtube: 

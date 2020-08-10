@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Marcin Lewandowski
 position: Partner at Software Mansion
-pic_url: uploads/marcin-lewandowski.png
+pic_url: /uploads/marcin-lewandowski.png
 slug: marcin-lewandowski
 twitter: mspanc
 youtube: 

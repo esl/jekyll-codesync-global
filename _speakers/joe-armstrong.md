@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Joe Armstrong
 position: Co-creator Erlang
-pic_url: uploads/joe-armstrong.jpeg
+pic_url: /uploads/joe-armstrong.jpeg
 slug: joe-armstrong
 twitter: joeerl
 youtube: 

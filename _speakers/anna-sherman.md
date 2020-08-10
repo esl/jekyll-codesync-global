@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Anna Sherman
 position: Developer and team lead at Zillion, lead organiser for include(Chatt)
-pic_url: uploads/anna-sherman.png
+pic_url: /uploads/anna-sherman.png
 slug: anna-sherman
 twitter: cavewoman90
 youtube: 

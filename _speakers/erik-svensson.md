@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Erik Svensson
 position: Software developer at Asolvi, gets to work with Elixir every day
-pic_url: uploads/erik-svensson.png
+pic_url: /uploads/erik-svensson.png
 slug: erik-svensson
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Vagif Abilov
 position: Developer @ Miles
-pic_url: uploads/vagif-abilov.png
+pic_url: /uploads/vagif-abilov.png
 slug: vagif-abilov
 twitter: 
 youtube: 

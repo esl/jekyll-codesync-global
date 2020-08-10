@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Richard Kallos
 position: Developer (AdGear) Master's student (Concordia University)
-pic_url: uploads/richard-kallos.jpeg
+pic_url: /uploads/richard-kallos.jpeg
 slug: richard-kallos
 twitter: richard_kallos
 youtube: 

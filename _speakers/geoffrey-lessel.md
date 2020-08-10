@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Geoffrey Lessel
 position: Elixir Lover and Author of Phoenix in Action (Planning Center)
-pic_url: uploads/geoffrey-lessel.jpeg
+pic_url: /uploads/geoffrey-lessel.jpeg
 slug: geoffrey-lessel
 twitter: geolessel
 youtube: 

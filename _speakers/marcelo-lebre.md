@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Marcelo Lebre
 position: CTO and co-founder of Remote, crazy for building scalable projects and teams
-pic_url: uploads/marcelo-lebre.png
+pic_url: /uploads/marcelo-lebre.png
 slug: marcelo-lebre
 twitter: marcelo_lebre
 youtube: 

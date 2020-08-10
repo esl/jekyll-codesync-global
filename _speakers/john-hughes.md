@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: John Hughes
 position: Co-Designer Of Haskell And QuickCheck
-pic_url: uploads/john-hughes.jpeg
+pic_url: /uploads/john-hughes.jpeg
 slug: john-hughes
 twitter: rjmh
 youtube: 

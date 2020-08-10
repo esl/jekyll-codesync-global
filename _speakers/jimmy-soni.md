@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jimmy Soni
 position: Award-winning Author
-pic_url: uploads/jimmy-soni.jpeg
+pic_url: /uploads/jimmy-soni.jpeg
 slug: jimmy-soni
 twitter: 
 youtube: 

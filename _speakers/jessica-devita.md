@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jessica DeVita
 position: Senior Program Manager (Microsoft)
-pic_url: uploads/jessica-devita.jpeg
+pic_url: /uploads/jessica-devita.jpeg
 slug: jessica-devita
 twitter: UberGeekGirl
 youtube: 

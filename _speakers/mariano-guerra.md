@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mariano Guerra
 position: Programmer (Instadeq)
-pic_url: uploads/mariano-guerra.jpeg
+pic_url: /uploads/mariano-guerra.jpeg
 slug: mariano-guerra
 twitter: warianoguerra
 youtube: 

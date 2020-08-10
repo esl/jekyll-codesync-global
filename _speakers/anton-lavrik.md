@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Anton Lavrik
 position: Lead of WhatsApp Erlang team
-pic_url: uploads/anton-lavrik.jpeg
+pic_url: /uploads/anton-lavrik.jpeg
 slug: anton-lavrik
 twitter: alavrik
 youtube: 

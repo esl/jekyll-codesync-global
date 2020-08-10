@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Nikola Begedin
 position: Full-stack engineer @ V7 Labs
-pic_url: uploads/nikola-begedin.png
+pic_url: /uploads/nikola-begedin.png
 slug: nikola-begedin
 twitter: begedinnikola
 youtube: 

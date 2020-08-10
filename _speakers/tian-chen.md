@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tian Chen
 position: VPE, Technical Writer, Elixir Enthusiast
-pic_url: uploads/tian-chen.png
+pic_url: /uploads/tian-chen.png
 slug: tian-chen
 twitter: tyrchen
 youtube: 

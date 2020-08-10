@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Hillel Wayne
 position: Coder, chocolatier, cjuggler
-pic_url: uploads/hillel-wayne.jpeg
+pic_url: /uploads/hillel-wayne.jpeg
 slug: hillel-wayne
 twitter: hillelogram
 youtube: 

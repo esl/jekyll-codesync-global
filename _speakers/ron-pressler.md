@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ron Pressler
 position: Veteran programmer, leader of OpenJDK's Project Loom
-pic_url: uploads/ron-pressler.jpeg
+pic_url: /uploads/ron-pressler.jpeg
 slug: ron-pressler
 twitter: pressron
 youtube: 

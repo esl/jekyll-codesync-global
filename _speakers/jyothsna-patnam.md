@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jyothsna Patnam
 position: Co-founder of TypeLead and co-author of Eta
-pic_url: uploads/jyothsna-patnam.png
+pic_url: /uploads/jyothsna-patnam.png
 slug: jyothsna-patnam
 twitter: jyothsnasrin
 youtube: 

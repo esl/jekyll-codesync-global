@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Dragan Djuric
 position: Clojure + CUDA + OpenCL infrastructure; Bayesian GPU software
-pic_url: uploads/dragan-djuric.jpeg
+pic_url: /uploads/dragan-djuric.jpeg
 slug: dragan-djuric
 twitter: draganrocks
 youtube: 

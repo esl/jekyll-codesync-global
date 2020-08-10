@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Pawel Szafran
 position: FP pragmatist who chose Elixir over Scala and Clojure
-pic_url: uploads/pawel-szafran.png
+pic_url: /uploads/pawel-szafran.png
 slug: pawel-szafran
 twitter: 
 youtube: 

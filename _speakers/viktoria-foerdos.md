@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Viktória Fördős
 position: Erlanger @ Cisco NSO Core
-pic_url: uploads/viktoria-foerdos.jpeg
+pic_url: /uploads/viktoria-foerdos.jpeg
 slug: viktoria-foerdos
 twitter: 
 youtube: 

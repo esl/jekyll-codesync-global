@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bryan Naegele
 position: Member of the Erlang Ecosystem Foundation Observability Working Group, beam-telemetry org, and OpenTelemetry org. Author and maintainer of the Prometheus Telemetry.Metrics Reporter.
-pic_url: uploads/bryan-naegele.png
+pic_url: /uploads/bryan-naegele.png
 slug: bryan-naegele
 twitter: 
 youtube: 

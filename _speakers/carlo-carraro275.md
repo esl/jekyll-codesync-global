@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Carlo Carraro
 position: Software Engineer at Athonet
-pic_url: uploads/carlo-carraro275.jpeg
+pic_url: /uploads/carlo-carraro275.jpeg
 slug: carlo-carraro275
 twitter: colrack
 youtube: 

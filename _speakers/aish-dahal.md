@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Aish Dahal
 position: Engineer (PagerDuty)
-pic_url: uploads/aish-dahal.jpeg
+pic_url: /uploads/aish-dahal.jpeg
 slug: aish-dahal
 twitter: aishrajdahal
 youtube: 

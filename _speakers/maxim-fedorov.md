@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Maxim Fedorov
 position: Performance & scalability engineer
-pic_url: uploads/maxim-fedorov.png
+pic_url: /uploads/maxim-fedorov.png
 slug: maxim-fedorov
 twitter: 
 youtube: 

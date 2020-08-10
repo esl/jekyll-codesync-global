@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Adrian Cruz
 position: Search, discovery and personalization software engineer
-pic_url: uploads/adrian-cruz.jpeg
+pic_url: /uploads/adrian-cruz.jpeg
 slug: adrian-cruz
 twitter: drincruz
 youtube: 

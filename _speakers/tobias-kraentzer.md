@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tobias Kräntzer
 position: Senior Backend Developer
-pic_url: uploads/tobias-kraentzer.jpeg
+pic_url: /uploads/tobias-kraentzer.jpeg
 slug: tobias-kraentzer
 twitter: anagrom_ataf
 youtube: 

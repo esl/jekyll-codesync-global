@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Thomas Césaré-Herriau
 position: Observing Elixir microservices at Brex
-pic_url: uploads/thomas-cesare-herriau.png
+pic_url: /uploads/thomas-cesare-herriau.png
 slug: thomas-cesare-herriau
 twitter: 
 youtube: 

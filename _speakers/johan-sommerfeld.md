@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Johan Sommerfeld
 position: System architect and multi language developer
-pic_url: uploads/johan-sommerfeld.png
+pic_url: /uploads/johan-sommerfeld.png
 slug: johan-sommerfeld
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Alex Troush
 position: Co-founder of Beameaters podcast (Edenlab)
-pic_url: uploads/alex-troush.jpeg
+pic_url: /uploads/alex-troush.jpeg
 slug: alex-troush
 twitter: troush69
 youtube: 

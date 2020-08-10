@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Riccardo Binetti
 position: Astarte core team member
-pic_url: uploads/riccardo-binetti.png
+pic_url: /uploads/riccardo-binetti.png
 slug: riccardo-binetti
 twitter: errebino
 youtube: 

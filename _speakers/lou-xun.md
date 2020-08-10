@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Lou Xun
 position: The Elixir guy (CCP Games)
-pic_url: uploads/lou-xun.png
+pic_url: /uploads/lou-xun.png
 slug: lou-xun
 twitter: aquarhead
 youtube: 

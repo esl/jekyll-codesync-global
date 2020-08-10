@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Łukasz Jankowski
 position: Elixir Developer at Briisk
-pic_url: uploads/lukasz-jankowski.jpeg
+pic_url: /uploads/lukasz-jankowski.jpeg
 slug: lukasz-jankowski
 twitter: lukeses_x
 youtube: 

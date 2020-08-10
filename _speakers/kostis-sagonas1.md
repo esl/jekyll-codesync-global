@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kostis Sagonas
 position: Creator of PropEr, CutEr and Concuerror
-pic_url: uploads/kostis-sagonas1.jpeg
+pic_url: /uploads/kostis-sagonas1.jpeg
 slug: kostis-sagonas1
 twitter: 
 youtube: 

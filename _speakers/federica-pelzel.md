@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Federica Pelzel
 position: Public sector technologist, Director of Data and Analytics Platforms at Mastercard
-pic_url: uploads/federica-pelzel.jpeg
+pic_url: /uploads/federica-pelzel.jpeg
 slug: federica-pelzel
 twitter: federicca
 youtube: 

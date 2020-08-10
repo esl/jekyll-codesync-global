@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Arnaud Bailly
 position: Crafting software since 1994
-pic_url: uploads/arnaud-bailly.jpeg
+pic_url: /uploads/arnaud-bailly.jpeg
 slug: arnaud-bailly
 twitter: dr_c0d3
 youtube: 

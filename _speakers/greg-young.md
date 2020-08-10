@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Greg Young
 position: Partner at EventStore
-pic_url: uploads/greg-young.png
+pic_url: /uploads/greg-young.png
 slug: greg-young
 twitter: gregyoung
 youtube: 

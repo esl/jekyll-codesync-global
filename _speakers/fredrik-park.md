@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Fredrik	Park
 position: Professional consultant, father of (soon) two
-pic_url: uploads/fredrik-park.png
+pic_url: /uploads/fredrik-park.png
 slug: fredrik-park
 twitter: s_edrik
 youtube: 

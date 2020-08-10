@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Renee Orser
 position: VP of Engineering at NS1
-pic_url: uploads/renee-orser.png
+pic_url: /uploads/renee-orser.png
 slug: renee-orser
 twitter: reneeorser
 youtube: 

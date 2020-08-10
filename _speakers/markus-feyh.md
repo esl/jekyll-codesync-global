@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Markus Feyh
 position: Battle-tested Erlang developer with experience monitoring and instrumenting stateless Erlang deployments
-pic_url: uploads/markus-feyh.png
+pic_url: /uploads/markus-feyh.png
 slug: markus-feyh
 twitter: 
 youtube: 
