@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Haofei Wang
 position: Director of Engineering @ Tubi
-pic_url: uploads/haofei-wang.png
+pic_url: /uploads/haofei-wang.png
 slug: haofei-wang
 twitter: 
 youtube: 

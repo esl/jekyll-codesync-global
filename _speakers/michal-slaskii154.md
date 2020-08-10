@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Michał Ślaskii
 position: Technical Lead (Erlang Solutions)
-pic_url: uploads/michal-slaskii154.jpeg
+pic_url: /uploads/michal-slaskii154.jpeg
 slug: michal-slaskii154
 twitter: michalslaski
 youtube: 

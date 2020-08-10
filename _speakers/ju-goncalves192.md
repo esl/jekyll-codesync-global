@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ju Goncalves
 position: Phd Student in Computer Science
-pic_url: uploads/ju-goncalves192.jpeg
+pic_url: /uploads/ju-goncalves192.jpeg
 slug: ju-goncalves192
 twitter: cyberglot
 youtube: 

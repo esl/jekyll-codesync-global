@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Rodrigo Nonose
 position: Curiosity-driven developer experienced in multiple languages
-pic_url: uploads/rodrigo-nonose.png
+pic_url: /uploads/rodrigo-nonose.png
 slug: rodrigo-nonose
 twitter: backendwizard
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Stavros Aronis
 position: Hunter of discrepancies in Erlang code. Developer of parallel Dialyzer and Concuerror
-pic_url: uploads/stavros-aronis.png
+pic_url: /uploads/stavros-aronis.png
 slug: stavros-aronis
 twitter: vahnatai
 youtube: 

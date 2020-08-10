@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Andrew Thompson
 position: VP Engineering at Helium
-pic_url: uploads/andrew-thompson54.jpeg
+pic_url: /uploads/andrew-thompson54.jpeg
 slug: andrew-thompson54
 twitter: potsdamnhacker
 youtube: 

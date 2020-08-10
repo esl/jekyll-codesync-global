@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Roberto Aloi
 position: Erlang Lead @ Klarna
-pic_url: uploads/roberto-aloi.png
+pic_url: /uploads/roberto-aloi.png
 slug: roberto-aloi
 twitter: robertoaloi
 youtube: 

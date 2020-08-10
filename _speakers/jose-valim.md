@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: José Valim
 position: Creator of the Elixir programming language, Chief Adoption Officer at Dashbit
-pic_url: uploads/jose-valim.png
+pic_url: /uploads/jose-valim.png
 slug: jose-valim
 twitter: josevalim
 youtube: 

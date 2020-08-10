@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Marc Nijdam
 position: Learning Erlang by building a P2P networking library
-pic_url: uploads/marc-nijdam.png
+pic_url: /uploads/marc-nijdam.png
 slug: marc-nijdam
 twitter: madninja
 youtube: 

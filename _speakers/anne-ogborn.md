@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Anne Ogborn
 position: Logic programmer at DataChemist
-pic_url: uploads/anne-ogborn.png
+pic_url: /uploads/anne-ogborn.png
 slug: anne-ogborn
 twitter: 
 youtube: 

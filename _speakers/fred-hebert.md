@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Fred Hebert
 position: Erlang, Tools, and Systems (Postmates)
-pic_url: uploads/fred-hebert.jpeg
+pic_url: /uploads/fred-hebert.jpeg
 slug: fred-hebert
 twitter: mononcqc
 youtube: 

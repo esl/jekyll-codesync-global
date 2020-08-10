@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Karl Nilsson
 position: Karl wrestles distributed rabbits for a living
-pic_url: uploads/karl-nilsson.jpeg
+pic_url: /uploads/karl-nilsson.jpeg
 slug: karl-nilsson
 twitter: kjnilsson
 youtube: 

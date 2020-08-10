@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jay Hayes
 position: (Stitch Fix)
-pic_url: uploads/jay-hayes.jpeg
+pic_url: /uploads/jay-hayes.jpeg
 slug: jay-hayes
 twitter: iamvery
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Johan Bevemyr
 position: Cisco Systems
-pic_url: uploads/johan-bevemyr.jpeg
+pic_url: /uploads/johan-bevemyr.jpeg
 slug: johan-bevemyr
 twitter: 
 youtube: 

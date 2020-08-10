@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jianbo Li
 position: Senior software engineer at Bloomberg
-pic_url: uploads/jianbo-li.jpeg
+pic_url: /uploads/jianbo-li.jpeg
 slug: jianbo-li
 twitter: 
 youtube: 

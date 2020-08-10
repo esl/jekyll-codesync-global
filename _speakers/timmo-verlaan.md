@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Timmo Verlaan
 position: Erlang & Elixir contributor, Nerves/GRiSP enthusiast!
-pic_url: uploads/timmo-verlaan.png
+pic_url: /uploads/timmo-verlaan.png
 slug: timmo-verlaan
 twitter: diptimmo
 youtube: 

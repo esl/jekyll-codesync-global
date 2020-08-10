@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Stephen Bussey
 position: Sneakerhead and author of Real-Time Phoenix
-pic_url: uploads/stephen-bussey.jpeg
+pic_url: /uploads/stephen-bussey.jpeg
 slug: stephen-bussey
 twitter: yoooodaaaa
 youtube: 

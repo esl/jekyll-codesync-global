@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Simon Thompson
 position: Functional programmer in Haskell and Erlang, researcher and teacher of computer science @ University of Kent
-pic_url: uploads/simon-thompson.jpeg
+pic_url: /uploads/simon-thompson.jpeg
 slug: simon-thompson
 twitter: thompson_si
 youtube: 

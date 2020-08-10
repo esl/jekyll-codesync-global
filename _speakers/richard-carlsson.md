@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Richard Carlsson
 position: Author of Eunit and other tools, co-author of Erlang and OTP in Action
-pic_url: uploads/richard-carlsson.png
+pic_url: /uploads/richard-carlsson.png
 slug: richard-carlsson
 twitter: rich_4711
 youtube: 

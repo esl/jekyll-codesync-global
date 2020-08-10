@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Evadne Wu
 position: Won Spawnfest (2019) in multiple categories as part of The Bodgemasters
-pic_url: uploads/evadne-wu.png
+pic_url: /uploads/evadne-wu.png
 slug: evadne-wu
 twitter: evadne
 youtube: 

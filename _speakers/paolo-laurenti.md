@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Paolo Laurenti
 position: Software developer
-pic_url: uploads/paolo-laurenti.jpeg
+pic_url: /uploads/paolo-laurenti.jpeg
 slug: paolo-laurenti
 twitter: paololaurenti
 youtube: 

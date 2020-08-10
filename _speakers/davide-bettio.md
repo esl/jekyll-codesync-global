@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Davide Bettio
 position: Elixir / C++ software developer with taste for crazy projects.
-pic_url: uploads/davide-bettio.jpeg
+pic_url: /uploads/davide-bettio.jpeg
 slug: davide-bettio
 twitter: Uninstall
 youtube: 

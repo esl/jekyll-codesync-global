@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Evelina Gabasova
 position: Principal research data scientist  at the Alan Turing Institute
-pic_url: uploads/evelina-gabasova.png
+pic_url: /uploads/evelina-gabasova.png
 slug: evelina-gabasova
 twitter: evelgab
 youtube: 

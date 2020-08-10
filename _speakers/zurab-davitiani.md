@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zurab Davitiani
 position: Feature flagging enthusiast, wrote an Erlang/Elixir SDK client for LaunchDarkly
-pic_url: uploads/zurab-davitiani.jpeg
+pic_url: /uploads/zurab-davitiani.jpeg
 slug: zurab-davitiani
 twitter: zurab
 youtube: 

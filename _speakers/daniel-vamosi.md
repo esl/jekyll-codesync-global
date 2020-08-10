@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Dániel Vámosi
 position: Making flight booking simple and teaching robots how to draw what they dreamt about
-pic_url: uploads/daniel-vamosi.png
+pic_url: /uploads/daniel-vamosi.png
 slug: daniel-vamosi
 twitter: dvamosi
 youtube: 

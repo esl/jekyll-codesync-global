@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Péter Gömöri
 position: BEAM Enthusiast, XProf maintainer
-pic_url: uploads/peter-goemoeri.jpeg
+pic_url: /uploads/peter-goemoeri.jpeg
 slug: peter-goemoeri
 twitter: 
 youtube: 

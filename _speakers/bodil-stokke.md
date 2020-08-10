@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bodil Stokke
 position: Code Mesh LDN programme committee member
-pic_url: uploads/bodil-stokke.png
+pic_url: /uploads/bodil-stokke.png
 slug: bodil-stokke
 twitter: bodil
 youtube: 

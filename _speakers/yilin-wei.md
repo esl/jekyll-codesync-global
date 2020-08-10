@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Yilin Wei
 position: Non-commercial coder
-pic_url: uploads/yilin-wei.jpeg
+pic_url: /uploads/yilin-wei.jpeg
 slug: yilin-wei
 twitter: Yilin47276121
 youtube: 

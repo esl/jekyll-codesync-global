@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Derek Kraan
 position: Author of Horde and DeltaCRDT
-pic_url: uploads/derek-kraan.jpeg
+pic_url: /uploads/derek-kraan.jpeg
 slug: derek-kraan
 twitter: Derekkraan
 youtube: 

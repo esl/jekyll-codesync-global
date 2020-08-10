@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Vanessa Lee
 position: Coder, mother of three boys, YA literature interviewer, and student of forensic genealogy
-pic_url: uploads/vanessa-lee.png
+pic_url: /uploads/vanessa-lee.png
 slug: vanessa-lee
 twitter: girlsleuthcom
 youtube: 

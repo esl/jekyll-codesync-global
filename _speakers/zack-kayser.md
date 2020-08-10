@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zack Kayser
 position: Elixir Evangelist Everywhere
-pic_url: uploads/zack-kayser.jpeg
+pic_url: /uploads/zack-kayser.jpeg
 slug: zack-kayser
 twitter: kayserzl
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tyler McMullen
 position: Building a better internet; CTO at Fastly
-pic_url: uploads/tyler-mcmullen.png
+pic_url: /uploads/tyler-mcmullen.png
 slug: tyler-mcmullen
 twitter: tbmcmullen
 youtube: 

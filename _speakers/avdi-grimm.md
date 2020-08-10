@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Avdi Grimm
 position: Author of Ruby programming books and recipient of the Ruby Hero award.
-pic_url: uploads/avdi-grimm.png
+pic_url: /uploads/avdi-grimm.png
 slug: avdi-grimm
 twitter: avdi
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ismaël Mejia
 position: Distributed systems practitioner
-pic_url: uploads/ismael-mejia.jpeg
+pic_url: /uploads/ismael-mejia.jpeg
 slug: ismael-mejia
 twitter: iemejia
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tyler Bettilyon
 position: Writer, educator, engineer, and founder of Teb's Lab
-pic_url: uploads/tyler-bettilyon.png
+pic_url: /uploads/tyler-bettilyon.png
 slug: tyler-bettilyon
 twitter: TebbaVonMaths
 youtube: 

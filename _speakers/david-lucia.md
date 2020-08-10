@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: David Lucia
 position: Using Elixir to make every discrete, in-game occurrence a betting opportunity
-pic_url: uploads/david-lucia.png
+pic_url: /uploads/david-lucia.png
 slug: david-lucia
 twitter: davydog187
 youtube: 

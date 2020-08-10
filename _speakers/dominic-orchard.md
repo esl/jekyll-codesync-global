@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Dominic Orchard
 position: Lecturer @ University of Kent
-pic_url: uploads/dominic-orchard.png
+pic_url: /uploads/dominic-orchard.png
 slug: dominic-orchard
 twitter: dorchard
 youtube: 

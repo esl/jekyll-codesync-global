@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Khaja Minhajuddin
 position: Passionate Programmer (StaticGarden)
-pic_url: uploads/khaja-minhajuddin.jpeg
+pic_url: /uploads/khaja-minhajuddin.jpeg
 slug: khaja-minhajuddin
 twitter: minhajuddin
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jean Rouge
 position: Tech Lead (Tripping)
-pic_url: uploads/jean-rouge.jpeg
+pic_url: /uploads/jean-rouge.jpeg
 slug: jean-rouge
 twitter: 
 youtube: 

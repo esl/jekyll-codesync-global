@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Don Syme
 position: Bass guitar
-pic_url: uploads/don-syme.png
+pic_url: /uploads/don-syme.png
 slug: don-syme
 twitter: dsyme
 youtube: 

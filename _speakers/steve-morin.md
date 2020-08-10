@@ -5,7 +5,7 @@ google:
 linkedin: stevebmorin
 name: Steve Morin
 position: CTO @Tripping, hacker, entrepreneur, and software engineer
-pic_url: uploads/steve-morin.png
+pic_url: /uploads/steve-morin.png
 slug: steve-morin
 twitter: SteveMorin
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: James Every
 position: Delivered several large scale integration and business transformation projects around Europe
-pic_url: uploads/james-every.jpeg
+pic_url: /uploads/james-every.jpeg
 slug: james-every
 twitter: 
 youtube: 

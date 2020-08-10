@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mohnish Jadwani
 position: Senior Developer and Explorer (MoneySmart)
-pic_url: uploads/mohnish-jadwani.jpeg
+pic_url: /uploads/mohnish-jadwani.jpeg
 slug: mohnish-jadwani
 twitter: mohnishgj
 youtube: 

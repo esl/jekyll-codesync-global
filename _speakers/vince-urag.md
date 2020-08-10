@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Vince Urag
 position: Backend engineer at Wunder Mobility
-pic_url: uploads/vince-urag.png
+pic_url: /uploads/vince-urag.png
 slug: vince-urag
 twitter: VinceUrag
 youtube: 

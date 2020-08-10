@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Andrey Chernykh
 position: Full-time Elixir developer, OSS enthusiast, medium.com-writer
-pic_url: uploads/andrey-chernykh.png
+pic_url: /uploads/andrey-chernykh.png
 slug: andrey-chernykh
 twitter: Andrei_Chernykh
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Duncan Coutts
 position: Founding Partner at Well-Typed LLP
-pic_url: uploads/duncan-coutts.png
+pic_url: /uploads/duncan-coutts.png
 slug: duncan-coutts
 twitter: 
 youtube: 

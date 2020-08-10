@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Paulo Diniz
 position: Wannabe mathematician, Emacs propagandist (Airy)
-pic_url: uploads/paulo-diniz.png
+pic_url: /uploads/paulo-diniz.png
 slug: paulo-diniz
 twitter: paulodiniz
 youtube: 

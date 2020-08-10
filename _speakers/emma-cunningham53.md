@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Emma Cunningham
 position: Developer (Second Spectrum)
-pic_url: uploads/emma-cunningham53.jpeg
+pic_url: /uploads/emma-cunningham53.jpeg
 slug: emma-cunningham53
 twitter: 
 youtube: 

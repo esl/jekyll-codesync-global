@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Fahran Wallace
 position: A wildly enthusiastic engineer at OpenCredo
-pic_url: uploads/fahran-wallace.png
+pic_url: /uploads/fahran-wallace.png
 slug: fahran-wallace
 twitter: FahranWallace
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Erik Stenman
 position: (Happihacking)
-pic_url: uploads/erik-stenman.jpeg
+pic_url: /uploads/erik-stenman.jpeg
 slug: erik-stenman
 twitter: 
 youtube: 

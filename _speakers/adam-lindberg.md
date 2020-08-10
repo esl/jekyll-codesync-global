@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Adam Lindberg
 position: Peer Stritzinger GmbH
-pic_url: uploads/adam-lindberg.jpeg
+pic_url: /uploads/adam-lindberg.jpeg
 slug: adam-lindberg
 twitter: eproxus
 youtube: 

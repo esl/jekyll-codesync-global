@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Igors Istocniks
 position: Software engineering manager at WhatsApp
-pic_url: uploads/igors-istocniks276.png
+pic_url: /uploads/igors-istocniks276.png
 slug: igors-istocniks276
 twitter: 
 youtube: 

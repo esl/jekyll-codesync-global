@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Piotr Nosek
 position: Software Architect @ Erlang Solutions
-pic_url: uploads/piotr-nosek.jpeg
+pic_url: /uploads/piotr-nosek.jpeg
 slug: piotr-nosek
 twitter: 
 youtube: 

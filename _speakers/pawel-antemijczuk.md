@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Pawel Antemijczuk
 position: Your Local Erlangelist  (Issuu)
-pic_url: uploads/pawel-antemijczuk.jpeg
+pic_url: /uploads/pawel-antemijczuk.jpeg
 slug: pawel-antemijczuk
 twitter: 
 youtube: 

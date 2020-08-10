@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Russell Brown
 position: Programmer who helped bring CRDTs to Riak (Titus Systems)
-pic_url: uploads/russell-brown.jpeg
+pic_url: /uploads/russell-brown.jpeg
 slug: russell-brown
 twitter: russelldb
 youtube: 

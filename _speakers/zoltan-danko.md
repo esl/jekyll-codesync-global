@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zoltán Dankó
 position: Designing the Future of Finance, Head of Distributed Systems Development at OTP Bank
-pic_url: uploads/zoltan-danko.png
+pic_url: /uploads/zoltan-danko.png
 slug: zoltan-danko
 twitter: 
 youtube: 

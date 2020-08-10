@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Alexandre Rodrigues
 position: Erlang passionate
-pic_url: uploads/alexandre-rodrigues.png
+pic_url: /uploads/alexandre-rodrigues.png
 slug: alexandre-rodrigues
 twitter: 
 youtube: 

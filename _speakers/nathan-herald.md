@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Nathan Herald
 position: Wunderlist Realtime Sync (Microsoft)
-pic_url: uploads/nathan-herald.jpeg
+pic_url: /uploads/nathan-herald.jpeg
 slug: nathan-herald
 twitter: myobie
 youtube: 

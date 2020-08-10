@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Michael Arntzenius
 position: Programming language designer at large
-pic_url: uploads/michael-arntzenius.png
+pic_url: /uploads/michael-arntzenius.png
 slug: michael-arntzenius
 twitter: arntzenius
 youtube: 

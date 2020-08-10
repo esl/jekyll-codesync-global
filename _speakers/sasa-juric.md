@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Saša Jurić
 position: Author of Elixir in Action
-pic_url: uploads/sasa-juric.jpeg
+pic_url: /uploads/sasa-juric.jpeg
 slug: sasa-juric
 twitter: sasajuric
 youtube: 

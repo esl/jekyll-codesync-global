@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Peter Hastie
 position: Long-time Bleacher Report survivor. Proud to have worked on many of the social features (authentication, graph search, direct messaging) that keeps our app improving
-pic_url: uploads/peter-hastie.png
+pic_url: /uploads/peter-hastie.png
 slug: peter-hastie
 twitter: sillypog
 youtube: 

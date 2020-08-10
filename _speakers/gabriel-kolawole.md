@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Gabriel	Kolawole
 position: Platform Developer @ Coingaming
-pic_url: uploads/gabriel-kolawole.png
+pic_url: /uploads/gabriel-kolawole.png
 slug: gabriel-kolawole
 twitter: 
 youtube: 

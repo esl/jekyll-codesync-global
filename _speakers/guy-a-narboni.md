@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Guy A. Narboni
 position: Expert systems designer and IoT apprentice maker
-pic_url: uploads/guy-a-narboni.jpeg
+pic_url: /uploads/guy-a-narboni.jpeg
 slug: guy-a-narboni
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mark Allen
 position: Principle Software Developer (Alert Logic)
-pic_url: uploads/mark-allen.jpeg
+pic_url: /uploads/mark-allen.jpeg
 slug: mark-allen
 twitter: bytemeorg
 youtube: 

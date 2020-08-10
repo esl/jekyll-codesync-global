@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Manuel	Rubio
 position: Polyglot developer, manager and coach
-pic_url: uploads/manuel-rubio.png
+pic_url: /uploads/manuel-rubio.png
 slug: manuel-rubio
 twitter: MRonErlang
 youtube: 

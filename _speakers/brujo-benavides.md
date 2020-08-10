@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Brujo Benavides
 position: This guy SpawnFest's!
-pic_url: uploads/brujo-benavides.png
+pic_url: /uploads/brujo-benavides.png
 slug: brujo-benavides
 twitter: elbrujohalcon
 youtube: 

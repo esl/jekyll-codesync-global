@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Pedro Hernandez
 position: Cyberpunk enthusiast, software engineer
-pic_url: uploads/pedro-hernandez.png
+pic_url: /uploads/pedro-hernandez.png
 slug: pedro-hernandez
 twitter: silmood
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Rob Ashton
 position: (Barely) Functional Developer
-pic_url: uploads/rob-ashton.png
+pic_url: /uploads/rob-ashton.png
 slug: rob-ashton
 twitter: robashton
 youtube: 

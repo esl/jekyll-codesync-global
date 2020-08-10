@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Valentin Rothberg
 position: Senior software engineer at Red Hat
-pic_url: uploads/valentin-rothberg.png
+pic_url: /uploads/valentin-rothberg.png
 slug: valentin-rothberg
 twitter: vlntnrthbrg
 youtube: 

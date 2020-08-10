@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Frank Savage
 position: Director Engineering, Android Gaming and Graphics @ Google
-pic_url: uploads/frank-savage.png
+pic_url: /uploads/frank-savage.png
 slug: frank-savage
 twitter: WombatSavage
 youtube: 

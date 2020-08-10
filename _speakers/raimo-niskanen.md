@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Raimo Niskanen
 position: Software and hardware gaffer, author of gen_statem.
-pic_url: uploads/raimo-niskanen.jpeg
+pic_url: /uploads/raimo-niskanen.jpeg
 slug: raimo-niskanen
 twitter: 
 youtube: 

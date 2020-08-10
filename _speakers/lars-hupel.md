@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Lars Hupel
 position: Co-founder, Typelevel
-pic_url: uploads/lars-hupel.jpeg
+pic_url: /uploads/lars-hupel.jpeg
 slug: lars-hupel
 twitter: 
 youtube: 

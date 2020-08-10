@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jamie Wright
 position: Create of Tatsu, builder of Chronic
-pic_url: uploads/jamie-wright.png
+pic_url: /uploads/jamie-wright.png
 slug: jamie-wright
 twitter: jwright
 youtube: 

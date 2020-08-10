@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ilya	Klyuchnikov
 position: Software engineer	@ WhatsApp, Facebook
-pic_url: uploads/ilya-klyuchnikov.png
+pic_url: /uploads/ilya-klyuchnikov.png
 slug: ilya-klyuchnikov
 twitter: lambdamix
 youtube: 

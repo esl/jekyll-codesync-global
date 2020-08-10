@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ayanda Dube
 position: RabbitMQ team lead
-pic_url: uploads/ayanda-dube.png
+pic_url: /uploads/ayanda-dube.png
 slug: ayanda-dube
 twitter: dube_aya
 youtube: 

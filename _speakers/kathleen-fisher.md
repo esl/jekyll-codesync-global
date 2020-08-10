@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kathleen Fisher
 position: Founder of HACMS program, Professor and Chair of Computer Science Department
-pic_url: uploads/kathleen-fisher.jpeg
+pic_url: /uploads/kathleen-fisher.jpeg
 slug: kathleen-fisher
 twitter: 
 youtube: 

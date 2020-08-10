@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Chris Keathley
 position: Dynamic language apologist, senior engineer @ Bleacher Report
-pic_url: uploads/chris-keathley.png
+pic_url: /uploads/chris-keathley.png
 slug: chris-keathley
 twitter: ChrisKeathley
 youtube: 

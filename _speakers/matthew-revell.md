@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Matthew Revell
 position: Get ready to automate the cloud
-pic_url: uploads/matthew-revell.png
+pic_url: /uploads/matthew-revell.png
 slug: matthew-revell
 twitter: nightowlmatt
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sam Davies
 position: Elixir core contributor
-pic_url: uploads/sam-davies.jpeg
+pic_url: /uploads/sam-davies.jpeg
 slug: sam-davies
 twitter: samphilipd
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ulf Wiger
 position: Erlang greybeard
-pic_url: uploads/ulf-wiger.png
+pic_url: /uploads/ulf-wiger.png
 slug: ulf-wiger
 twitter: uwiger
 youtube: 

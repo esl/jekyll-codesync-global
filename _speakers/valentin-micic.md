@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Valentin Micic
 position: Making decent living using Erlang since 2001
-pic_url: uploads/valentin-micic.png
+pic_url: /uploads/valentin-micic.png
 slug: valentin-micic
 twitter: 
 youtube: 

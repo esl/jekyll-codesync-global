@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Romeu Moura
 position: Absurdism lobbyist
-pic_url: uploads/romeu-moura.png
+pic_url: /uploads/romeu-moura.png
 slug: romeu-moura
 twitter: malk_zameth
 youtube: 

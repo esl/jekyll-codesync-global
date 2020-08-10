@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ludwik Bukowski
 position: Involved in Telemetry library development and maintenance
-pic_url: uploads/ludwik-bukowski.png
+pic_url: /uploads/ludwik-bukowski.png
 slug: ludwik-bukowski
 twitter: ludwikbukowski
 youtube: 

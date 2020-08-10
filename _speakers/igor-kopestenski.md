@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Igor Kopestenski
 position: Academic Research Assistant @ UCLouvain
-pic_url: uploads/igor-kopestenski.png
+pic_url: /uploads/igor-kopestenski.png
 slug: igor-kopestenski
 twitter: IKopest
 youtube: 

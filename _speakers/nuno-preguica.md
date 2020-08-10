@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Nuno Preguiça
 position: Associate Professor at DI FCT UNL
-pic_url: uploads/nuno-preguica.png
+pic_url: /uploads/nuno-preguica.png
 slug: nuno-preguica
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kate Travers
 position: Former art shipper; current code shipper.
-pic_url: uploads/kate-travers.jpeg
+pic_url: /uploads/kate-travers.jpeg
 slug: kate-travers
 twitter: kttravers
 youtube: 

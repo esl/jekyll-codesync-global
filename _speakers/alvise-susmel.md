@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Alvise Susmel
 position: Software engineer, in love with Elixir, founder of poeticoding.com
-pic_url: uploads/alvise-susmel.png
+pic_url: /uploads/alvise-susmel.png
 slug: alvise-susmel
 twitter: alvisesus
 youtube: 

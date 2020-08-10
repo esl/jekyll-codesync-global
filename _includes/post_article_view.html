@@ -6,7 +6,7 @@
             <div class="flexbox mt--50">
                 {% for speaker in site.speakers %}
                     {%if speaker.path == page.speaker1 or speaker.path == page.speaker2 or speaker.path == page.speaker3 %}
-                        <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.firstname}}
+                        <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
                             {{speaker.lastname}}
                         </a>
                     {% endif %}

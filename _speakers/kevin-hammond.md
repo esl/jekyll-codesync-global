@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kevin Hammond
 position: Functional Programming, Properties, Parallelism
-pic_url: uploads/kevin-hammond.jpeg
+pic_url: /uploads/kevin-hammond.jpeg
 slug: kevin-hammond
 twitter: khstandrews
 youtube: 

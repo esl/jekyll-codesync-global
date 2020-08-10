@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Richard Cook
 position: Research Scientist (Ohio State University) Author 'How Complex Systems Fail'
-pic_url: uploads/richard-cook.jpeg
+pic_url: /uploads/richard-cook.jpeg
 slug: richard-cook
 twitter: ri_cook
 youtube: 

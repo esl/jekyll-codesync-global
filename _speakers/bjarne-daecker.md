@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bjarne Däcker
 position: Former manager of the Computer Science Laboratory at Ericsson
-pic_url: uploads/bjarne-daecker.png
+pic_url: /uploads/bjarne-daecker.png
 slug: bjarne-daecker
 twitter: 
 youtube: 

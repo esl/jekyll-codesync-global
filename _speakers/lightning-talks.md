@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Lightning Talks
 position: Your chance to give your project a shout out!
-pic_url: uploads/lightning-talks.jpeg
+pic_url: /uploads/lightning-talks.jpeg
 slug: lightning-talks
 twitter: 
 youtube: 

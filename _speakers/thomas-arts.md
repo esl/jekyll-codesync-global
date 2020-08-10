@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Thomas Arts
 position: Erlang developer since 1997, co-founder and CTO of Quviq
-pic_url: uploads/thomas-arts.jpeg
+pic_url: /uploads/thomas-arts.jpeg
 slug: thomas-arts
 twitter: quviq
 youtube: 

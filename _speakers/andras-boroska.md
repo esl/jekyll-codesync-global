@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Andras Boroska
 position: Lead Erlang developer at OTP Bank
-pic_url: uploads/andras-boroska.jpeg
+pic_url: /uploads/andras-boroska.jpeg
 slug: andras-boroska
 twitter: aboroska
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Boshan Sun
 position: Software engineer at Amazon, learned Erlang from Joe Armstrong
-pic_url: uploads/boshan-sun.png
+pic_url: /uploads/boshan-sun.png
 slug: boshan-sun
 twitter: 
 youtube: 

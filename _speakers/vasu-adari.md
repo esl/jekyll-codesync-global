@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Vasu Adari
 position: Product Engineer @ Scripbox
-pic_url: uploads/vasu-adari.png
+pic_url: /uploads/vasu-adari.png
 slug: vasu-adari
 twitter: vasuadari
 youtube: 

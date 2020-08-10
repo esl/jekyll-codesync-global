@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Lukas Larsson
 position: Erlang VM core committer
-pic_url: uploads/lukas-larsson.png
+pic_url: /uploads/lukas-larsson.png
 slug: lukas-larsson
 twitter: garazdawi
 youtube: 

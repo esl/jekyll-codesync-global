@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Simon Peyton Jones
 position: Lead designer of the Glasgow Haskell Compiler, Principal researcher at Microsoft Research
-pic_url: uploads/simon-peyton-jones.png
+pic_url: /uploads/simon-peyton-jones.png
 slug: simon-peyton-jones
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sanne Kalkman
 position: Developer / Teacher / Crafter
-pic_url: uploads/sanne-kalkman.jpeg
+pic_url: /uploads/sanne-kalkman.jpeg
 slug: sanne-kalkman
 twitter: sannekalkman
 youtube: 

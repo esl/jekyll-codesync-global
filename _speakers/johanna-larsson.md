@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Johanna Larsson
 position: Contributed to Elixir core that one time
-pic_url: uploads/johanna-larsson.png
+pic_url: /uploads/johanna-larsson.png
 slug: johanna-larsson
 twitter: joladev
 youtube: 

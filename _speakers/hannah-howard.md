@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Hannah Howard
 position: Programmer and life long iconoclast
-pic_url: uploads/hannah-howard.png
+pic_url: /uploads/hannah-howard.png
 slug: hannah-howard
 twitter: techgirlwonder
 youtube: 

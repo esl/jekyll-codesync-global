@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Rafael Rocha
 position: Software Developer
-pic_url: uploads/rafael-rocha.jpeg
+pic_url: /uploads/rafael-rocha.jpeg
 slug: rafael-rocha
 twitter: RocRafael
 youtube: 

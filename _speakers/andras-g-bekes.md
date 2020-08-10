@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: András G Békés
 position: Senior software engineer working in the financial services industry
-pic_url: uploads/andras-g-bekes.png
+pic_url: /uploads/andras-g-bekes.png
 slug: andras-g-bekes
 twitter: 
 youtube: 

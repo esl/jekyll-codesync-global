@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zachary Kessin
 position: Author "Building Web Applications with Erlang"
-pic_url: uploads/zachary-kessin.jpeg
+pic_url: /uploads/zachary-kessin.jpeg
 slug: zachary-kessin
 twitter: zkessin
 youtube: 

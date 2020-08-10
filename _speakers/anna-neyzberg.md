@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Anna Neyzberg
 position: Co-founder of ElixirBridge
-pic_url: uploads/anna-neyzberg.jpeg
+pic_url: /uploads/anna-neyzberg.jpeg
 slug: anna-neyzberg
 twitter: aneyzb
 youtube: 

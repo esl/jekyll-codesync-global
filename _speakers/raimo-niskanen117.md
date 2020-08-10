@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Raimo Niskanen
 position: Author of gen_statem, co-author of the new socket interface
-pic_url: uploads/raimo-niskanen117.jpeg
+pic_url: /uploads/raimo-niskanen117.jpeg
 slug: raimo-niskanen117
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sebastian Strollo
 position: Erlang Developer and Cofounder at Avassa
-pic_url: uploads/sebastian-strollo.png
+pic_url: /uploads/sebastian-strollo.png
 slug: sebastian-strollo
 twitter: 
 youtube: 

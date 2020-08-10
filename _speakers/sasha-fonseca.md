@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sasha Fonseca
 position: High Risk, High Reward -> Early adopter of Elixir; organiser of the 'Lisbon |> Elixir' meetup;
-pic_url: uploads/sasha-fonseca.jpeg
+pic_url: /uploads/sasha-fonseca.jpeg
 slug: sasha-fonseca
 twitter: sashaSFM
 youtube: 

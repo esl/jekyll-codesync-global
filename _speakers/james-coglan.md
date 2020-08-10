@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: James Coglan
 position: Open source developer and independent author
-pic_url: uploads/james-coglan.png
+pic_url: /uploads/james-coglan.png
 slug: james-coglan
 twitter: mountain_ghosts
 youtube: 

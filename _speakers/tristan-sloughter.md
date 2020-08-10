@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tristan Sloughter
 position: Senior Software Engineer at Postmates
-pic_url: uploads/tristan-sloughter.jpeg
+pic_url: /uploads/tristan-sloughter.jpeg
 slug: tristan-sloughter
 twitter: t_sloughter
 youtube: 

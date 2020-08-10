@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Silvia Crafa
 position: Researcher and Assistant Professor in Computer Science at Universita’ di Padova
-pic_url: uploads/silvia-crafa.jpeg
+pic_url: /uploads/silvia-crafa.jpeg
 slug: silvia-crafa
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Hubert Łępicki
 position: Chairman of the Board (AmberBit Sp. z o. o.)
-pic_url: uploads/hubert-lepicki.png
+pic_url: /uploads/hubert-lepicki.png
 slug: hubert-lepicki
 twitter: hubertlepicki
 youtube: 

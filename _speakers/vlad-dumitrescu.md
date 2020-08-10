@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Vlad Dumitrescu
 position: Developer (HiQ Gothenburg)
-pic_url: uploads/vlad-dumitrescu.jpeg
+pic_url: /uploads/vlad-dumitrescu.jpeg
 slug: vlad-dumitrescu
 twitter: 
 youtube: 

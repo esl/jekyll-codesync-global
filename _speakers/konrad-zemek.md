@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Konrad Zemek
 position: Smuggling C++ code into distributed Erlang projects (Erlang Solutions)
-pic_url: uploads/konrad-zemek.jpeg
+pic_url: /uploads/konrad-zemek.jpeg
 slug: konrad-zemek
 twitter: 
 youtube: 

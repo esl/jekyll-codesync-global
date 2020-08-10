@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Niclas Axelsson
 position: Co-founder of Nova
-pic_url: uploads/niclas-axelsson.png
+pic_url: /uploads/niclas-axelsson.png
 slug: niclas-axelsson
 twitter: burbass
 youtube: 

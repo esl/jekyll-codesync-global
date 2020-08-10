@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Thiago Rocha Camargo
 position: XMPP and voice/video specialist, creator of Jingle Nodes and Mobile Platforms
-pic_url: uploads/thiago-rocha-camargo.png
+pic_url: /uploads/thiago-rocha-camargo.png
 slug: thiago-rocha-camargo
 twitter: xmppjingle
 youtube: 

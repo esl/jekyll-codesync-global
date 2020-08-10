@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Leandro Bighetti
 position: Elixir Developer (Entelios AG)
-pic_url: uploads/leandro-bighetti.jpeg
+pic_url: /uploads/leandro-bighetti.jpeg
 slug: leandro-bighetti
 twitter: LeandroBighetti
 youtube: 

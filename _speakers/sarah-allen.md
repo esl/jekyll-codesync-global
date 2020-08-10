@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sarah Allen
 position: Co-creator of Adobe After Effects/Shockwave Flash Video
-pic_url: uploads/sarah-allen.png
+pic_url: /uploads/sarah-allen.png
 slug: sarah-allen
 twitter: ultrasaurus
 youtube: 

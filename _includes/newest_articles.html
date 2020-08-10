@@ -45,7 +45,7 @@
                                 <span>///</span>
                                 {% for speaker in site.speakers %}
                                     {%if speaker.path == post.speaker1 or speaker.path == post.speaker2 or speaker.path == post.speaker3 %}
-                                        <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.firstname}}
+                                        <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
                                             {{speaker.lastname}}
                                         </a>
                                     {% endif %}

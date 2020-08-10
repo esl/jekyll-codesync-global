@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Greg Woodward, Ph.D.
 position: CTO & VP Engineering at Sparta Science
-pic_url: uploads/greg-woodward-ph-d.png
+pic_url: /uploads/greg-woodward-ph-d.png
 slug: greg-woodward-ph-d
 twitter: gregwoodward
 youtube: 

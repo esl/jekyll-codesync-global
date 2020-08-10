@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zane Beckwith
 position: Principal Product Architect for Security (Xaptum)
-pic_url: uploads/zane-beckwith.jpeg
+pic_url: /uploads/zane-beckwith.jpeg
 slug: zane-beckwith
 twitter: 
 youtube: 

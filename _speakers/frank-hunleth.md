@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Frank Hunleth
 position: Nerves co-author
-pic_url: uploads/frank-hunleth.png
+pic_url: /uploads/frank-hunleth.png
 slug: frank-hunleth
 twitter: fhunleth
 youtube: 

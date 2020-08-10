@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jessica Kerr
 position: Symmathecist, in the medium of code
-pic_url: uploads/jessica-kerr.png
+pic_url: /uploads/jessica-kerr.png
 slug: jessica-kerr
 twitter: jessitron
 youtube: 

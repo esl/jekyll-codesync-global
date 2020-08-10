@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Natalya Arbit
 position: Software architect	at Environmental Data Resources, a Lightbox Company
-pic_url: uploads/natalya-arbit.jpeg
+pic_url: /uploads/natalya-arbit.jpeg
 slug: natalya-arbit
 twitter: 
 youtube: 

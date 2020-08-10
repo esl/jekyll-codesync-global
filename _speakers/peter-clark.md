@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Peter Clark
 position: Founder and CEO of T.I. Tokyo
-pic_url: uploads/peter-clark.png
+pic_url: /uploads/peter-clark.png
 slug: peter-clark
 twitter: pjaclark
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zsolt Laky
 position: No title
-pic_url: uploads/zsolt-laky.png
+pic_url: /uploads/zsolt-laky.png
 slug: zsolt-laky
 twitter: 
 youtube: 

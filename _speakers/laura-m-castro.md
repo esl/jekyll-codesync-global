@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Laura M. Castro
 position: Associate professor and lead researcher spreading BEAM love from a little corner in Spain (University of A Coruña)
-pic_url: uploads/laura-m-castro.png
+pic_url: /uploads/laura-m-castro.png
 slug: laura-m-castro
 twitter: lauramcastro
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Steven Blowers
 position: Elixirish Person (Rekki)
-pic_url: uploads/steven-blowers.jpeg
+pic_url: /uploads/steven-blowers.jpeg
 slug: steven-blowers
 twitter: shdblowers
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Nicholas Adams
 position: Director of global support operations at T.I Tokyo
-pic_url: uploads/nicholas-adams291.png
+pic_url: /uploads/nicholas-adams291.png
 slug: nicholas-adams291
 twitter: 
 youtube: 

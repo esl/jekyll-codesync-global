@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kate Carruthers
 position: Chief Data & Analytics Officer and Senior Lecturer in Computer Science & Engineering
-pic_url: uploads/kate-carruthers.png
+pic_url: /uploads/kate-carruthers.png
 slug: kate-carruthers
 twitter: kcarruthers
 youtube: 

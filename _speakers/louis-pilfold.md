@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Louis Pilfold
 position: Author of Gleam, Elixir contributor
-pic_url: uploads/louis-pilfold.jpeg
+pic_url: /uploads/louis-pilfold.jpeg
 slug: louis-pilfold
 twitter: louispilfold
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ravi Chandra Padmala
 position: Software engineer
-pic_url: uploads/ravi-chandra-padmala.jpeg
+pic_url: /uploads/ravi-chandra-padmala.jpeg
 slug: ravi-chandra-padmala
 twitter: neenaoffline
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Chris Bell
 position: Director of engineering at Muru Inc.
-pic_url: uploads/chris-bell.png
+pic_url: /uploads/chris-bell.png
 slug: chris-bell
 twitter: cjbell_
 youtube: 

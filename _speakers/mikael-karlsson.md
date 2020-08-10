@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mikael Karlsson
 position: Software developer @ Creado Systems
-pic_url: uploads/mikael-karlsson.png
+pic_url: /uploads/mikael-karlsson.png
 slug: mikael-karlsson
 twitter: mikkarls
 youtube: 

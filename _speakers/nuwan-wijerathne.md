@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Nuwan Wijerathne
 position: Tech-Lead at Global Wavenet
-pic_url: uploads/nuwan-wijerathne.png
+pic_url: /uploads/nuwan-wijerathne.png
 slug: nuwan-wijerathne
 twitter: wavenet_intl
 youtube: 

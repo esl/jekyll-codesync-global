@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ricardo Corral-Corral
 position: VP of Engineering at Suggestic Inc.
-pic_url: uploads/ricardo-corral-corral302.png
+pic_url: /uploads/ricardo-corral-corral302.png
 slug: ricardo-corral-corral302
 twitter: doctorcorral
 youtube: 

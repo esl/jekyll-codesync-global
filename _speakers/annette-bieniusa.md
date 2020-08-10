@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Annette Bieniusa
 position: Senior researcher at TU Kaiserslautern
-pic_url: uploads/annette-bieniusa.png
+pic_url: /uploads/annette-bieniusa.png
 slug: annette-bieniusa
 twitter: anne_biene
 youtube: 

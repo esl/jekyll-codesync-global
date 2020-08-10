@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Andrei Soroker
 position: Director of Product at 8x8
-pic_url: uploads/andrei-soroker.png
+pic_url: /uploads/andrei-soroker.png
 slug: andrei-soroker
 twitter: 
 youtube: 

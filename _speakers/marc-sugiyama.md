@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Marc Sugiyama
 position: Experienced Erlang engineer, consultant, and trainer
-pic_url: uploads/marc-sugiyama.png
+pic_url: /uploads/marc-sugiyama.png
 slug: marc-sugiyama
 twitter: marcsugiyama
 youtube: 

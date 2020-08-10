@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tyler Neely
 position: Builder and destroyer of high-performance databases
-pic_url: uploads/tyler-neely.png
+pic_url: /uploads/tyler-neely.png
 slug: tyler-neely
 twitter: sadisticsystems
 youtube: 

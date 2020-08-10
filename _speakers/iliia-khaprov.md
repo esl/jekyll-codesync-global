@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Iliia Khaprov
 position: Open source software enthusiast
-pic_url: uploads/iliia-khaprov.jpeg
+pic_url: /uploads/iliia-khaprov.jpeg
 slug: iliia-khaprov
 twitter: dead_trickster
 youtube: 

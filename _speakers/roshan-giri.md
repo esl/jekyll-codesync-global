@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Roshan Giri
 position: Experienced parallel and concurrency enthusiast developing secure medical messaging system @ Medical Objects Pty Ltd
-pic_url: uploads/roshan-giri.png
+pic_url: /uploads/roshan-giri.png
 slug: roshan-giri
 twitter: 
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Carlos Baquero Moreno
 position: Distributed Systems Professor, Co-creator of CRDTs
-pic_url: uploads/carlos-baquero-moreno.jpeg
+pic_url: /uploads/carlos-baquero-moreno.jpeg
 slug: carlos-baquero-moreno
 twitter: xmal
 youtube: 

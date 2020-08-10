@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Drew Varner
 position: GIAC exploit researcher & advanced penetration tester
-pic_url: uploads/drew-varner.png
+pic_url: /uploads/drew-varner.png
 slug: drew-varner
 twitter: varnerac
 youtube: 

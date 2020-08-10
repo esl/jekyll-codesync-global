@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sébastien Merle
 position: Erlang and Embedded Programmer (Peer Stritzinger GmbH)
-pic_url: uploads/sebastien-merle.jpeg
+pic_url: /uploads/sebastien-merle.jpeg
 slug: sebastien-merle
 twitter: 
 youtube: 

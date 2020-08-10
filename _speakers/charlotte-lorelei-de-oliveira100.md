@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Charlotte Lorelei de Oliveira
 position: ✨ Net Idol ✨
-pic_url: uploads/charlotte-lorelei-de-oliveira100.jpeg
+pic_url: /uploads/charlotte-lorelei-de-oliveira100.jpeg
 slug: charlotte-lorelei-de-oliveira100
 twitter: umamaistempo
 youtube: 

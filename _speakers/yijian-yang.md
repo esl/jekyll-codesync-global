@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Yijian Yang
 position: Engineering team lead at Bloomberg
-pic_url: uploads/yijian-yang.png
+pic_url: /uploads/yijian-yang.png
 slug: yijian-yang
 twitter: 
 youtube: 

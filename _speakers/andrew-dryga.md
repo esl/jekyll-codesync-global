@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Andrew Dryga
 position: Brought Elixir to the NHS (Nebo #15)
-pic_url: uploads/andrew-dryga.jpeg
+pic_url: /uploads/andrew-dryga.jpeg
 slug: andrew-dryga
 twitter: andrew_dryga
 youtube: 

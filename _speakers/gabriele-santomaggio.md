@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Gabriele Santomaggio
 position: Erlang Developer
-pic_url: uploads/gabriele-santomaggio.jpeg
+pic_url: /uploads/gabriele-santomaggio.jpeg
 slug: gabriele-santomaggio
 twitter: GSantomaggio
 youtube: 

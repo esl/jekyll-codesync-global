@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jacqui Manzi
 position: Senior software engineer at Mux
-pic_url: uploads/jacqui-manzi.png
+pic_url: /uploads/jacqui-manzi.png
 slug: jacqui-manzi
 twitter: 
 youtube: 

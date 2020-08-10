@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ibrahim Abdelkareem
 position: Software developer at Asolvi
-pic_url: uploads/ibrahim-abdelkareem.png
+pic_url: /uploads/ibrahim-abdelkareem.png
 slug: ibrahim-abdelkareem
 twitter: IbrahimCIS
 youtube: 

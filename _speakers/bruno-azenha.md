@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Bruno Azenha
 position: Enthusiastic Elixir engineer at Wunder Mobility
-pic_url: uploads/bruno-azenha.png
+pic_url: /uploads/bruno-azenha.png
 slug: bruno-azenha
 twitter: 
 youtube: 

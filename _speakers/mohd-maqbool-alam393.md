@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mohd Maqbool Alam
 position: Software engineer
-pic_url: uploads/mohd-maqbool-alam393.jpeg
+pic_url: /uploads/mohd-maqbool-alam393.jpeg
 slug: mohd-maqbool-alam393
 twitter: 
 youtube: 

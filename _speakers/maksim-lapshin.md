@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Maksim Lapshin
 position: Owner of Flussonic
-pic_url: uploads/maksim-lapshin.png
+pic_url: /uploads/maksim-lapshin.png
 slug: maksim-lapshin
 twitter: 
 youtube: 

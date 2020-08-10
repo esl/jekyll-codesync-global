@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ben Tyler
 position: Principal Developer at Booking.com
-pic_url: uploads/ben-tyler.jpeg
+pic_url: /uploads/ben-tyler.jpeg
 slug: ben-tyler
 twitter: 
 youtube: 

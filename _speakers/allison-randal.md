@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Allison Randal
 position: PhD at the University of Cambridge and Board member at Open Source Initiative.
-pic_url: uploads/allison-randal.jpeg
+pic_url: /uploads/allison-randal.jpeg
 slug: allison-randal
 twitter: allisonrandal
 youtube: 

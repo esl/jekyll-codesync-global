@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Alex Loukissas
 position: Serial entrepreneur with deep expertise in distributed systems
-pic_url: uploads/alex-loukissas.png
+pic_url: /uploads/alex-loukissas.png
 slug: alex-loukissas
 twitter: aloukissas
 youtube: 

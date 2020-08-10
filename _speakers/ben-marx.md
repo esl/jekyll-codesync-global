@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Ben Marx
 position: Lead Developer at Bleacher Report
-pic_url: uploads/ben-marx.jpeg
+pic_url: /uploads/ben-marx.jpeg
 slug: ben-marx
 twitter: bgmarx
 youtube: 

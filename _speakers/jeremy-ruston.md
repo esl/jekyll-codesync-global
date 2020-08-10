@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jeremy Ruston
 position: Creator of TiddlyWiki
-pic_url: uploads/jeremy-ruston.png
+pic_url: /uploads/jeremy-ruston.png
 slug: jeremy-ruston
 twitter: Jermolene
 youtube: 

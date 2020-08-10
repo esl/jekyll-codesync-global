@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Kenji Rikitake
 position: Erlang/OTP rand module co-creator, amateur radio enthusiast
-pic_url: uploads/kenji-rikitake.jpeg
+pic_url: /uploads/kenji-rikitake.jpeg
 slug: kenji-rikitake
 twitter: jj1bdx
 youtube: 

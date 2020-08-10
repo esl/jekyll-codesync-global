@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Irina Guberman
 position: Principal Product Architect at Xaptum
-pic_url: uploads/irina-guberman.png
+pic_url: /uploads/irina-guberman.png
 slug: irina-guberman
 twitter: irina_guberman
 youtube: 

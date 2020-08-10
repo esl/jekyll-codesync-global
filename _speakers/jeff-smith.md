@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jeff Smith
 position: Software engineer at Enbala
-pic_url: uploads/jeff-smith.png
+pic_url: /uploads/jeff-smith.png
 slug: jeff-smith
 twitter: electricshaman
 youtube: 

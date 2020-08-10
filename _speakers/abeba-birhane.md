@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Abeba Birhane
 position: PhD candidate in Cognitive Science at University College Dublin. Fan of anti-Cartesian rants, AI and coffee
-pic_url: uploads/abeba-birhane.png
+pic_url: /uploads/abeba-birhane.png
 slug: abeba-birhane
 twitter: Abebab
 youtube: 

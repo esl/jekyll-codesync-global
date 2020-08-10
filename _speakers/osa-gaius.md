@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Osa Gaius
 position: Engineer Focused on Product and Distributed Systems - Mailchimp
-pic_url: uploads/osa-gaius.jpeg
+pic_url: /uploads/osa-gaius.jpeg
 slug: osa-gaius
 twitter: osagaius
 youtube: 

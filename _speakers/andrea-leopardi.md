@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Andrea Leopardi
 position: Elixir core team member, developer advocate, software architect (Community.com)
-pic_url: uploads/andrea-leopardi.jpeg
+pic_url: /uploads/andrea-leopardi.jpeg
 slug: andrea-leopardi
 twitter: whatyouhide
 youtube: 

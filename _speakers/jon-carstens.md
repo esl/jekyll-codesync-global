@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jon Carstens
 position: Professional tinkerer. Promoter of hardware engineering
-pic_url: uploads/jon-carstens.png
+pic_url: /uploads/jon-carstens.png
 slug: jon-carstens
 twitter: JonCarstens
 youtube: 

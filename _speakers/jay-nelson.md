@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jay	Nelson
 position: Proselytizes "the Erlang way" for apps in telecoms, electronic payments, secure texting, and ad delivery
-pic_url: uploads/jay-nelson.png
+pic_url: /uploads/jay-nelson.png
 slug: jay-nelson
 twitter: duomark
 youtube: 

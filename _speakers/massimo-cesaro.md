@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Massimo Cesaro
 position: Chief Technology Officer Inkwell Data
-pic_url: uploads/massimo-cesaro.jpeg
+pic_url: /uploads/massimo-cesaro.jpeg
 slug: massimo-cesaro
 twitter: massimo_cesaro
 youtube: 

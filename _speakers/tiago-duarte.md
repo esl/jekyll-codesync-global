@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Tiago Duarte
 position: CEO of Coletiv Studio
-pic_url: uploads/tiago-duarte.jpeg
+pic_url: /uploads/tiago-duarte.jpeg
 slug: tiago-duarte
 twitter: tmpduarte
 youtube: 

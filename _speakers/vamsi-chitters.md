@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Vamsi Chitters
 position: Entrepreneur interested in building large scale systems
-pic_url: uploads/vamsi-chitters.png
+pic_url: /uploads/vamsi-chitters.png
 slug: vamsi-chitters
 twitter: vchitters
 youtube: 

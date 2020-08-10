@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mikkel Høgh
 position: 18 years of experience building web applications in of all shapes and sizes
-pic_url: uploads/mikkel-hoegh.jpeg
+pic_url: /uploads/mikkel-hoegh.jpeg
 slug: mikkel-hoegh
 twitter: mikl
 youtube: 

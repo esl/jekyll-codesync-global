@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Rayta van Rijswijk
 position: Developer at YoungCapital, organizer Amsrb, gym rat
-pic_url: uploads/rayta-van-rijswijk213.jpeg
+pic_url: /uploads/rayta-van-rijswijk213.jpeg
 slug: rayta-van-rijswijk213
 twitter: raytalks
 youtube: 

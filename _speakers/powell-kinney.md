@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Powell Kinney
 position: Chief product owner at Toyota Connected
-pic_url: uploads/powell-kinney.jpeg
+pic_url: /uploads/powell-kinney.jpeg
 slug: powell-kinney
 twitter: pkinney
 youtube: 

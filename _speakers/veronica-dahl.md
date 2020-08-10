@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Veronica Dahl
 position: Logic programming co-founder
-pic_url: uploads/veronica-dahl.png
+pic_url: /uploads/veronica-dahl.png
 slug: veronica-dahl
 twitter: 
 youtube: 

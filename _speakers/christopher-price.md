@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Christopher Price
 position: Head of Ericsson Software Technology
-pic_url: uploads/christopher-price.png
+pic_url: /uploads/christopher-price.png
 slug: christopher-price
 twitter: 
 youtube: 

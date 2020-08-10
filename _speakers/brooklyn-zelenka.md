@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Brooklyn Zelenka
 position: Programs with functions λ, co-founder & chief scientist at FISSION
-pic_url: uploads/brooklyn-zelenka.png
+pic_url: /uploads/brooklyn-zelenka.png
 slug: brooklyn-zelenka
 twitter: expede
 youtube: 

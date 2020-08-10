@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Georgi Spasov
 position: Elixir developer (æternity)
-pic_url: uploads/georgi-spasov.png
+pic_url: /uploads/georgi-spasov.png
 slug: georgi-spasov
 twitter: 
 youtube: 

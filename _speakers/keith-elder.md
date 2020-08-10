@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Keith Elder
 position: Technology evangelist, technologist, software engineer, speaker, trainer, and storyteller
-pic_url: uploads/keith-elder.png
+pic_url: /uploads/keith-elder.png
 slug: keith-elder
 twitter: keithelder
 youtube: 

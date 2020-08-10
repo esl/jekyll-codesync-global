@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Mikhail Vorontsov
 position: Lead developer / team lead (WhatsApp)
-pic_url: uploads/mikhail-vorontsov.jpeg
+pic_url: /uploads/mikhail-vorontsov.jpeg
 slug: mikhail-vorontsov
 twitter: 
 youtube: 

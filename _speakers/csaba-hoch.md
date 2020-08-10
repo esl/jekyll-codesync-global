@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Csaba Hoch
 position: Erlang/Julia programmer, creator of Vim Erlang indentation (Cursor Insight)
-pic_url: uploads/csaba-hoch.jpeg
+pic_url: /uploads/csaba-hoch.jpeg
 slug: csaba-hoch
 twitter: 
 youtube: 

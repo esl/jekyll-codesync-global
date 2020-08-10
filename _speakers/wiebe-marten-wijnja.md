@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Wiebe-Marten Wijnja
 position: Developer / Contributor / Fanboy
-pic_url: uploads/wiebe-marten-wijnja.png
+pic_url: /uploads/wiebe-marten-wijnja.png
 slug: wiebe-marten-wijnja
 twitter: wiebemarten
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sophia Drossopoulou
 position: Professor, Imperial College London
-pic_url: uploads/sophia-drossopoulou.jpeg
+pic_url: /uploads/sophia-drossopoulou.jpeg
 slug: sophia-drossopoulou
 twitter: drossopoulou
 youtube: 

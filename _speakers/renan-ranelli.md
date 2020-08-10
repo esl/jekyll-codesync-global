@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Renan Ranelli
 position: Elixir and cocktail mixer
-pic_url: uploads/renan-ranelli.jpeg
+pic_url: /uploads/renan-ranelli.jpeg
 slug: renan-ranelli
 twitter: renanranelli
 youtube: 

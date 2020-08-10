@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Filipe Varjão
 position: Developer at Erlang Solutions
-pic_url: uploads/filipe-varjao.png
+pic_url: /uploads/filipe-varjao.png
 slug: filipe-varjao
 twitter: filipevarjao
 youtube: 

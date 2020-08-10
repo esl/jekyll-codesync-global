@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Domas Lasauskas
 position: Senior Engineer at DAZN
-pic_url: uploads/domas-lasauskas.png
+pic_url: /uploads/domas-lasauskas.png
 slug: domas-lasauskas
 twitter: DomasLasauskas
 youtube: 

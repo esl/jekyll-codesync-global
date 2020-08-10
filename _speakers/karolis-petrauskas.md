@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Karolis Petrauskas
 position: Co-founder at Erisata
-pic_url: uploads/karolis-petrauskas.png
+pic_url: /uploads/karolis-petrauskas.png
 slug: karolis-petrauskas
 twitter: kape1395
 youtube: 

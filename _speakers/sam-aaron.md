@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Sam Aaron
 position: Sonic Pi creator
-pic_url: uploads/sam-aaron.png
+pic_url: /uploads/sam-aaron.png
 slug: sam-aaron
 twitter: samaaron
 youtube: 

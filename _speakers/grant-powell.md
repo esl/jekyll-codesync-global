@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Grant Powell
 position: Senior software engineer at SalesLoft. Co-instructor of "Building scalable real-time systems in Elixir" training course at ElixirConf 2019
-pic_url: uploads/grant-powell.png
+pic_url: /uploads/grant-powell.png
 slug: grant-powell
 twitter: 
 youtube: 

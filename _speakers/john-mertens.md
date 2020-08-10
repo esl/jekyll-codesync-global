@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: John Mertens
 position: Tech do-gooder, Principal Engineer @ Change.org
-pic_url: uploads/john-mertens.png
+pic_url: /uploads/john-mertens.png
 slug: john-mertens
 twitter: mertonium
 youtube: 

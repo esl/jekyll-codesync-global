@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Georgina McFadyen
 position: Software Consultant
-pic_url: uploads/georgina-mcfadyen.jpeg
+pic_url: /uploads/georgina-mcfadyen.jpeg
 slug: georgina-mcfadyen
 twitter: gemcfadyen
 youtube: 

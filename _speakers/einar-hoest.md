@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Einar Høst
 position: Computer at NRK
-pic_url: uploads/einar-hoest.png
+pic_url: /uploads/einar-hoest.png
 slug: einar-hoest
 twitter: einarwh
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Greg Mefford
 position: Nerves Core Team and Spandex Core Team
-pic_url: uploads/greg-mefford.jpeg
+pic_url: /uploads/greg-mefford.jpeg
 slug: greg-mefford
 twitter: ferggo
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Boyd Multerer
 position: Creator of Scenic and lead engineering for Xbox Live, XNA
-pic_url: uploads/boyd-multerer.png
+pic_url: /uploads/boyd-multerer.png
 slug: boyd-multerer
 twitter: BoydMulterer
 youtube: 

@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Zainab Ali
 position: Functional polyglot
-pic_url: uploads/zainab-ali.png
+pic_url: /uploads/zainab-ali.png
 slug: zainab-ali
 twitter: _zainabali_
 youtube: 

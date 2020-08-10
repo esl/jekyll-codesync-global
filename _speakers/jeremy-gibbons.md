@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Jeremy Gibbons
 position: Professor of Computing at University of Oxford
-pic_url: uploads/jeremy-gibbons.png
+pic_url: /uploads/jeremy-gibbons.png
 slug: jeremy-gibbons
 twitter: jer_gib
 youtube: 

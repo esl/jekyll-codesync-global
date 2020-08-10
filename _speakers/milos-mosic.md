@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Miloš Mošić
 position: Senior Software Engineer at Mainframe
-pic_url: uploads/milos-mosic.png
+pic_url: /uploads/milos-mosic.png
 slug: milos-mosic
 twitter: milosmosic
 youtube: 

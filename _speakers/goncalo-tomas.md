@@ -5,7 +5,7 @@ google:
 linkedin: 
 name: Gonçalo Tomás
 position: NOVA University of Lisbon
-pic_url: uploads/goncalo-tomas.jpeg
+pic_url: /uploads/goncalo-tomas.jpeg
 slug: goncalo-tomas
 twitter: goncaloptomas
 youtube: 
