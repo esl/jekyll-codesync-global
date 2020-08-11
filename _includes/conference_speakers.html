@@ -16,14 +16,14 @@
               <!-- Inline dynamic styles for gradient here in speaker-img -->
               <picture>
                 <img
-                  alt="{{ speaker.firstname }} {{ speaker.lastname }}"
+                  alt="{{ speaker.name }} {{ speaker.lastname }}"
                   class="lazy"
                   data-src="{{site.baseurl}}{{ speaker.pic_url }}"
                 />
               </picture>
             </div>
             <h3 class="heading heading--medium mt--40 dont-break-out">
-              {{ speaker.firstname }} {{ speaker.lastname }}
+              {{ speaker.name }} {{ speaker.lastname }}
             </h3>
           </a>
           <p class="fw--medium pt--10">
@@ -72,14 +72,14 @@
           <div class="speaker-img">
             <picture>
               <img
-                alt="{{ speaker.firstname }} {{ speaker.lastname }}"
+                alt="{{ speaker.name }} {{ speaker.lastname }}"
                 class="lazy"
                 data-src="{{site.baseurl}}{{ speaker.pic_url }}"
               />
             </picture>
           </div>
           <h3 class="heading heading--medium mt--40 dont-break-out">
-            {{ speaker.firstname }} {{ speaker.lastname }}
+            {{ speaker.name }} {{ speaker.lastname }}
           </h3>
         </a>
         <p class="fw--medium pt--10">
