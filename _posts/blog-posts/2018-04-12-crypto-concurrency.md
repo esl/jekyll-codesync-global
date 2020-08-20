@@ -1,5 +1,6 @@
 ---
-title: Crypto + Concurrency
+title: " Crypto + Concurrency
+"
 abstract: ""
 speaker_id: anna-neyzberg
 type: video

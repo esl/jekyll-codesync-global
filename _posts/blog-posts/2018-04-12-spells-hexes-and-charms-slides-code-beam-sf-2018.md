@@ -1,5 +1,6 @@
 ---
-title: Spells, hexes, and charms - SLIDES - Code BEAM SF 2018
+title: " Spells, hexes, and charms - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides from Mark Allen's talk "Spells, hexes, and charms: running your own private package service" - Code BEAM SF 2018
 "
 image: spells-hexes-and-charms

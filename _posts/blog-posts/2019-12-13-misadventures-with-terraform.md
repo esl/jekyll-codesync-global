@@ -1,5 +1,6 @@
 ---
-title: Misadventures with Terraform
+title: " Misadventures with Terraform
+"
 abstract: "A brief tour of real life experiences where things went wrong, but useful lessons were learned."
 speaker_id: matthew-revell
 type: video

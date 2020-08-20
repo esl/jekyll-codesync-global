@@ -1,5 +1,6 @@
 ---
-title: Building a video conference controller with Elixir - SLIDES - Code BEAM Lite Milan 2018
+title: " Building a video conference controller with Elixir - SLIDES - Code BEAM Lite Milan 2018
+"
 abstract: "Slides for the Matteo Brancaleoni's talk Building a video conference controller with Elixir - Code BEAM Lite Milan 2018
 "
 image: building-a-video-conference-controller-slides

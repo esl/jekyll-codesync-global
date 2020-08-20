@@ -1,5 +1,6 @@
 ---
-title: Let it Be Hacked - Code Beam SF 2018
+title: " Let it Be Hacked - Code Beam SF 2018
+"
 abstract: ""
 speaker_id: duncan-sparrell
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Property based tests for the masses
+title: " Property based tests for the masses
+"
 abstract: "Use property based tests to challenge your knowledge of the domain, to create smaller, fewer tests that: test more, are more readable & document the problem. Use them even (specially) in horrible eldritch codebases written in awful languages, use property based tests to ask questions to your codebase."
 speaker_id: romeu-moura
 type: video

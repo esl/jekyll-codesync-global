@@ -1,5 +1,6 @@
 ---
-title: Eir: Infrastructure for working with BEAM code
+title: " Eir: Infrastructure for working with BEAM code
+"
 abstract: "Eir is an intermediate representation for Erlang code. It is designed to support advanced code optimizations, and for use with LLVM.
 
 During the presentation, two proof-of-concepts will be presented, both utilizing Eir:

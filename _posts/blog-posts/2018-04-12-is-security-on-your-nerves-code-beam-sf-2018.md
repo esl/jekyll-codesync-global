@@ -1,5 +1,6 @@
 ---
-title: Is Security on Your Nerves - Code BEAM SF 2018
+title: " Is Security on Your Nerves - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: paul-rogers
 type: video

@@ -1,5 +1,6 @@
 ---
-title: wxErlang & Faithful Representation - Code BEAM SF 2018
+title: " wxErlang & Faithful Representation - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: robert-carbone16
 type: video

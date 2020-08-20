@@ -1,5 +1,6 @@
 ---
-title: Understanding gossip protocols
+title: " Understanding gossip protocols
+"
 abstract: "In large Distributed Systems knowing the state of the whole system is a difficult task which becomes harder as we increment the number of nodes. There are too many nodes to communicate with and many algorithms that solve the problem tend to grow linearly with the number of nodes. The underlying network is a problem too, we can’t rely on hardware solutions as they wouldn’t be available in the cloud (e.g. Multicast). It’s also really complex to maintain an updated graph of nodes and even to store the graph itself, in large systems.
 
 Many distributed systems nowadays rely on Gossip protocols to share the state of the system among the nodes because they avoid these problems.

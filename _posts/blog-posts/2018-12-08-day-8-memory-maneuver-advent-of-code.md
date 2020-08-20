@@ -1,6 +1,7 @@
 
 ---
-title: Day 8: Memory maneuver - Advent of Code
+title: " Day 8: Memory maneuver - Advent of Code
+"
 abstract: "I did the Advent of Code 2018 day 8 challenge in Erlang! Parts one and two are as follows:
 "
 image: /images/Day 8.png

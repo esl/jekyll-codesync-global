@@ -1,5 +1,6 @@
 ---
-title: Clixir - mixing C and Elixir code
+title: " Clixir - mixing C and Elixir code
+"
 abstract: "Taking metaprogramming to the max, Clixir allows you to mix a subset of C and Elixir code in single source files and end up with transparent and safe execution of your embedded C code. As a demonstration, Uderzo, an OpenGL based graphics system targeted towards simple UIs for Nerves-style systems, will be explained."
 speaker_id: cees-de-groot
 type: video

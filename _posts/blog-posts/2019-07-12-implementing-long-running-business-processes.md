@@ -1,5 +1,6 @@
 ---
-title: Implementing long running business processes
+title: " Implementing long running business processes
+"
 abstract: "Erlang/OTP provides a great infrastructure for implementing business processes. Although several additional features are needed in typical BPM application, like persistence, audit, migration of processes in a cluster. In this talk we present a framework for implementing long running FSM based processes as well as several design patterns that rendered useful in practice. The main features the framework provides are the defined semantics for structured states, scoped timers, persistence, audit and clustering."
 speaker_id: karolis-petrauskas
 type: video

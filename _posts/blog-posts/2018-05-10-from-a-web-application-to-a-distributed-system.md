@@ -1,6 +1,7 @@
 
 ---
-title: From a web application to a distributed system
+title: " From a web application to a distributed system
+"
 abstract: "There is currently a lot of interest in how these problems are solved in the BEAM environment (using Actor model) and how some common patterns like Supervisor or GenServer are used in other languages or frameworks, Akka for example.
 "
 image: /images/sto-e.jpg

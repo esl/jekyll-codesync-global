@@ -1,5 +1,6 @@
 ---
-title: CQRS and Event Sourcing - Code Beam SF 2018
+title: " CQRS and Event Sourcing - Code Beam SF 2018
+"
 abstract: ""
 speaker_id: bernardo-amorim
 type: video

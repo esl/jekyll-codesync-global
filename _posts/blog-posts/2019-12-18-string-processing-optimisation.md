@@ -1,5 +1,6 @@
 ---
-title: String processing optimisation
+title: " String processing optimisation
+"
 abstract: ""
 speaker_id: johanna-larsson
 type: video

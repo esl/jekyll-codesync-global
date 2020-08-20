@@ -1,5 +1,6 @@
 ---
-title: Your Erlang graph fix
+title: " Your Erlang graph fix
+"
 abstract: "15.25 - 15.50
 YOUR ERLANG GRAPH FIX
 If you take the word graph out of graphic, all you have is 'ick'.

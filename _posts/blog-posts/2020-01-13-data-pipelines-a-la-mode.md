@@ -1,5 +1,6 @@
 ---
-title: Data pipelines à la mode
+title: " Data pipelines à la mode
+"
 abstract: "In all businesses there is some kind of data pipeline, even if it’s powered by humans working off a shared drive somewhere. Lots of places are better than this. They have workflow systems, ETL pipelines, analytics teams, data scientists etc. But, can they say months later which version of which code running on what data generated insights? Can they be reproduced? What if the algorithms change? Do you go back and re-run everything? 
 Science itself has a reproducibility problem, but it’s worse in most companies and mistakes can be expensive.
 

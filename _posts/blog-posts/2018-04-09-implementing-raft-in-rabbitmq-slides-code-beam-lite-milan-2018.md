@@ -1,5 +1,6 @@
 ---
-title: Implementing Raft in RabbitMQ - SLIDES - Code BEAM Lite Milan 2018
+title: " Implementing Raft in RabbitMQ - SLIDES - Code BEAM Lite Milan 2018
+"
 abstract: "Slides for the Daniil Fedotov's talk Implementing Raft in RabbitMQ - Code BEAM Lite Milan 2018
 "
 image: implementing-raft-in-rabitmq

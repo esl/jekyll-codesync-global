@@ -1,5 +1,6 @@
 ---
-title: Trusted Autonomy - Code BEAM SF 2018
+title: " Trusted Autonomy - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: ben-marx
 type: video

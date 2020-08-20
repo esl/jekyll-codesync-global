@@ -1,5 +1,6 @@
 ---
-title: LPWAN and Cellular IoT Explained - Code BEAM SF 2018
+title: " LPWAN and Cellular IoT Explained - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: bryan-hughes
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Coding for global languages Unicode, charsets, strings and binaries
+title: " Coding for global languages Unicode, charsets, strings and binaries
+"
 abstract: "Writing global software means our programs need to speak global human languages, but writing programs that work correctly with non-Western European languages is at best a confusing affair. UTF8, latin1, Unicode?"
 speaker_id: marc-sugiyama
 type: video

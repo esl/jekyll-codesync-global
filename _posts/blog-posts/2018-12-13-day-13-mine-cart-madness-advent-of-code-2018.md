@@ -1,6 +1,7 @@
 
 ---
-title: Day 13: Mine Cart Madness - Advent of Code 2018
+title: " Day 13: Mine Cart Madness - Advent of Code 2018
+"
 abstract: "I did the Advent of Code 2018 day 13 challenge in Erlang! Parts one and two are as follows:
 "
 image: /images/Day 13.png

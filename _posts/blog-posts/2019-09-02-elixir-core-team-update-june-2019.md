@@ -1,5 +1,6 @@
 ---
-title: Elixir Core team update (June 2019)
+title: " Elixir Core team update (June 2019)
+"
 abstract: "Jose will give updates on what the Elixir team has done in the last few months, what are the projects they're working on, what's going on in the research side, and what features will be in the next release."
 speaker_id: jose-valim
 type: video

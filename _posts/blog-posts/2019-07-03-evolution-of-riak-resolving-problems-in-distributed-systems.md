@@ -1,5 +1,6 @@
 ---
-title: Evolution of Riak: resolving problems in distributed systems
+title: " Evolution of Riak: resolving problems in distributed systems
+"
 abstract: "This talk will cover some problems of building a distributed system framework:
 
 - Mass adoption of scale-out with difficult developer trade-offs is hard to achieve;

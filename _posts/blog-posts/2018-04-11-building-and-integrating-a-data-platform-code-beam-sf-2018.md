@@ -1,5 +1,6 @@
 ---
-title: Building and Integrating A Data Platform - Code BEAM SF 2018
+title: " Building and Integrating A Data Platform - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: benoit-chesneau
 type: video

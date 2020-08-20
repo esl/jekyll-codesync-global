@@ -1,6 +1,7 @@
 
 ---
-title: Day 5: Alchemical Reduction - Advent of Code 2018
+title: " Day 5: Alchemical Reduction - Advent of Code 2018
+"
 abstract: "I did the Advent of Code 2018 day 5 challenge in Elixir! Parts one and two are as follows:
 "
 image: /images/Day 5.png

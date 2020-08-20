@@ -1,6 +1,7 @@
 
 ---
-title: Day 2: Inventory Management System - Advent of Code 2018
+title: " Day 2: Inventory Management System - Advent of Code 2018
+"
 abstract: "I did the Advent of Code 2018 day 2 challenge in Elixir! Parts one and two are as follows:
 "
 image: /images/Day 2.png

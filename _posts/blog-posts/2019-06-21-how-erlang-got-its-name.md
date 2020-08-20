@@ -1,5 +1,6 @@
 ---
-title: How Erlang got its name
+title: " How Erlang got its name
+"
 abstract: "Erlang was the third language designed at Ericsson with a structure of modules, processes and process communication in the tradition of Modula. Modula had been designed by Niklaus Wirth the inventor also of Pascal. This talk will discuss the large scale international efforts in the 1980’s to create a standard systems programming language."
 speaker_id: bjarne-daecker
 type: video

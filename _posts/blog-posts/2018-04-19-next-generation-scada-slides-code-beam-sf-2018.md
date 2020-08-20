@@ -1,5 +1,6 @@
 ---
-title: Next Generation SCADA - SLIDES - Code BEAM SF 2018
+title: " Next Generation SCADA - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides for the Brett Cameron's and David Brinnen's talk "Next Generation SCADA: Monitoring and Controlling Devices in the Connected World" - Code BEAM SF 2018
 "
 image: next-generation-scada-2

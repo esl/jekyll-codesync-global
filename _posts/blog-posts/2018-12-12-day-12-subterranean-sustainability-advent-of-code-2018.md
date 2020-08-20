@@ -1,6 +1,7 @@
 
 ---
-title: Day 12: Subterranean Sustainability - Advent of Code 2018
+title: " Day 12: Subterranean Sustainability - Advent of Code 2018
+"
 abstract: "I did the Advent of Code 2018 day 12 challenge in Erlang! Parts one and two are as follows:
 "
 image: /images/Day 12.png

@@ -1,5 +1,6 @@
 ---
-title: Everything about distributed systems is terrible
+title: " Everything about distributed systems is terrible
+"
 abstract: "Distributed systems are hard. How do you test your system when it's spread across three services and four languages? Unit testing and type systems only take us so far. At some point we need new tools. 
 
 Enter TLA+. TLA+ is a specification language that describes your system and the properties you want. This makes it a fantastic complement to testing: not only can you check your code, you can check your design, too! TLA+ is especially effective for testing concurrency problems, like crashes, race conditions, and dropped messages. 

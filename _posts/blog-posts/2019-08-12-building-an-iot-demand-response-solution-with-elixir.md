@@ -1,5 +1,6 @@
 ---
-title: Building an IoT Demand Response solution with Elixir
+title: " Building an IoT Demand Response solution with Elixir
+"
 abstract: "How to convert an RFP in the Energy Sector into a design and prototype that can scale to serve 100k chatty connected devices.
 
 OBJECTIVES

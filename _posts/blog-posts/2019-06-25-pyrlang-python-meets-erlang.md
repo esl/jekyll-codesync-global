@@ -1,5 +1,6 @@
 ---
-title: Pyrlang: Python meets Erlang
+title: " Pyrlang: Python meets Erlang
+"
 abstract: "We'll present a quick overview of Pyrlang and its capabilities and make some use case discussions around future project within AI / ML and web development."
 speaker_id: johan-sommerfeld
 type: video

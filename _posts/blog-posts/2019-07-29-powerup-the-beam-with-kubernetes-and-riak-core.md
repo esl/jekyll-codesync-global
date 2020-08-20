@@ -1,5 +1,6 @@
 ---
-title: PowerUp the BEAM with Kubernetes and Riak Core
+title: " PowerUp the BEAM with Kubernetes and Riak Core
+"
 abstract: "At Talkdesk we had the mission of building a high available and fault tolerant system that could scale. We built a system that runs in-memory to maintain low response times and we built it in a way to keep the operational costs low and with the capability of auto-scaling."
 speaker_id: ricardo-oliveira
 type: video

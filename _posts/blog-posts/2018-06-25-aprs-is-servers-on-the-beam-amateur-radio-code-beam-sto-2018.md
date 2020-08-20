@@ -1,5 +1,6 @@
 ---
-title: APRS-IS servers on the BEAM - amateur radio - Code BEAM STO 2018
+title: " APRS-IS servers on the BEAM - amateur radio - Code BEAM STO 2018
+"
 abstract: ""
 speaker_id: kenji-rikitake
 type: video

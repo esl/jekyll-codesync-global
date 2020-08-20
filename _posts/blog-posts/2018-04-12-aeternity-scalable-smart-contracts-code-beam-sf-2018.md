@@ -1,5 +1,6 @@
 ---
-title: Aeternity: Scalable Smart Contracts - Code BEAM SF 2018
+title: " Aeternity: Scalable Smart Contracts - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: erik-stenman
 type: video

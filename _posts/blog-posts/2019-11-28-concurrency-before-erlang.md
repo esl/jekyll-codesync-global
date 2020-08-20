@@ -1,5 +1,6 @@
 ---
-title: Concurrency before Erlang
+title: " Concurrency before Erlang
+"
 abstract: "This talk covers (1) concurrent languages at Ericsson before Erlang, (2) imperative concurrent languages Modula, Chill and Ada (the last two large international efforts), (3) start of the Computer Science Lab at Ericsson and experimentation with language paradigms, and (4) the prototyping that led up to Erlang."
 speaker_id: bjarne-daecker
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Keynote - Confident Elixir
+title: " Keynote - Confident Elixir
+"
 abstract: ""
 speaker_id: tetiana-dushenkivska
 type: video

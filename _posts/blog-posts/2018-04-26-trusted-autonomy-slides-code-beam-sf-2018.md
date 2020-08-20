@@ -1,5 +1,6 @@
 ---
-title: Trusted Autonomy - SLIDES - Code BEAM SF 2018
+title: " Trusted Autonomy - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides from Ben Marx' talk "Trusted Autonomy" - Code BEAM SF 2018
 "
 image: trusted-autonomy

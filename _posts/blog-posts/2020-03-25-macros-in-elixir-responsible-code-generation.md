@@ -1,5 +1,6 @@
 ---
-title: Macros in Elixir: Responsible code generation
+title: " Macros in Elixir: Responsible code generation
+"
 abstract: "Macros are a powerful feature of the Elixir language. However, with great power comes great responsibility. In this talk we’ll explore how to leverage macros to reduce boilerplate, enforce best practices, and increase performance all while keeping code maintainable, readable, and idiomatic."
 speaker_id: lizzie-paquette
 type: video

@@ -1,5 +1,6 @@
 ---
-title: XMPP/UDP Realtime service bus
+title: " XMPP/UDP Realtime service bus
+"
 abstract: ""
 speaker_id: thiago-rocha-camargo
 type: video

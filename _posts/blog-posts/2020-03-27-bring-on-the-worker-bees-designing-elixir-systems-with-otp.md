@@ -1,10 +1,11 @@
 ---
-title: Bring on the worker bees (Designing Elixir systems with OTP)
+title: " Bring on the worker bees (Designing Elixir systems with OTP)
+"
 abstract: "If you want to be a great Elixir developers, you need to learn to build your programs in layers, the way the experts do. In this session, we will explore the advice:
 
 Do fun things with big, loud worker bees.
 
-This sentence, from the bestselling Elixir book Designing Elixir Systems with OTP, is a mental mnemonic that stands for Data, Functions, Tests; Boundaries, Lifecycles and Workers. We'll talk about each of these layers in detail focusing on the role of each independent layer in a self-healing, performant Elixir program
+This sentence, from the bestselling Elixir book Designing Elixir Systems with OTP, is a mental mnemonic that stands for Data, Functions, Tests; Boundaries, Lifecycles and Workers. We'll talk about each of these layers in detail focusing on the role of each independent layer in a self-healing, performant Elixir program"
 speaker_id: bruce-tate
 type: video
 youtube_id: l7JyG1eti5A

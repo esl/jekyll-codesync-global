@@ -1,5 +1,6 @@
 ---
-title: Bridging the physical and blockchain world with Erlang - SLIDES - Code BEAM SF 2018
+title: " Bridging the physical and blockchain world with Erlang - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides from Andrew Thompson's talk "Bridging the physical and blockchain world with Erlang" - Code BEAM SF 2018
 "
 image: bridging-the-physical-and-blockchain-world-with-erlang

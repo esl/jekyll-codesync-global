@@ -1,5 +1,6 @@
 ---
-title: Arduino, Elixir and Nerves - SLIDES - Code BEAM SF 2018
+title: " Arduino, Elixir and Nerves - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides from Christopher Coté's talk "Arduino, Elixir and Nerves: A deep dive into the Firmata protocol" - Code BEAM SF 2018
 "
 image: arduino-and-nerves

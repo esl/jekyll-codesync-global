@@ -1,5 +1,6 @@
 ---
-title: Docker Images a la carte with Elixir and RabbitMQ
+title: " Docker Images a la carte with Elixir and RabbitMQ
+"
 abstract: ""
 speaker_id: simon-escobar-benitez
 type: video

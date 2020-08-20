@@ -1,5 +1,6 @@
 ---
-title: Co-operative robots sharing the load
+title: " Co-operative robots sharing the load
+"
 abstract: "In this talk I will share the idea behind, and features of, Autonomous Mobile Programs (AMPs). Autonomous Mobile Programs are mobile agents that are aware of there resource needs, sensitive to their execution environment, and periodically relocate to reduce their completion time. AMPs previously have been evaluated on a small LAN, then simulated, and now we have explored their potential on a group of Raspberry Pi robots introducing fault tolerance."
 speaker_id: natalia-chechina
 type: video

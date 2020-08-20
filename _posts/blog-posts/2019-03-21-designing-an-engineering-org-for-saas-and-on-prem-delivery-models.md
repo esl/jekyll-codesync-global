@@ -1,5 +1,6 @@
 ---
-title: Designing an engineering org for SaaS and on-prem delivery models
+title: " Designing an engineering org for SaaS and on-prem delivery models
+"
 abstract: "In her talk, Renee will speak to the journey the team has taken over the past two years to tackle the systemic complexity presented by multiple deployment mechanisms, from first developing and operating a SaaS DNS platform, to later also releasing versioned software for on-prem usage of their DNS products."
 speaker_id: renee-orser
 type: video

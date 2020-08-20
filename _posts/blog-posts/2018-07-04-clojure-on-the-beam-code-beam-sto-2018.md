@@ -1,5 +1,6 @@
 ---
-title: Clojure on the BEAM - Code BEAM STO 2018
+title: " Clojure on the BEAM - Code BEAM STO 2018
+"
 abstract: ""
 speaker_id: juan-facorro
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Bridging The Physical and Blockchain World With Erlang
+title: " Bridging The Physical and Blockchain World With Erlang
+"
 abstract: ""
 speaker_id: andrew-thompson54
 type: video

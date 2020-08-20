@@ -1,5 +1,6 @@
 ---
-title: Taming side effects
+title: " Taming side effects
+"
 abstract: "The systems we build every day have side effects: save data, send emails, write logs, push metrics, you name it! Many errors and headaches come from the difficulties involved in working and testing such code."
 speaker_id: claudio-ortolina
 type: video
