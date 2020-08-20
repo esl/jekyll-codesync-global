@@ -11,7 +11,7 @@ keywords: Advent of Code, Elixir
 date: 2018-12-11
 tags: Elixir,Advent of Code
 ---
-I did the Advent of Code 2018&nbsp;<a href="https://adventofcode.com/2018/day/11">day 11 challenge</a>&nbsp;in Elixir! Parts one and two are as follows:
+<!-- I did the Advent of Code 2018&nbsp;<a href="https://adventofcode.com/2018/day/11">day 11 challenge</a>&nbsp;in Elixir! Parts one and two are as follows:
 
 <pre>
 <code class="language-elixir">defmodule Day11 do
@@ -127,4 +127,4 @@ end
 
 <pre>
 
-&nbsp;</pre>
+&nbsp;</pre> -->

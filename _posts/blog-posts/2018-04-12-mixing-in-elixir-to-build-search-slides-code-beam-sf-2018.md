@@ -1,7 +1,7 @@
 ---
 title: " Mixing in Elixir to Build Search - SLIDES - Code BEAM SF 2018
 "
-abstract: "Slides from Adrian Cruz's talk "Mixing in Elixir to Build Search" - Code BEAM SF 2018
+abstract: "Slides from Adrian Cruz's talk Mixing in Elixir to Build Search - Code BEAM SF 2018
 "
 image: mixing-in-elixir-to-build-search
 speaker_id: adrian-cruz
