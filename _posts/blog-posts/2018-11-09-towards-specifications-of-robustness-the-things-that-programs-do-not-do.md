@@ -8,6 +8,6 @@ youtube_id: d6w11OvJAzo
 keywords: Robust, Specify, Information hiding, specifications, holistic specifications
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-sophia-drossopoulou-towards-specifications-of-robustness-with-transitions-compressed.pdf
+slides: /uploads/cm-ldn-18-sophia-drossopoulou-towards-specifications-of-robustness-with-transitions-compressed.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: SYN4wg7pOpM
 keywords: Elixir, Jose Valim, core team, Elixirlang
 date: 2019-09-02
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-update-elixir-core-dev-team-jose-valim-compressed.pdf
+slides: /uploads/cb-sto-19-update-elixir-core-dev-team-jose-valim-compressed.pdf
 ---
 

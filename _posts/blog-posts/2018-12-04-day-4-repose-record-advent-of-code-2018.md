@@ -4,7 +4,7 @@ title: " Day 4: Repose Record - Advent of Code 2018
 "
 abstract: "I did the Advent of Code 2018 day 4 challenge in Elixir! Parts one and two are as follows:
 "
-image: /images/Day 4.png
+image_url: /uploads//images/Day 4.png
 speaker_id: simon-escobar-benitez
 type: article
 keywords: Advent of Code, Elixir

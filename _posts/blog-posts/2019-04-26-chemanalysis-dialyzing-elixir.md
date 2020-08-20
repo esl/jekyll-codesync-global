@@ -8,6 +8,6 @@ youtube_id: k4au7VioXNk
 keywords: Elixir, Dialyzer, Chemanalysis, Sean Cribbs, Code BEAM SF
 date: 2019-04-26
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-chemanalysis-dialyzing-elixir-sean-cribbs-compressed-1.pdf
+slides: /uploads/cb-sf-19-chemanalysis-dialyzing-elixir-sean-cribbs-compressed-1.pdf
 ---
 

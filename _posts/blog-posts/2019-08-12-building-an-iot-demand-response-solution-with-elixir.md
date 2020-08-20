@@ -14,6 +14,6 @@ youtube_id: zWytNNPnJUk
 keywords: IoT, CodeElixir LDN, ELixir
 date: 2019-08-12
 tags: Code Elixir LDN
-slides: /images/james-every-100k-connected-iot-devices-compressed-1-compressed-1.pdf
+slides: /uploads/james-every-100k-connected-iot-devices-compressed-1-compressed-1.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: icfvFFZUxZQ
 keywords: Elixir, startup, Michael Schaefermeyer,
 date: 2019-07-12
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-building-start-ups-in-elixir-michael-schaefermeyer-compressed.pdf
+slides: /uploads/cb-sto-19-building-start-ups-in-elixir-michael-schaefermeyer-compressed.pdf
 ---
 

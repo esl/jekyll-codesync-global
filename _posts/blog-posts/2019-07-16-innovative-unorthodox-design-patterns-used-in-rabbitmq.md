@@ -8,6 +8,6 @@ youtube_id: zYN9L8xZ4CU
 keywords: RabbitMQ,Erlang,Elixir language,Ayanda Dube
 date: 2019-07-16
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-unorthordox-design-patterns-in-rabbitmq-ayanda-dube-compressed.pdf
+slides: /uploads/cb-sto-19-unorthordox-design-patterns-in-rabbitmq-ayanda-dube-compressed.pdf
 ---
 

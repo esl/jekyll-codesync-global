@@ -8,6 +8,6 @@ youtube_id: 1cB06IONjuo
 keywords: Distillery, OTP, Elixir, Releases, Ken Cross
 date: 2019-05-22
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-using-distillery-kenneth-cross-compressed.pdf
+slides: /uploads/cb-sf-19-using-distillery-kenneth-cross-compressed.pdf
 ---
 

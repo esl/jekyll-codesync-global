@@ -8,6 +8,6 @@ youtube_id: XioTlZarMIQ
 keywords: ExABCI, Tendermint, Elixir, Blockchain, Arcblock, Tian Chen
 date: 2019-05-13
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-build-decentralized-public-verifiable-db-with-ex-abci-tendermint-tian-chen-compressed.pdf
+slides: /uploads/cb-sf-19-build-decentralized-public-verifiable-db-with-ex-abci-tendermint-tian-chen-compressed.pdf
 ---
 

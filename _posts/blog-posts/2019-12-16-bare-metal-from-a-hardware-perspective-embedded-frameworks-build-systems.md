@@ -10,6 +10,6 @@ youtube_id: _4FItSzedBk
 keywords: Embedded Devices,IoT,Internet of Things,Embedded Software,Embedded Frameworks,Omer Kilic,Code Mesh LDN
 date: 2019-12-16
 tags: Concurrency & parallelism,Code Mesh LDN 2019
-slides: /images/cm19-omer-kilic-bare-metal-from-a-hardware-perspective-compressed.pdf
+slides: /uploads/cm19-omer-kilic-bare-metal-from-a-hardware-perspective-compressed.pdf
 ---
 

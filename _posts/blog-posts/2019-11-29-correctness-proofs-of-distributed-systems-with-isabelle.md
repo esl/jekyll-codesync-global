@@ -8,6 +8,6 @@ youtube_id: NfdP6wwjsGk
 keywords: Isabelle,Distributed formal verification,Martin Kleppmann
 date: 2019-11-29
 tags: Languages,Code Mesh LDN 2019
-slides: /images/cm19-martin-kleppmann-correctness-proofs-of-distributed-systems-with-isabelle-compressed.pdf
+slides: /uploads/cm19-martin-kleppmann-correctness-proofs-of-distributed-systems-with-isabelle-compressed.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: M8rv-gvTG-M
 keywords: Testing, Elixir, specification,
 date: 2019-07-12
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-testing-in-an-elixir-world-rafael-rocha-compressed.pdf
+slides: /uploads/cb-sto-19-testing-in-an-elixir-world-rafael-rocha-compressed.pdf
 ---
 

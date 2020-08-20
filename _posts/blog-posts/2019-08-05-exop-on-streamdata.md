@@ -10,6 +10,6 @@ youtube_id: sW50ZGjqwiE
 keywords: Property based testing,StreamData,Code BEAM STO,Exop,ExopData
 date: 2019-08-05
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-exop-on-streamdata-andrey-chernykh-compressed.pdf
+slides: /uploads/cb-sto-19-exop-on-streamdata-andrey-chernykh-compressed.pdf
 ---
 

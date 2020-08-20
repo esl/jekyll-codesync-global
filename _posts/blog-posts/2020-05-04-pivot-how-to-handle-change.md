@@ -8,6 +8,6 @@ youtube_id: XgOJQAK6iHI
 keywords: 
 date: 2020-05-04
 tags: Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-anna-sherman-pivot-how-to-handle-change.pdf
+slides: /uploads/code-beam-sf-2020-anna-sherman-pivot-how-to-handle-change.pdf
 ---
 

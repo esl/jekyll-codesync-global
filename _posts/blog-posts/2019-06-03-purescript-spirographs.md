@@ -8,6 +8,6 @@ youtube_id: 9CnvTl8bNO0
 keywords: Haskell, PureScript, FRP, functional programming
 date: 2019-06-03
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-tom-harding-purescript-spirographs.pdf
+slides: /uploads/cm-ldn-18-tom-harding-purescript-spirographs.pdf
 ---
 

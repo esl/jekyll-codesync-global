@@ -3,9 +3,9 @@ title: " Is Security on Your Nerves? - SLIDES - Code BEAM SF 2018
 "
 abstract: "Slides from Paul Rogers's talk Is Security on Your Nerves? - Code BEAM SF 2018
 "
-image: is-security-on-your-nerves
+image_url: /uploads/is-security-on-your-nerves
 speaker_id: paul-rogers
-type: slides
+type: article
 keywords: 
 date: 2018-04-24
 tags: BEAM,Code BEAM SF 2018

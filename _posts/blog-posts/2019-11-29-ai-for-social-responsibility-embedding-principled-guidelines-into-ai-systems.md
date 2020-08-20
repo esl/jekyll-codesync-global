@@ -8,6 +8,6 @@ youtube_id: djg7yHL1iaE
 keywords: Artificial Intelligence, AI, systems, Veronica Dahl, Logic programming
 date: 2019-11-29
 tags: Code Mesh LDN 2019
-slides: /images/cm19-veronica-dahl-ai-for-social-usefulness-compressed.pdf
+slides: /uploads/cm19-veronica-dahl-ai-for-social-usefulness-compressed.pdf
 ---
 

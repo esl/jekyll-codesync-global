@@ -8,6 +8,6 @@ youtube_id: e7T6p8ynVuM
 keywords: ErlangRT,BEAM VM,Erlang VM,Rust
 date: 2019-06-21
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-erlangrt-a-beam-vm-reimplementation-in-rust-dmytro-lytovchenko-compressed.pdf
+slides: /uploads/cb-sto-19-erlangrt-a-beam-vm-reimplementation-in-rust-dmytro-lytovchenko-compressed.pdf
 ---
 

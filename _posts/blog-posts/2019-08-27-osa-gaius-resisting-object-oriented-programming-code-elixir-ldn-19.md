@@ -8,6 +8,6 @@ youtube_id: uny7Bc1R1H0
 keywords: Code Elixir,  Object-Oriented Programming
 date: 2019-08-27
 tags: Code Elixir LDN
-slides: /images/linguistic-domination-and-translation-as-a-counter-hegemonic-practice-1-compressed.pdf
+slides: /uploads/linguistic-domination-and-translation-as-a-counter-hegemonic-practice-1-compressed.pdf
 ---
 

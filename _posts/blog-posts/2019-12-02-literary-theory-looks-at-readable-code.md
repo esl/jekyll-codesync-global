@@ -8,6 +8,6 @@ youtube_id: zE9GU41nM_k
 keywords: Language,Literary Theory,Programming,Programming Languages,Code Mesh LDN,Alvaro Videla
 date: 2019-12-02
 tags: History of computer science,Code Mesh LDN 2019
-slides: /images/cm19-alvaro-videla-literary-theory-looks-at-readable-code-compressed.pdf
+slides: /uploads/cm19-alvaro-videla-literary-theory-looks-at-readable-code-compressed.pdf
 ---
 

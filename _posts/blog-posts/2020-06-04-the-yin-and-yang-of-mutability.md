@@ -8,6 +8,6 @@ youtube_id: jG4tLBylsD4
 keywords: 
 date: 2020-06-04
 tags: Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-peter-gomori-the-yin-and-yang-of-mutability.pdf
+slides: /uploads/code-beam-sf-2020-peter-gomori-the-yin-and-yang-of-mutability.pdf
 ---
 

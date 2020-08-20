@@ -14,6 +14,6 @@ youtube_id: lXiiiLhwBI4
 keywords: Super Bowl, Scalability, Erlang
 date: 2019-05-24
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-building-highly-scalable-service-at-ql-keith-elder-compressed-compressed.pdf
+slides: /uploads/cb-sf-19-building-highly-scalable-service-at-ql-keith-elder-compressed-compressed.pdf
 ---
 

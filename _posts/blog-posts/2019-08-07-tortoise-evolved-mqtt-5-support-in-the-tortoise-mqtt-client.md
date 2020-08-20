@@ -8,6 +8,6 @@ youtube_id: BP9J6vKgKf8
 keywords: MQTT,Tortoise,Client design,IoT,Martin Gausby,Elixir lang
 date: 2019-08-07
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-tortoise-evolved-codebeam-sto-martin-gausby-compressed.pdf
+slides: /uploads/cb-sto-19-tortoise-evolved-codebeam-sto-martin-gausby-compressed.pdf
 ---
 

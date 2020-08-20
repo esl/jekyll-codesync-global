@@ -8,6 +8,6 @@ youtube_id: YOWHyQSgnYs
 keywords: Software, politic, JVM, Java Virtual Machine, Erlang, Elixir, BEAM VM
 date: 2019-05-31
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-the-art-of-the-beam-how-to-replace-the-jvm-and-not-get-fired-andrei-soroker-compressed.pdf
+slides: /uploads/cb-sf-19-the-art-of-the-beam-how-to-replace-the-jvm-and-not-get-fired-andrei-soroker-compressed.pdf
 ---
 

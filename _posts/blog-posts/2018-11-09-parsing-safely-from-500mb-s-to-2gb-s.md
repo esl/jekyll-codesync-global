@@ -10,6 +10,6 @@ youtube_id: 7VNsmlCAmHU
 keywords: Parser, Combinators, Rust,
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-geoffroy-couprie-parsing-safely-from-500mb-s-to-2gb-s-compressed.pdf
+slides: /uploads/cm-ldn-18-geoffroy-couprie-parsing-safely-from-500mb-s-to-2gb-s-compressed.pdf
 ---
 

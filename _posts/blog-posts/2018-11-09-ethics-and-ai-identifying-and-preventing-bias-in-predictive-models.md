@@ -8,6 +8,6 @@ youtube_id: aH4RzWWmb4U
 keywords: ethics, predictive, machine learning, bias, predictive models, artificial intelligence, federica pelzel
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-federica-pelzel-ethics-and-ai-identifying-and-preventing-bias-in-predictive-models-compressed.pdf
+slides: /uploads/cm-ldn-18-federica-pelzel-ethics-and-ai-identifying-and-preventing-bias-in-predictive-models-compressed.pdf
 ---
 

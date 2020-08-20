@@ -12,6 +12,6 @@ youtube_id: l7JyG1eti5A
 keywords: Elixir, OTP, Design, Bruce Tate, Code BEAM SF, Web, APIs
 date: 2020-03-27
 tags: Web & APIs,Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-bruce-tate-bring-on-the-worker-bees-designing-elixir-systems-with-otp-compressed.pdf
+slides: /uploads/code-beam-sf-2020-bruce-tate-bring-on-the-worker-bees-designing-elixir-systems-with-otp-compressed.pdf
 ---
 

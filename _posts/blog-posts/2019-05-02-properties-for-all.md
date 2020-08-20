@@ -8,6 +8,6 @@ youtube_id: NHgz1sQyMTY
 keywords: Property testing, Ivy Rogatko, The RealReal
 date: 2019-05-02
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-properties-for-all-ivy-rogatko.pdf
+slides: /uploads/cb-sf-19-properties-for-all-ivy-rogatko.pdf
 ---
 

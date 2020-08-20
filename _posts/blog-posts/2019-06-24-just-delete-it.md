@@ -8,6 +8,6 @@ youtube_id: yk_-t_Pw3XA
 keywords: Isolation, design, patterns, elixir, Johnny Winn, Weedmaps
 date: 2019-06-24
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-just-delete-it-johnny-winn-compressed.pdf
+slides: /uploads/cb-sto-19-just-delete-it-johnny-winn-compressed.pdf
 ---
 

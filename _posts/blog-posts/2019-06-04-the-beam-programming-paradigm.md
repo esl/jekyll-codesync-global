@@ -8,6 +8,6 @@ youtube_id: _KXHE6ULnww
 keywords: Accuracy, speed, BEAM VM, Erlang, Elixir, Kenji Rikitake
 date: 2019-06-04
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-beam-paradigm-kenji-rikitake-compressed.pdf
+slides: /uploads/cb-sto-19-beam-paradigm-kenji-rikitake-compressed.pdf
 ---
 

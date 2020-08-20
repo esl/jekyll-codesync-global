@@ -10,6 +10,6 @@ youtube_id: _awIE_9vkV8
 keywords: Ethics, Technology, psychology
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-andrea-dobson-ethics-in-tech-a-psychological-perspective-compressed.pdf
+slides: /uploads/cm-ldn-18-andrea-dobson-ethics-in-tech-a-psychological-perspective-compressed.pdf
 ---
 

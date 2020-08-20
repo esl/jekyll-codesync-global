@@ -8,6 +8,6 @@ youtube_id: KuZ_wp8W09U
 keywords: GenServer, Erlang, State
 date: 2019-04-24
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-pretty-state-machine-jeff-smith-compressed-2.pdf
+slides: /uploads/cb-sf-19-pretty-state-machine-jeff-smith-compressed-2.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: 8-fKdVlELFc
 keywords: Erlang,OTP,business processes
 date: 2019-07-12
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-implementing-long-running-business-processes-karolis-petrauskas-1-compressed.pdf
+slides: /uploads/cb-sto-19-implementing-long-running-business-processes-karolis-petrauskas-1-compressed.pdf
 ---
 

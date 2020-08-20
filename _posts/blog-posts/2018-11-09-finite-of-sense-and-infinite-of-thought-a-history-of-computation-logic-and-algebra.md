@@ -8,6 +8,6 @@ youtube_id: c_nPnURW6BU
 keywords: computation, logic, algebra,
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-ron-pressler-finite-of-sense-and-infinite-of-thought-compressed.pdf
+slides: /uploads/cm-ldn-18-ron-pressler-finite-of-sense-and-infinite-of-thought-compressed.pdf
 ---
 

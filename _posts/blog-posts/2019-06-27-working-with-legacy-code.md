@@ -8,6 +8,6 @@ youtube_id: n0XCMHrSbwc
 keywords: Legacy code, software, Erlang, Elixir
 date: 2019-06-27
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-working-with-legacy-code-gabor-olah-compressed.pdf
+slides: /uploads/cb-sto-19-working-with-legacy-code-gabor-olah-compressed.pdf
 ---
 

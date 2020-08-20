@@ -8,6 +8,6 @@ youtube_id: VjJQQTfxuP0
 keywords: Logic, prolog, programming, logic-based
 date: 2018-11-15
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-lars-hupel-programmation-en-logique-compressed.pdf
+slides: /uploads/cm-ldn-18-lars-hupel-programmation-en-logique-compressed.pdf
 ---
 

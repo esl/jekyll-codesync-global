@@ -8,6 +8,6 @@ youtube_id: N_qaz5Dny9k
 keywords: Erlang, Distribution, UDP
 date: 2019-05-22
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-erlang-distribution-via-udp-combined-with-ethernet-tsn-peer-stritzinger-compressed.pdf
+slides: /uploads/cb-sf-19-erlang-distribution-via-udp-combined-with-ethernet-tsn-peer-stritzinger-compressed.pdf
 ---
 

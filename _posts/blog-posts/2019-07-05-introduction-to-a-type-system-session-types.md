@@ -8,6 +8,6 @@ youtube_id: cuOGyWVSeJs
 keywords: Type Systems,Code Quality,Tests
 date: 2019-07-05
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-introduction-to-a-type-system-session-types-charlotte-lorelei-de-oliveira-compressed.pdf
+slides: /uploads/cb-sto-19-introduction-to-a-type-system-session-types-charlotte-lorelei-de-oliveira-compressed.pdf
 ---
 

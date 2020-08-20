@@ -8,6 +8,6 @@ youtube_id: yam9MjWsNGo
 keywords: Distributed systems, computation, robots, Erlang, AMPs
 date: 2019-06-10
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-natalia-chechina-co-operative-robots-sharing-the-load-compressed.pdf
+slides: /uploads/cm-ldn-18-natalia-chechina-co-operative-robots-sharing-the-load-compressed.pdf
 ---
 

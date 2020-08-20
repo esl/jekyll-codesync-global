@@ -4,7 +4,7 @@ title: " Day 8: Memory maneuver - Advent of Code
 "
 abstract: "I did the Advent of Code 2018 day 8 challenge in Erlang! Parts one and two are as follows:
 "
-image: /images/Day 8.png
+image_url: /uploads//images/Day 8.png
 speaker_id: stavros-aronis
 type: article
 keywords: Advent of Code, Erlang

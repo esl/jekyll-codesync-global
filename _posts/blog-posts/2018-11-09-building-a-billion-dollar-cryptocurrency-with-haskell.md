@@ -18,6 +18,6 @@ youtube_id: -oPs2dugnQc
 keywords: crypotcurrency, development, haskell, Duncan Coutts, Cardano
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-duncan-coutts-building-a-billion-dollar-cryptocurrency-with-haskell-compressed.pdf
+slides: /uploads/cm-ldn-18-duncan-coutts-building-a-billion-dollar-cryptocurrency-with-haskell-compressed.pdf
 ---
 

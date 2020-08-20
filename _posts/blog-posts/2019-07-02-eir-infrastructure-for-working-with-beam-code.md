@@ -14,6 +14,6 @@ youtube_id: xSWxlLCfF6s
 keywords: Eir, Erlang, BEAM, compiler, Hans Elias Josephsen,
 date: 2019-07-02
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-erlang-compiler-infrastructure-project-hans-elias-b-josephsen-compressed.pdf
+slides: /uploads/cb-sto-19-erlang-compiler-infrastructure-project-hans-elias-b-josephsen-compressed.pdf
 ---
 

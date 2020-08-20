@@ -8,6 +8,6 @@ youtube_id: NBJ5SiwCNmU
 keywords: Distributed systems, Erlang, consistency performance, global state, Peter van Roy
 date: 2019-05-28
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-why-time-is-evil-in-distributed-systems-and-what-to-do-about-it-peter-van-roy-compressed.pdf
+slides: /uploads/cb-sto-19-why-time-is-evil-in-distributed-systems-and-what-to-do-about-it-peter-van-roy-compressed.pdf
 ---
 

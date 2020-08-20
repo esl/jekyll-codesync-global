@@ -8,6 +8,6 @@ youtube_id: zklO7xMvZ34
 keywords: Property-based testing, blockchain, P2P, peer to peer,
 date: 2018-05-31
 tags: Code BEAM STO 2018
-slides: /images/thomas-arts-using-property-based-testing-in-blockchain-applications-compressed.pdf
+slides: /uploads/thomas-arts-using-property-based-testing-in-blockchain-applications-compressed.pdf
 ---
 

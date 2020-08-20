@@ -3,9 +3,9 @@ title: " Hype for Types - SLIDES - Code BEAM SF 2018
 "
 abstract: "Slides from Emma Cunningham's talk Hype for Types - Using Dialyzer to bring type checking to your Elixir code - Code BEAM SF 2018
 "
-image: hype-for-types
+image_url: /uploads/hype-for-types
 speaker_id: emma-cunningham53
-type: slides
+type: article
 keywords: 
 date: 2018-04-23
 tags: BEAM,Code BEAM SF 2018

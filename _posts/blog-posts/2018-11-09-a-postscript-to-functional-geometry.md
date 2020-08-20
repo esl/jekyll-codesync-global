@@ -8,6 +8,6 @@ youtube_id: JOLD9Q1DylE
 keywords: Functional, Concatenative, Recursion, POstScript, functional programming, functional geometry
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-lnd-18-einar-host-a-postscript-to-functional-geometry-compressed.pdf
+slides: /uploads/cm-lnd-18-einar-host-a-postscript-to-functional-geometry-compressed.pdf
 ---
 

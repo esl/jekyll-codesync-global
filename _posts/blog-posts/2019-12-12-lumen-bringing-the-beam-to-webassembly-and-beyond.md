@@ -8,6 +8,6 @@ youtube_id: PBY8MQ09D9w
 keywords: WebAssembly,Compilers,BEAM VM,Erlang,Elixir,Paul Schoenfelder,Code Mesh LDN
 date: 2019-12-12
 tags: Infrastructure,Code Mesh LDN 2019
-slides: /images/cm19-paul-schoenfelder-lumen-compressed.pdf
+slides: /uploads/cm19-paul-schoenfelder-lumen-compressed.pdf
 ---
 

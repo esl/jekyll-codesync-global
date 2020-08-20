@@ -8,6 +8,6 @@ youtube_id: TBtDZrPJnv8
 keywords: Functional programming,Yoneda,Jeremy Gibbons,Code Mesh LDN,Languages
 date: 2020-01-15
 tags: Code Mesh LDN 2019,Languages
-slides: /images/cm19-jeremy-gibbons-what-you-need-to-know-about-yoneda-compressed.pdf
+slides: /uploads/cm19-jeremy-gibbons-what-you-need-to-know-about-yoneda-compressed.pdf
 ---
 

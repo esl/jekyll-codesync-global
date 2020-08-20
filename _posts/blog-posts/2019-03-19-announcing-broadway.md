@@ -8,6 +8,6 @@ youtube_id: ZOExnT1PYjs
 keywords: Elixir, Jose Valim, Broadway, Code BEAM SF
 date: 2019-03-19
 tags: Elixir,Code BEAM SF 2019
-slides: /images/cb-sf-19-announcing-broadway-jose-valim.pdf
+slides: /uploads/cb-sf-19-announcing-broadway-jose-valim.pdf
 ---
 

@@ -16,6 +16,6 @@ youtube_id: F3sbvpvNT9w
 keywords: Microservices,Elixir,Erlang Distribution Protocol,Code BEAM SF,Rodrigo Nonose
 date: 2019-12-05
 tags: Code BEAM SF 2019,Introduction to Erlang & Elixir
-slides: /images/cb-sf-19-usvcs-with-elixir-rodrigo-nonose-compressed.pdf
+slides: /uploads/cb-sf-19-usvcs-with-elixir-rodrigo-nonose-compressed.pdf
 ---
 

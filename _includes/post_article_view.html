@@ -13,9 +13,9 @@
                 {% endfor %}
                 <span class="date heading heading--medium bold m-mt-40">{{ page.date }}</span>
             </div>
-            {% if page.presentation_slides %}
+            {% if page.slides %}
                 <div class="row row__btn mt--50">
-                    <a class="btn btn--white btn-arrow" href="{{ page.presentation_slides }}" rel="noindex nofollow noopener noreferrer" target="_blank">Download slides</a>
+                    <a class="btn btn--white btn-arrow" href="{{site.baseurl}}{{ page.slides }}" rel="noindex nofollow noopener noreferrer" target="_blank">Download slides</a>
                 </div>
             {% endif %}
             <div class="article--text">

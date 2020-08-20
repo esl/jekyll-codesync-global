@@ -10,6 +10,6 @@ youtube_id: YxhBxHl76vc
 keywords: Programming Languages,Programming language design,Scala,APIs,Lips,Language Design,Type systems,Yilin Wei,Languages,Live coding
 date: 2020-01-23
 tags: Languages,Code Mesh LDN 2019
-slides: /images/cm19-yilin-wei-do-fish-have-legs-compressed.pdf
+slides: /uploads/cm19-yilin-wei-do-fish-have-legs-compressed.pdf
 ---
 

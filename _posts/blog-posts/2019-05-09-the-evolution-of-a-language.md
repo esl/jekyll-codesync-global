@@ -8,6 +8,6 @@ youtube_id: G9IEAILIP_k
 keywords: Elixir, Programming, Programming Languages, Andrea Leopardi, Code BEAM SF
 date: 2019-05-09
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-the-evolution-of-a-language-andrea-leopardi-compressed-1.pdf
+slides: /uploads/cb-sf-19-the-evolution-of-a-language-andrea-leopardi-compressed-1.pdf
 ---
 

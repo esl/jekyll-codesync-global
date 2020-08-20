@@ -7,6 +7,6 @@ youtube_id: yN5CbEtTwhQ
 keywords: 
 date: 2020-05-06
 tags: Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-bernardo-amorim-playing-with-lambda-calculus.pdf
+slides: /uploads/code-beam-sf-2020-bernardo-amorim-playing-with-lambda-calculus.pdf
 ---
 

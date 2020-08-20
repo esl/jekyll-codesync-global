@@ -10,6 +10,6 @@ youtube_id: dgllQmf5DXk
 keywords: Functional programming, UI, Scenic, Boyd Multerer
 date: 2019-05-31
 tags: Code BEAM STO 2019
-slides: /images/boydm-code-beam-2019-light-compressed.pdf
+slides: /uploads/boydm-code-beam-2019-light-compressed.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: zqpmSav8rBY
 keywords: Erlang, logging, OTP 21, Andrew Thompson
 date: 2019-04-29
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-logging-for-the-21st-otp-andrew-thompson-compressed.pdf
+slides: /uploads/cb-sf-19-logging-for-the-21st-otp-andrew-thompson-compressed.pdf
 ---
 

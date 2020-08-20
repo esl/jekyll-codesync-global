@@ -10,6 +10,6 @@ youtube_id: jJEKQJeKYN4
 keywords: Psychology,Computer Science,Software Delivery,History of computer science,Fahran Wallace,Code Mesh LDN
 date: 2020-01-24
 tags: Code Mesh LDN 2019,History of computer science
-slides: /images/cm19-fahran-wallace-your-brain-on-software-development-compressed.pdf
+slides: /uploads/cm19-fahran-wallace-your-brain-on-software-development-compressed.pdf
 ---
 

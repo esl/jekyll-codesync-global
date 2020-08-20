@@ -8,6 +8,6 @@ youtube_id: EPEccOaK5z4
 keywords: 
 date: 2020-06-02
 tags: Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-marcus-feyh-instrumenting-and-monitoring-stateless-erlang-today.pdf
+slides: /uploads/code-beam-sf-2020-marcus-feyh-instrumenting-and-monitoring-stateless-erlang-today.pdf
 ---
 

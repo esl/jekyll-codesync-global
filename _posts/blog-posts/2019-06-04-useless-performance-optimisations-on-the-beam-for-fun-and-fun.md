@@ -8,6 +8,6 @@ youtube_id: qEo-nIMEGAc
 keywords: BEAM, assembly, hand optimisation, performance,
 date: 2019-06-04
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-useless-performance-optimisations-on-the-beam-daniel-szoboszlay.pdf
+slides: /uploads/cb-sto-19-useless-performance-optimisations-on-the-beam-daniel-szoboszlay.pdf
 ---
 

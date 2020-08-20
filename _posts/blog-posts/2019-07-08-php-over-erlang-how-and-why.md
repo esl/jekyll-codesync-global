@@ -8,6 +8,6 @@ youtube_id: z7xLHzSR4GA
 keywords: PHP, Erlang, Manuel Rubio,
 date: 2019-07-08
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-php-over-erlang-how-and-why-manuel-rubio-compressed.pdf
+slides: /uploads/cb-sto-19-php-over-erlang-how-and-why-manuel-rubio-compressed.pdf
 ---
 

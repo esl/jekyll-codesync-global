@@ -8,6 +8,6 @@ youtube_id: cT1IAbdJ5ys
 keywords: Rust, hypervisors, containers, infrastructure, Allison Randal
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-allison-randal-secure-isolatoo-io-rust-compressed.pdf
+slides: /uploads/cm-ldn-18-allison-randal-secure-isolatoo-io-rust-compressed.pdf
 ---
 

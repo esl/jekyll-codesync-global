@@ -3,9 +3,9 @@ title: " Building and Integrating a Data Platform - SLIDES - Code BEAM SF 2018
 "
 abstract: "Slides from Benoit Chesneau's talk Building and Integrating a Data Platform - Code BEAM SF 2018
 "
-image: building-and-integrating-a-data-platform
+image_url: /uploads/building-and-integrating-a-data-platform
 speaker_id: benoit-chesneau
-type: slides
+type: article
 keywords: 
 date: 2018-04-12
 tags: BEAM,Code BEAM SF 2018

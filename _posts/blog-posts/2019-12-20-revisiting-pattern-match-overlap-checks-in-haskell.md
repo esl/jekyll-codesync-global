@@ -10,6 +10,6 @@ youtube_id: SWO5OzSxD6Y
 keywords: Pattern matching,Haskell,Simon Peyton Jones,Code Mesh LDN,Haskell function,GADTs,pattern guards,view patterns,data families,strict data constructors,pattern synonyms
 date: 2019-12-20
 tags: Languages,Code Mesh LDN 2019
-slides: /images/cm19-simon-peyton-jones-revisiting-pattern-match-overlap-checks-in-haskell-1-compressed.pdf
+slides: /uploads/cm19-simon-peyton-jones-revisiting-pattern-match-overlap-checks-in-haskell-1-compressed.pdf
 ---
 

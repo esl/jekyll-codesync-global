@@ -16,6 +16,6 @@ youtube_id: 15WkRuOxIrs
 keywords: Containers,Kubernetes,Podman,Buildah,Skopeo,Valentin Rothberg,Code Mesh LDN
 date: 2019-11-29
 tags: Infrastructure,Code Mesh LDN 2019
-slides: /images/cm19-valentin-rothberg-decomposing-container-tools-about-swiss-army-knives-and-containers-compressed-1.pdf
+slides: /uploads/cm19-valentin-rothberg-decomposing-container-tools-about-swiss-army-knives-and-containers-compressed-1.pdf
 ---
 

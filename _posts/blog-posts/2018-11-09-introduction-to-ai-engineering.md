@@ -8,6 +8,6 @@ youtube_id: qaGbP88SPQk
 keywords: AI, artificial engineering, software development,
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-garrett-smith-introduction-to-ai-engineering-compressed.pdf
+slides: /uploads/cm-ldn-18-garrett-smith-introduction-to-ai-engineering-compressed.pdf
 ---
 

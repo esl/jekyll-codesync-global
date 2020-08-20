@@ -8,6 +8,6 @@ youtube_id: vhtnijlfkjY
 keywords: 
 date: 2020-04-28
 tags: Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-james-aimonetti-kazoo-the-voip-cloud-platform-a-retrospective-2.pdf
+slides: /uploads/code-beam-sf-2020-james-aimonetti-kazoo-the-voip-cloud-platform-a-retrospective-2.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: wvfhrvAFOoQ
 keywords: Refactor, Elixir,
 date: 2019-04-01
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-refactoring-elixir-for-maintainability-david-lucia.pdf
+slides: /uploads/cb-sf-19-refactoring-elixir-for-maintainability-david-lucia.pdf
 ---
 

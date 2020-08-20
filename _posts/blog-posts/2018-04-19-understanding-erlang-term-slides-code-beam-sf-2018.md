@@ -3,9 +3,9 @@ title: " Understanding Erlang Term - SLIDES - Code BEAM SF 2018
 "
 abstract: "Slides for the Boshan Sun's talk Understanding Erlang Term - Code BEAM SF 2018
 "
-image: understanding-erlang-term
+image_url: /uploads/understanding-erlang-term
 speaker_id: boshan-sun
-type: slides
+type: article
 keywords: 
 date: 2018-04-19
 tags: BEAM,Code BEAM SF 2018,Erlang

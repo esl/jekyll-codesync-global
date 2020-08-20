@@ -18,6 +18,6 @@ youtube_id: 4tyWBZkkCfI
 keywords: Message passing, Raxx, Elixir, Peter Saxton
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-peter-saxton-message-passing-for-actors-and-humans-compressed.pdf
+slides: /uploads/cm-ldn-18-peter-saxton-message-passing-for-actors-and-humans-compressed.pdf
 ---
 

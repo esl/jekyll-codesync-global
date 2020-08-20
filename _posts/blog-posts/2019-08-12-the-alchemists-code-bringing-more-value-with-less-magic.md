@@ -8,6 +8,6 @@ youtube_id: XGeK9q6yjsg
 keywords: Elixir
 date: 2019-08-12
 tags: Code Elixir LDN
-slides: /images/rafal-studnicki-the-alchemists-code-compressed.pdf
+slides: /uploads/rafal-studnicki-the-alchemists-code-compressed.pdf
 ---
 

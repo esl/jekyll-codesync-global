@@ -8,6 +8,6 @@ youtube_id: _u_OKKOUbqc
 keywords: Network protocol, Server. Finite state machine, Erlang
 date: 2019-04-10
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-pgv3-server-marc-sugiyama.pdf
+slides: /uploads/cb-sf-19-pgv3-server-marc-sugiyama.pdf
 ---
 

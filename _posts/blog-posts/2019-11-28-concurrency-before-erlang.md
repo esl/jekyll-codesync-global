@@ -8,6 +8,6 @@ youtube_id: Kh28YwzZkMM
 keywords: Concurrency,Programming languages,Erlang,Ericsson,Bjarne Dacker,Modula,Chill,Ada
 date: 2019-11-28
 tags: Concurrency & parallelism,Code Mesh LDN 2019
-slides: /images/cm19-bjarne-dacker-concurrency-before-erlang-1-compressed.pdf
+slides: /uploads/cm19-bjarne-dacker-concurrency-before-erlang-1-compressed.pdf
 ---
 

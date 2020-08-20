@@ -8,6 +8,6 @@ youtube_id: EoLabl7PiZ8
 keywords: BEAM, Documentation, Analysis
 date: 2019-07-18
 tags: Code BEAM Lite Berlin,Elixir,BEAM
-slides: /images/rene-fohring-inch-how-elixir-1-7-changed-the-rules-for-documentation-analysis-cbl-berlin-2018-compressed.pdf
+slides: /uploads/rene-fohring-inch-how-elixir-1-7-changed-the-rules-for-documentation-analysis-cbl-berlin-2018-compressed.pdf
 ---
 

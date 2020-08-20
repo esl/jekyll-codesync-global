@@ -10,6 +10,6 @@ youtube_id: ejAY6yWXZSc
 keywords: Security,Cryptography,Trust
 date: 2019-08-05
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-trust-issues-jacek-krolikowski-compressed.pdf
+slides: /uploads/cb-sto-19-trust-issues-jacek-krolikowski-compressed.pdf
 ---
 

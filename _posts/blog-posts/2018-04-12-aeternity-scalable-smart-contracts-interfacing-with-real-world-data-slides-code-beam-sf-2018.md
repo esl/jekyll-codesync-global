@@ -3,9 +3,9 @@ title: " Aeternity: Scalable Smart Contracts Interfacing With Real World Data - 
 "
 abstract: "Slides from Erik Stenman's talk Aeternity: Scalable Smart Contracts Interfacing With Real World Data - Code BEAM SF 2018
 "
-image: aeternity
+image_url: /uploads/aeternity
 speaker_id: erik-stenman
-type: slides
+type: article
 keywords: 
 date: 2018-04-12
 tags: BEAM,Code BEAM SF 2018

@@ -10,6 +10,6 @@ youtube_id: 2HOtpcrmXMQ
 keywords: Granule,Functional Programming,Programming languages,Dominic Orchard,Code Mesh LDN
 date: 2019-12-09
 tags: Languages,Code Mesh LDN 2019
-slides: /images/cm19-dominic-orchard-quantitative-program-reasoning-in-granule-compressed.pdf
+slides: /uploads/cm19-dominic-orchard-quantitative-program-reasoning-in-granule-compressed.pdf
 ---
 

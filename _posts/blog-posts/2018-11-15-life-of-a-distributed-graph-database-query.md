@@ -8,6 +8,6 @@ youtube_id: _cVTKRh64oY
 keywords: distributed, graph, querying
 date: 2018-11-15
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-teon-banek-life-of-a-distributed-query-compressed.pdf
+slides: /uploads/cm-ldn-18-teon-banek-life-of-a-distributed-query-compressed.pdf
 ---
 
