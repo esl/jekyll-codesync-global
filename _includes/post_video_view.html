@@ -3,7 +3,7 @@
         <div class="container--small">
             <div class="video__container" data-type="video">
                 <div class="video__stream article__video--box">
-                    <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="270" src="https://www.youtube.com/embed/{{ page.youtube_video_id }}?feature=oembed" width="480"></iframe>
+                    <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="270" src="https://www.youtube.com/embed/{{ page.youtube_id }}?feature=oembed" width="480"></iframe>
                 </div>
             </div>
         </div>
@@ -31,9 +31,9 @@
                     {% assign tags_list = nil %}
                 </ul>
             </div>
-            {% if page.presentation_slides %}
+            {% if page.slides %}
                 <div class="row row__btn mt--50">
-                    <a class="btn btn--white btn-arrow" href="{{ page.presentation_slides }}" rel="noindex nofollow noopener noreferrer" target="_blank">Download slides</a>
+                    <a class="btn btn--white btn-arrow" href="{{ site.baseurl }}{{ page.slides }}" rel="noindex nofollow noopener noreferrer" target="_blank">Download slides</a>
                 </div>
             {% endif %}
             <div class="flexbox mt--50">
