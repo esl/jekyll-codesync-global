@@ -11,7 +11,7 @@ keywords: Advent of Code, Erlang
 date: 2018-12-13
 tags: Erlang,Advent of Code
 ---
-I did the Advent of Code 2018&nbsp;<a href="https://adventofcode.com/2018/day/13">day 13 challenge</a>&nbsp;in Erlang! Parts one and two are as follows:
+<!-- I did the Advent of Code 2018&nbsp;<a href="https://adventofcode.com/2018/day/13">day 13 challenge</a>&nbsp;in Erlang! Parts one and two are as follows:
 
 <pre>
 <code class="language-erlang">#!/usr/bin/env escript
@@ -166,4 +166,4 @@ final_cart(Map) -&gt;
   end.
  </code></pre>
 
-&nbsp;
+&nbsp; -->
