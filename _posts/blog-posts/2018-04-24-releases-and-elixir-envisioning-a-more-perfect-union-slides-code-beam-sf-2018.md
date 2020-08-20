@@ -1,7 +1,7 @@
 ---
 title: " Releases and Elixir: Envisioning a more perfect union - SLIDES - Code BEAM SF 2018
 "
-abstract: "Slides from Paul Schoenfelder's talk "Releases and Elixir: Envisioning a more perfect union" - Code BEAM SF 2018
+abstract: "Slides from Paul Schoenfelder's talk Releases and Elixir: Envisioning a more perfect union - Code BEAM SF 2018
 "
 image: releases-and-elixir
 speaker_id: paul-schoenfelder

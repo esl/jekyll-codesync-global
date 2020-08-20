@@ -9,7 +9,7 @@ abstract: "One-size-fits-all solutions come at a price. In this talk, I present 
  
  - Buildah, for building containers
  
- - Skopeo, for distributing container images
+ - Skopeo, for distributing container images"
 speaker_id: valentin-rothberg
 type: video
 youtube_id: 15WkRuOxIrs

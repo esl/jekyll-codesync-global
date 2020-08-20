@@ -1,7 +1,7 @@
 ---
 title: " Why Elixir Matters - SLIDES - Code BEAM SF 2018
 "
-abstract: "Slides from Osa Gaius's talk "Why Elixir Matters: Functional Programming and Web Performance in the 21st Century" - Code BEAM SF 2018.
+abstract: "Slides from Osa Gaius's talk Why Elixir Matters: Functional Programming and Web Performance in the 21st Century - Code BEAM SF 2018.
 "
 image: why-elixir-matters
 speaker_id: osa-gaius
