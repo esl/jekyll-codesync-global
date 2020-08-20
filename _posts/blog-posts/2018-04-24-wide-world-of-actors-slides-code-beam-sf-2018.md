@@ -1,6 +1,7 @@
 ---
-title: Wide World of Actors - SLIDES - Code BEAM SF 2018
-abstract: "Slides from Scott Lystig Fritchie's talk "Wide World of Actors: comparing the Pony language to Erlang" - Code BEAM SF 2018
+title: " Wide World of Actors - SLIDES - Code BEAM SF 2018
+"
+abstract: "Slides from Scott Lystig Fritchie's talk Wide World of Actors: comparing the Pony language to Erlang - Code BEAM SF 2018
 "
 image: wide-world-of-actors
 speaker_id: scott-lystig-fritchie56

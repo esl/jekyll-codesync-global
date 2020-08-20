@@ -1,5 +1,6 @@
 ---
-title: The Tyranny of Structurelessness
+title: " The Tyranny of Structurelessness
+"
 abstract: ""
 speaker_id: brooklyn-zelenka
 type: video

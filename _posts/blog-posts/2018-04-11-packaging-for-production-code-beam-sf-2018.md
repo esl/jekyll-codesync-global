@@ -1,5 +1,6 @@
 ---
-title: Packaging for Production - Code BEAM SF 2018
+title: " Packaging for Production - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: anthony-molinaro
 type: video

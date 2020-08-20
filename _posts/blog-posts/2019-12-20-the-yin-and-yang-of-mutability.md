@@ -1,5 +1,6 @@
 ---
-title: The Yin and Yang of mutability
+title: " The Yin and Yang of mutability
+"
 abstract: ""
 speaker_id: peter-goemoeri
 type: video

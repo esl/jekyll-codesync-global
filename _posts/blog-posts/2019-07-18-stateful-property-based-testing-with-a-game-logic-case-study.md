@@ -1,5 +1,6 @@
 ---
-title: Stateful property-based testing: with a game logic case study
+title: " Stateful property-based testing: with a game logic case study
+"
 abstract: "Lou Xun goes from TDD to stateful PBT, finding a concurrency bug (among many others) with it, and finally shows how to write one such test yourself."
 speaker_id: lou-xun
 type: video

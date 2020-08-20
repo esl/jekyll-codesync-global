@@ -1,5 +1,6 @@
 ---
-title: gen_statem - The Tool You Never Knew You Always Wanted - Code BEAM SF 2018
+title: " gen_statem - The Tool You Never Knew You Always Wanted - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: raimo-niskanen
 type: video

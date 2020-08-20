@@ -1,5 +1,6 @@
 ---
-title: Lucet: Safe WebAssembly Outside the Browser
+title: " Lucet: Safe WebAssembly Outside the Browser
+"
 abstract: "Lucet is a new open source tool for compiling, embedding, and running WebAssembly outside the browser. It's made specifically for running untrusted code in a high concurrency and multi-tenant environment. In other words, it's made for taking the serverless model to the edge and beyond. Join Fastly CTO Tyler McMullen in a discussion on how Lucet was built, how it works, and the novel serverless models it's made to enable."
 speaker_id: tyler-mcmullen
 type: video

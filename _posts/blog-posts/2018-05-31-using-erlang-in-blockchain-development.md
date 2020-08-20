@@ -1,5 +1,6 @@
 ---
-title: Using Erlang in Blockchain Development
+title: " Using Erlang in Blockchain Development
+"
 abstract: "Ulf goes through the advantages and challenges of using Erlang to build the Aeternity Blockchain. Language choice affects many aspects of a project, from recruitment to productivity. 
 
 Ulf discusses how programming languages may differ in general, and where it matters—more specifically what is important in the blockchain space—then describe how it played out in their project.

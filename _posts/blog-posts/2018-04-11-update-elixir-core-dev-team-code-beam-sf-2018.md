@@ -1,5 +1,6 @@
 ---
-title: Update Elixir Core Dev Team - Code BEAM SF 2018
+title: " Update Elixir Core Dev Team - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: james-fish
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Testing Tools for the Erlang Ecosystem - SLIDES - Code BEAM SF 2018
+title: " Testing Tools for the Erlang Ecosystem - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides from Kostis Sagonas's keynote talk "Testing Tools for the Erlang Ecosystem" - Code BEAM SF 2018
 "
 image: testing-tools-for-the-erlang-ecosystem

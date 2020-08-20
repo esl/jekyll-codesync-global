@@ -1,5 +1,6 @@
 ---
-title: Riak KV 3 0 - worth the wait ?
+title: " Riak KV 3 0 - worth the wait ?
+"
 abstract: ""
 speaker_id: nicholas-adams291
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Quantum Computing Exposed -Schrödinger's Grumpy Cat - Code BEAM SF 2018
+title: " Quantum Computing Exposed -Schrödinger's Grumpy Cat - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: james-weaver
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Infosec, AI and ethics – new models for a secure future
+title: " Infosec, AI and ethics – new models for a secure future
+"
 abstract: "Thanks to things like Cambridge Analytica and weaponization of social media and the web we are at an interesting juncture. The intersection of infosec, AI and ethics means that we need to develop new approaches to privacy and security. This talk explores some possible futures, and provides some practical suggestions for ethical and safe computing."
 speaker_id: kate-carruthers
 type: video

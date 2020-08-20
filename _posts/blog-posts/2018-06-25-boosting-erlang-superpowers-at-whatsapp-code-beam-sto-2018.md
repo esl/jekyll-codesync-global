@@ -1,5 +1,6 @@
 ---
-title: Boosting Erlang superpowers at WhatsApp - Code BEAM STO 2018
+title: " Boosting Erlang superpowers at WhatsApp - Code BEAM STO 2018
+"
 abstract: ""
 speaker_id: anton-lavrik
 type: video

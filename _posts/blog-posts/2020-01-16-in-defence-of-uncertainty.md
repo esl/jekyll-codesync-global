@@ -1,5 +1,6 @@
 ---
-title: In defence of uncertainty
+title: " In defence of uncertainty
+"
 abstract: "This talk discusses how absolute certainty is not only an unattainable goal so far as understanding people and the social world is concerned but also a dangerous state to aspire to."
 speaker_id: abeba-birhane
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Useless performance optimisations on the BEAM for fun and... fun?
+title: " Useless performance optimisations on the BEAM for fun and... fun?
+"
 abstract: "The race between Man and Machine for writing The Fastest Code is on since the first compiler has been invented. Now, I'm afraid when it comes to targeting x64, our chances of beating the Machine are negligible. But maybe with the BEAM we still hold a chance? Let's dig into BEAM assembly and find out whether we can show erlc a lesson or two!
 speaker_id: daniel-szoboszlay
 type: video

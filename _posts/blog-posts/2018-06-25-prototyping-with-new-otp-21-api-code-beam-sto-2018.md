@@ -1,5 +1,6 @@
 ---
-title: Prototyping with new OTP 21 API - Code BEAM STO 2018
+title: " Prototyping with new OTP 21 API - Code BEAM STO 2018
+"
 abstract: ""
 speaker_id: peer-stritzinger
 type: video

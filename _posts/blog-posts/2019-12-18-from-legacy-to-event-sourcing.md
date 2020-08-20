@@ -1,5 +1,6 @@
 ---
-title: From Legacy To Event Sourcing
+title: " From Legacy To Event Sourcing
+"
 abstract: ""
 speaker_id: ian-luites
 type: video

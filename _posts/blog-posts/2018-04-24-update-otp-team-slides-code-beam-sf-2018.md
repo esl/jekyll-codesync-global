@@ -1,5 +1,6 @@
 ---
-title: Update: OTP Team - SLIDES - Code BEAM SF 2018
+title: " Update: OTP Team - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides from Raimo Niskanen's talk "Update: OTP Team" - Code BEAM SF 2018
 "
 image: update-otp-team

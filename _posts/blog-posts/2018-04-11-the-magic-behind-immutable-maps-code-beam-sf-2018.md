@@ -1,5 +1,6 @@
 ---
-title: The Magic Behind Immutable Maps - Code BEAM SF 2018
+title: " The Magic Behind Immutable Maps - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: jean-rouge
 type: video

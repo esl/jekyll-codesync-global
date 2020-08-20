@@ -1,5 +1,6 @@
 ---
-title: The evolution of a language
+title: " The evolution of a language
+"
 abstract: "Elixir is young, but it's not as young as it used to be. The language has been stable for a long time now, but that doesn't mean it hasn't evolved. In this talk, I want to tell the story of how Elixir grew up to be what it is today. We'll talk about how the language changed to work better for the community, and how the community changed to write better Elixir. We'll try to guess at where this is all going next."
 speaker_id: andrea-leopardi
 type: video

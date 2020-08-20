@@ -1,6 +1,7 @@
 
 ---
-title: Kate Travers’ Journey from Art shipping to Elixir Senior Engineer
+title: " Kate Travers’ Journey from Art shipping to Elixir Senior Engineer
+"
 abstract: "Kate is building ‘learn.co,’ a learning management system with added interactivity and community features. The system only needs one click to “Open IDE” and launch a functional development environment right in the browser. Flatiron are particularly excited about this feature because it allows students new to coding to get a taste of programming with real tools that developers use on the job. Unlike a REPL (a read-eval-print-loop) that executes a few lines of simple code, the IDE allows students to experience the more complex interaction between editing different files and executing them from a command line, all in browser.
 "
 image: /images/CODE-ELIXIR-header.jpg

@@ -1,5 +1,6 @@
 ---
-title: Bruce Tate | The River | Code Elixir LDN 19
+title: " Bruce Tate | The River | Code Elixir LDN 19
+"
 abstract: ""
 speaker_id: bruce-tate
 type: video

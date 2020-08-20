@@ -1,6 +1,7 @@
 
 ---
-title: Day 6: Chronal Coordinates - Advent of Code 2018
+title: " Day 6: Chronal Coordinates - Advent of Code 2018
+"
 abstract: "I did the Advent of Code 2018 day 6 challenge in Elixir! Parts one and two are as follows:
 "
 image: /images/Day 6.png

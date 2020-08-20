@@ -1,5 +1,6 @@
 ---
-title: Osa Gaius - Resisting Object-Oriented Programming | Code Elixir LDN 19
+title: " Osa Gaius - Resisting Object-Oriented Programming | Code Elixir LDN 19
+"
 abstract: "This talk argues that the social costs of functional programming are due to that fact that object-oriented programming maintains hegemony. It charts the rise of object-oriented programming’s hegemony. It then examines instances of hegemonic power, most notably in technical interviews and accepted design patterns. Lastly, this talk offers code translation as one strategy for counter-hegemonic resistance."
 speaker_id: osa-gaius
 type: video

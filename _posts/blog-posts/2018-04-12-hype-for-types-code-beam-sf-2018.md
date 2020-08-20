@@ -1,5 +1,6 @@
 ---
-title: Hype For Types - Code Beam SF 2018
+title: " Hype For Types - Code Beam SF 2018
+"
 abstract: ""
 speaker_id: emma-cunningham53
 type: video

@@ -1,5 +1,6 @@
 ---
-title: Making It Lazy Never Evaluate Anything More Than Once - Code BEAM SF 2018
+title: " Making It Lazy Never Evaluate Anything More Than Once - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: simon-thompson
 type: video

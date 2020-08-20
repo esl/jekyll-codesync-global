@@ -1,5 +1,6 @@
 ---
-title: Unsung Heroes of the BEAM - SLIDES - Code BEAM SF
+title: " Unsung Heroes of the BEAM - SLIDES - Code BEAM SF
+"
 abstract: "Slides from Miriam Pena's keynote talk "Unsung Heroes of the BEAM" - Code BEAM SF 2018
 "
 image: unsung-heroes-of-the-beam

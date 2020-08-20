@@ -1,5 +1,6 @@
 ---
-title: Making IoT safer with BEAM OTP
+title: " Making IoT safer with BEAM OTP
+"
 abstract: "In this talk, Duncan will: 
 - explain the safety impact of cyber-physical systems in the Internet of things
 - explain the advantages of quantitative risk analysis for security decision making

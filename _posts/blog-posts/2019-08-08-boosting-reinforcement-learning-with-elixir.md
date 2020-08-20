@@ -1,5 +1,6 @@
 ---
-title: Boosting reinforcement learning with Elixir
+title: " Boosting reinforcement learning with Elixir
+"
 abstract: "Reinforcement learning (RL) is becoming a successful strategy for solving goal oriented problems and is emerging as the most promising framework towards general artificial intelligence. 
 
 Some challenges of RL include deployment on intrinsically distributed and concurrent physical devices where Elixir naturally stands out and offers additional benefits for boosting RL on real-world applications. 

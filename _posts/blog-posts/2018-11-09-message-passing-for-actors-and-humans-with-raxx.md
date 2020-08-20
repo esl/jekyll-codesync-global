@@ -1,5 +1,6 @@
 ---
-title: Message passing for actors and humans with Raxx
+title: " Message passing for actors and humans with Raxx
+"
 abstract: "Elixir, and Erlang, implement an elegant model of message passing. This is their secret sauce for managing concurrency.
 
 HTTP is the primary means of communicating between clients and servers, and often between servers and other servers, it is a protocol for message passing.

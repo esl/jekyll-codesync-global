@@ -1,6 +1,7 @@
 
 ---
-title: Building Blockchain in Elixir
+title: " Building Blockchain in Elixir
+"
 abstract: "Building Blockchain in Elixir
 At æternity we chose Elixir to build an alternative implementation of our blockchain protocol. We’ve had a lot of good experiences with this choice, and few bad ones.
 "

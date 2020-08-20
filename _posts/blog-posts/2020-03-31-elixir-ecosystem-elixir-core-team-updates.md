@@ -1,5 +1,6 @@
 ---
-title: Elixir ecosystem/Elixir core team updates
+title: " Elixir ecosystem/Elixir core team updates
+"
 abstract: "What's new in the Elixir ecosystem? Also, updates on what the Elixir team has done in the last few months, what are the projects they're working on, what's going on on the research side, and what features will be in the next release."
 speaker_id: michal-muskala52
 type: video

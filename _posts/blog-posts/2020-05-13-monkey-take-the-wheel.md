@@ -1,5 +1,6 @@
 ---
-title: Monkey, take the wheel
+title: " Monkey, take the wheel
+"
 abstract: ""
 speaker_id: dmytro-lytovchenko
 type: video

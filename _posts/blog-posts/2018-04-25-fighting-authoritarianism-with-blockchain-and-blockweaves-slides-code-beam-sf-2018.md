@@ -1,5 +1,6 @@
 ---
-title: Fighting authoritarianism with blockchain and blockweaves - SLIDES - Code BEAM SF 2018
+title: " Fighting authoritarianism with blockchain and blockweaves - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides from Sam Williams's talk "Fighting authoritarianism with blockchain and blockweaves" - Code BEAM SF 2018
 "
 image: fighting-authoritarianism-with-blockchain-and-blockweaves

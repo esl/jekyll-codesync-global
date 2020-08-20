@@ -1,5 +1,6 @@
 ---
-title: Tools everyone needs - a reflection on building and running a server at WhatsApp - SLIDES - Code BEAM SF 2018
+title: " Tools everyone needs - a reflection on building and running a server at WhatsApp - SLIDES - Code BEAM SF 2018
+"
 abstract: "Slides from Anton Lavrik's talk "Tools everyone needs - a reflection on building and running a server at WhatsApp" - Code BEAM SF 2018
 "
 image: tools-everyone-needs

@@ -1,5 +1,6 @@
 ---
-title: How WhatsApp moved 1.5B users across data centers
+title: " How WhatsApp moved 1.5B users across data centers
+"
 abstract: "For the last 3 years WhatsApp was working on integration with Facebook infrastructure. A big part of work there was data migration to Facebook data centers. This presentation is about the journey we went through to get there, challenges we faced and solutions we came up with."
 speaker_id: igors-istocniks276
 type: video

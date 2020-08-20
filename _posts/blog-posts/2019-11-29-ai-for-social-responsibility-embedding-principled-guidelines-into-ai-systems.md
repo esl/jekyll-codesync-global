@@ -1,5 +1,6 @@
 ---
-title: AI for social responsibility: embedding principled guidelines into AI systems
+title: " AI for social responsibility: embedding principled guidelines into AI systems
+"
 abstract: "In this position talk we briefly retrace the historic and evolutionary context that led to AI's results not necessarily being used first and foremost to benefit the public that funded it, nor to necessarily focus on human values and concerns."
 speaker_id: veronica-dahl
 type: video

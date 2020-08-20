@@ -1,5 +1,6 @@
 ---
-title: SOLID Elixir - SLIDES - Code BEAM Lite Milan 2018
+title: " SOLID Elixir - SLIDES - Code BEAM Lite Milan 2018
+"
 abstract: "Slides for the Georgina Fadyen's talk "SOLID Elixir" - Code BEAM Lite Milan 2018
 "
 image: solid-elixir

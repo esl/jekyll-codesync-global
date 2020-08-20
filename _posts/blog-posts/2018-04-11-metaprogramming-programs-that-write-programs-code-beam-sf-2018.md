@@ -1,5 +1,6 @@
 ---
-title: Metaprogramming - Programs that Write Programs - Code BEAM SF 2018
+title: " Metaprogramming - Programs that Write Programs - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: jay-hayes
 type: video

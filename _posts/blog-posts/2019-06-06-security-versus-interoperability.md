@@ -1,5 +1,6 @@
 ---
-title: Security versus interoperability
+title: " Security versus interoperability
+"
 abstract: "The talk is about the security protocol SSL/TLS, with pointers to the implementation in Erlang/OTP.
 It will for example cover :
 - the advantages with implementing the protocol in Erlang

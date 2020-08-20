@@ -1,5 +1,6 @@
 ---
-title: Learning Elixir Better through Collaboration and Giving Back - Code BEAM SF 2018
+title: " Learning Elixir Better through Collaboration and Giving Back - Code BEAM SF 2018
+"
 abstract: ""
 speaker_id: mohnish-jadwani
 type: video

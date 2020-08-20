@@ -1,5 +1,6 @@
 ---
-title: Deploying Elixir/Erlang applications to Kubernetes - SLIDES - Code BEAM Lite Milan 2018
+title: " Deploying Elixir/Erlang applications to Kubernetes - SLIDES - Code BEAM Lite Milan 2018
+"
 abstract: "Slides for the Dario Freddi's talk "Deploying Elixir/Erlang applications to Kubernetes - the right way" - Code BEAM Lite Milan 2018
 "
 image: deploying-elixir-erlang-applications-to-kubernetes

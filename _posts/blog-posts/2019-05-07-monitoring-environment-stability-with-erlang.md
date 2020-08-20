@@ -1,5 +1,6 @@
 ---
-title: Monitoring environment stability with Erlang
+title: " Monitoring environment stability with Erlang
+"
 abstract: "Testing environments are often used for application and system-level Quality Assurance (QA) integration validation. In a Continuous Integration (CI) scenario, disruptions in the QA Environment can eliminate the possibility of CI. Strong guarantees and notification of environment errors are necessary for the orderly management of CI. An Erlang application can automate the type of monitoring, state reporting, and supervision of the environment needed by an active Agile organization for managing CI."
 speaker_id: jay-nelson
 type: video

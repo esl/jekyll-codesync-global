@@ -1,6 +1,7 @@
 
 ---
-title: Day 1: Chronal Calibration - Advent of Code 2018
+title: " Day 1: Chronal Calibration - Advent of Code 2018
+"
 abstract: "Advent of Code 2018 - Day 1 solution in Elixir! #AdventOfBEAM
 "
 image: /images/Day 1.png

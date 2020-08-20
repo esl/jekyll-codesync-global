@@ -1,5 +1,6 @@
 ---
-title: Gleam: Lean BEAM typing machine
+title: " Gleam: Lean BEAM typing machine
+"
 abstract: ""
 speaker_id: louis-pilfold
 type: video
