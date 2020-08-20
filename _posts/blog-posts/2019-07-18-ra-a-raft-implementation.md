@@ -7,7 +7,7 @@ OBJECTIVES
 Introduce Ra 
 Explain Ra's design decisions
 Outline how Ra integrates with RabbitMQ
-Explain how Ra is used
+Explain how Ra is used"
 speaker_id: karl-nilsson
 type: video
 youtube_id: 7NNjjTrBZtw

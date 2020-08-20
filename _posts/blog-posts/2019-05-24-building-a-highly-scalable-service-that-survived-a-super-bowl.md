@@ -7,7 +7,7 @@ abstract: "Would you bet your career and your company's reputation on a technolo
 · what made it so special that we were willing to take such a risk
 · what we learned along the way
 · how it performed
-· and would we do it again
+· and would we do it again"
 speaker_id: keith-elder
 type: video
 youtube_id: lXiiiLhwBI4

@@ -1,7 +1,7 @@
 ---
 title: " Microservices with Elixir
 "
-abstract: ""28 FEB 2019
+abstract: "28 FEB 2019
 15.30 - 15.55
 MICROSERVICES WITH ELIXIR
 This walk will show the easiness of developing microservices with elixir with approaches to project structure, communication protocols, and libraries.

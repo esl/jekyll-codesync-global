@@ -3,9 +3,7 @@ title: " Purescript on the BEAM; Typed OTP for greatness
 "
 abstract: "This video was recorded at Code Mesh LDN 19 - http://bit.ly/37xc3Nr
 
-Get involved in Code Sync's next conference - http://bit.ly/2Mcm4aS
-
----
+Get involved in Code Sync's next conference - http://bit.ly/2Mcm4aS 
 
 PURESCRIPT ON THE BEAM; TYPED OTP FOR GREATNESS
 by Rob Ashton
@@ -18,7 +16,7 @@ OTP
 TALK LEVEL: Intermediate
 
 ABSTRACT
-After nearly a decade of writing our software in Erlang, our codebases have started getting unwieldy despite our best efforts to manage this through other disciplinary methods. (That and dialyzer, but there are limits!)
+After nearly a decade of writing our software in Erlang, our codebases have started getting unwieldy despite our best efforts to manage this through other disciplinary methods. (That and dialyzer, but there are limits!)"
 speaker_id: rob-ashton
 type: video
 youtube_id: Lkh8nNwAEHA

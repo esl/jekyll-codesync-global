@@ -3,7 +3,7 @@ title: " Bare Metal from a Hardware Perspective: Embedded Frameworks & Build Sys
 "
 abstract: "It's an exciting time to be interested in programming languages as the abundance of computing power, even in the smallest devices around us, makes almost every language a viable choice for implementation. Almost. 
  
-While it is true that we have quad-core Raspberry Pi computers and the term "bare metal" gets thrown around a lot, the reality of chips and architectures used in commercial embedded devices often create friction between the hardware and software world."
+While it is true that we have quad-core Raspberry Pi computers and the term bare metal gets thrown around a lot, the reality of chips and architectures used in commercial embedded devices often create friction between the hardware and software world."
 speaker_id: omer-kilic
 type: video
 youtube_id: _4FItSzedBk
