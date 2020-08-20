@@ -1,7 +1,8 @@
 
 ---
 title: Day 7: The Sum of Its Parts - Advent of Code 2018
-abstract: I did the Advent of Code 2018 day 7 challenge in Elixir! Parts one and two are as follows:
+abstract: "I did the Advent of Code 2018 day 7 challenge in Elixir! Parts one and two are as follows:
+"
 image: /images/Day 7.png
 speaker_id: simon-escobar-benitez
 type: article

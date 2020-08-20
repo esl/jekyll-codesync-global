@@ -1,6 +1,6 @@
 ---
 title: Crypto + Concurrency
-abstract: 
+abstract: ""
 speaker_id: anna-neyzberg
 type: video
 youtube_id: X6dmjopTrLE

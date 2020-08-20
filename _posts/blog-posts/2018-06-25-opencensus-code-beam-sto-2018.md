@@ -1,6 +1,6 @@
 ---
 title: Opencensus - Code BEAM STO 2018
-abstract: 
+abstract: ""
 speaker_id: iliia-khaprov
 type: video
 youtube_id: -gybrBRECpE

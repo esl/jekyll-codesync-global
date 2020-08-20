@@ -1,6 +1,6 @@
 ---
 title: Spells, Hexes, and Charms Running your Own Private Package Service - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: mark-allen
 type: video
 youtube_id: lN_KFDyjmnY

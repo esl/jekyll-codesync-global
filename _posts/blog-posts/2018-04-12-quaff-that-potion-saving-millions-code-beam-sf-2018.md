@@ -1,6 +1,6 @@
 ---
 title: Quaff that potion saving $millions - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: mike-watters
 type: video
 youtube_id: CvjVpGktLC0

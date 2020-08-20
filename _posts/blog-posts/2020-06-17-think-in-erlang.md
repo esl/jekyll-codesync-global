@@ -1,6 +1,6 @@
 ---
 title: Think in Erlang!
-abstract: 
+abstract: ""
 speaker_id: viktoria-foerdos
 type: video
 youtube_id: bYkOsQU2ywM

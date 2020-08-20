@@ -1,6 +1,6 @@
 ---
 title: Intro to Machine Learning - Code Beam SF 2018
-abstract: 
+abstract: ""
 speaker_id: jesse-j-anderson
 type: video
 youtube_id: S9RlMhru29I

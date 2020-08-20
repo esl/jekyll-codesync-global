@@ -1,6 +1,6 @@
 ---
 title: Building and Integrating A Data Platform - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: benoit-chesneau
 type: video
 youtube_id: dPDAFFSKS18

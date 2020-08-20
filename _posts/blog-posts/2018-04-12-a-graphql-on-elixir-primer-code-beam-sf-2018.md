@@ -1,6 +1,6 @@
 ---
 title: A GraphQL-on-Elixir Primer - Code Beam SF 2018
-abstract: 
+abstract: ""
 speaker_id: bruce-williams
 type: video
 youtube_id: enbksvAko98

@@ -1,6 +1,6 @@
 ---
 title: Implementing Raft in RabbitMQ
-abstract: Raft protocol concepts, pros and cons for real world in application to RabbitMQ queues replication.
+abstract: "Raft protocol concepts, pros and cons for real world in application to RabbitMQ queues replication."
 speaker_id: daniil-fedotov165
 type: video
 youtube_id: 1ntKuapkqq4

@@ -1,6 +1,6 @@
 ---
 title: Decomposing container tools - about Swiss Army Knives and containers
-abstract: One-size-fits-all solutions come at a price. In this talk, I present four open-source container tools dedicated to specific use-cases:
+abstract: "One-size-fits-all solutions come at a price. In this talk, I present four open-source container tools dedicated to specific use-cases:
  
  - CRI-O, a Kubernetes runtime
  

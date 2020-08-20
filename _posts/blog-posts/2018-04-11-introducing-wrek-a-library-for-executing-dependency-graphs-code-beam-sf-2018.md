@@ -1,6 +1,6 @@
 ---
 title: Introducing Wrek; A Library For Executing Dependency Graphs - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: richard-kallos
 type: video
 youtube_id: dYDdnZoH0uk

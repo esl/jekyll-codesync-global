@@ -1,6 +1,6 @@
 ---
 title: CQRS and Event Sourcing
-abstract: A look into what EventSourcing and Command Query Responsibility Segregation are and how they fit together, followed by a tutorial on how to implement an application using these concepts with Commanded (a framework for elixir).
+abstract: "A look into what EventSourcing and Command Query Responsibility Segregation are and how they fit together, followed by a tutorial on how to implement an application using these concepts with Commanded (a framework for elixir)."
 speaker_id: bernardo-amorim
 type: video
 youtube_id: S3f6sAXa3-c

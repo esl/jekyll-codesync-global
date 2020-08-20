@@ -1,6 +1,6 @@
 ---
 title: Global scale messaging - MongooseIM - Code BEAM STO 2018
-abstract: 
+abstract: ""
 speaker_id: konrad-zemek
 type: video
 youtube_id: 51NQARofM6Q

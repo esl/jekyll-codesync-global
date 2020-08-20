@@ -1,6 +1,6 @@
 ---
 title: String processing optimisation
-abstract: 
+abstract: ""
 speaker_id: johanna-larsson
 type: video
 youtube_id: xmfXptibglQ

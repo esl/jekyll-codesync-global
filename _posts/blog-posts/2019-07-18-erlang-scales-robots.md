@@ -1,6 +1,6 @@
 ---
 title: Erlang scales robots
-abstract: In this talk Natalia introduces her vision of scaling complex robots and collections of robots using Erlang. She starts with an overview of existing robotics projects that use Erlang and then talks about her idea and some small research projects that she has conducted at Bournemouth and Glasgow Universities to develop the vision.
+abstract: "In this talk Natalia introduces her vision of scaling complex robots and collections of robots using Erlang. She starts with an overview of existing robotics projects that use Erlang and then talks about her idea and some small research projects that she has conducted at Bournemouth and Glasgow Universities to develop the vision."
 speaker_id: natalia-chechina
 type: video
 youtube_id: OkGht9d2LgY

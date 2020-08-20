@@ -1,6 +1,6 @@
 ---
 title: The Tyranny of Structurelessness
-abstract: 
+abstract: ""
 speaker_id: brooklyn-zelenka
 type: video
 youtube_id: JD0FJTmuV_Q

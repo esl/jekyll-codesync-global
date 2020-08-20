@@ -1,6 +1,6 @@
 ---
 title: Ethics and AI: Identifying and preventing bias in predictive models
-abstract: As we explore more sophisticated ways to make smarter, more accurate decisions, the use of data and predictive models has been at the forefront of innovation. But what happens when our use of data, and modeling, inadvertently hurts those who need the most protection? In this session we'll explore how bias and discrimination is introduced into models, and different strategies to prevent it from happening to you.
+abstract: "As we explore more sophisticated ways to make smarter, more accurate decisions, the use of data and predictive models has been at the forefront of innovation. But what happens when our use of data, and modeling, inadvertently hurts those who need the most protection? In this session we'll explore how bias and discrimination is introduced into models, and different strategies to prevent it from happening to you."
 speaker_id: federica-pelzel
 type: video
 youtube_id: aH4RzWWmb4U

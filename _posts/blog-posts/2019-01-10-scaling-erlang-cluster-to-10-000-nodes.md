@@ -1,6 +1,6 @@
 ---
 title: Scaling Erlang cluster to 10,000 nodes
-abstract: Maxim Fedorov - Scaling Erlang cluster to 10,000 nodes | Code Mesh LDN 18
+abstract: "Maxim Fedorov - Scaling Erlang cluster to 10,000 nodes | Code Mesh LDN 18
 speaker_id: maxim-fedorov
 type: video
 youtube_id: FJQyv26tFZ8

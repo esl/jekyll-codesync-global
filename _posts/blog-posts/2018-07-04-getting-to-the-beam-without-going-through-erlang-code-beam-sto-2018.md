@@ -1,6 +1,6 @@
 ---
 title: Getting to the BEAM, without going through Erlang - Code BEAM STO 2018
-abstract: 
+abstract: ""
 speaker_id: kofi-gumbs
 type: video
 youtube_id: BcXQ2qaEzNI

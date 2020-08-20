@@ -1,10 +1,10 @@
 ---
 title: Boosting reinforcement learning with Elixir
-abstract: Reinforcement learning (RL) is becoming a successful strategy for solving goal oriented problems and is emerging as the most promising framework towards general artificial intelligence. 
+abstract: "Reinforcement learning (RL) is becoming a successful strategy for solving goal oriented problems and is emerging as the most promising framework towards general artificial intelligence. 
 
 Some challenges of RL include deployment on intrinsically distributed and concurrent physical devices where Elixir naturally stands out and offers additional benefits for boosting RL on real-world applications. 
 
-In this talk, a framework (Gyx) for defining, solving and deploying Reinforcement Learning  problems in Elixir is presented.
+In this talk, a framework (Gyx) for defining, solving and deploying Reinforcement Learning  problems in Elixir is presented."
 speaker_id: ricardo-corral-corral302
 type: video
 youtube_id: n0X61Ad8Ofo

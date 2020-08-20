@@ -1,6 +1,6 @@
 ---
 title: OTP team update - May 2019
-abstract: An update from the OTP team at Code BEAM STO 2019.
+abstract: "An update from the OTP team at Code BEAM STO 2019."
 speaker_id: kenneth-lundin
 type: video
 youtube_id: yyIAJbT_Jf8

@@ -1,6 +1,6 @@
 ---
 title: Building a Billion Dollar Cryptocurrency with Haskell
-abstract: This talk is an experience report on the development and operation of a top-10 open blockchain cryptocurrency written in Haskell.
+abstract: "This talk is an experience report on the development and operation of a top-10 open blockchain cryptocurrency written in Haskell.
 
 Cardano is a recently released blockchain cryptocurrency system developed by IOHK and implemented primarily in Haskell. It has a number of innovative technologies and a long future roadmap, but in this talk Duncan will focus less on the 'what' and more on the question of 'how' and on transferable lessons:
 
@@ -10,7 +10,7 @@ Cardano is a recently released blockchain cryptocurrency system developed by IOH
    * Opportunities for higher assurance with formal specifications;
    * Bridging the gap between research and products;
    * Building a larger Haskell development team and training;
-   * What has gone well, and what has gone badly, and lessons we can learn.
+   * What has gone well, and what has gone badly, and lessons we can learn."
 speaker_id: duncan-coutts
 type: video
 youtube_id: -oPs2dugnQc

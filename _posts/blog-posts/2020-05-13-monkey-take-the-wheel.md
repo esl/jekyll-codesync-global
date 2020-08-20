@@ -1,6 +1,6 @@
 ---
 title: Monkey, take the wheel
-abstract: 
+abstract: ""
 speaker_id: dmytro-lytovchenko
 type: video
 youtube_id: 12tQzMMBz1U

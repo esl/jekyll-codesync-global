@@ -1,6 +1,6 @@
 ---
 title: BEAM and Kubernetes: Better together?
-abstract: Discuss overlapping scaling and reliability functionality in the Erlang VM and Kubernetes, and how they can be used together to provide application and system level fault tolerance.
+abstract: "Discuss overlapping scaling and reliability functionality in the Erlang VM and Kubernetes, and how they can be used together to provide application and system level fault tolerance."
 speaker_id: cory-o-daniel
 type: video
 youtube_id: Nv6GfEGv0kc

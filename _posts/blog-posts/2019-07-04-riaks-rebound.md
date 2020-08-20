@@ -1,6 +1,6 @@
 ---
 title: Riak's rebound
-abstract: This talk will cover the death of Basho, the rescue of the ""Enterprise Edition"" and dead code, and the resurgence of Riak as a viable distributed NoSQL database and cloud storage service thanks to an active development community
+abstract: "This talk will cover the death of Basho, the rescue of the ""Enterprise Edition"" and dead code, and the resurgence of Riak as a viable distributed NoSQL database and cloud storage service thanks to an active development community
 speaker_id: nicholas-adams291
 type: video
 youtube_id: Li3-aR9m8sQ

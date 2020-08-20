@@ -1,6 +1,6 @@
 ---
 title: Visualising concurrency with Kotlin
-abstract: Concurrency is complicated. And sometimes, it's very helpful to visualize a complex topic to understand it better. In this talk we'll see what concurrent design patterns such as Fan In and Fan Out really look like.
+abstract: "Concurrency is complicated. And sometimes, it's very helpful to visualize a complex topic to understand it better. In this talk we'll see what concurrent design patterns such as Fan In and Fan Out really look like."
 speaker_id: alexey-soshin
 type: video
 youtube_id: OC2TCvq1R40

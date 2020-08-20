@@ -1,6 +1,6 @@
 ---
 title: BEAM extreme; don't try this at home!
-abstract: Who can't use an extra performance boost now than then? This talk collects a set of outrageous stunts and maybe-controversial defying acts I have seen and sometimes made in production, that can give the Erlang Virtual Machine that extra speed or memory edge on different scenarios.
+abstract: "Who can't use an extra performance boost now than then? This talk collects a set of outrageous stunts and maybe-controversial defying acts I have seen and sometimes made in production, that can give the Erlang Virtual Machine that extra speed or memory edge on different scenarios."
 speaker_id: miriam-pena
 type: video
 youtube_id: _ePnlegZqgI

@@ -1,6 +1,6 @@
 ---
 title: Erlang In Action: Creating Scalable Edge Based Iot Solution - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: murali-kashaboina
 type: video
 youtube_id: 2PQ8OIE8lOM

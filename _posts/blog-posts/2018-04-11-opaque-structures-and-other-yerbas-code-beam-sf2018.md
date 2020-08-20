@@ -1,6 +1,6 @@
 ---
 title: Opaque Structures and Other Yerbas - Code BEAM SF2018
-abstract: 
+abstract: ""
 speaker_id: brujo-benavides
 type: video
 youtube_id: hxLh0qFX9oI

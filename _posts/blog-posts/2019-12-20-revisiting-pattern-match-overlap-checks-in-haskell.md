@@ -1,8 +1,8 @@
 ---
 title: Revisiting pattern match overlap checks in Haskell
-abstract: How hard can it be to spot missing or overlapping patterns in a Haskell function definition? Surely it’s the least we can expect from a decent compiler? But when you mix in GADTs, pattern guards, view patterns, data families, strict data constructors, and pattern synonyms, matters get surprisingly tricky.
+abstract: "How hard can it be to spot missing or overlapping patterns in a Haskell function definition? Surely it’s the least we can expect from a decent compiler? But when you mix in GADTs, pattern guards, view patterns, data families, strict data constructors, and pattern synonyms, matters get surprisingly tricky.
 
-In a 2015 paper “GADTs meet their match” (https://www.microsoft.com/en-us/research/publication/gadts-meet-their-match-pattern-matching-warnings-that-account-for-gadts-guards-and-laziness/) we explored a nice, modular account of pattern-match checking that addresses many of these tricky points. Alas, GHC’s implementation of that paper has proved less than satisfactory: it can be terribly slow, and misses cases that programmers think look obvious. So my colleague Sebastian Graf and I have been radically refactoring the implementation.
+In a 2015 paper “GADTs meet their match” (https://www.microsoft.com/en-us/research/publication/gadts-meet-their-match-pattern-matching-warnings-that-account-for-gadts-guards-and-laziness/) we explored a nice, modular account of pattern-match checking that addresses many of these tricky points. Alas, GHC’s implementation of that paper has proved less than satisfactory: it can be terribly slow, and misses cases that programmers think look obvious. So my colleague Sebastian Graf and I have been radically refactoring the implementation."
 speaker_id: simon-peyton-jones
 type: video
 youtube_id: SWO5OzSxD6Y

@@ -1,9 +1,10 @@
 
 ---
 title: Elixir powers first Car Share Service from Toyota
-abstract: Toyota has just launched its first global car sharing platform, operated by Servco Pacific, Toyota’s distributor in Hawaii. The Hui service utilises Toyota’s proprietary global Mobility Service Platform (MSPF) which is built partly with Elixir.
+abstract: "Toyota has just launched its first global car sharing platform, operated by Servco Pacific, Toyota’s distributor in Hawaii. The Hui service utilises Toyota’s proprietary global Mobility Service Platform (MSPF) which is built partly with Elixir.
 
 Toyota Connected and Servco developed the service together as one of the first public applications of MSPF, the core ecosystem for leveraging the potential of connected vehicle systems to support the development of new mobility businesses – such as car-sharing, ride-sharing and remote delivery.
+"
 image: /images/CODE-ELIXIR-header.jpg
 speaker_id: powell-kinney
 type: article

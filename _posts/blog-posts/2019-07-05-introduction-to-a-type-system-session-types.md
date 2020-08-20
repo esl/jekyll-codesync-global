@@ -1,6 +1,6 @@
 ---
 title: Introduction to a type system: session types
-abstract: Correctness in software development is an important subject that has been explored by the academy and by the industry. How to ensure that your program cannot fail ? How to ensure that what you're developing will work as expected without unwanted side-effects ? etc.
+abstract: "Correctness in software development is an important subject that has been explored by the academy and by the industry. How to ensure that your program cannot fail ? How to ensure that what you're developing will work as expected without unwanted side-effects ? etc."
 speaker_id: charlotte-lorelei-de-oliveira100
 type: video
 youtube_id: cuOGyWVSeJs

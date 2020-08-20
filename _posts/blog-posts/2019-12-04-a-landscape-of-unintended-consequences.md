@@ -1,6 +1,6 @@
 ---
 title: A landscape of unintended consequences
-abstract: "Increasingly, software is connected to the internet. How do we design software that will do what it was designed to do without making humans and connected systems vulnerable? 
+abstract: ""Increasingly, software is connected to the internet. How do we design software that will do what it was designed to do without making humans and connected systems vulnerable? 
 
 Sarah will share lessons learned from Shockwave and Flash, and the kinds of modern exploits that ought to keep you up at night, along with both modern and time-tested techniques that every developer should know."
 speaker_id: sarah-allen

@@ -1,6 +1,6 @@
 ---
 title: Understanding Erlang Term - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: boshan-sun
 type: video
 youtube_id: mPPbCQ2ffZc

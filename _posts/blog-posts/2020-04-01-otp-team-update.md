@@ -1,6 +1,6 @@
 ---
 title: OTP Team update
-abstract: Updates on what the OTP team has done in the last few months, what are the projects they're working on, and what's going on on the research side.
+abstract: "Updates on what the OTP team has done in the last few months, what are the projects they're working on, and what's going on on the research side."
 speaker_id: peter-dimitrov
 type: video
 youtube_id: RHXs3JLg6C4
