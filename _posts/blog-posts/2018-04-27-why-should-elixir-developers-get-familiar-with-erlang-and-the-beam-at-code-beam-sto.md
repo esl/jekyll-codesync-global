@@ -1,7 +1,8 @@
 
 ---
 title: Why should Elixir developers get familiar with Erlang and the BEAM at Code BEAM STO?
-abstract: Elixir, Erlang and LFE certainly have different features but they all share a foundation that carries the same ideas, techniques and patterns. Having familiarity with each technology is a major strength: it allows you to tap into a wider ecosystem and get the best out of every technology. Even if you end up using only one language in your day to day development, that knowledge will be useful in giving you more tools to reason with and to solve problems efficiently.
+abstract: "Elixir, Erlang and LFE certainly have different features but they all share a foundation that carries the same ideas, techniques and patterns. Having familiarity with each technology is a major strength: it allows you to tap into a wider ecosystem and get the best out of every technology. Even if you end up using only one language in your day to day development, that knowledge will be useful in giving you more tools to reason with and to solve problems efficiently.
+"
 image: /images/sto-e.jpg
 speaker_id: claudio-ortolina
 type: article

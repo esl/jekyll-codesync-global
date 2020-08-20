@@ -1,6 +1,6 @@
 ---
 title: Meta-programming in Erlang: Zotonic's template and dispatch compilers
-abstract: 
+abstract: ""
 speaker_id: marc-worrell
 type: video
 youtube_id: jLb9WZDYXi8

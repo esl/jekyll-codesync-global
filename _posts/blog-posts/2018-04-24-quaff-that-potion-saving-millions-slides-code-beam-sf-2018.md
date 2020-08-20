@@ -1,6 +1,7 @@
 ---
 title: Quaff that potion: saving $millions - SLIDES - Code BEAM SF 2018
-abstract: Slides from Mike Watters's talk "Quaff that potion: saving $millions" - Code BEAM SF 2018
+abstract: "Slides from Mike Watters's talk "Quaff that potion: saving $millions" - Code BEAM SF 2018
+"
 image: quaff-that-potion
 speaker_id: mike-watters
 type: slides

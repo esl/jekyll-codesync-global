@@ -1,6 +1,6 @@
 ---
 title: Testing Tools for the Erlang Ecosystem - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: kostis-sagonas1
 type: video
 youtube_id: 4-vJeCmkCZE

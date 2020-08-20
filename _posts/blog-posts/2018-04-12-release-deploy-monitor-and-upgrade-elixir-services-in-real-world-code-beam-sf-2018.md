@@ -1,6 +1,6 @@
 ---
 title: Release, Deploy, Monitor and Upgrade Elixir Services in Real World - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: tian-chen
 type: video
 youtube_id: kwHtlmyxE6c

@@ -1,6 +1,6 @@
 ---
 title: Ra: a Raft implementation
-abstract: In this talk Karl will introduce the Ra library, an open source Raft implementation by Team RabbitMQ. He will go through the reasons for wanting to use Raft inside RabbitMQ, the design requirements that came out of that and how they ended up implemented in Ra. He will also cover how to use Ra to implement our own replicated state machines.
+abstract: "In this talk Karl will introduce the Ra library, an open source Raft implementation by Team RabbitMQ. He will go through the reasons for wanting to use Raft inside RabbitMQ, the design requirements that came out of that and how they ended up implemented in Ra. He will also cover how to use Ra to implement our own replicated state machines.
 
 OBJECTIVES
 Introduce Ra 

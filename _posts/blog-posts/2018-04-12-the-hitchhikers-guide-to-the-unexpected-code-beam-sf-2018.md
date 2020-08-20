@@ -1,6 +1,6 @@
 ---
 title: The Hitchhiker's Guide to the Unexpected - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: fred-hebert
 type: video
 youtube_id: W0BR_tWZChQ

@@ -1,6 +1,6 @@
 ---
 title: Purescript on the BEAM; Typed OTP for greatness
-abstract: This video was recorded at Code Mesh LDN 19 - http://bit.ly/37xc3Nr
+abstract: "This video was recorded at Code Mesh LDN 19 - http://bit.ly/37xc3Nr
 
 Get involved in Code Sync's next conference - http://bit.ly/2Mcm4aS
 

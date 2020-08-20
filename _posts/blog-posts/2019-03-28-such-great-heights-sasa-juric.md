@@ -1,6 +1,7 @@
 ---
 title: Such great heights - Sasa Juric
-abstract: 
+abstract: ""
+"
 image: such-great-heights
 speaker_id: sasa-juric
 type: slides

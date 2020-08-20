@@ -1,6 +1,7 @@
 ---
 title: Getting to know your rabbit - SLIDES - Code BEAM SF 2018
-abstract: Slides for the Brett Cameron's talk "Getting to know your rabbit" - Code BEAM SF 2018
+abstract: "Slides for the Brett Cameron's talk "Getting to know your rabbit" - Code BEAM SF 2018
+"
 image: getting-to-know-your-rabbit
 speaker_id: brett-cameron
 type: slides

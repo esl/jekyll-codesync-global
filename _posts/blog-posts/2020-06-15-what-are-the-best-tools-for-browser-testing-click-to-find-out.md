@@ -1,6 +1,6 @@
 ---
 title: What are the best tools for browser testing? Click to find out
-abstract: 
+abstract: ""
 speaker_id: vanessa-lee
 type: video
 youtube_id: fiX8haFqHPg

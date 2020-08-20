@@ -1,6 +1,6 @@
 ---
 title: Taming side effects
-abstract: The systems we build every day have side effects: save data, send emails, write logs, push metrics, you name it! Many errors and headaches come from the difficulties involved in working and testing such code.
+abstract: "The systems we build every day have side effects: save data, send emails, write logs, push metrics, you name it! Many errors and headaches come from the difficulties involved in working and testing such code."
 speaker_id: claudio-ortolina
 type: video
 youtube_id: Pu8v2o9L5EI

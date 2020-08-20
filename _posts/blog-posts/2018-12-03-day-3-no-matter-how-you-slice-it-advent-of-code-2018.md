@@ -1,7 +1,8 @@
 
 ---
 title: Day 3: No matter how you slice it - Advent of Code 2018
-abstract: I did the Advent of Code 2018 day 3 challenge in Elixir! Parts one and two are as follows:
+abstract: "I did the Advent of Code 2018 day 3 challenge in Elixir! Parts one and two are as follows:
+"
 image: /images/Day 3.png
 speaker_id: simon-escobar-benitez
 type: article

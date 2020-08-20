@@ -1,6 +1,6 @@
 ---
 title: Using Distillery: understanding OTP releases
-abstract: How distillery works and effective ways to use distillery in production.
+abstract: "How distillery works and effective ways to use distillery in production."
 speaker_id: ken-cross
 type: video
 youtube_id: 1cB06IONjuo

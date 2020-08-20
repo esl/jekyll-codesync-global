@@ -1,6 +1,7 @@
 ---
 title: From a web application to a distributed system - SLIDES - Code BEAM Lite Milan 2018
-abstract: Slides for the Gianluca Padovani's talk "From a web application to a distributed system" - Code BEAM Lite Milan 2018
+abstract: "Slides for the Gianluca Padovani's talk "From a web application to a distributed system" - Code BEAM Lite Milan 2018
+"
 image: from-a-web-application-to-a-distributed-system
 speaker_id: gianluca-padovani
 type: slides

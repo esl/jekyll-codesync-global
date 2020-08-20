@@ -1,6 +1,6 @@
 ---
 title: Keynote: Unsung Heroes of the BEAM - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: miriam-pena
 type: video
 youtube_id: j6wbuV8pMx8

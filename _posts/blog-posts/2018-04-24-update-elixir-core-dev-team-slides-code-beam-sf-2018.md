@@ -1,6 +1,7 @@
 ---
 title: Update: Elixir Core Dev Team - SLIDES - Code BEAM SF 2018
-abstract: Slides from James Fish's talk "Update: Elixir Core Dev Team" - Code BEAM SF 2018
+abstract: "Slides from James Fish's talk "Update: Elixir Core Dev Team" - Code BEAM SF 2018
+"
 image: update-elixir-core
 speaker_id: james-fish
 type: slides

@@ -1,6 +1,6 @@
 ---
 title: Misadventures with Terraform
-abstract: A brief tour of real life experiences where things went wrong, but useful lessons were learned.
+abstract: "A brief tour of real life experiences where things went wrong, but useful lessons were learned."
 speaker_id: matthew-revell
 type: video
 youtube_id: 4oFAr9SyB4k

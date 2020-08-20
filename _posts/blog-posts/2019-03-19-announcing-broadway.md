@@ -1,6 +1,6 @@
 ---
 title: Announcing Broadway
-abstract: Jose Valim, creator of Elixir, was at Code BEAM SF 2019 to announce Broadway, a new open source project by Plataformatec that aims to streamline data processing pipelines.
+abstract: "Jose Valim, creator of Elixir, was at Code BEAM SF 2019 to announce Broadway, a new open source project by Plataformatec that aims to streamline data processing pipelines."
 speaker_id: jose-valim
 type: video
 youtube_id: ZOExnT1PYjs

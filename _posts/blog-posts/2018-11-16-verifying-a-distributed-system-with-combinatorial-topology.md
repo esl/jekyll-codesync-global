@@ -1,6 +1,6 @@
 ---
 title: Verifying a distributed system with combinatorial topology
-abstract: Formal verification of distributed systems is hard and expensive. Modern systems rely on tools like observability, extensive testing, and more recenty, chaos engineering. Understanding the math behind distributed computing, and being able to express systems in terms of algebraic topology and graph theory brings a new possibility of formal verification and a new approach towards solving complex problems and their interconnections.
+abstract: "Formal verification of distributed systems is hard and expensive. Modern systems rely on tools like observability, extensive testing, and more recenty, chaos engineering. Understanding the math behind distributed computing, and being able to express systems in terms of algebraic topology and graph theory brings a new possibility of formal verification and a new approach towards solving complex problems and their interconnections."
 speaker_id: veronica-lopez
 type: video
 youtube_id: 8T5QwNefYos

@@ -1,6 +1,6 @@
 ---
 title: LPWAN and Cellular IoT Explained - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: bryan-hughes
 type: video
 youtube_id: WdetR9B4oUM

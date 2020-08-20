@@ -1,6 +1,7 @@
 ---
 title: The magic behind immutable maps - SLIDES - Code BEAM SF 2018
-abstract: Slides from Jean Rouge's talk "The magic behind immutable maps, or why Erlang didn't have maps years earlier" - Code BEAM SF 2018
+abstract: "Slides from Jean Rouge's talk "The magic behind immutable maps, or why Erlang didn't have maps years earlier" - Code BEAM SF 2018
+"
 image: the-magic-behind-immutable-maps
 speaker_id: jean-rouge
 type: slides

@@ -1,7 +1,8 @@
 
 ---
 title: Day 1: The Tyranny of the Rocket Equation
-abstract: Day 1: The Tyranny of the Rocket Equation
+abstract: "Day 1: The Tyranny of the Rocket Equation
+"
 image: /images/DAY 01.png
 speaker_id: stavros-aronis
 type: article

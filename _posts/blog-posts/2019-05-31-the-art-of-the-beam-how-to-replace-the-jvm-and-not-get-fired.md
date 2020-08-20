@@ -1,6 +1,6 @@
 ---
 title: The art of the BEAM: How to replace the JVM and not get fired
-abstract: New technology initiatives are hard, especially at larger, older companies. In particular, when the target is something as fundamental as the VM. This talk explains how to successfully insert BEAM into a seemingly unbudging technology stack, and live to reap the benefits.
+abstract: "New technology initiatives are hard, especially at larger, older companies. In particular, when the target is something as fundamental as the VM. This talk explains how to successfully insert BEAM into a seemingly unbudging technology stack, and live to reap the benefits."
 speaker_id: andrei-soroker
 type: video
 youtube_id: YOWHyQSgnYs

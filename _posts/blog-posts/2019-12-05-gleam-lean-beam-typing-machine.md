@@ -1,6 +1,6 @@
 ---
 title: Gleam: Lean BEAM typing machine
-abstract: 
+abstract: ""
 speaker_id: louis-pilfold
 type: video
 youtube_id: HaKR2kt-DXI

@@ -1,6 +1,6 @@
 ---
 title: Taking Erlang Elixir to the Metal - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: sonny-scroggin
 type: video
 youtube_id: F86JXaCPowo

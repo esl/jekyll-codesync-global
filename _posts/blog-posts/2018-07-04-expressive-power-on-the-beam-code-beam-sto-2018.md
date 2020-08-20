@@ -1,6 +1,6 @@
 ---
 title: Expressive Power on the BEAM - Code BEAM STO 2018
-abstract: 
+abstract: ""
 speaker_id: joseph-yiasemides
 type: video
 youtube_id: RBbtxf47emo

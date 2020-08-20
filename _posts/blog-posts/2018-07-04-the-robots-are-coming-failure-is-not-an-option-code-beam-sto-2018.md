@@ -1,6 +1,6 @@
 ---
 title: The Robots are Coming: Failure is not an Option! - Code BEAM STO 2018
-abstract: 
+abstract: ""
 speaker_id: kevin-hammond
 type: video
 youtube_id: WBsuQpmv5nM

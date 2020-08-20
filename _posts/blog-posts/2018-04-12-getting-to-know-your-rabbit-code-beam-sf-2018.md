@@ -1,6 +1,6 @@
 ---
 title: Getting to Know Your Rabbit - Code BEAM SF 2018
-abstract: 
+abstract: ""
 speaker_id: brett-cameron
 type: video
 youtube_id: wN0jqAHmqXc

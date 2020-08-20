@@ -1,6 +1,6 @@
 ---
 title: Bring on the worker bees (Designing Elixir systems with OTP)
-abstract: If you want to be a great Elixir developers, you need to learn to build your programs in layers, the way the experts do. In this session, we will explore the advice:
+abstract: "If you want to be a great Elixir developers, you need to learn to build your programs in layers, the way the experts do. In this session, we will explore the advice:
 
 Do fun things with big, loud worker bees.
 

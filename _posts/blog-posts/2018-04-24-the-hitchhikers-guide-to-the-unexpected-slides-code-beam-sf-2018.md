@@ -1,6 +1,7 @@
 ---
 title: The Hitchhiker's Guide to the Unexpected - SLIDES - Code BEAM SF 2018
-abstract: Slides from Fred Hebert's talk "The Hitchhiker's Guide to the Unexpected" - Code BEAM SF 2018
+abstract: "Slides from Fred Hebert's talk "The Hitchhiker's Guide to the Unexpected" - Code BEAM SF 2018
+"
 image: the-hitchhikers-guide
 speaker_id: fred-hebert
 type: slides

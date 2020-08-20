@@ -1,6 +1,7 @@
 ---
 title: From Cloud to Edge Networks - SLIDES - Code BEAM SF 2018
-abstract: Slides from Sébastien Merle's talk "From Cloud to Edge Networks" - Code BEAM SF 2018
+abstract: "Slides from Sébastien Merle's talk "From Cloud to Edge Networks" - Code BEAM SF 2018
+"
 image: from-cloud-to-edge-networks
 speaker_id: sebastien-merle
 type: slides

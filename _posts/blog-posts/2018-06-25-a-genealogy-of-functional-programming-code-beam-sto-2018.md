@@ -1,6 +1,6 @@
 ---
 title: A genealogy of Functional Programming - Code BEAM STO 2018
-abstract: 
+abstract: ""
 speaker_id: osa-gaius
 type: video
 youtube_id: TZzfZoTUc_0
