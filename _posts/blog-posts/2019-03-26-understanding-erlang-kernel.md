@@ -8,6 +8,6 @@ youtube_id: wC5oR3Zm6I0
 keywords: Erlang kernel
 date: 2019-03-26
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-understanding-erlang-kernel-boshan-sun.pdf
+slides: /uploads/cb-sf-19-understanding-erlang-kernel-boshan-sun.pdf
 ---
 

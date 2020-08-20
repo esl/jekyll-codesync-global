@@ -10,6 +10,6 @@ youtube_id: hw4agjz4240
 keywords: CRDTs, geo-replication, high availability, concurrent, sequential
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-carlos-baquero-crdts-from-sequential-to-concurrent-executions-compressed.pdf
+slides: /uploads/cm-ldn-18-carlos-baquero-crdts-from-sequential-to-concurrent-executions-compressed.pdf
 ---
 

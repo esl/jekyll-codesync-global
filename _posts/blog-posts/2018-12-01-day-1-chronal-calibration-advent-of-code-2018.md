@@ -4,7 +4,7 @@ title: " Day 1: Chronal Calibration - Advent of Code 2018
 "
 abstract: "Advent of Code 2018 - Day 1 solution in Elixir! #AdventOfBEAM
 "
-image: /images/Day 1.png
+image_url: /uploads//images/Day 1.png
 speaker_id: simon-escobar-benitez
 type: article
 keywords: Advent of Code

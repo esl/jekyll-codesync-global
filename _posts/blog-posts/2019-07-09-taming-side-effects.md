@@ -8,6 +8,6 @@ youtube_id: Pu8v2o9L5EI
 keywords: Claudio Ortolina,Elixir lang,Code BEAM STO, Elixir, testing
 date: 2019-07-09
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-taming-side-effects-claudio-ortolina-compressed.pdf
+slides: /uploads/cb-sto-19-taming-side-effects-claudio-ortolina-compressed.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: 55-X7rSw8M0
 keywords: Macros, Elixir, Tooling, Lizzie Paquette, Brex, Code BEAM SF,
 date: 2020-03-25
 tags: Code BEAM SF 2020,Introduction to Erlang & Elixir
-slides: /images/code-beam-sf-2020-lizzie-paquette-macros-in-elixir-responsible-code-generation-compressed.pdf
+slides: /uploads/code-beam-sf-2020-lizzie-paquette-macros-in-elixir-responsible-code-generation-compressed.pdf
 ---
 

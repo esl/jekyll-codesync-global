@@ -8,6 +8,6 @@ youtube_id: 7EckD82G96A
 keywords: Streaming, Multimedia, Erlang, Elixir, Software Mansion,
 date: 2019-04-04
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-membrane-marcin-lewandowski.pdf
+slides: /uploads/cb-sf-19-membrane-marcin-lewandowski.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: ieljR3gPTaQ
 keywords: Orchestration, Containers, Elixir,
 date: 2019-04-02
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-containers-orchestration-the-elixir-way-veronica-lopez.pdf
+slides: /uploads/cb-sf-19-containers-orchestration-the-elixir-way-veronica-lopez.pdf
 ---
 

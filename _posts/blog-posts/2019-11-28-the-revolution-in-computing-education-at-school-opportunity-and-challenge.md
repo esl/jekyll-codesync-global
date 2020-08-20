@@ -8,6 +8,6 @@ youtube_id: X-AIbtus9gs
 keywords: Computer Science, Education, Schools, Simon Peyton Jones,
 date: 2019-11-28
 tags: Code Mesh LDN 2019
-slides: /images/cm19-simon-peyton-jones-revisiting-pattern-match-overlap-checks-in-haskell-compressed.pdf
+slides: /uploads/cm19-simon-peyton-jones-revisiting-pattern-match-overlap-checks-in-haskell-compressed.pdf
 ---
 

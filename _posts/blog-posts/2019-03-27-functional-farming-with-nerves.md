@@ -8,6 +8,6 @@ youtube_id: ErmCWhmzP7c
 keywords: Nerves, Elixir, Farmbot, Code BEAM SF 2019
 date: 2019-03-27
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-functional-farming-with-nerves-connor-rigby.pdf
+slides: /uploads/cb-sf-19-functional-farming-with-nerves-connor-rigby.pdf
 ---
 

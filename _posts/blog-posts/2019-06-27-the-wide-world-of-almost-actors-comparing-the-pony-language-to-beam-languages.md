@@ -10,6 +10,6 @@ youtube_id: _0m0_qtfzLs
 keywords: Pony language,BEAM languages,Erlang,Elixir,Scott Lystig Fritchie
 date: 2019-06-27
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-the-wide-world-of-almost-actors-scott-lystig-fritchie-compressed.pdf
+slides: /uploads/cb-sto-19-the-wide-world-of-almost-actors-scott-lystig-fritchie-compressed.pdf
 ---
 

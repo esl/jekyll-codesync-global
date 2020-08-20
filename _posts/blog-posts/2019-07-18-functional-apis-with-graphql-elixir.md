@@ -8,6 +8,6 @@ youtube_id: K_9IXTUwVL4
 keywords: GraphQL, API, Absinthe
 date: 2019-07-18
 tags: Code BEAM Lite Berlin
-slides: /images/hubert-lepicki-functional-apis-with-graphql-elixir-cbl-berlin-2018.pdf
+slides: /uploads/hubert-lepicki-functional-apis-with-graphql-elixir-cbl-berlin-2018.pdf
 ---
 

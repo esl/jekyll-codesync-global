@@ -8,6 +8,6 @@ youtube_id: xi-ixFPjNpc
 keywords: 
 date: 2019-03-25
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-mid-air-plane-repair-maxim-fedorov-compressed.pdf
+slides: /uploads/cb-sf-19-mid-air-plane-repair-maxim-fedorov-compressed.pdf
 ---
 

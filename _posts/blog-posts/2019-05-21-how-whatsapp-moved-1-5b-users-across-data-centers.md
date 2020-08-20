@@ -8,6 +8,6 @@ youtube_id: 93MA0VUWP9w
 keywords: Whatsapp, migration, Erlang data center,
 date: 2019-05-21
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-how-whatsapp-moved-1-5b-users-across-data-centres-igors-istocniks-compressed-1.pdf
+slides: /uploads/cb-sf-19-how-whatsapp-moved-1-5b-users-across-data-centres-igors-istocniks-compressed-1.pdf
 ---
 

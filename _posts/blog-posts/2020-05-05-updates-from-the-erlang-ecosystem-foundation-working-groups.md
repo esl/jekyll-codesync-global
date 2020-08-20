@@ -9,6 +9,6 @@ youtube_id: GSXp6mvVbWI
 keywords: 
 date: 2020-05-05
 tags: Code BEAM SF 2020
-slides: /images/eef-code-beam-sf-2020-compressed.pdf
+slides: /uploads/eef-code-beam-sf-2020-compressed.pdf
 ---
 

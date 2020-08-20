@@ -8,6 +8,6 @@ youtube_id: WVZ2K3985x4
 keywords: Clixir, Elixir, Macro, C,
 date: 2019-04-03
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-clixir-mixing-c-and-elixir-code-cees-de-groot-compressed.pdf
+slides: /uploads/cb-sf-19-clixir-mixing-c-and-elixir-code-cees-de-groot-compressed.pdf
 ---
 

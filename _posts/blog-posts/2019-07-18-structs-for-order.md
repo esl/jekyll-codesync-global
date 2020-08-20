@@ -8,6 +8,6 @@ youtube_id: MDj-MURXMi8
 keywords: Elixir, Structs, DDD
 date: 2019-07-18
 tags: Elixir,Code BEAM Lite Berlin
-slides: /images/andrei-chernykh-struct-for-order-cbl-berlin-2018-compressed.pdf
+slides: /uploads/andrei-chernykh-struct-for-order-cbl-berlin-2018-compressed.pdf
 ---
 

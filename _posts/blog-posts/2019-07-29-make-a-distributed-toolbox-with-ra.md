@@ -8,6 +8,6 @@ youtube_id: wHpNfCeX_Vk
 keywords: Distribution,Co-ordination,Fault tolerance,Ra,RabbitMQ, Karl Nilsson
 date: 2019-07-29
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-make-a-distributed-toolbox-with-ra-a-raft-library-karl-nilsson-compressed.pdf
+slides: /uploads/cb-sto-19-make-a-distributed-toolbox-with-ra-a-raft-library-karl-nilsson-compressed.pdf
 ---
 

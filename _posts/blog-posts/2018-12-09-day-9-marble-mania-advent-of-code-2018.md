@@ -4,7 +4,7 @@ title: " Day 9: Marble Mania - Advent of Code 2018
 "
 abstract: "I did the Advent of Code 2018 day 9 challenge in Erlang! Parts one and two are as follows:
 "
-image: /images/Day 9.png
+image_url: /uploads//images/Day 9.png
 speaker_id: stavros-aronis
 type: article
 keywords: Advent of Code, Erlang

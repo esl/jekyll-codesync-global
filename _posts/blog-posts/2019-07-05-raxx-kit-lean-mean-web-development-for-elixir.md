@@ -8,6 +8,6 @@ youtube_id: 5YYpVJHA0sw
 keywords: Raxx, Elixir, Development, web development, Peter Saxton
 date: 2019-07-05
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-raxx-kit-lean-mean-web-development-for-elixir-peter-saxton-compressed.pdf
+slides: /uploads/cb-sto-19-raxx-kit-lean-mean-web-development-for-elixir-peter-saxton-compressed.pdf
 ---
 

@@ -3,9 +3,9 @@ title: " Designing Rich API Clients at Scale
 "
 abstract: "Slides from Jeff Ching's talk Designing Rich API Clients at Scale - Code BEAM SF 2018
 "
-image: designing-rich-api-clients-at-scale
+image_url: /uploads/designing-rich-api-clients-at-scale
 speaker_id: jeff-ching
-type: slides
+type: article
 keywords: 
 date: 2018-04-24
 tags: BEAM,Code BEAM SF 2018

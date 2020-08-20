@@ -8,6 +8,6 @@ youtube_id: LjTboayxQ_U
 keywords: 
 date: 2020-05-11
 tags: Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-bryan-hunt-customer-retention-and-how-to-avoid-double-billing.pdf
+slides: /uploads/code-beam-sf-2020-bryan-hunt-customer-retention-and-how-to-avoid-double-billing.pdf
 ---
 

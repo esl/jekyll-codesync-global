@@ -8,6 +8,6 @@ youtube_id: OC2TCvq1R40
 keywords: Visualisation,Kotlin,Concurrency,Alexey Soshin,Code Mesh LDN,Parallelism
 date: 2020-01-21
 tags: Code Mesh LDN 2019,Concurrency & parallelism
-slides: /images/cm19-alexey-soshin-visualizing-concurrency-with-kotlin-compressed.pdf
+slides: /uploads/cm19-alexey-soshin-visualizing-concurrency-with-kotlin-compressed.pdf
 ---
 

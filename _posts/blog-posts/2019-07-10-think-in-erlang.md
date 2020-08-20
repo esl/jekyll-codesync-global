@@ -10,6 +10,6 @@ youtube_id: zAPGs0CLyvA
 keywords: Erlang,Problem Solving, functional programming,
 date: 2019-07-10
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-think-in-erlang-viktoria-fordospdf-compressed.pdf
+slides: /uploads/cb-sto-19-think-in-erlang-viktoria-fordospdf-compressed.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: xe32ku9s14k
 keywords: BEAM, Erlang, Elixir, Rust, Sonny Scroggin
 date: 2019-06-21
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-beam-rust-a-match-made-in-heaven-sonny-scroggin-compressed.pdf
+slides: /uploads/cb-sto-19-beam-rust-a-match-made-in-heaven-sonny-scroggin-compressed.pdf
 ---
 

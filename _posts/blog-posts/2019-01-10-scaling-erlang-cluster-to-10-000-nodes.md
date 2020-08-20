@@ -8,6 +8,6 @@ youtube_id: FJQyv26tFZ8
 keywords: Erlang, Scalability, Nodes, WhatsApp, Maxim Fedorov, Code Mesh LDN
 date: 2019-01-10
 tags: Erlang
-slides: /images/cm-ldn-18-maxim-fedorov-scaling-erlang-cluster.pdf
+slides: /uploads/cm-ldn-18-maxim-fedorov-scaling-erlang-cluster.pdf
 ---
 

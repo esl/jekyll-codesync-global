@@ -8,6 +8,6 @@ youtube_id: Nxsw1jRE2A4
 keywords: Dialyzer, productivity, Erlang, BEAM VM, Elixir,
 date: 2019-06-06
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-what-does-dialyzer-think-about-me-stavros-aronis-compressed.pdf
+slides: /uploads/cb-sto-19-what-does-dialyzer-think-about-me-stavros-aronis-compressed.pdf
 ---
 

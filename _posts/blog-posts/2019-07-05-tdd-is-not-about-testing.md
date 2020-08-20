@@ -8,6 +8,6 @@ youtube_id: AVKpChQoXXE
 keywords: TDD, design, functional,
 date: 2019-07-05
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-tdd-is-not-about-testing-gianluca-padovani-compressed.pdf
+slides: /uploads/cb-sto-19-tdd-is-not-about-testing-gianluca-padovani-compressed.pdf
 ---
 

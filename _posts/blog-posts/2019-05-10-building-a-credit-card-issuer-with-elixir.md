@@ -8,6 +8,6 @@ youtube_id: DXoh2f1DMFw
 keywords: fintech, Brex, credit card, Elixir, Jonathan Lima
 date: 2019-05-10
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-building-a-credit-card-issuer-with-elixir-jonathan-lima-compressed.pdf
+slides: /uploads/cb-sf-19-building-a-credit-card-issuer-with-elixir-jonathan-lima-compressed.pdf
 ---
 

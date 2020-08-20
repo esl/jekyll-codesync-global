@@ -8,6 +8,6 @@ youtube_id: dSVRqlYjeJg
 keywords: 5G,MQTT,IoT,internet of things
 date: 2019-07-09
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-scalable-mqtt-messaging-platform-for-iot-in-5g-era-zhengyu-pan-compressed.pdf
+slides: /uploads/cb-sto-19-scalable-mqtt-messaging-platform-for-iot-in-5g-era-zhengyu-pan-compressed.pdf
 ---
 

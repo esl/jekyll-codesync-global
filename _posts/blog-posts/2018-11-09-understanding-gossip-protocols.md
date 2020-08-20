@@ -12,6 +12,6 @@ youtube_id: QQ2n1UX3Qwg
 keywords: gossip, protocols, distributed systems, nodes,
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-felix-lopez-luis-gossip-compressed-1.pdf
+slides: /uploads/cm-ldn-18-felix-lopez-luis-gossip-compressed-1.pdf
 ---
 

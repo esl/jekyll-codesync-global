@@ -8,6 +8,6 @@ youtube_id: FvlyuTkZWy4
 keywords: SaaS, Keynote, Code BEAM SF, Delivery models
 date: 2019-03-21
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-designing-an-engineering-org-for-saas-and-on-prem-delivery-models-renee-orser.pdf
+slides: /uploads/cb-sf-19-designing-an-engineering-org-for-saas-and-on-prem-delivery-models-renee-orser.pdf
 ---
 

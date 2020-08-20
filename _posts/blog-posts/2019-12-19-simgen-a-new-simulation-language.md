@@ -8,6 +8,6 @@ youtube_id: oRC5fx7kJ7Y
 keywords: SWI-Prolog,SimGen,Prolog,Programming,Code Mesh LDN,Anne Ogborn
 date: 2019-12-19
 tags: Code Mesh LDN 2019,Languages
-slides: /images/cm19-anne-ogborn-simgen-compressed.pdf
+slides: /uploads/cm19-anne-ogborn-simgen-compressed.pdf
 ---
 

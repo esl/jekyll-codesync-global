@@ -10,6 +10,6 @@ youtube_id: U-JIzj07uQA
 keywords: OTP 21, Process signals,
 date: 2019-04-09
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-process-signals-in-otp-21-lukas-larsson.pdf
+slides: /uploads/cb-sf-19-process-signals-in-otp-21-lukas-larsson.pdf
 ---
 

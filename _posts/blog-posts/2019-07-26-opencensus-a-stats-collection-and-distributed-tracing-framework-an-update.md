@@ -8,6 +8,6 @@ youtube_id: pEF42-zBeXI
 keywords: opencensus, distribution, framework, BEAM VM, Iliia Khaprov,
 date: 2019-07-26
 tags: Code BEAM STO 2019
-slides: /images/acfrogbyza6enozdi6phbnsp0o7my0p6ttqy3-htgdbkye8ogtsvve5op-ejr07snhvo-rag-n0d57cpcj-e50mgjomci2ddv8v-ajjydla2mcxlyhm4ju-oyso8xz0-compressed.pdf
+slides: /uploads/acfrogbyza6enozdi6phbnsp0o7my0p6ttqy3-htgdbkye8ogtsvve5op-ejr07snhvo-rag-n0d57cpcj-e50mgjomci2ddv8v-ajjydla2mcxlyhm4ju-oyso8xz0-compressed.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: x-qAPvYdXgM
 keywords: Graphics, Languages, Media, art, Frieder Nake
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-frieder-nake-do-calculating-machines-like-drawing-compressed.pdf
+slides: /uploads/cm-ldn-18-frieder-nake-do-calculating-machines-like-drawing-compressed.pdf
 ---
 

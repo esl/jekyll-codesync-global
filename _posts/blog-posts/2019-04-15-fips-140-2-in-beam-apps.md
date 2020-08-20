@@ -8,6 +8,6 @@ youtube_id: v36yVP9Bamc
 keywords: FIPS 140-2, BEAM, Security, Crypto, Drew Varner, Code BEAM SF, Erlang
 date: 2019-04-15
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-drew-varner-compressed.pdf
+slides: /uploads/cb-sf-19-drew-varner-compressed.pdf
 ---
 

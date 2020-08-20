@@ -8,6 +8,6 @@ youtube_id: S3f6sAXa3-c
 keywords: EventSourcing, Command Query Responsibility Segregation, CQRS, Erlang, cryptocurrency
 date: 2018-06-01
 tags: Code BEAM SF 2018
-slides: /images/bernardo-amorim-cqrs-and-event-sourcing-compressed.pdf
+slides: /uploads/bernardo-amorim-cqrs-and-event-sourcing-compressed.pdf
 ---
 

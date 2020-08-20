@@ -8,6 +8,6 @@ youtube_id: idef8OJHjRA
 keywords: Hex, Johanna Larsson, Tools, Erlang, Elixir, Diffing, Package, Code BEAM SF,
 date: 2020-03-30
 tags: Code BEAM SF 2020,Tools
-slides: /images/code-beam-sf-2020-johanna-larsson-diffing-hex-packages-compressed.pdf
+slides: /uploads/code-beam-sf-2020-johanna-larsson-diffing-hex-packages-compressed.pdf
 ---
 

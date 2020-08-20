@@ -8,6 +8,6 @@ youtube_id: OkGht9d2LgY
 keywords: Scaling, Robots, Reliably
 date: 2019-07-18
 tags: Code BEAM Lite Berlin
-slides: /images/natalia-chechina-erlang-scales-robots-cbl-berli-2018-compressed.pdf
+slides: /uploads/natalia-chechina-erlang-scales-robots-cbl-berli-2018-compressed.pdf
 ---
 

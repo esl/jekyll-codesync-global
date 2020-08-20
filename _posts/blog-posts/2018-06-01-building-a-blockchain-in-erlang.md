@@ -8,6 +8,6 @@ youtube_id: I4_xX_Zs2eE
 keywords: Blockchain, Erlang, Ulf Wiger, Aeternity, cryptocurrency, P2P, peer to peer,
 date: 2018-06-01
 tags: Code Mesh LDN 2018
-slides: /images/ulf-wiger-using-erlang-in-blockchain-development.pdf
+slides: /uploads/ulf-wiger-using-erlang-in-blockchain-development.pdf
 ---
 

@@ -8,6 +8,6 @@ youtube_id: 9XPVuujbk5o
 keywords: Erlang, Klarna, Fintech, Richard Carlsson
 date: 2019-03-29
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-the-art-of-the-live-upgrade-richard-carlsson.pdf
+slides: /uploads/cb-sf-19-the-art-of-the-live-upgrade-richard-carlsson.pdf
 ---
 

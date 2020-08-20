@@ -8,6 +8,6 @@ youtube_id: 8T5QwNefYos
 keywords: distributed system, verification, combinatorial topology,
 date: 2018-11-16
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-veronica-lopez-verifying-a-distributed-system-with-combinatorial-topology-compressed.pdf
+slides: /uploads/cm-ldn-18-veronica-lopez-verifying-a-distributed-system-with-combinatorial-topology-compressed.pdf
 ---
 

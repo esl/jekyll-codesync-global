@@ -8,6 +8,6 @@ youtube_id: -KwPx9Y0KWo
 keywords: Erlang, smart, energy
 date: 2019-07-12
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-beam-for-smart-energy-paul-valckenaers-compressed.pdf
+slides: /uploads/cb-sto-19-beam-for-smart-energy-paul-valckenaers-compressed.pdf
 ---
 

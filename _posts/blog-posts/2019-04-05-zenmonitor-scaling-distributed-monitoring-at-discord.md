@@ -8,6 +8,6 @@ youtube_id: P89N1YJBjpA
 keywords: ZenMonitor, Scaling, Distributed, Monitoring, Discord
 date: 2019-04-05
 tags: Code BEAM SF 2019
-slides: /images/cb-sf-19-zenmonitor-scaling-distributed-monitoring-at-discord-matt-nowak-compressed.pdf
+slides: /uploads/cb-sf-19-zenmonitor-scaling-distributed-monitoring-at-discord-matt-nowak-compressed.pdf
 ---
 

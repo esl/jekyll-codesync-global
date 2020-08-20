@@ -10,6 +10,6 @@ youtube_id: ytoPAFkNEQo
 keywords: Capability Driven,Computer Science,Natalia Chechina,Distributed Systems,Code Mesh LDN
 date: 2020-01-27
 tags: Distributed systems,Code Mesh LDN 2019
-slides: /images/cm19-natalia-chechina-capability-driven-requirements-engineering-compressed.pdf
+slides: /uploads/cm19-natalia-chechina-capability-driven-requirements-engineering-compressed.pdf
 ---
 

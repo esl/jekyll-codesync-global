@@ -3,9 +3,9 @@ title: " Introducing Wrek - SLIDES - Code BEAM SF 2018
 "
 abstract: "Slides from Richard Kallos' talk Introducing Wrek - a library for executing dependency graphs - Code BEAM SF 2018
 "
-image: introducing-wrek
+image_url: /uploads/introducing-wrek
 speaker_id: richard-kallos
-type: slides
+type: article
 keywords: 
 date: 2018-04-26
 tags: BEAM,Code BEAM SF 2018

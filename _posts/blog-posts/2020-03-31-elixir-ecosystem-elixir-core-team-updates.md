@@ -8,6 +8,6 @@ youtube_id: hi4Lckmp6wc
 keywords: Elixir, Elixir core, Michal Muskala, Code BEAM SF
 date: 2020-03-31
 tags: Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-michal-muskala-elixir-ecosystem-elixir-core-team-updates-compressed.pdf
+slides: /uploads/code-beam-sf-2020-michal-muskala-elixir-ecosystem-elixir-core-team-updates-compressed.pdf
 ---
 

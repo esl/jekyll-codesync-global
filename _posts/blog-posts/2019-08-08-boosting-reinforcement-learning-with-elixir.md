@@ -12,6 +12,6 @@ youtube_id: n0X61Ad8Ofo
 keywords: Machine Learning,Robotics,Artificial Intelligence
 date: 2019-08-08
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-boosting-reinforcement-learning-with-elixir-ricardo-corral-corral-compressed.pdf
+slides: /uploads/cb-sto-19-boosting-reinforcement-learning-with-elixir-ricardo-corral-corral-compressed.pdf
 ---
 

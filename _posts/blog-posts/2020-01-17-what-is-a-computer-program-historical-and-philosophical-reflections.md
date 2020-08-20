@@ -8,6 +8,6 @@ youtube_id: ZdkpsR9omI4
 keywords: Epistemology,Computer Science,Computer Programme,Computer Program,Liesbeth De Mol,Code Mesh LDN,History,Philosophy
 date: 2020-01-17
 tags: Code Mesh LDN 2019,History of computer science
-slides: /images/cm19-liesbeth-de-mol-what-is-a-computer-program-compressed.pdf
+slides: /uploads/cm19-liesbeth-de-mol-what-is-a-computer-program-compressed.pdf
 ---
 

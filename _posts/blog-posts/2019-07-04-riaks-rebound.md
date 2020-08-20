@@ -8,6 +8,6 @@ youtube_id: Li3-aR9m8sQ
 keywords: Riak, database, open source, Basho,
 date: 2019-07-04
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-riaks-rebound-nicholas-adams-compressed.pdf
+slides: /uploads/cb-sto-19-riaks-rebound-nicholas-adams-compressed.pdf
 ---
 

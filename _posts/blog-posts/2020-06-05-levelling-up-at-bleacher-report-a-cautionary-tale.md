@@ -8,6 +8,6 @@ youtube_id: P4SzZCwB8B4
 keywords: 
 date: 2020-06-05
 tags: Code BEAM SF 2020
-slides: /images/code-beam-sf-2020-peter-hastie-levelling-up-at-bleacher-report-a-cautionary-tale.pdf
+slides: /uploads/code-beam-sf-2020-peter-hastie-levelling-up-at-bleacher-report-a-cautionary-tale.pdf
 ---
 

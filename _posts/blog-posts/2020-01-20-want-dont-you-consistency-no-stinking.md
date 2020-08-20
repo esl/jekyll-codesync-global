@@ -9,6 +9,6 @@ youtube_id: m1FhLPmiK9A
 keywords: Event sourced systems,Eventually Consistent,Greg Young,Code Mesh LDN,Infrastructure
 date: 2020-01-20
 tags: Infrastructure,Code Mesh LDN 2019
-slides: /images/cm19-greg-young-consistency-dont-need-stinking-no-compressed.pdf
+slides: /uploads/cm19-greg-young-consistency-dont-need-stinking-no-compressed.pdf
 ---
 

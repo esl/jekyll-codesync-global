@@ -8,6 +8,6 @@ youtube_id: llQmhYHzEQo
 keywords: Teaching, Elixir, Better
 date: 2019-07-18
 tags: Code BEAM Lite Berlin,Elixir
-slides: /images/leandro-bighetti-how-to-teach-elixir-to-non-functional-developers-cbl-berlin-2018.pdf
+slides: /uploads/leandro-bighetti-how-to-teach-elixir-to-non-functional-developers-cbl-berlin-2018.pdf
 ---
 

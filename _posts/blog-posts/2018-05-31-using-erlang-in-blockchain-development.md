@@ -12,6 +12,6 @@ youtube_id: 2dP9LCdGBPU
 keywords: Erlang, Blockchain, aeternity
 date: 2018-05-31
 tags: Code BEAM STO 2018
-slides: /images/ulf-wiger-using-erlang-in-blockchain-development-01-jun-10-35-strindberg-compressed.pdf
+slides: /uploads/ulf-wiger-using-erlang-in-blockchain-development-01-jun-10-35-strindberg-compressed.pdf
 ---
 

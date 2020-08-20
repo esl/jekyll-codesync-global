@@ -3,9 +3,9 @@ title: " Update: OTP Team - SLIDES - Code BEAM SF 2018
 "
 abstract: "Slides from Raimo Niskanen's talk Update: OTP Team - Code BEAM SF 2018
 "
-image: update-otp-team
+image_url: /uploads/update-otp-team
 speaker_id: raimo-niskanen
-type: slides
+type: article
 keywords: 
 date: 2018-04-24
 tags: BEAM,Code BEAM SF 2018

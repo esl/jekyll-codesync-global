@@ -10,6 +10,6 @@ youtube_id: g-2qYXMexg8
 keywords: Gen_persistence,Erlang,P2P,Benoit Chesneau
 date: 2019-09-06
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-gen-persistence-persist-the-state-of-your-processes-benoit-chesneau-compressed.pdf
+slides: /uploads/cb-sto-19-gen-persistence-persist-the-state-of-your-processes-benoit-chesneau-compressed.pdf
 ---
 

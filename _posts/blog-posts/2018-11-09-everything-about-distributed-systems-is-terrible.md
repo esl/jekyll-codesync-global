@@ -12,6 +12,6 @@ youtube_id: tfnldxWlOhM
 keywords: TLA+, Formal specification, distributed systems
 date: 2018-11-09
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-hillel-wayne-designing-distributed-systems-with-tla-compressed.pdf
+slides: /uploads/cm-ldn-18-hillel-wayne-designing-distributed-systems-with-tla-compressed.pdf
 ---
 

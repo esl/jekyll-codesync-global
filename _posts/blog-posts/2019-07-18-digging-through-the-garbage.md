@@ -8,6 +8,6 @@ youtube_id: aqLujfzvUgM
 keywords: garbage-collection, internals, optimisation
 date: 2019-07-18
 tags: Code BEAM Lite Berlin
-slides: /images/devon-estes-digging-through-garbage-cbl-berlin-2018-compressed.pdf
+slides: /uploads/devon-estes-digging-through-garbage-cbl-berlin-2018-compressed.pdf
 ---
 

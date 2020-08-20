@@ -8,6 +8,6 @@ youtube_id: DDtXi8kX15A
 keywords: ethics, infosec, artificial intelligence, AI, security
 date: 2018-11-15
 tags: Code Mesh LDN 2018
-slides: /images/cm-ldn-18-kate-carruthers-info-sec-ai-and-ethics-compressed.pdf
+slides: /uploads/cm-ldn-18-kate-carruthers-info-sec-ai-and-ethics-compressed.pdf
 ---
 

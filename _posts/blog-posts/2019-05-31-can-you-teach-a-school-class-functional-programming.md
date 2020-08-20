@@ -8,6 +8,6 @@ youtube_id: WT-dQ1jFSrg
 keywords: functional programming, teach,
 date: 2019-05-31
 tags: Code BEAM STO 2019
-slides: /images/cb-sto-19-can-you-teach-a-school-class-functional-programming-madeleine-malmsten-compressed.pdf
+slides: /uploads/cb-sto-19-can-you-teach-a-school-class-functional-programming-madeleine-malmsten-compressed.pdf
 ---
 

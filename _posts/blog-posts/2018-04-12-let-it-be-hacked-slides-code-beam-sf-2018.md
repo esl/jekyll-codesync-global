@@ -3,9 +3,9 @@ title: " Let it be hacked - SLIDES - Code BEAM SF 2018
 "
 abstract: "Slides from Duncan Sparrell's talk Let it be hacked - Code BEAM SF 2018
 "
-image: let-it-be-hacked
+image_url: /uploads/let-it-be-hacked
 speaker_id: duncan-sparrell
-type: slides
+type: article
 keywords: 
 date: 2018-04-12
 tags: BEAM,Code BEAM SF 2018

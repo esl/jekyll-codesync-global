@@ -3,9 +3,9 @@ title: " Quantum Computing Exposed: Schrödinger's Grumpy Cat - SLIDES - Code BE
 "
 abstract: "Slides from James Weaver's talk Quantum Computing Exposed: Schrödinger's Grumpy Cat - Code BEAM SF 2018
 "
-image: quantum-computing-exposed
+image_url: /uploads/quantum-computing-exposed
 speaker_id: james-weaver
-type: slides
+type: article
 keywords: 
 date: 2018-04-12
 tags: BEAM,Code BEAM SF 2018
