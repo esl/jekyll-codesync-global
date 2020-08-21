@@ -2,7 +2,7 @@
 title: " Next Generation SCADA - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: brett-cameron
+speaker1: _speakers/brett-cameron.md
 type: video
 youtube_id: tl-3EftSK90
 keywords: 

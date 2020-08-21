@@ -2,7 +2,7 @@
 title: " Using Distillery: understanding OTP releases
 "
 abstract: "How distillery works and effective ways to use distillery in production."
-speaker_id: ken-cross
+speaker1: _speakers/ken-cross.md
 type: video
 youtube_id: 1cB06IONjuo
 keywords: Distillery, OTP, Elixir, Releases, Ken Cross

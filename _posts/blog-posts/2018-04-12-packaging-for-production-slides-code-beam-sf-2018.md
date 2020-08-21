@@ -4,7 +4,7 @@ title: " Packaging for Production - SLIDES - Code BEAM SF 2018
 abstract: "Slides from Anthony Molinaro's talk Packaging for Production - Code BEAM SF 2018
 "
 image_url: /uploads/packaging-for-production
-speaker_id: anthony-molinaro
+speaker1: _speakers/anthony-molinaro.md
 type: article
 keywords: 
 date: 2018-04-12

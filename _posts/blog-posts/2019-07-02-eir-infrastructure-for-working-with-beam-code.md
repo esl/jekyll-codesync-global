@@ -8,7 +8,7 @@ During the presentation, two proof-of-concepts will be presented, both utilizing
 • Niffy - A tool for automatically generating NIFs from Erlang/Elixir code
 
 The talk will serve as a walkthrough of Eir and it's related projects, including where it came from, where it is right now, and where it might be headed in the future."
-speaker_id: hans-elias-b-josephsen
+speaker1: _speakers/hans-elias-b-josephsen.md
 type: video
 youtube_id: xSWxlLCfF6s
 keywords: Eir, Erlang, BEAM, compiler, Hans Elias Josephsen,

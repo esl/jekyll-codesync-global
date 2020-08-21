@@ -4,7 +4,7 @@ title: " Releases and Elixir: Envisioning a more perfect union - SLIDES - Code B
 abstract: "Slides from Paul Schoenfelder's talk Releases and Elixir: Envisioning a more perfect union - Code BEAM SF 2018
 "
 image_url: /uploads/releases-and-elixir
-speaker_id: paul-schoenfelder
+speaker1: _speakers/paul-schoenfelder.md
 type: article
 keywords: 
 date: 2018-04-24

@@ -2,7 +2,7 @@
 title: " A Tour Through the Distributed System Zoo - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: mariano-guerra
+speaker1: _speakers/mariano-guerra.md
 type: video
 youtube_id: L7OTjuCIZc0
 keywords: 

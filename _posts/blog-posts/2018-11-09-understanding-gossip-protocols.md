@@ -6,7 +6,7 @@ abstract: "In large Distributed Systems knowing the state of the whole system is
 Many distributed systems nowadays rely on Gossip protocols to share the state of the system among the nodes because they avoid these problems.
 
 A Gossip protocol is a communication protocol, a way of multicasting messages inspired by epidemics, human gossip, and social networks."
-speaker_id: felix-lopez
+speaker1: _speakers/felix-lopez.md
 type: video
 youtube_id: QQ2n1UX3Qwg
 keywords: gossip, protocols, distributed systems, nodes,

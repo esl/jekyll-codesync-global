@@ -2,7 +2,7 @@
 title: " Gleam: Lean BEAM typing machine
 "
 abstract: ""
-speaker_id: louis-pilfold
+speaker1: _speakers/louis-pilfold.md
 type: video
 youtube_id: HaKR2kt-DXI
 keywords: Strongly Typed,Gleam,Elixir language,Elixir,Erlang,BEAM VM,Louis Pilfold,Code Mesh LDN

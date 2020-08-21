@@ -4,7 +4,7 @@ title: " CQRS and Event Sourcing - SLIDES - Code BEAM SF 2018
 abstract: "Slides for the Bernardo Amorim' talk CQRS and Event Sourcing - Code BEAM SF 2018
 "
 image_url: /uploads/cqrs-and-event-sourcing
-speaker_id: bernardo-amorim
+speaker1: _speakers/bernardo-amorim.md
 type: article
 keywords: 
 date: 2018-04-19

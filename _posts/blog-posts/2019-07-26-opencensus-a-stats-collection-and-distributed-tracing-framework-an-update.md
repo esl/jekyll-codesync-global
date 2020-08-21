@@ -2,7 +2,7 @@
 title: " Opencensus: A stats collection and distributed tracing framework - an update
 "
 abstract: "In microservices architectures, it is difficult to understand how services use resources across shared infrastructure. In monolithic systems, we depend on traditional tools that report per-process resource usage and latency characteristics that are limited to a single process. In order to be able to collect and analyze resource utilization and performance characteristics of distributed systems, OpenCensus tracks resource utilization through the chain of services processing a user request."
-speaker_id: iliia-khaprov
+speaker1: _speakers/iliia-khaprov.md
 type: video
 youtube_id: pEF42-zBeXI
 keywords: opencensus, distribution, framework, BEAM VM, Iliia Khaprov,

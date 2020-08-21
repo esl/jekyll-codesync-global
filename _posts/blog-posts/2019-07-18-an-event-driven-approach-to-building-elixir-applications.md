@@ -12,8 +12,8 @@ Introduce the concept of event sourcing with a practical application in Elixir. 
 AUDIENCE
 Anyone interested in discovering how the simple concept of using domain events to capture state changes can bring tangible benefits to application development.
 "
-image_url: /uploads//images/ldn.jpg
-speaker_id: ben-smith
+image_url: /uploads/images/ldn.jpg
+speaker1: _speakers/ben-smith.md
 type: article
 keywords: Code Elixir, Elixir, applications
 date: 2019-07-18

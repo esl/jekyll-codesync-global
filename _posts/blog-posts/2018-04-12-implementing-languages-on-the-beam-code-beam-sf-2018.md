@@ -2,7 +2,7 @@
 title: " Implementing Languages on the BEAM - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: robert-virding
+speaker1: _speakers/robert-virding.md
 type: video
 youtube_id: lkAbwmn5Rv8
 keywords: 

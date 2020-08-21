@@ -2,7 +2,7 @@
 title: " Why Elixir Matters: A Genealogy of Functional Programming - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: osa-gaius
+speaker1: _speakers/osa-gaius.md
 type: video
 youtube_id: EE7-MkHwB7o
 keywords: 

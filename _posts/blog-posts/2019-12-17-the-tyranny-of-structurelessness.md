@@ -2,7 +2,7 @@
 title: " The Tyranny of Structurelessness
 "
 abstract: ""
-speaker_id: brooklyn-zelenka
+speaker1: _speakers/brooklyn-zelenka.md
 type: video
 youtube_id: JD0FJTmuV_Q
 keywords: 

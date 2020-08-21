@@ -2,7 +2,7 @@
 title: " Wide World of Actors - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: scott-lystig-fritchie56
+speaker1: _speakers/scott-lystig-fritchie56.md
 type: video
 youtube_id: uv-3ptTD8hg
 keywords: 

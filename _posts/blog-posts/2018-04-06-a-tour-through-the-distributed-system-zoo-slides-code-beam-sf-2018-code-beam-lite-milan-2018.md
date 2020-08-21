@@ -4,7 +4,7 @@ title: " A Tour Through the Distributed System Zoo - SLIDES - Code BEAM SF 2018 
 abstract: "Slides for the Mariano Guerra's talk A Tour Through the Distributed System Zoo - Code BEAM SF 2018 & Code BEAM Lite Milan 2018
 "
 image_url: /uploads/a-tour-through-distributed-system-slides
-speaker_id: mariano-guerra
+speaker1: _speakers/mariano-guerra.md
 type: article
 keywords: 
 date: 2018-04-06

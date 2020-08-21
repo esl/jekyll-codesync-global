@@ -4,7 +4,7 @@ title: " Bridging the physical and blockchain world with Erlang - SLIDES - Code 
 abstract: "Slides from Andrew Thompson's talk Bridging the physical and blockchain world with Erlang - Code BEAM SF 2018
 "
 image_url: /uploads/bridging-the-physical-and-blockchain-world-with-erlang
-speaker_id: andrew-thompson54
+speaker1: _speakers/andrew-thompson54.md
 type: article
 keywords: 
 date: 2018-04-27

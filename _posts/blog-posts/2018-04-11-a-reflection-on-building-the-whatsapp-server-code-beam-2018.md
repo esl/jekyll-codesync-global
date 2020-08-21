@@ -2,7 +2,7 @@
 title: " A Reflection on Building the WhatsApp Server - Code BEAM 2018
 "
 abstract: ""
-speaker_id: anton-lavrik
+speaker1: _speakers/anton-lavrik.md
 type: video
 youtube_id: LJx6mUEFAqQ
 keywords: 

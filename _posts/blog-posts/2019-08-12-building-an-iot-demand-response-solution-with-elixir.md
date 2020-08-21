@@ -8,7 +8,7 @@ Describe how to extract a design from the RFP.
 Show a prototype of the design.
 Describe how to test it with stateful property based testing.
 Describe how to test it with 100k mocks in AWS. Lessons learned."
-speaker_id: james-every
+speaker1: _speakers/james-every.md
 type: video
 youtube_id: zWytNNPnJUk
 keywords: IoT, CodeElixir LDN, ELixir

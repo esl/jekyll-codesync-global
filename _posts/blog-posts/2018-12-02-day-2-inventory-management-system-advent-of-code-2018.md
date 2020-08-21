@@ -4,8 +4,8 @@ title: " Day 2: Inventory Management System - Advent of Code 2018
 "
 abstract: "I did the Advent of Code 2018 day 2 challenge in Elixir! Parts one and two are as follows:
 "
-image_url: /uploads//images/Day 2.png
-speaker_id: simon-escobar-benitez
+image_url: /uploads/images/Day_2.png
+speaker1: _speakers/simon-escobar-benitez.md
 type: article
 keywords: Advent of Code, Elixir
 date: 2018-12-02

@@ -2,7 +2,7 @@
 title: " How to teach Elixir to non-functional developers
 "
 abstract: "In this talk, Leandro presents efficient ways of teaching newcomers to a programming language: how to get people interested in the language, where people usually struggle and how to overcome these challenges. This will use Elixir as the basis language but will serve as a framework to generalise to other functional languages."
-speaker_id: leandro-bighetti
+speaker1: _speakers/leandro-bighetti.md
 type: video
 youtube_id: llQmhYHzEQo
 keywords: Teaching, Elixir, Better

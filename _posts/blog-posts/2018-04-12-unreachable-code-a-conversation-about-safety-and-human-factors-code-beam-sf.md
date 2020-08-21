@@ -2,7 +2,7 @@
 title: " Unreachable Code: A Conversation about Safety and Human Factors - Code BEAM SF
 "
 abstract: ""
-speaker_id: jessica-devita
+speaker1: _speakers/jessica-devita.md
 type: video
 youtube_id: BSPVrOR85fo
 keywords: 

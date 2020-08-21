@@ -8,7 +8,7 @@ abstract: "In this talk, Duncan will:
 - present pitfalls to avoid and best practices to follow
 - evangelize OTP for cybersecurity and cyber-physical safety and 
 - demonstrate open-source on a Raspberry Pi showing how future IoT will adapt to threats in real-time."
-speaker_id: duncan-sparrell
+speaker1: _speakers/duncan-sparrell.md
 type: video
 youtube_id: ddWxBJFbuxI
 keywords: 

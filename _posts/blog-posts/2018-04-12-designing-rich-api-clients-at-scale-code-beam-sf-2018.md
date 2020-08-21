@@ -2,7 +2,7 @@
 title: " Designing Rich API Clients at Scale - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: jeff-ching
+speaker1: _speakers/jeff-ching.md
 type: video
 youtube_id: CiSNwmDj6ls
 keywords: 

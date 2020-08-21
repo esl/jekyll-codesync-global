@@ -2,7 +2,7 @@
 title: " Implementing Languages on the BEAM - Code BEAM STO 2018
 "
 abstract: ""
-speaker_id: robert-virding
+speaker1: _speakers/robert-virding.md
 type: video
 youtube_id: mN82fip5rwI
 keywords: 

@@ -5,7 +5,7 @@ title: " Do you know the answer to this Elixir Challenge?
 abstract: "Elixir has a concept of protocols which provide polymorphism on data types and structures. In our example we pipe the result of generating a MapSet into the to_list/1 function on the Enum module. Enum is a module containing functions that work on data types implementing the Enumerable protocol; examples of these are lists, maps, and ranges.
 "
 image_url: /uploads//images/ce-blog.jpg
-speaker_id: martin-gausby
+speaker1: _speakers/martin-gausby.md
 type: article
 keywords: Elixir
 date: 2019-05-08

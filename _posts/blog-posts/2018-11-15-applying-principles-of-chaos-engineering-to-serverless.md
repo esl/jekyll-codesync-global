@@ -2,7 +2,7 @@
 title: " Applying principles of chaos engineering to serverless
 "
 abstract: "Chaos engineering is a discipline that focuses on improving system resilience through experiments that expose the inherent chaos and failure modes in our system, in a controlled fashion, before these failure modes manifest themselves like a wild fire in production and impact our users."
-speaker_id: yan-cui
+speaker1: _speakers/yan-cui.md
 type: video
 youtube_id: BDZomS_svEs
 keywords: serverless, chaos engineering, architecture, system resilience,

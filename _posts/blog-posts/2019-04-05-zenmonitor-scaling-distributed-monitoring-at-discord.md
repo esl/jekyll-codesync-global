@@ -2,7 +2,7 @@
 title: " ZenMonitor: Scaling Distributed Monitoring at Discord
 "
 abstract: "Learn about ZenMonitor a new library developed at Discord which acts as a highly scalable drop-in replacement for process monitoring that reduces network traffic, improves reliability, and retains the core guarantees of BEAM."
-speaker_id: matthew-nowack
+speaker1: _speakers/matthew-nowack.md
 type: video
 youtube_id: P89N1YJBjpA
 keywords: ZenMonitor, Scaling, Distributed, Monitoring, Discord

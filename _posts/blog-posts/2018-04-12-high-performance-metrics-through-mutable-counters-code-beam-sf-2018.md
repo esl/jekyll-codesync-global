@@ -2,7 +2,7 @@
 title: " High Performance Metrics Through Mutable Counters - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: irina-guberman
+speaker1: _speakers/irina-guberman.md
 type: video
 youtube_id: peKLuq-tdQo
 keywords: 

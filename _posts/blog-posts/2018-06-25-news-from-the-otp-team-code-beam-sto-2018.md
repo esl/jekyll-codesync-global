@@ -2,7 +2,7 @@
 title: " News from the OTP team - Code BEAM STO 2018
 "
 abstract: ""
-speaker_id: kenneth-lundin
+speaker1: _speakers/kenneth-lundin.md
 type: video
 youtube_id: 5T9aqVGNK6c
 keywords: 

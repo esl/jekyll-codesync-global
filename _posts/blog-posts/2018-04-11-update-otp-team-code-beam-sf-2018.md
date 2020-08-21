@@ -2,7 +2,7 @@
 title: " Update OTP Team - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: raimo-niskanen
+speaker1: _speakers/raimo-niskanen.md
 type: video
 youtube_id: hHhm0bfdj-4
 keywords: 

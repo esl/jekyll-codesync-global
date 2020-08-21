@@ -8,7 +8,7 @@ abstract: "Would you bet your career and your company's reputation on a technolo
 · what we learned along the way
 · how it performed
 · and would we do it again"
-speaker_id: keith-elder
+speaker1: _speakers/keith-elder.md
 type: video
 youtube_id: lXiiiLhwBI4
 keywords: Super Bowl, Scalability, Erlang

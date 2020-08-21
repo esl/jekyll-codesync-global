@@ -6,7 +6,7 @@ abstract: "Reinforcement learning (RL) is becoming a successful strategy for sol
 Some challenges of RL include deployment on intrinsically distributed and concurrent physical devices where Elixir naturally stands out and offers additional benefits for boosting RL on real-world applications. 
 
 In this talk, a framework (Gyx) for defining, solving and deploying Reinforcement Learning  problems in Elixir is presented."
-speaker_id: ricardo-corral-corral302
+speaker1: _speakers/ricardo-corral-corral302.md
 type: video
 youtube_id: n0X61Ad8Ofo
 keywords: Machine Learning,Robotics,Artificial Intelligence

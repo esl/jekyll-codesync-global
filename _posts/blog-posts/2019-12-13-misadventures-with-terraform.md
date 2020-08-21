@@ -2,7 +2,7 @@
 title: " Misadventures with Terraform
 "
 abstract: "A brief tour of real life experiences where things went wrong, but useful lessons were learned."
-speaker_id: matthew-revell
+speaker1: _speakers/matthew-revell.md
 type: video
 youtube_id: 4oFAr9SyB4k
 keywords: Terraform,Cloud,Code Mesh LDN,Matthew Revell

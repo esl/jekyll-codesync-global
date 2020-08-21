@@ -4,8 +4,8 @@ title: " Day 14: Chocolate Charts - Advent of Code 2018
 "
 abstract: "I did the Advent of Code 2018 day 14 challenge in Erlang! Parts one and two are as follows:
 "
-image_url: /uploads//images/Day 14.png
-speaker_id: stavros-aronis
+image_url: /uploads/images/Day_14.png
+speaker1: _speakers/stavros-aronis.md
 type: article
 keywords: Advent of Code, Erlang
 date: 2018-12-14

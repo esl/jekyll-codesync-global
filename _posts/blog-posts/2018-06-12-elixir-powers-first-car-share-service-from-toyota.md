@@ -7,7 +7,7 @@ abstract: "Toyota has just launched its first global car sharing platform, opera
 Toyota Connected and Servco developed the service together as one of the first public applications of MSPF, the core ecosystem for leveraging the potential of connected vehicle systems to support the development of new mobility businesses – such as car-sharing, ride-sharing and remote delivery.
 "
 image_url: /uploads//images/CODE-ELIXIR-header.jpg
-speaker_id: powell-kinney
+speaker1: _speakers/powell-kinney.md
 type: article
 keywords: 
 date: 2018-06-12
