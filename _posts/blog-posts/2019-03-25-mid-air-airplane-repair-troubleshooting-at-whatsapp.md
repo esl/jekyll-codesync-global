@@ -2,7 +2,7 @@
 title: " Mid-air airplane repair: troubleshooting at WhatsApp
 "
 abstract: "This talk will guide through debugging and troubleshooting techniques used at WhatsApp. Maxim will share a few case studies, explain monitoring, introspection, performance analysis, and tools."
-speaker_id: maxim-fedorov
+speaker1: _speakers/maxim-fedorov.md
 type: video
 youtube_id: xi-ixFPjNpc
 keywords: 

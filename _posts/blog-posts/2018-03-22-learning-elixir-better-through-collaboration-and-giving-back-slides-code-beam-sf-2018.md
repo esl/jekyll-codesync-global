@@ -4,7 +4,7 @@ title: " Learning Elixir Better Through Collaboration and Giving Back - SLIDES -
 abstract: "Slides from Mohnish Jadwani's talk at Code BEAM SF 2018 - Learning Elixir Better Through Collaboration and Giving Back.
 "
 image_url: /uploads/mohnish-jadwani-learning-elixir-better-through-collaboration-and-giving-back
-speaker_id: mohnish-jadwani
+speaker1: _speakers/mohnish-jadwani.md
 type: article
 keywords: 
 date: 2018-03-22

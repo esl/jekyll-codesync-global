@@ -7,7 +7,7 @@ Science itself has a reproducibility problem, but it’s worse in most companies
 There is a useful subset of data pipelines, let's call them “pure”, that only depend on the data flowing through them. For pure pipelines we can use techniques from distributed build systems to allow us to know what code was used for each step, not lose any previous results as we improve our algorithms and avoid repeating work that has been done already.
 
 This talk contains interesting theory but is resolutely practical and with concrete examples in several languages and distributed computation frameworks."
-speaker_id: tom-hall
+speaker1: _speakers/tom-hall.md
 type: video
 youtube_id: MZFJJBh9Da0
 keywords: Data Science,Data Pipelines,Tom Hall,Code Mesh LDN,Programming languages

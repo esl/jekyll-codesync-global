@@ -4,7 +4,7 @@ title: " Keynote: The Forgotten Ideas in Computer Science - SLIDES - Code BEAM S
 abstract: "Slides for the Joe Armstrong's talk The Forgotten Ideas in Computer Science - Code BEAM SF 2018
 "
 image_url: /uploads/the-forgotten-ideas-slides
-speaker_id: joe-armstrong
+speaker1: _speakers/joe-armstrong.md
 type: article
 keywords: 
 date: 2018-04-04

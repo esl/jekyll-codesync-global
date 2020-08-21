@@ -4,7 +4,7 @@ title: " Metaprogramming: Programs that Write Programs - SLIDES - Code BEAM SF 2
 abstract: "Slides from Jay Hayes's talk Metaprogramming: Programs that Write Programs - Code BEAM SF 2018
 "
 image_url: /uploads/metaprogramming-programs-that-write-programs
-speaker_id: jay-hayes
+speaker1: _speakers/jay-hayes.md
 type: article
 keywords: 
 date: 2018-04-24

@@ -6,7 +6,7 @@ It will for example cover :
 - the advantages with implementing the protocol in Erlang
 - parts that should not be implemented in Erlang (the actual crypto algorithms)
 - new features and optimizations in the OTP ssl implementation."
-speaker_id: ingela-anderton-andin
+speaker1: _speakers/ingela-anderton-andin.md
 type: video
 youtube_id: dR5Gn7dI9vo
 keywords: Security, interoperability, OTP, Erlang,

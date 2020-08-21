@@ -4,7 +4,7 @@ title: " SOLID Elixir - SLIDES - Code BEAM Lite Milan 2018
 abstract: "Slides for the Georgina Fadyen's talk SOLID Elixir - Code BEAM Lite Milan 2018
 "
 image_url: /uploads/solid-elixir
-speaker_id: georgina-mcfadyen
+speaker1: _speakers/georgina-mcfadyen.md
 type: article
 keywords: 
 date: 2018-04-19

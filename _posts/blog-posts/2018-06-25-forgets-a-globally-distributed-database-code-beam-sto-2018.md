@@ -2,7 +2,7 @@
 title: " ForgETS: a globally distributed database - Code BEAM STO 2018
 "
 abstract: ""
-speaker_id: mikhail-vorontsov
+speaker1: _speakers/mikhail-vorontsov.md
 type: video
 youtube_id: kHzmrWD7iEY
 keywords: 

@@ -2,7 +2,7 @@
 title: " Diffing Hex packages
 "
 abstract: "The tech industry is extremely dependent on open source packages. But every dependency you rely on is also a vulnerability. Multiple high profile packages across platforms have been hijacked and modified with malicious code. This talk is about the value of auditing dependency updates and the tooling to make it less of a chore, including the introduction of a web-based diffing app and other tooling that helps you create an effortless auditing process."
-speaker_id: johanna-larsson
+speaker1: _speakers/johanna-larsson.md
 type: video
 youtube_id: idef8OJHjRA
 keywords: Hex, Johanna Larsson, Tools, Erlang, Elixir, Diffing, Package, Code BEAM SF,

@@ -2,7 +2,7 @@
 title: " ErlangRT, a BEAM VM reimplementation in Rust
 "
 abstract: "The time is long overdue to rewrite the technology, which we all use, in a safe and strongly typed language, such as Rust. Started with a small mailing list discussion in September 2017, the implementation is marching towards having a working Erlang shell and running Common Test suites from Erlang OTP source."
-speaker_id: dmytro-lytovchenko
+speaker1: _speakers/dmytro-lytovchenko.md
 type: video
 youtube_id: e7T6p8ynVuM
 keywords: ErlangRT,BEAM VM,Erlang VM,Rust

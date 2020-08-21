@@ -2,7 +2,7 @@
 title: " Think in Erlang!
 "
 abstract: ""
-speaker_id: viktoria-foerdos
+speaker1: _speakers/viktoria-foerdos.md
 type: video
 youtube_id: bYkOsQU2ywM
 keywords: 

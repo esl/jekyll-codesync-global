@@ -10,7 +10,7 @@ abstract: "One-size-fits-all solutions come at a price. In this talk, I present 
  - Buildah, for building containers
  
  - Skopeo, for distributing container images"
-speaker_id: valentin-rothberg
+speaker1: _speakers/valentin-rothberg.md
 type: video
 youtube_id: 15WkRuOxIrs
 keywords: Containers,Kubernetes,Podman,Buildah,Skopeo,Valentin Rothberg,Code Mesh LDN

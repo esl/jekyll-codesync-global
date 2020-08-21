@@ -12,7 +12,7 @@ Cardano is a recently released blockchain cryptocurrency system developed by IOH
    * Bridging the gap between research and products;
    * Building a larger Haskell development team and training;
    * What has gone well, and what has gone badly, and lessons we can learn."
-speaker_id: duncan-coutts
+speaker1: _speakers/duncan-coutts.md
 type: video
 youtube_id: -oPs2dugnQc
 keywords: crypotcurrency, development, haskell, Duncan Coutts, Cardano

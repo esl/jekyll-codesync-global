@@ -2,7 +2,7 @@
 title: " Arduino, Elixir And Nerves: A Deep Dive Into... - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: christopher-cote
+speaker1: _speakers/christopher-cote.md
 type: video
 youtube_id: sTOOjfUrQ0A
 keywords: 

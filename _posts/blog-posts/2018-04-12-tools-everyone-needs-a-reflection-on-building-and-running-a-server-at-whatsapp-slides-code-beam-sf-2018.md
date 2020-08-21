@@ -4,7 +4,7 @@ title: " Tools everyone needs - a reflection on building and running a server at
 abstract: "Slides from Anton Lavrik's talk Tools everyone needs - a reflection on building and running a server at WhatsApp - Code BEAM SF 2018
 "
 image_url: /uploads/tools-everyone-needs
-speaker_id: anton-lavrik
+speaker1: _speakers/anton-lavrik.md
 type: article
 keywords: 
 date: 2018-04-12

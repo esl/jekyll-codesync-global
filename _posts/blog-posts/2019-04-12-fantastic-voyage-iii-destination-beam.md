@@ -2,7 +2,7 @@
 title: " Fantastic Voyage III: Destination BEAM
 "
 abstract: "In this talk, we'll go deeper, discussing the concrete implementation of core Erlang concepts as reflected in the BEAM: the message process queue, the layout of a process and the structure the BEAM uses to associate names and PIDs."
-speaker_id: brian-troutwine
+speaker1: _speakers/brian-troutwine.md
 type: video
 youtube_id: Cri3Qqy4ptM
 keywords: 

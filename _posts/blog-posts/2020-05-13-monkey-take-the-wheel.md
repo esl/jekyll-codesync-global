@@ -2,7 +2,7 @@
 title: " Monkey, take the wheel
 "
 abstract: ""
-speaker_id: dmytro-lytovchenko
+speaker1: _speakers/dmytro-lytovchenko.md
 type: video
 youtube_id: 12tQzMMBz1U
 keywords: 

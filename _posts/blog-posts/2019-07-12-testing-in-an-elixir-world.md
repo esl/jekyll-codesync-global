@@ -2,7 +2,7 @@
 title: " Testing in an Elixir world
 "
 abstract: "In this talk, will share fundamental knowledge about tests with Elixir. Through examples, explore how can we bring specifications, clarity, and better practices to be more self-confident while coding."
-speaker_id: rafael-rocha
+speaker1: _speakers/rafael-rocha.md
 type: video
 youtube_id: M8rv-gvTG-M
 keywords: Testing, Elixir, specification,

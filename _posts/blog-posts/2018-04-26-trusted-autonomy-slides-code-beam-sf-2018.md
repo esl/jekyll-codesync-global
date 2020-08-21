@@ -4,7 +4,7 @@ title: " Trusted Autonomy - SLIDES - Code BEAM SF 2018
 abstract: "Slides from Ben Marx' talk Trusted Autonomy - Code BEAM SF 2018
 "
 image_url: /uploads/trusted-autonomy
-speaker_id: ben-marx
+speaker1: _speakers/ben-marx.md
 type: article
 keywords: 
 date: 2018-04-26

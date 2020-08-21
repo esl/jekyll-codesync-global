@@ -2,7 +2,7 @@
 title: " Gently Down the Stream - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: geoffrey-lessel
+speaker1: _speakers/geoffrey-lessel.md
 type: video
 youtube_id: 1e6ktNUQuGs
 keywords: 

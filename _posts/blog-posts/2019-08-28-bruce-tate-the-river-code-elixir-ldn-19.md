@@ -2,7 +2,7 @@
 title: " Bruce Tate | The River | Code Elixir LDN 19
 "
 abstract: ""
-speaker_id: bruce-tate
+speaker1: _speakers/bruce-tate.md
 type: video
 youtube_id: BAvUN36lT5c
 keywords: Code Elixir LDN, Elixir

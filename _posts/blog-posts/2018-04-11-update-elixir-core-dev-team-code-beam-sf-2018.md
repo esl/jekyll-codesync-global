@@ -2,7 +2,7 @@
 title: " Update Elixir Core Dev Team - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: james-fish
+speaker1: _speakers/james-fish.md
 type: video
 youtube_id: l4ISqxmZQtE
 keywords: 

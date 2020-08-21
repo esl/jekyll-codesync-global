@@ -4,8 +4,8 @@ title: " Day 6: Chronal Coordinates - Advent of Code 2018
 "
 abstract: "I did the Advent of Code 2018 day 6 challenge in Elixir! Parts one and two are as follows:
 "
-image_url: /uploads//images/Day 6.png
-speaker_id: simon-escobar-benitez
+image_url: /uploads/images/Day_6.png
+speaker1: _speakers/simon-escobar-benitez.md
 type: article
 keywords: Advent of Code, Elixir
 date: 2018-12-06

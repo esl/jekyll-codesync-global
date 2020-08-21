@@ -17,7 +17,7 @@ TALK LEVEL: Intermediate
 
 ABSTRACT
 After nearly a decade of writing our software in Erlang, our codebases have started getting unwieldy despite our best efforts to manage this through other disciplinary methods. (That and dialyzer, but there are limits!)"
-speaker_id: rob-ashton
+speaker1: _speakers/rob-ashton.md
 type: video
 youtube_id: Lkh8nNwAEHA
 keywords: Purescript,Erlang OTP,Rob Ashton,Code Mesh LDN,Programming languages,Purerl

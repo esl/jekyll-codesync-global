@@ -4,7 +4,7 @@ title: " gen_statem - SLIDES - Code BEAM SF 2018
 abstract: "Slides from Raimo Niskanen's talk gen_statem - The tool you never knew that you always wanted - Code BEAM SF 2018
 "
 image_url: /uploads/gen-statem
-speaker_id: raimo-niskanen
+speaker1: _speakers/raimo-niskanen.md
 type: article
 keywords: 
 date: 2018-04-24

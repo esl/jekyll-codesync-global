@@ -8,7 +8,7 @@ Introduce Ra
 Explain Ra's design decisions
 Outline how Ra integrates with RabbitMQ
 Explain how Ra is used"
-speaker_id: karl-nilsson
+speaker1: _speakers/karl-nilsson.md
 type: video
 youtube_id: 7NNjjTrBZtw
 keywords: 

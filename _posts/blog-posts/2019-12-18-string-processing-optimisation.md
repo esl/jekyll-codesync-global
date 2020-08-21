@@ -2,7 +2,7 @@
 title: " String processing optimisation
 "
 abstract: ""
-speaker_id: johanna-larsson
+speaker1: _speakers/johanna-larsson.md
 type: video
 youtube_id: xmfXptibglQ
 keywords: 

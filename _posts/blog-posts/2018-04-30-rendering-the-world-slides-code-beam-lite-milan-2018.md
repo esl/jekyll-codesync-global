@@ -4,7 +4,7 @@ title: " Rendering the World - SLIDES - Code BEAM Lite Milan 2018
 abstract: "Slides for the Aaron Seigo's talk Rendering the World: 3D Reconstruction at Global Scale On the BEAM - Code BEAM Lite Milan 2018
 "
 image_url: /uploads/rendering-the-world
-speaker_id: aaron-seigo
+speaker1: _speakers/aaron-seigo.md
 type: article
 keywords: 
 date: 2018-04-30

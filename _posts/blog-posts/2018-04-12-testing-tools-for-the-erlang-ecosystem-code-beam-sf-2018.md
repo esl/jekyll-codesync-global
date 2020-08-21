@@ -2,7 +2,7 @@
 title: " Testing Tools for the Erlang Ecosystem - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: kostis-sagonas1
+speaker1: _speakers/kostis-sagonas1.md
 type: video
 youtube_id: 4-vJeCmkCZE
 keywords: 

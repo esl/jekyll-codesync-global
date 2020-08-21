@@ -2,7 +2,7 @@
 title: " Keynote - Confident Elixir
 "
 abstract: ""
-speaker_id: tetiana-dushenkivska
+speaker1: _speakers/tetiana-dushenkivska.md
 type: video
 youtube_id: c0KNKbrd9A4
 keywords: 

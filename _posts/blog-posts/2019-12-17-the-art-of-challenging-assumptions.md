@@ -5,7 +5,7 @@ abstract: "We spent countless hours and sleepless nights bringing and keeping up
 Because we acted on assumptions. 
 
 This talk will guide through a number of war stories where assumptions were made and acted on. There were regrets and disappointments, and we learned to challenge assumptions in the hard way. Now it's time to share what we learnt so far."
-speaker_id: maxim-fedorov
+speaker1: _speakers/maxim-fedorov.md
 type: video
 youtube_id: 216NV-odxnE
 keywords: Server side,Deploy,Programming,Maxim Fedorov,Code Mesh LDN,WhatsApp

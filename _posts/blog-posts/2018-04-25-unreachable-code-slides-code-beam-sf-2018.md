@@ -4,7 +4,7 @@ title: " Unreachable Code - SLIDES - Code BEAM SF 2018
 abstract: "Slides from Jessica DeVita's keynote talk Unreachable Code - A Conversation about Safety and Human Factors - Code BEAM SF 2018
 "
 image_url: /uploads/unreachable-code
-speaker_id: jessica-devita
+speaker1: _speakers/jessica-devita.md
 type: article
 keywords: 
 date: 2018-04-25

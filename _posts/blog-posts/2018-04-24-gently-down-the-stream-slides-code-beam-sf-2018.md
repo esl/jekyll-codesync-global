@@ -4,7 +4,7 @@ title: " Gently Down the Stream - SLIDES - Code BEAM SF 2018
 abstract: "Slides from Geoffrey Lessel's talk Gently Down the Stream - Code BEAM SF 2018
 "
 image_url: /uploads/gently-down-the-stream
-speaker_id: geoffrey-lessel
+speaker1: _speakers/geoffrey-lessel.md
 type: article
 keywords: 
 date: 2018-04-24

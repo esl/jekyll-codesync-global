@@ -2,7 +2,7 @@
 title: " Fighting Authoritarianism With Blockchain And Blockweaves
 "
 abstract: ""
-speaker_id: sam-williams
+speaker1: _speakers/sam-williams.md
 type: video
 youtube_id: hd8IQRm0Q1k
 keywords: 

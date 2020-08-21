@@ -2,7 +2,7 @@
 title: " XMPP/UDP Realtime service bus
 "
 abstract: ""
-speaker_id: thiago-rocha-camargo
+speaker1: _speakers/thiago-rocha-camargo.md
 type: video
 youtube_id: UVwtgBEfcAs
 keywords: XMPP,UDP,Server,Message bus

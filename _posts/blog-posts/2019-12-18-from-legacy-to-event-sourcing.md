@@ -2,7 +2,7 @@
 title: " From Legacy To Event Sourcing
 "
 abstract: ""
-speaker_id: ian-luites
+speaker1: _speakers/ian-luites.md
 type: video
 youtube_id: 719lAP5fzFk
 keywords: 

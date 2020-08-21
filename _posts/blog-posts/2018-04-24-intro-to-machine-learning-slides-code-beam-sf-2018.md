@@ -4,7 +4,7 @@ title: " Intro to Machine Learning - SLIDES - Code BEAM SF 2018
 abstract: "Slides from Jesse J. Anderson's talk Intro to Machine Learning - Code BEAM SF 2018
 "
 image_url: /uploads/intro-to-machine-learning
-speaker_id: jesse-j-anderson
+speaker1: _speakers/jesse-j-anderson.md
 type: article
 keywords: 
 date: 2018-04-24

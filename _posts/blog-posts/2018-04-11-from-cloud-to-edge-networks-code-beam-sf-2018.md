@@ -2,7 +2,7 @@
 title: " From Cloud to Edge Networks - Code BEAM SF 2018
 "
 abstract: ""
-speaker_id: sebastien-merle
+speaker1: _speakers/sebastien-merle.md
 type: video
 youtube_id: Iq-9eOijX2s
 keywords: 

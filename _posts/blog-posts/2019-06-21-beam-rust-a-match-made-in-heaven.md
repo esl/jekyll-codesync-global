@@ -2,7 +2,7 @@
 title: " BEAM + Rust: A match made in heaven
 "
 abstract: "In this talk, Sonny will introduce you to Rust - a systems programming language that aims to empower everyone to build reliable and efficient software and the various methods we can use to integrate with it from the BEAM."
-speaker_id: sonny-scroggin
+speaker1: _speakers/sonny-scroggin.md
 type: video
 youtube_id: xe32ku9s14k
 keywords: BEAM, Erlang, Elixir, Rust, Sonny Scroggin

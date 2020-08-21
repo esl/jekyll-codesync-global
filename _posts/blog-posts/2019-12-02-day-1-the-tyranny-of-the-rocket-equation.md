@@ -4,8 +4,8 @@ title: " Day 1: The Tyranny of the Rocket Equation
 "
 abstract: "Day 1: The Tyranny of the Rocket Equation
 "
-image_url: /uploads//images/DAY 01.png
-speaker_id: stavros-aronis
+image_url: /uploads/images/DAY_01.png
+speaker1: _speakers/stavros-aronis.md
 type: article
 keywords: Advent of Code, Erlang
 date: 2019-12-02

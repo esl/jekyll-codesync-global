@@ -2,7 +2,7 @@
 title: " KAZOO the VOIP cloud platform: A retrospective
 "
 abstract: "KAZOO has, over the last 10 years, grown to almost 300K lines of Erlang, plus C-node code in the FreeSWITCH and custom code in the Kamailio project."
-speaker_id: james-aimonetti
+speaker1: _speakers/james-aimonetti.md
 type: video
 youtube_id: vhtnijlfkjY
 keywords: 
