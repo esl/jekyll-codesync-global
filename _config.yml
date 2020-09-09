@@ -24,7 +24,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-commonmark
-  - jekyll-include-cache
+  # - jekyll-include-cache
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -137,6 +137,6 @@ map-lat: xxxxxx
 map-lng: xxxxxx
 
 # Incremental regeneration helps shorten build times
-incremental: true
+# incremental: true
 
 
