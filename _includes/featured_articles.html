@@ -9,7 +9,7 @@
                     {% if post.type == 'article' %}
                         <div class="col-4 t-col-12 t-mt-40 article__box" data-type="article">
                             <h3 class="heading heading--normal">
-                                <a class="heading heading--normal heading--roboto article__title" href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}
+                                <a class="heading heading--normal heading--roboto article__title" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}
                                 </a>
                             </h3>
                             <picture>
@@ -17,7 +17,7 @@
                             </picture>
                             <div class="article__desc">
                                 <p class="paragraph">{{ post.excerpt }}</p>
-                                <a href="{{site.baseurl}}/{{ post.url }}">READ MORE</a>
+                                <a href="{{site.baseurl}}{{ post.url }}">READ MORE</a>
                             </div>
                             <div class="hashtags">
                                 <ul></ul>
@@ -27,7 +27,7 @@
 
                     {% if post.type == 'video' %}
                         <div class="video__container col-4 t-col-6 m-col-12" data-type="video">
-                            <a class="video__stream lazy" data-bg="url('https://i.ytimg.com/vi/{{post.youtube_id}}/hqdefault.jpg')" href="{{site.baseurl}}/{{ post.url }}" style="display:block;">
+                            <a class="video__stream lazy" data-bg="url('https://i.ytimg.com/vi/{{post.youtube_id}}/hqdefault.jpg')" href="{{site.baseurl}}{{ post.url }}" style="display:block;">
                                 <div class="plyr__play-large">
                                     <svg height="100%" viewbox="0 0 18 18" width="100%">
                                         <path d="M15.562 8.1L3.87.225C3.052-.337 2 .225 2 1.125v15.75c0 .9 1.052 1.462 1.87.9L15.563 9.9c.584-.45.584-1.35 0-1.8z"></path>
@@ -36,7 +36,7 @@
                             </a>
                             <div class="video__desc">
                                 <h3 class="heading heading--normal heading--roboto video__title">
-                                    <a href="{{site.baseurl}}/{{ post.url }}">
+                                    <a href="{{site.baseurl}}{{ post.url }}">
                                         {{ post.title }}</a>
 
                                     <span>///</span>

@@ -23,6 +23,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-commonmark
+  # - jekyll-include-cache
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -39,7 +41,11 @@ paginate_path: "/media/page:num/"
 
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
++ markdown: CommonMark
++ commonmark:
++   options: ["SMART", "FOOTNOTES"]
++   extensions: ["strikethrough", "autolink", "table"]
 permalink: pretty
 
 collections:
@@ -129,5 +135,8 @@ map-text: xxxxxx
 map-text-location: xxxxxx
 map-lat: xxxxxx
 map-lng: xxxxxx
+
+# Incremental regeneration helps shorten build times
+# incremental: true
 
 

@@ -1,17 +1,17 @@
-
 ---
 title: " Day 9: Marble Mania - Advent of Code 2018
 "
 abstract: "I did the Advent of Code 2018 day 9 challenge in Erlang! Parts one and two are as follows:
 "
-image_url: /uploads/images/Day_9.png
+image_url: /uploads/Day_9.png
 speaker1: _speakers/stavros-aronis.md
 type: article
 keywords: Advent of Code, Erlang
 date: 2018-12-09
 tags: Erlang,Advent of Code
 ---
-I did the Advent of Code 2018&nbsp;<a href="https://adventofcode.com/2018/day/9">day 9 challenge</a>&nbsp;in Erlang! Parts one and two are as follows:
+
+<!-- I did the Advent of Code 2018&nbsp;<a href="https://adventofcode.com/2018/day/9">day 9 challenge</a>&nbsp;in Erlang! Parts one and two are as follows:
 
 <pre>
 <code class="language-erlang">#!/usr/bin/env escript
@@ -78,4 +78,4 @@ rem_rotate_neg7({Front, Back}) -&gt;
   end.
  </code></pre>
 
-&nbsp;
+&nbsp; -->
