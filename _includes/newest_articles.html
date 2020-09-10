@@ -16,7 +16,10 @@
                             </a>
                         </h3>
                         <picture>
-                            <img alt="{{ post.title }}" class="tile__logo lazy" data-src="{{site.baseurl}}{{ post.image_url}}">
+                            {% if post.image_url %}
+                                <img alt="{{ post.title }}" class="tile__logo lazy" data-src="{{site.baseurl}}{{ post.image_url}}">
+                                {% else %}
+                            {% endif %}
                         </picture>
                         <div class="article__desc">
                             <p class="paragraph">{{ post.excerpt }}</p>
@@ -40,8 +43,8 @@
                         <div class="video__desc">
                             <h3 class="heading heading--normal heading--roboto video__title">
                                 <a href="{{site.baseurl}}{{ post.url }}">
-                                    {{ post.title }}</a>
-
+                                    {{ post.title }}
+                                </a>
                                 <span>///</span>
                                 {% for speaker in site.speakers %}
                                     {%if speaker.path == post.speaker1 or speaker.path == post.speaker2 or speaker.path == post.speaker3 %}
