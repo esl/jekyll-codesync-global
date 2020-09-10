@@ -19,7 +19,10 @@
                                 </a>
                             </h3>
                             <picture>
-                                <img alt="{{ post.title }}" class="tile__logo lazy" data-src="{{site.baseurl}}{{ post.image_url}}">
+                                {% if post.image_url %}
+                                    <img alt="{{ post.title }}" class="tile__logo lazy" data-src="{{site.baseurl}}{{ post.image_url}}">
+                                    {% else %}
+                                {% endif %}
                             </picture>
                             <div class="article__desc">
                                 <p class="paragraph">{{ post.excerpt }}</p>
