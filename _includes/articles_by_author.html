@@ -38,7 +38,7 @@
                                             <div>
                                                 Article by
                                                 {% for speaker in site.speakers %}
-                                                    {%if speaker.path == post.speaker1 or speaker.path == post.speaker2 or speaker.path == post.speaker3 %}
+                                                    {%if speaker.path == post_speaker %}
                                                         <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
                                                             {{speaker.lastname}}
                                                         </a>
