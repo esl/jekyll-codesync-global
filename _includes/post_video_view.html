@@ -42,20 +42,23 @@
                 </div>
                 <div class="col-6">
                     {% for speaker in site.speakers %}
-                        {%if speaker.path == page.speaker1 or speaker.path == page.speaker2 or speaker.path == page.speaker3 %}
-                            <div class="speaker-img">
-                                <picture>
-                                    <img alt="{{speaker.name}}{{speaker.lastname}}" class="lazy" data-src="{{site.baseurl}}{{speaker.image_url}}">
-                                </picture>
-                            </div>
-                            <div class="col-8 m-col-12">
-                                <h3 class="heading heading--small medium mt--20 underline">
-                                    <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
-                                        {{speaker.lastname}}
-                                    </a>
-                                </h3>
-                            </div>
-                        {% endif %}
+                        {% for post_speaker in page.speakers %}
+                            {%if speaker.path == post_speaker %}
+                                <div class="speaker-img">
+                                    <picture>
+                                        <img alt="{{speaker.name}}{{speaker.lastname}}" class="lazy" data-src="{{site.baseurl}}{{speaker.pic_url}}">
+                                    </picture>
+                                </div>
+                                <div class="col-8 m-col-12">
+                                    <h3 class="heading heading--small medium mt--20 underline">
+                                        <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
+                                            {{speaker.lastname}}
+                                        </a>
+                                    </h3>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+
                     {% endfor %}
                 </div>
             </div>
