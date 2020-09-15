@@ -6,7 +6,7 @@
                 {% assign sorted = site.posts | sort: "relevance" | where: 'type', 'video' %}
                 {% for post in sorted %}
                     <div class="video__container col-4 t-col-6 m-col-12" data-type="video">
-                        <a class="video__stream lazy" data-bg="url('{{ post.background_image }}')" href="{{site.baseurl}}{{ post.url }}" style="display:block;">
+                        <a class="video__stream lazy" data-bg="url('https://i.ytimg.com/vi/{{post.youtube_id}}/hqdefault.jpg')" href="{{site.baseurl}}{{ post.url }}" href="{{site.baseurl}}{{ post.url }}" style="display:block;">
                             <div class="plyr__play-large">
                                 <svg height="100%" viewbox="0 0 18 18" width="100%">
                                     <path d="M15.562 8.1L3.87.225C3.052-.337 2 .225 2 1.125v15.75c0 .9 1.052 1.462 1.87.9L15.563 9.9c.584-.45.584-1.35 0-1.8z"></path>
@@ -19,11 +19,13 @@
 
                                 <span>///</span>
                                 {% for speaker in site.speakers %}
-                                    {%if speaker.path == post.speaker1 or speaker.path == post.speaker2 or speaker.path == post.speaker3 %}
-                                        <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
-                                            {{speaker.lastname}}
-                                        </a>
-                                    {% endif %}
+                                    {% for post_speaker in post.speakers %}
+                                        {% if speaker.path == post_speaker %}
+                                            <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
+                                                {{speaker.lastname}}
+                                            </a>
+                                        {% endif %}
+                                    {% endfor %}
                                 {% endfor %}
                             </h3>
                             <div class="hashtags">

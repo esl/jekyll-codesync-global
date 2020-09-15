@@ -5,11 +5,13 @@
             <h1 class="heading heading--article">{{ page.title }}</h1>
             <div class="flexbox mt--50">
                 {% for speaker in site.speakers %}
-                    {%if speaker.path == page.speaker1 or speaker.path == page.speaker2 or speaker.path == page.speaker3 %}
-                        <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
-                            {{speaker.lastname}}
-                        </a>
-                    {% endif %}
+                    {% for post_speaker in page.speakers %}
+                        {%if speaker.path == post_speaker %}
+                            <a class="heading heading--medium link" href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
+                                {{speaker.lastname}}
+                            </a>
+                        {% endif %}
+                    {% endfor %}
                 {% endfor %}
                 <span class="date heading heading--medium bold m-mt-40">{{ page.date }}</span>
             </div>

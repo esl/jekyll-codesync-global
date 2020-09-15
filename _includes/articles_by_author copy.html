@@ -1,0 +1,78 @@
+{% assign sorted = site.posts | sort: "relevance" | where: 'type', 'article' %}
+{% for post in sorted %}
+    {% if page.speaker1 != null or page.speaker2 != null or page.speaker3 != null %}
+        {% if post.speaker1 != null or post.speaker2 != null or post.speaker3 != null %}
+            {% capture post_count %}
+                {{ post_count | plus: 1 }}
+            {% endcapture %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+{% if post_count | plus: 1 > 0 %}
+    <section class="media vp--50 m-vp-30 section-container">
+        <div class="container--small">
+            <div class="grid-gap-100">
+                <h2 class="heading heading--big1 mb--50 m-mb-20">ARTICLES:
+                    <span>{{ post_count }}</span>
+                </h2>
+                <div class="row row__articles" id="macy-container">
+                    {% for post in sorted %}
+                        {% if page.speaker1 != null or page.speaker2 != null or page.speaker3 != null %}
+                            {% if post.speaker1 != null and post.speaker1 == page.speaker1 or post.speaker2 != null and post.speaker1 == page.speaker2 or post.speaker3 != null and post.speaker1 == page.speaker3 %}
+                                <div class="col-4 t-col-12 t-mt-40 article__box" data-type="article">
+
+                                    <h3 class="heading heading--normal">
+                                        <a class="heading heading--normal heading--roboto article__title" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+                                    </h3>
+                                    <picture>
+                                        {% if post.image_url %}
+                                            <img alt="{{ post.title }}" class="tile__logo lazy" data-src="{{site.baseurl}}{{ post.image_url }}">
+                                            {% else %}
+                                        {% endif %}
+                                    </picture>
+                                    <div class="article__desc">
+                                        <div>
+                                            Article by
+                                            {% for speaker in site.speakers %}
+                                                {%if speaker.path == post.speaker1 or speaker.path == post.speaker2 or speaker.path == post.speaker3 %}
+                                                    <a href="{{site.baseurl}}/speakers/{{ speaker.path | remove: "_speakers/" | split: "." | first }}">{{speaker.name}}
+                                                        {{speaker.lastname}}
+                                                    </a>
+                                                {% endif %}
+                                            {% endfor %}
+                                        </div>
+                                        <p class="paragraph">
+                                            {{ post.excerpt }}
+                                        </p>
+                                        <a href="{{site.baseurl}}/{{ post.url }}">READ MORE</a>
+                                    </div>
+                                    <div class="hashtags">
+                                        <ul>
+                                            {% assign tags_list = post.tags %}
+                                            {% if tags_list.first[0] == null %}
+                                                {% for tag in tags_list %}
+                                                    <li>
+                                                        <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}">#{{ tag }}</a>
+                                                    </li>
+                                                {% endfor %}
+                                            {% else %}
+                                                {% for tag in tags_list %}
+                                                    <li>
+                                                        <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
+                                                    </li>
+                                                {% endfor %}
+                                            {% endif %}
+                                            {% assign tags_list = nil %}
+                                        </ul>
+                                    </div>
+                                </div>
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+
+                </div>
+            </div>
+        </div>
+    </section>
+{% endif %}
