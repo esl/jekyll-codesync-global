@@ -3,7 +3,10 @@ conference_brand: _conference_brands/code-mesh-ldn.md
 conference_health_advice: true
 conference_venue: true
 conference_past_conferences: true
-menu: []
+menu:
+- template: menu-item
+  title: foo0
+  url: http://www.google.com
 title: Code MESH LDN 2019
 past: true
 bg_image: ''
