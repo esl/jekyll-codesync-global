@@ -39,4 +39,5 @@ fields:
       path: 
   label: Talk Path
 pages:
+- _conference_speakers/aaron-seigo-sample-conf.md
 - _conference_speakers/natalia-chechina.md
