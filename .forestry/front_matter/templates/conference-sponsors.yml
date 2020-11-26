@@ -10,7 +10,7 @@ fields:
     options: []
     source:
       type: pages
-      section: sponsors
+      section: conferences
       file: 
       path: 
   label: Conference Path
@@ -22,7 +22,7 @@ fields:
     options: []
     source:
       type: pages
-      section: 
+      section: sponsors
       file: 
       path: 
   label: Sponsor Path
