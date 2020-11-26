@@ -102,3 +102,5 @@ fields:
   config:
     maxSize: 64
   label: Image Url
+pages:
+- _trainings/sample-training.md
