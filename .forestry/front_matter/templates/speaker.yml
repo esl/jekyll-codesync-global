@@ -2,6 +2,11 @@
 label: Speaker
 hide_body: false
 fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
 - name: position
   type: text
   config:
@@ -39,11 +44,6 @@ fields:
       file: 
       path: 
   label: Type
-- name: name
-  type: text
-  config:
-    required: false
-  label: name
 pages:
 - _speakers/abeba-birhane.md
 - _speakers/adam-lindberg.md
