@@ -12,11 +12,6 @@ fields:
   config:
     required: false
   label: Url
-- name: image_url
-  type: text
-  config:
-    required: false
-  label: Image Url
 - name: type
   type: select
   default: ''
