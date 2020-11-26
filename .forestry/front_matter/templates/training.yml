@@ -98,8 +98,9 @@ fields:
   default: []
   label: Reasons To Attend
 - name: image_url
-  type: image_gallery
-  config: {}
+  type: file
+  config:
+    maxSize: 64
   label: Image Url
 pages:
 - _trainings/sample-training.md
