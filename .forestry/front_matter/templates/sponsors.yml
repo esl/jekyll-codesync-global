@@ -34,3 +34,8 @@ fields:
   config:
     required: false
   label: Max Width
+- name: image_url
+  type: file
+  config:
+    maxSize: 64
+  label: Image Url
