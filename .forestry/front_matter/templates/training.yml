@@ -19,16 +19,6 @@ fields:
       file: 
       path: 
   label: Conference Path
-- name: img_url
-  type: text
-  config:
-    required: false
-  label: Img Url
-- name: img_alt
-  type: text
-  config:
-    required: false
-  label: Img Alt
 - name: desc
   type: text
   config:
@@ -107,3 +97,7 @@ fields:
   type: tag_list
   default: []
   label: Reasons To Attend
+- name: image_url
+  type: image_gallery
+  config: {}
+  label: Image Url
