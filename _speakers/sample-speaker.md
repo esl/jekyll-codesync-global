@@ -6,6 +6,5 @@ description: sample speaker desc
 twitter: sample
 github: sample
 name: sample name
-published: false
 
 ---
