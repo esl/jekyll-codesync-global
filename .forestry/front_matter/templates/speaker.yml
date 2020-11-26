@@ -50,7 +50,6 @@ fields:
       path: 
   label: Type
 pages:
-- _speakers/aaron-seigo.md
 - _speakers/abeba-birhane.md
 - _speakers/adam-lindberg.md
 - _speakers/adrian-cruz.md
