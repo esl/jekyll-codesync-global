@@ -26,3 +26,5 @@ fields:
       file: 
       path: 
   label: Sponsor Path
+pages:
+- _conference_sponsors/global-sponsor-sample-conf.md
