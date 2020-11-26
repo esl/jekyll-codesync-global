@@ -39,3 +39,5 @@ fields:
   config:
     maxSize: 64
   label: Image Url
+pages:
+- _sponsors/whatsapp.md
