@@ -10,7 +10,7 @@ menu:
 title: Sample conference
 past: false
 bg_image: "/uploads/iot-web.jpg"
-logo_img: ''
+logo_img: "/uploads/code-sync-logo-48758d77.svg"
 conference_location: London
 primary: "#4A90E2"
 secondary: "#F5A623"
