@@ -101,3 +101,5 @@ fields:
   type: image_gallery
   config: {}
   label: Image Url
+pages:
+- _trainings/sample-training.md
