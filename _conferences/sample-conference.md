@@ -7,6 +7,9 @@ menu:
 - template: menu-item
   title: Home
   url: home
+- template: menu-item
+  title: speakers
+  url: speakers
 title: Sample conference
 past: false
 bg_image: "/uploads/iot-web.jpg"
@@ -14,7 +17,7 @@ logo_img: "/uploads/code-sync-logo-48758d77.svg"
 conference_location: London
 primary: "#4A90E2"
 secondary: "#F5A623"
-conference_init_date: 2020-12-12 07:00:00 +0000
+conference_init_date: 2020-12-12T07:00:00.000+00:00
 conference_dates: 12 - 15 of December
 head_title: Sample London Conference
 overview_heading: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
@@ -72,5 +75,6 @@ call_for_talks_message: Speak at Code BEAM STO! Call for talks closed on 17 Janu
   2020. We will be in touch with speakers in the week commencing 27 January about
   the status of your talk!
 call_for_talks_link: https://goo.gl/maps/gv3sFCw7xWKAsqf38
+published: false
 
 ---
