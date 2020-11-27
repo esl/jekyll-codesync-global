@@ -5,11 +5,14 @@ conference_venue: true
 conference_past_conferences: true
 menu:
 - template: menu-item
-  title: Home
-  url: home
+  title: Tickets
+  url: tickets
 - template: menu-item
-  title: speakers
-  url: speakers
+  title: Schedule
+  url: Schedule
+- template: menu-item
+  title: Speakers
+  url: Speakers
 title: Sample conference
 past: false
 bg_image: "/uploads/iot-web.jpg"
