@@ -5,7 +5,7 @@
                 <div class="col-5 m-col-12 t-mt-40">
                     <div class="speaker-img">
                         <picture>
-                            <img alt="{{ page.firstname }} {{ page.lastname }}" class="lazy" data-src="{{site.baseurl}}{{ page.pic_url }}">
+                            <img alt="{{ page.name }}" class="lazy" data-src="{{site.baseurl}}{{ page.pic_url }}">
                         </picture>
                     </div>
                     <div class="social-buttons">
@@ -16,11 +16,10 @@
                     </div>
                 </div>
                 <div class="col-7 m-col-12 t-mt-40">
-                    <h1 class="heading heading--large color--main activity-name dont-break-out">{{ page.firstname }}
-                        {{ page.lastname }}</h1>
+                    <h1 class="heading heading--large color--main activity-name dont-break-out">{{ page.name }}</h1>
                     <h2 class="heading heading--normal">{{ page.position }}</h2>
                     <div class="paragraph paragraph--robotomono bold mt--20 speaker-description">
-                        <p>{{ page.description }}</p>
+                        <p>{{ page.content }}</p>
                     </div>
                 </div>
             </div>
