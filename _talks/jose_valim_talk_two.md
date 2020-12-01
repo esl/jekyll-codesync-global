@@ -1,9 +1,9 @@
 ---
 title: Talk two
-conference_path: _conferences/code-beam-sto-two.md
+conference_path: _conferences/code-beam-sto.md
 speaker_path: _speakers/jose-valim.md
 tags: [Elixir, Otp]
-date: 2020/08/10 09:00:00
+date: 2020/05/10 09:00:00
 hours: 09.50 - 10.05
 ---
 
