@@ -23,14 +23,14 @@
                             {% endif %}
                         {% endfor %}
 
-                        <div class="row mt--50 t-mt-00 pt--50 t-pt-00" style="border-top: 4px solid #{{ conferencePrimary }}">
+                        <div class="row mt--50 t-mt-00 pt--50 t-pt-00" style="border-top: 4px solid {{ conferencePrimary }}">
                             <div class="col-5 t-col-12 conference--box pt--50">
-                                <div class="heading heading--medium light" style="color:#{{ conferencePrimary }}">
+                                <div class="heading heading--medium light" style="color:{{ conferencePrimary }}">
                                     {{ page.name }}
                                     <br />
                                     {{ conferenceTitle }}
                                 </div>
-                                <div class="heading heading--small light" style="color:#{{ conferencePrimary }}">
+                                <div class="heading heading--small light" style="color:{{ conferencePrimary }}">
                                     <span class="mt--20 block">
                                         {{ talk.date | to_string }}<br />
                                         {{ talk.hours }}

@@ -7,42 +7,39 @@
             </h2>
         </div>
         <div class="grid panel">
-            {% for conference in site.conferences %}
-                {% if conference.past == true %}
-                    {% for conference_speaker in site.conference_speakers %}
-                        {% if conference_speaker.speaker_path == page.path %}
-                            {% for talk in site.talks %}
-                                {% if conference.path == talk.conference_path %}
-                                    <div class="row mt--50 t-mt-00 pt--50 t-pt-00" style="border-top: 4px solid #{{ conference.primary }}">
-                                        <div class="col-5 t-col-12 conference--box pt--50">
-                                            <div class="heading heading--medium light" style="color:#{{ conference.primary }}">
-                                                {{ page.firstname }}
-                                                {{ page.lastname }}<br/>
-                                                {{ conference.title }}
-                                            </div>
-                                            <div class="heading heading--small light" style="color:#{{ conference.primary }}">
-                                                <span class="mt--20 block">
-                                                    {{ talk.date | to_string }}<br/>
-                                                    {{ talk.hours }}
-                                                </span>
-                                            </div>
-                                        </div>
-                                        <div class="col-7 t-col-12 pt--50" id="{{ talk.url | replace:'/talks','' | remove:'/' }}">
-                                            <h3 class="heading heading--normal">{{ talk.title }}</h3>
-                                            <div class="desc">
-                                                <p>
-                                                    {{ talk.content }}
-                                                </p>
-                                            </div>
-                                            <div class="hashtags mt--20">
-                                                <ul></ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                {% endif %}
-                            {% endfor %}
-                        {% endif %}
-                    {% endfor %}
+            {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+            {% for talk in site.talks %}
+                {% if talk.speaker_path == page.path %}
+                {% capture posttime %}{{talk.date | date: '%s'}}{% endcapture %}
+                {% if posttime < nowunix %}
+            
+                {% for conference in site.conferences %}
+                {% if conference.path == talk.conference_path %}
+                {% capture conferenceTitle %}{{ conference.title }}{% endcapture %}
+                {% capture conferencePrimary %}{{ conference.primary }}{% endcapture %}
+                {% capture conferencePath %}{{ conference.url }}{% endcapture %}
+                {% endif %}
+                {% endfor %}
+            
+                <div class="row mt--50 t-mt-00 pt--50 t-pt-00" style="border-top: 4px solid {{ conferencePrimary }}">
+                    <div class="col-5 t-col-12 conference--box pt--50">
+                        <div class="heading heading--medium light" style="color:{{ conferencePrimary }}">
+                            {{ talk.title }}
+                            <br />
+                            {{ conferenceTitle }}
+                        </div>
+                    </div>
+                    <div class="col-7 t-col-12 pt--50" id="{{ talk.url | replace:'/talks','' | remove:'/' }}">
+                        <div class="row mt--50 btn__row col-7 t-col-12">
+                            <a href="{{ site.baseurl }}{{ conferencePath }}" class="btn btn--pink btn-arrow"
+                                style="background-color:{{ conferencePrimary }}">Go to
+                                Conference
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            
+                {% endif %}
                 {% endif %}
             {% endfor %}
         </div>
