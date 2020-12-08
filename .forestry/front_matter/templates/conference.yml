@@ -2,6 +2,13 @@
 label: Conference
 hide_body: false
 fields:
+- name: menu
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: menu
 - name: programme_committee
   type: boolean
   label: Programme Committee
