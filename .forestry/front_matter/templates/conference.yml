@@ -5,52 +5,13 @@ fields:
 - name: menu
   type: textarea
   default: |-
-    <pre><code>&lt;li&gt;
-
-    &lt;a href="committee"&gt;Programme Committee&lt;/a&gt;
-
-    &lt;/li&gt;
-
-    &lt;li&gt;
-
-    &lt;a href="schedule"&gt;Schedule&lt;/a&gt;
-
-    &lt;/li&gt;
-
-    &lt;li&gt;
-
-    &lt;a href="speakers"&gt;Speakers&lt;/a&gt;
-
-    &lt;/li&gt;
-
-    &lt;li&gt;
-
-    &lt;a href="sponsors"&gt;Sponsors&lt;/a&gt;
-
-    &lt;/li&gt;
-
-    &lt;li&gt;
-
-    &lt;a href="media"&gt;Media&lt;/a&gt;
-
-    &lt;/li&gt;
-
-    &lt;li&gt;
-
-    &lt;a href="training"&gt;Training&lt;/a&gt;
-
-    &lt;/li&gt;
-
-    &lt;li&gt;
-
-    &lt;a href="venue"&gt;Venue&lt;/a&gt;
-
-    &lt;/li&gt;</code></pre>
+    * [ggg](ggg "ggg")
+    * [hhh](hhh "hhh")
   config:
     required: true
     wysiwyg: true
     schema:
-      format: html
+      format: markdown
   label: menu
 - name: title
   type: text
