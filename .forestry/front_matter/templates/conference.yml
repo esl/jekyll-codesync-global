@@ -4,28 +4,8 @@ hide_body: false
 fields:
 - name: menu
   type: textarea
-  default: |
-    <li>
-      <a href="committee">Programme Committee</a>
-    </li>
-    <li>
-      <a href="schedule">Schedule</a>
-    </li>
-    <li>
-      <a href="speakers">Speakers</a>
-    </li>
-    <li>
-      <a href="sponsors">Sponsors</a>
-    </li>
-    <li>
-      <a href="media">Media</a>
-    </li>
-    <li>
-      <a href="training">Training</a>
-    </li>
-    <li>
-      <a href="venue">Venue</a>
-    </li>
+  default: "<blockquote><pre><code>&lt;li&gt;\n\t&lt;a href=\"committee\"&gt;Programme
+    Committee&lt;/a&gt;\n&lt;/li&gt;</code></pre></blockquote>"
   config:
     required: true
     wysiwyg: true
