@@ -2,6 +2,21 @@
 label: Conference
 hide_body: false
 fields:
+- name: menu
+  type: textarea
+  default: "<p>&lt;li&gt;</p><p>\t&lt;a href=\"committee\"&gt;Programme Committee&lt;/a&gt;</p><p>&lt;/li&gt;</p><p>&lt;li&gt;</p><p>\t&lt;a
+    href=\"schedule\"&gt;Schedule&lt;/a&gt;</p><p>&lt;/li&gt;</p><p>&lt;li&gt;</p><p>\t&lt;a
+    href=\"speakers\"&gt;Speakers&lt;/a&gt;</p><p>&lt;/li&gt;</p><p>&lt;li&gt;</p><p>\t&lt;a
+    href=\"sponsors\"&gt;Sponsors&lt;/a&gt;</p><p>&lt;/li&gt;</p><p>&lt;li&gt;</p><p>\t&lt;a
+    href=\"media\"&gt;Media&lt;/a&gt;</p><p>&lt;/li&gt;</p><p>&lt;li&gt;</p><p>\t&lt;a
+    href=\"training\"&gt;Training&lt;/a&gt;</p><p>&lt;/li&gt;</p><p>&lt;li&gt;</p><p>\t&lt;a
+    href=\"venue\"&gt;Venue&lt;/a&gt;</p><p>&lt;/li&gt;</p>"
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: menu
 - name: title
   type: text
   config:
