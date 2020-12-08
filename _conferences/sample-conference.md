@@ -4,8 +4,13 @@ conference_health_advice: true
 conference_venue: true
 conference_past_conferences: true
 menu: |-
-  * [hhh]()
-  * [ggg](ggg "ggg")
+  * [Programme Committee](#committee)
+  * [Schedule](#schedule)
+  * [Speakers](#speakers)
+  * [Sponsors](#sponsors)
+  * [Media](#media)
+  * [Training](#training)
+  * [Venue](#venue)
 title: Sample conference
 past: false
 bg_image: "/uploads/iot-web.jpg"
