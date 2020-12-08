@@ -50,7 +50,7 @@ fields:
     required: true
     wysiwyg: true
     schema:
-      format: html-blocks
+      format: html
   label: menu
 - name: title
   type: text
