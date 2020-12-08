@@ -3,10 +3,7 @@ conference_brand: _conference_brands/cbl.md
 conference_health_advice: true
 conference_venue: true
 conference_past_conferences: true
-menu: "<p>&lt;li&gt;\n\t&lt;a href=\"committee\"&gt;Programme Committee&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a
-  href=\"schedule\"&gt;Schedule&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a href=\"speakers\"&gt;Speakers&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a
-  href=\"sponsors\"&gt;Sponsors&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a href=\"media\"&gt;Media&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a
-  href=\"training\"&gt;Training&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a href=\"venue\"&gt;Venue&lt;/a&gt;\n&lt;/li&gt;\n</p>"
+menu: "<p></p>"
 title: Sample conference
 past: false
 bg_image: "/uploads/iot-web.jpg"
