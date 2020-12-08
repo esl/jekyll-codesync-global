@@ -1,9 +1,5 @@
 <div class="nav--secondary calculate-offset" style="background-color: #{{page.primary}}">
     <ul>
-        {% for menuItem in page.menu %}
-            <li>
-                <a href="{{ menuItem.url }}">{{ menuItem.title }}</a>
-            </li>
-        {% endfor %}
+        {{ page.menu | markdownify  }}
     </ul>
 </div>
