@@ -3,14 +3,7 @@ conference_brand: _conference_brands/cbl.md
 conference_health_advice: true
 conference_venue: true
 conference_past_conferences: true
-menu:
-- Speakers
-- Media
-- Media
-- Training
-- Venue
-- Programme Committee
-- Schedule
+menu: "<p></p>"
 title: Sample conference
 past: false
 bg_image: "/uploads/iot-web.jpg"
