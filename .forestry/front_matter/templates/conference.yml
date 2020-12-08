@@ -2,14 +2,9 @@
 label: Conference
 hide_body: false
 fields:
-- name: menu
-  type: blocks
-  label: Menu
-  template_types:
-  - menu-item
-  config:
-    min: 
-    max: 
+- name: programme_committee
+  type: boolean
+  label: Programme Committee
 - name: title
   type: text
   config:
