@@ -4,8 +4,11 @@ hide_body: false
 fields:
 - name: menu
   type: textarea
-  default: "<blockquote><pre><code>&lt;li&gt;\n\t&lt;a href=\"committee\"&gt;Programme
-    Committee&lt;/a&gt;\n&lt;/li&gt;</code></pre></blockquote>"
+  default: "<blockquote><pre><code><code>&lt;li&gt;\n\t&lt;a href=\"committee\"&gt;Programme
+    Committee&lt;/a&gt;\n&lt;/li&gt;</code>\n&lt;li&gt;\n\t&lt;a href=\"schedule\"&gt;Schedule&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a
+    href=\"speakers\"&gt;Speakers&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a href=\"sponsors\"&gt;Sponsors&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a
+    href=\"media\"&gt;Media&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a href=\"training\"&gt;Training&lt;/a&gt;\n&lt;/li&gt;\n&lt;li&gt;\n\t&lt;a
+    href=\"venue\"&gt;Venue&lt;/a&gt;\n&lt;/li&gt;\n</code></pre></blockquote>"
   config:
     required: true
     wysiwyg: true
