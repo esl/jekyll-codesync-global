@@ -5,8 +5,13 @@ fields:
 - name: menu
   type: textarea
   default: |-
-    * [ggg](ggg "ggg")
-    * [hhh](hhh "hhh")
+    * [Programme Committee](#committee)
+    * [Schedule](#schedule)
+    * [Speakers](#speakers)
+    * [Sponsors](#sponsors)
+    * [Media](#media)
+    * [Training](#training)
+    * [Venue](#venue)
   config:
     required: true
     wysiwyg: true
