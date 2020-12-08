@@ -3,12 +3,12 @@ conference_brand: _conference_brands/cbl.md
 conference_health_advice: true
 conference_venue: true
 conference_past_conferences: true
-menu: <pre><code>&lt;li&gt; &lt;a href="committee"&gt;Programme Committee&lt;/a&gt;
-  &lt;/li&gt; &lt;li&gt; &lt;a href="schedule"&gt;Schedule&lt;/a&gt; &lt;/li&gt; &lt;li&gt;
-  &lt;a href="speakers"&gt;Speakers&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href="sponsors"&gt;Sponsors&lt;/a&gt;
+menu: <code>&lt;li&gt; &lt;a href="committee"&gt;Programme Committee&lt;/a&gt; &lt;/li&gt;
+  &lt;li&gt; &lt;a href="schedule"&gt;Schedule&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a
+  href="speakers"&gt;Speakers&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href="sponsors"&gt;Sponsors&lt;/a&gt;
   &lt;/li&gt; &lt;li&gt; &lt;a href="media"&gt;Media&lt;/a&gt; &lt;/li&gt; &lt;li&gt;
   &lt;a href="training"&gt;Training&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href="venue"&gt;Venue&lt;/a&gt;
-  &lt;/li&gt;</code></pre>
+  &lt;/li&gt;</code>
 title: Sample conference
 past: false
 bg_image: "/uploads/iot-web.jpg"
