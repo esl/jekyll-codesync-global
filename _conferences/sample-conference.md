@@ -4,15 +4,13 @@ conference_health_advice: true
 conference_venue: true
 conference_past_conferences: true
 menu:
-- template: menu-item
-  title: Tickets
-  url: tickets
-- template: menu-item
-  title: Schedule
-  url: Schedule
-- template: menu-item
-  title: Speakers
-  url: Speakers
+- Speakers
+- Media
+- Media
+- Training
+- Venue
+- Programme Committee
+- Schedule
 title: Sample conference
 past: false
 bg_image: "/uploads/iot-web.jpg"
@@ -78,6 +76,6 @@ call_for_talks_message: Speak at Code BEAM STO! Call for talks closed on 17 Janu
   2020. We will be in touch with speakers in the week commencing 27 January about
   the status of your talk!
 call_for_talks_link: https://goo.gl/maps/gv3sFCw7xWKAsqf38
-published: false
+programme_committee: false
 
 ---
