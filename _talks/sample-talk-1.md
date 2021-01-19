@@ -1,6 +1,5 @@
 ---
 conference_path: _conferences/sample-conference.md
-speaker_path: _speakers/sample-conf-sample-speaker-1.md
 tags: []
 title: Sample Talk 1
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse suscipit
