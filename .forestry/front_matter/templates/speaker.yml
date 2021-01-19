@@ -46,21 +46,30 @@ fields:
   label: Github
 - name: type
   type: select
-  default: []
+  default: speaker
   config:
     required: false
-    options: []
+    options:
+    - speaker
+    - keynote
     source:
       type: simple
       section: 
       file: 
       path: 
   label: Type
-- name: talk
-  type: include
-  config: {}
-  template: talk
-  label: Talk
+- name: talk_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: talks
+      file: 
+      path: 
+  label: Talk Path
 pages:
 - _speakers/abeba-birhane.md
 - _speakers/adam-lindberg.md
