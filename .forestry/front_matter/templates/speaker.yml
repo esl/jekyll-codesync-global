@@ -71,11 +71,4 @@ fields:
       path: 
   label: Talk Path
 pages:
-- _speakers/abeba-birhane.md
-- _speakers/adam-lindberg.md
-- _speakers/adrian-cruz.md
-- _speakers/aish-dahal.md
-- _speakers/alex-loukissas.md
-- _speakers/natalia-chechina.md
-- _speakers/sample-speaker.md
-- _speakers/test-sample-speaker-2.md
+- _speakers/sample-conf-sample-speaker-1.md
