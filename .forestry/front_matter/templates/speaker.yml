@@ -2,6 +2,18 @@
 label: Speaker
 hide_body: false
 fields:
+- name: conference_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: conferences
+      file: 
+      path: 
+  label: Conference Path
 - name: name
   type: text
   config:
@@ -12,16 +24,16 @@ fields:
   config:
     required: false
   label: Position
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
 - name: pic_url
   type: file
   config:
     maxSize: 64
   label: Pic Url
-- name: description
-  type: text
-  config:
-    required: false
-  label: Description
 - name: twitter
   type: text
   config:
