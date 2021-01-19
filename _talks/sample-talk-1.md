@@ -9,5 +9,7 @@ date: 2021-01-20 07:00:00 +0000
 hours: '22:33'
 youtube_id: dYDdnZoH0uk
 talk_slides: "/uploads/Day_9.png"
+speakers:
+- _speakers/sample-conf-sample-speaker-1.md
 
 ---

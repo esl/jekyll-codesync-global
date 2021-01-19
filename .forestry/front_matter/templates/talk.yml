@@ -28,18 +28,6 @@ fields:
       file: 
       path: 
   label: Conference Path
-- name: speaker_path
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: speakers
-      file: 
-      path: 
-  label: Speaker Path
 - name: tags
   type: tag_list
   default: []
@@ -68,5 +56,15 @@ fields:
   config:
     maxSize: 64
   label: talk_slides
+- name: speakers
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 1
+    source:
+      type: pages
+      section: speakers
+  label: speakers
 pages:
 - _talks/sample-talk.md
