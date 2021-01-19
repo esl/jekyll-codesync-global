@@ -7,6 +7,15 @@ fields:
   config:
     required: false
   label: Title
+- name: abstract
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Abstract
 - name: conference_path
   type: select
   default: []
@@ -49,3 +58,13 @@ fields:
   config:
     required: false
   label: Hours
+- name: youtube_id
+  type: text
+  config:
+    required: false
+  label: Youtube Video Id
+- name: talk_slides
+  type: file
+  config:
+    maxSize: 64
+  label: talk_slides
