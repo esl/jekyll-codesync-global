@@ -7,5 +7,6 @@ slug: sample-speaker-2
 pic_url: "/uploads/zane-beckwith.jpeg"
 twitter: sample
 github: sample
+permalink: /sample-conference/:slug
 
 ---
