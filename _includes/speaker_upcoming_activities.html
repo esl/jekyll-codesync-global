@@ -1,59 +1,61 @@
 <section class="m-vp-30 m-pb-00 mb--50 section-container speaker-activity">
-    <div class="container--small pt--50 t-pt-25" style="border-top: 4px solid white;">
-        <div class="accordion">
-            <h2 class="heading heading--large activity-name">
-                UPCOMING ACTIVITIES
-                <span class="arrow arrow--down--white"></span>
-            </h2>
-        </div>
+    <div class="container--small t-pt-25">
+        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% for talk in site.talks %}
 
-        <div class="grid panel">
+            {% for conference in site.conferences %}
+                {% if conference.path == talk.conference_path %}
+                    {% capture conferenceTitle %}{{ conference.title }}{% endcapture %}
+                    {% capture conferencePrimary %}{{ conference.primary }}{% endcapture %}
+                    {% capture conferencePath %}{{ conference.url }}{% endcapture %}
+                {% endif %}
+            {% endfor %}
 
-            {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-            {% for talk in site.talks %}
-                {% if talk.speaker_path == page.path %}
-                    {% capture posttime %}{{talk.date | date: '%s'}}{% endcapture %}
-                    {% if posttime > nowunix %}
-
-                        {% for conference in site.conferences %}
-                            {% if conference.path == talk.conference_path %}
-                                {% capture conferenceTitle %}{{ conference.title }}{% endcapture %}
-                                {% capture conferencePrimary %}{{ conference.primary }}{% endcapture %}
-                                {% capture conferencePath %}{{ conference.path }}{% endcapture %}
-                            {% endif %}
-                        {% endfor %}
-
-                        <div class="row mt--50 t-mt-00 pt--50 t-pt-00" style="border-top: 4px solid {{ conferencePrimary }}">
+            {% for talkspeaker in talk.speakers %}
+                {% if talkspeaker == page.path %}
+                        <div class="row t-mt-00 pt--50 t-pt-00" >
                             <div class="col-5 t-col-12 conference--box pt--50">
                                 <div class="heading heading--medium light" style="color:{{ conferencePrimary }}">
-                                    {{ page.name }}
-                                    <br />
-                                    {{ conferenceTitle }}
+                                    {{ talk.title }}
                                 </div>
+
+                                <div class="desc">
+                                    <p>
+                                        {{ talk.abstract }}
+                                    </p>
+                                </div>
+
                                 <div class="heading heading--small light" style="color:{{ conferencePrimary }}">
                                     <span class="mt--20 block">
-                                        {{ talk.date | to_string }}<br />
-                                        {{ talk.hours }}
+                                      {{ talk.date | to_string }}<br />
+                                      {{ talk.hours }}
                                     </span>
                                 </div>
                             </div>
-                            <div class="col-7 t-col-12 pt--50" id="{{ talk.url | replace:'/talks','' | remove:'/' }}">
-                                <h3 class="heading heading--normal">{{ talk.title }}</h3>
-                                <div class="desc">
-                                    <p>
-                                        {{ talk.content }}
-                                    </p>
-                                </div>
+
+                            <div class="col-7 t-col-12 pt--50" >
+            
+
+                                <a href="https://www.youtube.com/watch?v={{ talk.youtube_id }}" class="btn btn--pink btn-arrow mt--20"
+                                        style="background-color:{{ conferencePrimary }}; margin-left: 0;">Watch talk
+                                </a>
+
+                                <a href="{{ site.baseurl }}{{ talk.talk_slides }}" class="btn btn--white btn-arrow mt--20" download>
+                                    Download slides
+                                </a>
+
                                 <div class="hashtags mt--20">
-                                    <ul></ul>
+                                    <ul>
+                                    </ul>
                                 </div>
                             </div>
+
                         </div>
-                        
-                    {% endif %}
+                    
                 {% endif %}
             {% endfor %}
-        </div>
+        {% endfor %}
+
 
     </div>
 </section>

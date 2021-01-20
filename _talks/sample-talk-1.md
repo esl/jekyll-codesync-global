@@ -13,3 +13,9 @@ speakers:
 - _speakers/sample-conf-sample-speaker-2.md
 
 ---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse suscipit
+  magna urna, id porttitor eros viverra quis.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse suscipit
+  magna urna, id porttitor eros viverra quis.

@@ -1,8 +1,15 @@
+    {% for conference in site.conferences %}
+    {% if conference.path == page.conference_path %}
+        {% capture conferencePrimary %}{{ conference.primary }}{% endcapture %}
+        {% capture conferencePrimary %}{{ conference.primary }}{% endcapture %}
+    {% endif %}
+    {% endfor %}
+
 <style>
-    .speaker-img::before {
-        background-image: -webkit-gradient(linear, left top, right top, from(rgba(255, 0, 95, 0.75)), to(rgba(62, 0, 216, 0.75)));
-        background-image: -webkit-linear-gradient(left, rgba(255, 0, 95, 0.75), rgba(62, 0, 216, 0.75));
-        background-image: -o-linear-gradient(left, rgba(255, 0, 95, 0.75), rgba(62, 0, 216, 0.75));
-        background-image: linear-gradient(to right, rgba(255, 0, 95, 0.75), rgba(62, 0, 216, 0.75));
-    }
+        .speaker-img::before {
+            background-image: -webkit-gradient(linear, left top, right top, from({{conferencePrimary}}, to({{conferenceSecondary}})) !important;
+            background-image: -webkit-linear-gradient(left, {{conferencePrimary}}, {{conferenceSecondary}}) !important;
+            background-image: -o-linear-gradient(left, {{conferencePrimary}}, {{conferenceSecondary}}) !important;
+            background-image: linear-gradient(to right, {{conferencePrimary}}, {{conferenceSecondary}}) !important;
+        }
 </style>
