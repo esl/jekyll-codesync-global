@@ -9,5 +9,5 @@ hours: '22:33'
 youtube_id: dYDdnZoH0uk
 talk_slides: "/uploads/Day_9.png"
 speakers:
-- _speakers/sample-conf-sample-speaker-1.md
+- _speakers/sample-conf-sample-speaker-2.md
 ---

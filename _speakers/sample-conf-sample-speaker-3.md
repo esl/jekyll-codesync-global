@@ -1,9 +1,9 @@
 ---
 conference_path: _conferences/sample-conference.md
 type: speaker
-name: Sample Speaker 1
+name: Sample Speaker 3
 position: Sample position
-slug: sample-speaker-1
+slug: sample-speaker-3
 pic_url: "/uploads/zane-beckwith.jpeg"
 twitter: sample
 github: sample
