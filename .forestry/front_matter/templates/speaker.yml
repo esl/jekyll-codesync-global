@@ -58,17 +58,11 @@ fields:
       file: 
       path: 
   label: Type
-- name: talk_path
-  type: select
-  default: []
+- name: permalink
+  type: text
   config:
     required: false
-    options: []
-    source:
-      type: pages
-      section: talks
-      file: 
-      path: 
-  label: Talk Path
+  label: Permalink
+  default: "/conference-name/:slug"
 pages:
 - _speakers/sample-conf-sample-speaker-1.md
