@@ -49,6 +49,9 @@ paginate_path: "/media/page:num/"
 permalink: pretty
 
 collections:
+  speakers_db:
+    output: true
+    sort_by: relevance
   speakers:
     output: true
     sort_by: relevance
