@@ -22,18 +22,6 @@ sections:
   templates:
   - conference-sponsors
 - type: directory
-  path: _conference_speakers
-  label: Conference Speakers
-  create: all
-  match: "**/*"
-- type: directory
-  path: _conference_keynotes
-  label: Conference Keynotes
-  create: all
-  match: "**/*"
-  templates:
-  - conference-keynotes
-- type: directory
   path: _conference_brands
   label: Conference Brands
   create: all
