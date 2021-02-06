@@ -26,11 +26,6 @@ fields:
       file: 
       path: 
   label: Speaker path
-- name: slug
-  type: text
-  config:
-    required: false
-  label: Slug
 - name: type
   type: select
   default: speaker
@@ -45,6 +40,11 @@ fields:
       file: 
       path: 
   label: Type
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
 - name: permalink
   type: text
   config:
