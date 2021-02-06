@@ -9,6 +9,8 @@ sections:
   label: Tickets
   create: all
   match: "**/*"
+  templates:
+  - tickets
 - type: directory
   path: _testimonials
   label: Testimonials
@@ -68,13 +70,6 @@ sections:
   label: Keynotes
   create: all
   match: "**/*"
-- type: directory
-  path: _keynotes
-  label: Keynotes
-  create: all
-  match: "**/*"
-  templates:
-  - speaker
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
