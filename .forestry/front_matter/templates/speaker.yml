@@ -14,36 +14,23 @@ fields:
       file: 
       path: 
   label: Conference Path
-- name: name
-  type: text
+- name: speaker_path
+  type: select
+  default: []
   config:
     required: false
-  label: name
-- name: position
-  type: text
-  config:
-    required: false
-  label: Position
+    options: []
+    source:
+      type: pages
+      section: speakers_db
+      file: 
+      path: 
+  label: Speaker path
 - name: slug
   type: text
   config:
     required: false
   label: Slug
-- name: pic_url
-  type: file
-  config:
-    maxSize: 64
-  label: Pic Url
-- name: twitter
-  type: text
-  config:
-    required: false
-  label: Twitter
-- name: github
-  type: text
-  config:
-    required: false
-  label: Github
 - name: type
   type: select
   default: speaker
