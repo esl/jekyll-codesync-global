@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _speakers_db
+  label: Speakers_db
+  create: all
+  match: "**/*"
+  templates:
+  - speaker_db
+- type: directory
   path: _tickets
   label: Tickets
   create: all
