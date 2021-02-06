@@ -1,4 +1,54 @@
 ---
 label: Speaker_db
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+- name: position
+  type: text
+  config:
+    required: false
+  label: position
+- name: pic_url
+  type: file
+  config:
+    maxSize: 64
+  label: pic_url
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
+- name: facebook
+  type: text
+  config:
+    required: false
+  label: facebook
+- name: github
+  type: text
+  config:
+    required: false
+  label: github
+- name: google
+  type: text
+  config:
+    required: false
+  label: google
+- name: linkedin
+  type: text
+  config:
+    required: false
+  label: linkedin
+- name: twitter
+  type: text
+  config:
+    required: false
+  label: twitter
+- name: youtube
+  type: text
+  config:
+    required: false
+  label: youtube
