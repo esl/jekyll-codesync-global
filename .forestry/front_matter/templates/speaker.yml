@@ -40,11 +40,6 @@ fields:
       file: 
       path: 
   label: Type
-- name: slug
-  type: text
-  config:
-    required: false
-  label: Slug
 - name: permalink
   type: text
   config:
