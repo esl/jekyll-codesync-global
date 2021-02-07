@@ -9,38 +9,43 @@
       <div class="grid-3 mt--50 keynote-speakers" style="margin-bottom: -40px">
           {% for speaker in site.speakers %}
             {% if speaker.conference_path == page.path and speaker.type == 'keynote' %}
-              <div class="col mb--40">
-              <a href="{{site.baseurl}}{{ speaker.url }}">
-                <div class="speaker-img">
-                  <!-- Inline dynamic styles for gradient here in speaker-img -->
-                  <picture>
-                    <img
-                      alt="{{ speaker.name }} {{ speaker.lastname }}"
-                      class="lazy"
-                      data-src="{{site.baseurl}}{{ speaker.pic_url }}"
-                    />
-                  </picture>
-                </div>
-                <h3 class="heading heading--medium mt--40 dont-break-out">
-                  {{ speaker.name }} {{ speaker.lastname }}
-                </h3>
-              </a>
+                            {% for speakerInfo in site.speakers_db %}
+                {% if speaker.speaker_path == speakerInfo.path %}
+                  <div class="col mb--40">
+                      
+                    <a href="{{site.baseurl}}{{ speaker.url }}">
+                      <div class="speaker-img">
+                        <!-- Inline dynamic styles for gradient here in speaker-img -->
+                        <picture>
+                          <img
+                            alt="{{ speakerInfo.name }} {{ speakerInfo.lastname }}"
+                            class="lazy"
+                            data-src="{{site.baseurl}}{{ speakerInfo.pic_url }}"
+                          />
+                        </picture>
+                      </div>
+                      <h3 class="heading heading--medium mt--40 dont-break-out">
+                        {{ speakerInfo.name }} {{ speakerInfo.lastname }}
+                      </h3>
+                    </a>
 
-              <p class="fw--medium pt--10">{{ speaker.position }}</p>
-              <p class="heading heading--medium">Keynote:</p>
-              {% for talk in site.talks %} 
-                {% for talkspeakerpath in talk.speakers %}
-                  {% if talkspeakerpath == speaker.path and talk.conference_path == page.path %}
-                    <p>
-                      <a class="mono medium light gray pt--00 mt--10" href="{{site.baseurl}}{{speaker.url}}">
-                          {{ talk.title }}
-                      </a>
-                    </p>
-                  {% endif %}
-                {% endfor %}                  
+                    <p class="fw--medium pt--10">{{ speakerInfo.position }}</p>
+
+                    {% for talk in site.talks %} 
+                      {% for talkspeakerpath in talk.speakers %}
+                        {% if talkspeakerpath == speaker.path and talk.conference_path == page.path %}
+                          <p>
+                            <a class="mono medium light gray pt--00 mt--10" href="{{site.baseurl}}{{speaker.url}}">
+                                {{ talk.title }}
+                            </a>
+                          </p>
+                        {% endif %}
+                      {% endfor %}                  
+                    {% endfor %}
+
+                  </div>
+                {% endif %}
               {% endfor %}
-
-              </div>
             {% endif %}
           {% endfor %}
       </div>
@@ -48,38 +53,43 @@
       <div class="grid-5 mt--50 keynote-speakers" style="margin-bottom: -40px">
           {% for speaker in site.speakers %}
             {% if speaker.conference_path == page.path and speaker.type == 'speaker' %}
-              <div class="col mb--40">
-              <a href="{{site.baseurl}}{{ speaker.url }}">
-                <div class="speaker-img">
-                  <!-- Inline dynamic styles for gradient here in speaker-img -->
-                  <picture>
-                    <img
-                      alt="{{ speaker.name }} {{ speaker.lastname }}"
-                      class="lazy"
-                      data-src="{{site.baseurl}}{{ speaker.pic_url }}"
-                    />
-                  </picture>
-                </div>
-                <h3 class="heading heading--medium mt--40 dont-break-out">
-                  {{ speaker.name }} {{ speaker.lastname }}
-                </h3>
-              </a>
+              {% for speakerInfo in site.speakers_db %}
+                {% if speaker.speaker_path == speakerInfo.path %}
+                  <div class="col mb--40">
+                      
+                    <a href="{{site.baseurl}}{{ speaker.url }}">
+                      <div class="speaker-img">
+                        <!-- Inline dynamic styles for gradient here in speaker-img -->
+                        <picture>
+                          <img
+                            alt="{{ speakerInfo.name }} {{ speakerInfo.lastname }}"
+                            class="lazy"
+                            data-src="{{site.baseurl}}{{ speakerInfo.pic_url }}"
+                          />
+                        </picture>
+                      </div>
+                      <h3 class="heading heading--medium mt--40 dont-break-out">
+                        {{ speakerInfo.name }} {{ speakerInfo.lastname }}
+                      </h3>
+                    </a>
 
-              <p class="fw--medium pt--10">{{ speaker.position }}</p>
+                    <p class="fw--medium pt--10">{{ speakerInfo.position }}</p>
 
-              {% for talk in site.talks %} 
-                {% for talkspeakerpath in talk.speakers %}
-                  {% if talkspeakerpath == speaker.path and talk.conference_path == page.path %}
-                    <p>
-                      <a class="mono medium light gray pt--00 mt--10" href="{{site.baseurl}}{{speaker.url}}">
-                          {{ talk.title }}
-                      </a>
-                    </p>
-                  {% endif %}
-                {% endfor %}                  
+                    {% for talk in site.talks %} 
+                      {% for talkspeakerpath in talk.speakers %}
+                        {% if talkspeakerpath == speaker.path and talk.conference_path == page.path %}
+                          <p>
+                            <a class="mono medium light gray pt--00 mt--10" href="{{site.baseurl}}{{speaker.url}}">
+                                {{ talk.title }}
+                            </a>
+                          </p>
+                        {% endif %}
+                      {% endfor %}                  
+                    {% endfor %}
+
+                  </div>
+                {% endif %}
               {% endfor %}
-
-              </div>
             {% endif %}
           {% endfor %}
       </div>
