@@ -1,105 +1,155 @@
-<section class="anchor__submenu sponsors-partners section-container section--spaced" id="sponsors">
-    <div class="container--small">
-        <div class="grid-gap-100">
-            <h2 class="heading heading--large">OUR SPONSORS</h2>
-            <div class="row mt--50 d-mt-20">
-                <div>
-                    <p class="heading heading--small mb--30">Global sponsor</p>
-                </div>
-                <div class="logos">
-                    {% for conference_sponsor in site.conference_sponsors %}
-                        {% assign sorted = site.sponsors | where: 'type', 'global' %}
-                        {% for sponsor in sorted %}
-                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
-                                <a class="grid--2" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
-                                    <picture>
-                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{site.baseurl}}{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
-                                    </picture>
-                                </a>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="row mt--50 d-mt-20">
-                <div>
-                    <p class="heading heading--small mb--30">Platinum Sponsors</p>
-                </div>
-                <div class="logos">
-                    {% for conference_sponsor in site.conference_sponsors %}
-                        {% assign sorted = site.sponsors | where: 'type', 'platinum' %}
-                        {% for sponsor in sorted %}
-                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
-                                <a class="grid--2" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
-                                    <picture>
-                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{site.baseurl}}{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
-                                    </picture>
-                                </a>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="row mt--50 d-mt-20">
-                <div>
-                    <p class="heading heading--small mb--30">Diversity &amp; Inclusion Sponsors</p>
-                </div>
-                <div class="logos">
-                    {% for conference_sponsor in site.conference_sponsors %}
-                        {% assign sorted = site.sponsors | where: 'type', 'diversity_sponsor' %}
-                        {% for sponsor in sorted %}
-                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
-                                <a class="grid--3" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
-                                    <picture>
-                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{site.baseurl}}{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
-                                    </picture>
-                                </a>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="row mt--50 d-mt-20">
-                <div>
-                    <p class="heading heading--small mb--30">Gold Sponsors</p>
-                </div>
-                <div class="logos">
-                    {% for conference_sponsor in site.conference_sponsors %}
-                        {% assign sorted = site.sponsors | where: 'type', 'gold' %}
-                        {% for sponsor in sorted %}
-                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
-                                <a class="grid--3" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
-                                    <picture>
-                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{site.baseurl}}{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
-                                    </picture>
-                                </a>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="row mt--50 d-mt-20">
-                <div>
-                    <p class="heading heading--small mb--30">Silver Sponsor</p>
-                </div>
-                <div class="logos">
-                    {% for conference_sponsor in site.conference_sponsors %}
-                        {% assign sorted = site.sponsors | where: 'type', 'silver' %}
-                        {% for sponsor in sorted %}
-                            {% if conference_sponsor.sponsor_path == sponsor.path  %}
-                                <a class="grid--4" href="{{ sponsor.url }}" rel="noindex nofollow noopener noreferrer" target="_blank" title="{{ sponsor.title }}">
-                                    <picture>
-                                        <img alt="{{ page.title }} Logo" class="lazy" data-src="{{site.baseurl}}{{ sponsor.image_url }}" style="max-width: '{{ sponsor.max_width}}'; ">
-                                    </picture>
-                                </a>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="row mt--80 m-mt-20">
-                <a class="btn btn--pink triangle-left-full" href="mailto:john.baughen@codesync.global">BECOME A SPONSOR</a>
-            </div>
+<section
+  class="anchor__submenu sponsors-partners section-container section--spaced"
+  id="sponsors"
+>
+  <div class="container--small">
+    <div class="grid-gap-100">
+      <h2 class="heading heading--large">OUR SPONSORS</h2>
+      <div class="row mt--50 d-mt-20">
+        <div>
+          <p class="heading heading--small mb--30">Global sponsor</p>
         </div>
+        <div class="logos">
+          {% for conference_sponsor in site.sponsors %} {% assign sorted =
+          site.sponsors_db | where: 'type', 'global' %} {% for sponsor in sorted
+          %} {% if conference_sponsor.sponsor_path == sponsor.path %}
+          <a
+            class="grid--2"
+            href="{{ sponsor.url }}"
+            rel="noindex nofollow noopener noreferrer"
+            target="_blank"
+            title="{{ sponsor.title }}"
+          >
+            <picture>
+              <img
+                alt="{{ page.title }} Logo"
+                class="lazy"
+                data-src="{{site.baseurl}}{{ sponsor.image_url }}"
+                style="max-width: '{{ sponsor.max_width}}'; "
+              />
+            </picture>
+          </a>
+          {% endif %} {% endfor %} {% endfor %}
+        </div>
+      </div>
+      <div class="row mt--50 d-mt-20">
+        <div>
+          <p class="heading heading--small mb--30">Platinum Sponsors</p>
+        </div>
+        <div class="logos">
+          {% for conference_sponsor in site.sponsors %} {% assign sorted =
+          site.sponsors_db | where: 'type', 'platinum' %} {% for sponsor in
+          sorted %} {% if conference_sponsor.sponsor_path == sponsor.path %}
+          <a
+            class="grid--2"
+            href="{{ sponsor.url }}"
+            rel="noindex nofollow noopener noreferrer"
+            target="_blank"
+            title="{{ sponsor.title }}"
+          >
+            <picture>
+              <img
+                alt="{{ page.title }} Logo"
+                class="lazy"
+                data-src="{{site.baseurl}}{{ sponsor.image_url }}"
+                style="max-width: '{{ sponsor.max_width}}'; "
+              />
+            </picture>
+          </a>
+          {% endif %} {% endfor %} {% endfor %}
+        </div>
+      </div>
+      <div class="row mt--50 d-mt-20">
+        <div>
+          <p class="heading heading--small mb--30">
+            Diversity &amp; Inclusion Sponsors
+          </p>
+        </div>
+        <div class="logos">
+          {% for conference_sponsor in site.sponsors %} {% assign sorted =
+          site.sponsors_db | where: 'type', 'diversity_sponsor' %} {% for
+          sponsor in sorted %} {% if conference_sponsor.sponsor_path ==
+          sponsor.path %}
+          <a
+            class="grid--3"
+            href="{{ sponsor.url }}"
+            rel="noindex nofollow noopener noreferrer"
+            target="_blank"
+            title="{{ sponsor.title }}"
+          >
+            <picture>
+              <img
+                alt="{{ page.title }} Logo"
+                class="lazy"
+                data-src="{{site.baseurl}}{{ sponsor.image_url }}"
+                style="max-width: '{{ sponsor.max_width}}'; "
+              />
+            </picture>
+          </a>
+          {% endif %} {% endfor %} {% endfor %}
+        </div>
+      </div>
+      <div class="row mt--50 d-mt-20">
+        <div>
+          <p class="heading heading--small mb--30">Gold Sponsors</p>
+        </div>
+        <div class="logos">
+          {% for conference_sponsor in site.sponsors %} {% assign sorted =
+          site.sponsors_db | where: 'type', 'gold' %} {% for sponsor in sorted
+          %} {% if conference_sponsor.sponsor_path == sponsor.path %}
+          <a
+            class="grid--3"
+            href="{{ sponsor.url }}"
+            rel="noindex nofollow noopener noreferrer"
+            target="_blank"
+            title="{{ sponsor.title }}"
+          >
+            <picture>
+              <img
+                alt="{{ page.title }} Logo"
+                class="lazy"
+                data-src="{{site.baseurl}}{{ sponsor.image_url }}"
+                style="max-width: '{{ sponsor.max_width}}'; "
+              />
+            </picture>
+          </a>
+          {% endif %} {% endfor %} {% endfor %}
+        </div>
+      </div>
+      <div class="row mt--50 d-mt-20">
+        <div>
+          <p class="heading heading--small mb--30">Silver Sponsor</p>
+        </div>
+        <div class="logos">
+          {% for conference_sponsor in site.sponsors %} {% assign sorted =
+          site.sponsors_db | where: 'type', 'silver' %} {% for sponsor in sorted
+          %} {% if conference_sponsor.sponsor_path == sponsor.path %}
+          <a
+            class="grid--4"
+            href="{{ sponsor.url }}"
+            rel="noindex nofollow noopener noreferrer"
+            target="_blank"
+            title="{{ sponsor.title }}"
+          >
+            <picture>
+              <img
+                alt="{{ page.title }} Logo"
+                class="lazy"
+                data-src="{{site.baseurl}}{{ sponsor.image_url }}"
+                style="max-width: '{{ sponsor.max_width}}'; "
+              />
+            </picture>
+          </a>
+          {% endif %} {% endfor %} {% endfor %}
+        </div>
+      </div>
+      <div class="row mt--80 m-mt-20">
+        <a
+          class="btn btn--pink triangle-left-full"
+          href="mailto:john.baughen@codesync.global"
+          >BECOME A SPONSOR</a
+        >
+      </div>
     </div>
+  </div>
 </section>

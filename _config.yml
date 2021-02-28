@@ -55,9 +55,6 @@ collections:
   speakers:
     output: true
     sort_by: relevance
-  keynotes:
-    output: true
-    sort_by: relevance
   trainers:
     output: true
     sort_by: relevance
@@ -77,13 +74,11 @@ collections:
     output: true
   testimonials:
     output: true
-  conference_keynotes:
-    output: true
-  conference_speakers:
+  sponsors_db:
     output: true
   sponsors:
     output: true
-  conference_sponsors:
+  conference:
     output: true
   conference_brands:
     output: true
