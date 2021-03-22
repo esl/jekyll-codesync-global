@@ -66,3 +66,5 @@ fields:
       type: pages
       section: speakers
   label: speakers
+pages:
+- _talks/sample conf/sample-talk.md
