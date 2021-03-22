@@ -10,7 +10,6 @@ menu: |-
   * [Sponsors](#sponsors)
   * [Media](#media)
   * [Training](#training)
-  * [Venue](#venue)
 title: Sample conference 2
 past: false
 bg_image: "/uploads/iot-web.jpg"
