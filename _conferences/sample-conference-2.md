@@ -49,8 +49,7 @@ group_tickets_paragraph_2: Find out how much you can save!
 group_enquire_mailto_link: test@example.com
 academic_tickets_paragraph_1: We love students and academics. We're thrilled to offer
   special discounts to academics and students who would like to attend Code BEAM V.
-academic_tickets_paragraph_2: 'Simply get in touch to confirm that you''re a student/academic
-  and we will release the discount code. '
+academic_tickets_paragraph_2: ''
 academic_enquire_mailto_link: email@example.com
 health_advice_p_1: Health advice p1
 health_advice_p_2: Health advice p2
