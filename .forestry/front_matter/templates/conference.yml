@@ -150,16 +150,28 @@ fields:
   config:
     required: false
   label: About Academic Tickets Message
+- name: conference_diversity
+  type: boolean
+  label: Conference diversity
+  default: true
 - name: about_diversity_message
   type: text
   config:
     required: false
   label: About Diversity Message
+- name: conference_volunteers
+  type: boolean
+  label: Conference volunteers
+  default: true
 - name: about_volunteer_message
   type: text
   config:
     required: false
   label: About Volunteer Message
+- name: conference_tickets
+  type: boolean
+  label: Conference tickets
+  default: true
 - name: tickets_bg_image
   type: file
   config:
@@ -308,25 +320,13 @@ fields:
   config:
     required: false
   label: Call For Talks Link
-- name: conference_past_conferences
-  type: boolean
-  label: Conference Past Conferences
-  default: true
-- name: conference_tickets
-  type: boolean
-  label: Conference tickets
-  default: true
-- name: conference_diversity
-  type: boolean
-  label: Conference diversity
-  default: true
-- name: conference_volunteers
-  type: boolean
-  label: Conference volunteers
-  default: true
 - name: conference_sponsors
   type: boolean
   label: Conference sponsors
+  default: true
+- name: conference_past_conferences
+  type: boolean
+  label: Conference Past Conferences
   default: true
 pages:
 - _conferences/cbl-amsterdam-2018.md
