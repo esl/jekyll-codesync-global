@@ -13,9 +13,11 @@
             {% include conference_overview.html %}
             {% include conference_overview_details.html %}
             {% include conference_themes.html %}
-            {% include conference_tickets.html %}
-            {% include conference_group_tickets.html %}
-            {% include conference_academic_tickets.html %}
+            {% if page.conference_tickets == true %}
+                {% include conference_tickets.html %}
+                {% include conference_group_tickets.html %}
+                {% include conference_academic_tickets.html %}
+            {% endif %}
             {% include conference_testimonials.html %}
             {% include conference_speakers.html %}
             {% include conference_trainings.html %}
@@ -26,11 +28,17 @@
                 {% include conference_venue.html %}
             {% endif %}
             {% include conference_newsletter.html %}
-            {% include conference_diversity.html %}
-            {% include conference_volunteer.html %}
+            {% if page.conference_diversity == true %}
+                {% include conference_diversity.html %}
+            {% endif %}
+            {% if page.conference_volunteers == true %}
+                {% include conference_volunteer.html %}
+            {% endif %}
             {% include conference_past_talks.html %}
             {% include conference_call_for_talks.html %}
-            {% include conference_sponsors.html %}
+            {% if page.conference_sponsors == true %}
+                {% include conference_sponsors.html %}
+            {% endif %}
             {% if page.conference_past_conferences == true %}
                 {% include conference_past_conferences.html %}            
             {% endif %}
