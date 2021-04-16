@@ -312,6 +312,22 @@ fields:
   type: boolean
   label: Conference Past Conferences
   default: true
+- name: conference_tickets
+  type: boolean
+  label: Conference tickets
+  default: true
+- name: conference_diversity
+  type: boolean
+  label: Conference diversity
+  default: true
+- name: conference_volunteers
+  type: boolean
+  label: Conference volunteers
+  default: true
+- name: conference_sponsors
+  type: boolean
+  label: Conference sponsors
+  default: true
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
