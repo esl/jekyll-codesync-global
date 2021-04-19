@@ -1,6 +1,6 @@
 ---
-type: 'special'
-conference_path: _conferences/code-beam-sto.md
+type: ''
+conference_path: _conferences/sample-conference-2.md
 title: STUDENT TICKET
 desc: Learn about academic and student tickets.
 price: "€45"
