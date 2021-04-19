@@ -75,5 +75,6 @@ call_for_talks_message: Speak at Code BEAM STO! Call for talks closed on 17 Janu
   the status of your talk!
 call_for_talks_link: https://goo.gl/maps/gv3sFCw7xWKAsqf38
 programme_committee: false
+conference_tickets: true
 
 ---
