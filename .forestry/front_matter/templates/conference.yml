@@ -150,10 +150,6 @@ fields:
   config:
     required: false
   label: About Academic Tickets Message
-- name: conference_diversity
-  type: boolean
-  label: Conference diversity
-  default: true
 - name: about_diversity_message
   type: text
   config:
@@ -290,6 +286,10 @@ fields:
   config:
     maxSize: 64
   label: Newsletter Background Image
+- name: conference_diversity
+  type: boolean
+  label: Conference diversity
+  default: true
 - name: diversity_message
   type: text
   config:
