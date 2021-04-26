@@ -316,6 +316,12 @@ fields:
   config:
     required: false
   label: Volunteer Link URL
+- name: volunteer_link_text
+  type: text
+  config:
+    required: false
+  label: volunteer link text
+  description: Text for the volunteer link button
 - name: call_for_talks_message
   type: text
   config:
