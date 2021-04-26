@@ -1,4 +1,4 @@
-<section class="background-image volunteer section-container pb--100 m-pb-40 black-gradient--top lazy" data-bg="url('')">
+<section class="background-image volunteer section-container pb--100 m-pb-40 black-gradient--top lazy" data-bg="url('{{ page.background_image }}')">
     <div class="container--small">
         <div class="grid">
             <h3 class="anchor__submenu heading heading--large pt--100 m-pt-40 " id="volunteer">VOLUNTEER</h3>
@@ -11,7 +11,7 @@
                 <div class="col-6 t-col-6 m-col-12">
                     <div class="grid-bottom mt--30">
                         <a class="btn btn--pink btn--primary align--right triangle-left-full" href="{{ page.volunteer_link_url }}">
-                            APPLY
+                            {{ page.volunteer_link_text }}
                         </a>
                     </div>
                 </div>
