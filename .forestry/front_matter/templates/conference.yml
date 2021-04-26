@@ -290,6 +290,12 @@ fields:
   type: boolean
   label: Conference diversity
   default: true
+- name: diversity_background
+  type: file
+  config:
+    maxSize: 64
+  label: Diversity background
+  description: Background image for diversity
 - name: diversity_message
   type: text
   config:
@@ -300,6 +306,12 @@ fields:
   config:
     required: false
   label: Diversity Link URL
+- name: diversity_link_text
+  type: text
+  config:
+    required: false
+  label: Diversity link text
+  description: Text for diversity link
 - name: volunteers_background
   type: file
   config:
