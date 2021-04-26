@@ -42,6 +42,9 @@
             {% if page.conference_past_conferences == true %}
                 {% include conference_past_conferences.html %}            
             {% endif %}
+            {% if page.conference_floating_ticket == true %}
+                {% include conference_floating_ticket.html %}            
+            {% endif %}
         </main>
         {% include footer.html %}
         <!-- Bottom Imports -->
