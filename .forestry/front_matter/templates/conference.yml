@@ -300,6 +300,12 @@ fields:
   config:
     required: false
   label: Diversity Link URL
+- name: volunteers_background
+  type: file
+  config:
+    maxSize: 64
+  label: Volunteers Background
+  description: Background image for volunteers section
 - name: volunteer_message
   type: text
   config:
@@ -328,12 +334,6 @@ fields:
   type: boolean
   label: Conference Past Conferences
   default: true
-- name: volunteers_background
-  type: file
-  config:
-    maxSize: 64
-  label: Volunteers Background
-  description: Background image for volunteers section
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
