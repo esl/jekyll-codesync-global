@@ -290,6 +290,12 @@ fields:
   type: boolean
   label: Conference diversity
   default: true
+- name: diversity_background
+  type: file
+  config:
+    maxSize: 64
+  label: Diversity background
+  description: Background image for diversity
 - name: diversity_message
   type: text
   config:
@@ -300,6 +306,12 @@ fields:
   config:
     required: false
   label: Diversity Link URL
+- name: diversity_link_text
+  type: text
+  config:
+    required: false
+  label: Diversity link text
+  description: Text for diversity link
 - name: volunteers_background
   type: file
   config:
@@ -322,6 +334,12 @@ fields:
     required: false
   label: volunteer link text
   description: Text for the volunteer link button
+- name: call_for_talks_background_image
+  type: file
+  config:
+    maxSize: 64
+  description: Call for talks background image
+  label: call for talks background image
 - name: call_for_talks_message
   type: text
   config:
@@ -332,6 +350,12 @@ fields:
   config:
     required: false
   label: Call For Talks Link
+- name: call_for_talks_link_text
+  type: text
+  config:
+    required: false
+  label: call for talks link text
+  description: text for call for talks link
 - name: conference_sponsors
   type: boolean
   label: Conference sponsors
