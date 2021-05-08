@@ -1,12 +1,12 @@
 ---
 header:
 - template: tickets
-  type: []
+  type: ''
   conference_path: []
-  title: ''
-  desc: ''
-  price: ''
-  url: ''
-  open: false
+  title: hola
+  desc: madona
+  price: '44'
+  url: '111'
+  open: true
 
 ---
