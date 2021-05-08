@@ -97,6 +97,12 @@ defaults:
     values: 
       layout: conference
   - 
+    scope:
+      path: ""
+      type: conferences_2
+    values: 
+      layout: conference_2
+  - 
     scope: 
       path: "trainings"
       type: conferences
