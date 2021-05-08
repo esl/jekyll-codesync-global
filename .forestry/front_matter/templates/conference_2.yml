@@ -1,4 +1,13 @@
 ---
 label: conference_2
 hide_body: false
-fields: []
+fields:
+- name: header
+  type: blocks
+  label: tickets
+  template_types:
+  - tickets
+  config:
+    min: 
+    max: 
+  description: tickets of conf
