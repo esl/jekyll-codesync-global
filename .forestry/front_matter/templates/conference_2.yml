@@ -11,3 +11,5 @@ fields:
     min: 
     max: 
   description: tickets of conf
+pages:
+- _conferences_2/conference-2-sample.md
