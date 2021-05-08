@@ -364,6 +364,14 @@ fields:
   type: boolean
   label: Conference Past Conferences
   default: true
+- name: block
+  type: blocks
+  label: block
+  template_types:
+  - tickets
+  config:
+    min: 
+    max: 
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
