@@ -45,6 +45,10 @@
             {% if page.conference_floating_ticket == true %}
                 {% include conference_floating_ticket.html %}            
             {% endif %}
+
+            {% for section in page.page_sections %}
+                {% include block-{{ section.block }}.html %}
+            {% endfor %}
         </main>
         {% include footer.html %}
         <!-- Bottom Imports -->

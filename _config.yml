@@ -82,6 +82,8 @@ collections:
     output: true
   conferences_2:
     output: true
+  conference_2:
+    output: true
   conference_brands:
     output: true
 
