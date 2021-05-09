@@ -9,7 +9,7 @@
         <!-- Conference includes -->
         {% include conference_menu.html %}
         <main class="conference">
-            {% include conference_head_section.html %}
+            <!-- {% include conference_head_section.html %}
             {% include conference_overview.html %}
             {% include conference_overview_details.html %}
             {% include conference_themes.html %}
@@ -44,7 +44,7 @@
             {% endif %}
             {% if page.conference_floating_ticket == true %}
                 {% include conference_floating_ticket.html %}            
-            {% endif %}
+            {% endif %} -->
 
             {% for section in page.page_sections %}
                 {% include block-{{ section.block }}.html %}
