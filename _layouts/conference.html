@@ -45,6 +45,22 @@
             {% if page.conference_floating_ticket == true %}
                 {% include conference_floating_ticket.html %}            
             {% endif %}
+            <!-- custom sections -->
+            {% if page.conference_custom_image_url == true %}
+                {% include conference_custom_image_url.html %}            
+            {% endif %}
+            {% if page.conference_custom_title_2_columns == true %}
+                {% include conference_custom_title_2_columns.html %}            
+            {% endif %}
+            {% if page.conference_custom_title_text_left == true %}
+                {% include conference_custom_title_text_left.html %}            
+            {% endif %}
+            {% if page.conference_custom_title_text_right == true %}
+                {% include conference_custom_title_text_right.html %}            
+            {% endif %}
+            {% if page.conference_custom_title_text == true %}
+                {% include conference_custom_title_text.html %}            
+            {% endif %}
         </main>
         {% include footer.html %}
         <!-- Bottom Imports -->
