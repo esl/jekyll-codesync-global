@@ -84,5 +84,10 @@ block:
   price: '23423'
   url: fff
   open: true
+conference_custom_image_url: true
+conference_custom_title_2_columns: true
+conference_custom_title_text_left: true
+conference_custom_title_text_right: true
+conference_custom_title_text: true
 
 ---
