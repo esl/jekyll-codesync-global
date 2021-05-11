@@ -388,6 +388,22 @@ fields:
   showOnly:
     field: conference_health_advice
     value: true
+- name: conference_custom_image_url
+  type: boolean
+  label: conference_custom_image_url
+  default: false
+- name: conference_custom_title_2_columns
+  type: boolean
+  label: conference_custom_title_2_columns
+- name: conference_custom_title_text_left
+  type: boolean
+  label: conference_custom_title_text_left
+- name: conference_custom_title_text_right
+  type: boolean
+  label: conference_custom_title_text_right
+- name: conference_custom_title_text
+  type: boolean
+  label: conference_custom_title_text
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
