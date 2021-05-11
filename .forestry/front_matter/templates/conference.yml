@@ -364,30 +364,6 @@ fields:
   type: boolean
   label: Conference Past Conferences
   default: true
-- name: block
-  type: blocks
-  label: block
-  template_types:
-  - tickets
-  config:
-    min: 
-    max: 
-- name: sortable_list
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: 
-    source:
-      type: simple
-      section: conferences
-    options:
-    - conference_health_advice
-    - conference_venue
-  label: sortable list
-  showOnly:
-    field: conference_health_advice
-    value: true
 - name: conference_custom_image_url
   type: boolean
   label: conference_custom_image_url
