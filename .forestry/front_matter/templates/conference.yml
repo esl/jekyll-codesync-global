@@ -364,20 +364,21 @@ fields:
   type: boolean
   label: Conference Past Conferences
   default: true
-- name: conference_custom_image_url
+- name: conference_custom_1
   type: boolean
   label: conference_custom_image_url
   default: false
-- name: conference_custom_title_2_columns
+  description: conference_custom_image_url
+- name: conference_custom_2
   type: boolean
   label: conference_custom_title_2_columns
-- name: conference_custom_title_text_left
+- name: conference_custom_3
   type: boolean
   label: conference_custom_title_text_left
-- name: conference_custom_title_text_right
+- name: conference_custom_4
   type: boolean
   label: conference_custom_title_text_right
-- name: conference_custom_title_text
+- name: conference_custom_5
   type: boolean
   label: conference_custom_title_text
 pages:
