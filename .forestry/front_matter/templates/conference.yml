@@ -368,6 +368,7 @@ fields:
   type: boolean
   label: conference_custom_image_url
   default: false
+  description: conference_custom_image_url
 - name: conference_custom_title_2_columns
   type: boolean
   label: conference_custom_title_2_columns
