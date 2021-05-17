@@ -380,6 +380,31 @@ fields:
 - name: conference_custom_2
   type: boolean
   label: Custom Title with text center
+- name: conference_custom_2_heading
+  type: text
+  config:
+    required: false
+  label: conference_custom_2_heading
+- name: conference_custom_2_subheading
+  type: text
+  config:
+    required: false
+  label: conference_custom_2_subheading
+- name: conference_custom_2_description
+  type: text
+  config:
+    required: false
+  label: conference_custom_2_description
+- name: conference_custom_2_heading_2
+  type: text
+  config:
+    required: false
+  label: conference_custom_2_heading_2
+- name: conference_custom_2_description_2
+  type: text
+  config:
+    required: false
+  label: conference_custom_2_description_2
 - name: conference_custom_3
   type: boolean
   label: Custom Title with text left
