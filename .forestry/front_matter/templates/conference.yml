@@ -367,6 +367,16 @@ fields:
 - name: conference_custom_1
   type: boolean
   label: Custom Image with url
+- name: conference_custom_1_img_bg
+  type: file
+  config:
+    maxSize: 64
+  label: conference_custom_1_img_bg
+- name: conference_custom_1_img_link
+  type: text
+  config:
+    required: false
+  label: conference_custom_1_img_link
 - name: conference_custom_2
   type: boolean
   label: Custom Title with text center
