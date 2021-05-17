@@ -366,19 +366,19 @@ fields:
   default: true
 - name: conference_custom_1
   type: boolean
-  label: Image with url
+  label: Custom Image with url
 - name: conference_custom_2
   type: boolean
-  label: Title with text center
+  label: Custom Title with text center
 - name: conference_custom_3
   type: boolean
-  label: Title with text left
+  label: Custom Title with text left
 - name: conference_custom_4
   type: boolean
-  label: Title with text right
+  label: Custom Title with text right
 - name: conference_custom_5
   type: boolean
-  label: Section with 2 columns
+  label: Custom Section with 2 columns
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
