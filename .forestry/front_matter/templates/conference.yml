@@ -373,6 +373,12 @@ fields:
 - name: conference_custom_3
   type: boolean
   label: Title with text left
+- name: conference_custom_4
+  type: boolean
+  label: Title with text right
+- name: conference_custom_5
+  type: boolean
+  label: Section with 2 columns
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
