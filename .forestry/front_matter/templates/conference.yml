@@ -408,6 +408,31 @@ fields:
 - name: conference_custom_3
   type: boolean
   label: Custom Title with text left
+- name: conference_custom_3_bg
+  type: file
+  config:
+    maxSize: 64
+  label: conference_custom_3_bg
+- name: conference_custom_3_heading
+  type: text
+  config:
+    required: false
+  label: conference_custom_3_heading
+- name: conference_custom_3_description
+  type: text
+  config:
+    required: false
+  label: conference_custom_3_description
+- name: conference_custom_3_link_url
+  type: text
+  config:
+    required: false
+  label: conference_custom_3_link_url
+- name: conference_custom_3_link_text
+  type: text
+  config:
+    required: false
+  label: conference_custom_3_link_text
 - name: conference_custom_4
   type: boolean
   label: Custom Title with text right
