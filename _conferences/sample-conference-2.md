@@ -89,5 +89,32 @@ conference_custom_title_2_columns: true
 conference_custom_title_text_left: true
 conference_custom_title_text_right: true
 conference_custom_title_text: true
+conference_custom_1: true
+conference_custom_1_img_bg: "/uploads/ldn.jpg"
+conference_custom_1_img_link: "#"
+conference_custom_2: true
+conference_custom_2_heading: Conference custom 2 heading
+conference_custom_2_subheading: Conference custom 2 subheading
+conference_custom_2_description: Conference custom 2 description
+conference_custom_2_heading_2: Conference custom 2 heading 2
+conference_custom_2_description_2: Conference custom 2 description 2
+conference_custom_3: true
+conference_custom_3_bg: "/uploads/codemesh-article.jpg"
+conference_custom_3_heading: Conference custom 3 heading
+conference_custom_3_description: Conference custom 3 description
+conference_custom_3_link_url: Conference custom 3 link url
+conference_custom_3_link_text: Conference custom 3 link text
+conference_custom_4: true
+conference_custom_4_bg: "/uploads/iot-web.jpg"
+conference_custom_4_heading: Conference custom 4 heading
+conference_custom_4_description: Conference custom 4 description
+conference_custom_4_link_url: Conference custom 4 link url
+conference_custom_4_link_text: Conference custom 4 link desc
+conference_custom_5: true
+conference_custom_5_bg: "/uploads/ce-blog.jpg"
+conference_custom_5_heading: Conference custom 5 heading
+conference_custom_5_description: Conference custom 5 description
+conference_custom_5_link_url: "#"
+conference_custom_5_link_text: Conference custom 5 link text
 
 ---
