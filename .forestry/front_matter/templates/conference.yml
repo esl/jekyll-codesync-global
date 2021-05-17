@@ -436,6 +436,31 @@ fields:
 - name: conference_custom_4
   type: boolean
   label: Custom Title with text right
+- name: conference_custom_4_bg
+  type: file
+  config:
+    maxSize: 64
+  label: conference_custom_4_bg
+- name: conference_custom_4_heading
+  type: text
+  config:
+    required: false
+  label: conference_custom_4_heading
+- name: conference_custom_4_description
+  type: text
+  config:
+    required: false
+  label: conference_custom_4_description
+- name: conference_custom_4_link_url
+  type: text
+  config:
+    required: false
+  label: conference_custom_4_link_url
+- name: conference_custom_4_link_text
+  type: text
+  config:
+    required: false
+  label: conference_custom_4_link_text
 - name: conference_custom_5
   type: boolean
   label: Custom Section with 2 columns
