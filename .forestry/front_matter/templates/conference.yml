@@ -364,6 +364,15 @@ fields:
   type: boolean
   label: Conference Past Conferences
   default: true
+- name: conference_custom_1
+  type: boolean
+  label: Image with url
+- name: conference_custom_2
+  type: boolean
+  label: Title with text
+- name: conference_custom_3
+  type: boolean
+  label: Title with text right
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
