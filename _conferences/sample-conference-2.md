@@ -116,5 +116,7 @@ conference_custom_5_heading: Conference custom 5 heading
 conference_custom_5_description: Conference custom 5 description
 conference_custom_5_link_url: "#"
 conference_custom_5_link_text: Conference custom 5 link text
+conference_custom_5_subtitle: conference custom 5 subtitle
+conference_custom_5_description_2: conference custom 5 description 2
 
 ---
