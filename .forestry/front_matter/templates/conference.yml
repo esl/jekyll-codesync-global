@@ -479,16 +479,16 @@ fields:
   config:
     required: false
   label: conference_custom_5_description
-- name: conference_custom_5_link_url
+- name: conference_custom_5_subtitle
   type: text
   config:
     required: false
-  label: conference_custom_5_link_url
-- name: conference_custom_5_link_text
+  label: conference_custom_5_subtitle
+- name: conference_custom_5_description_2
   type: text
   config:
     required: false
-  label: conference_custom_5_link_text
+  label: conference_custom_5_description_2
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
