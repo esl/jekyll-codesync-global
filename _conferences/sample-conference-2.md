@@ -103,13 +103,13 @@ conference_custom_3_bg: "/uploads/codemesh-article.jpg"
 conference_custom_3_heading: Conference custom 3 heading
 conference_custom_3_description: Conference custom 3 description
 conference_custom_3_link_url: Conference custom 3 link url
-conference_custom_3_link_text: Conference custom 3 link text
+conference_custom_3_link_text: link text
 conference_custom_4: true
 conference_custom_4_bg: "/uploads/iot-web.jpg"
 conference_custom_4_heading: Conference custom 4 heading
 conference_custom_4_description: Conference custom 4 description
 conference_custom_4_link_url: Conference custom 4 link url
-conference_custom_4_link_text: Conference custom 4 link desc
+conference_custom_4_link_text: link text
 conference_custom_5: true
 conference_custom_5_bg: "/uploads/ce-blog.jpg"
 conference_custom_5_heading: Conference custom 5 heading
