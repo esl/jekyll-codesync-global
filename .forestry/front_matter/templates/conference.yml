@@ -155,10 +155,6 @@ fields:
   config:
     required: false
   label: About Diversity Message
-- name: conference_volunteers
-  type: boolean
-  label: Conference volunteers
-  default: true
 - name: about_volunteer_message
   type: text
   config:
@@ -312,6 +308,10 @@ fields:
     required: false
   label: Diversity link text
   description: Text for diversity link
+- name: conference_volunteers
+  type: boolean
+  label: Conference volunteers
+  default: true
 - name: volunteers_background
   type: file
   config:
