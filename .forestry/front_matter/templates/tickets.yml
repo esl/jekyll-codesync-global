@@ -27,10 +27,12 @@ fields:
   label: Open
 - name: type
   type: select
-  default: []
+  default: regular
   config:
     required: false
-    options: []
+    options:
+    - regular
+    - special
     source:
       type: simple
       section: 

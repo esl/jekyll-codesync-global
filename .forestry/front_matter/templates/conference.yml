@@ -18,6 +18,7 @@ fields:
     schema:
       format: markdown
   label: menu
+  description: Sections available to scrool:<br>#tickets<br>#speakers
 - name: title
   type: text
   config:
@@ -155,10 +156,6 @@ fields:
   config:
     required: false
   label: About Diversity Message
-- name: conference_volunteers
-  type: boolean
-  label: Conference volunteers
-  default: true
 - name: about_volunteer_message
   type: text
   config:
@@ -312,6 +309,10 @@ fields:
     required: false
   label: Diversity link text
   description: Text for diversity link
+- name: conference_volunteers
+  type: boolean
+  label: Conference volunteers
+  default: true
 - name: volunteers_background
   type: file
   config:
@@ -380,6 +381,12 @@ fields:
 - name: conference_custom_2
   type: boolean
   label: Custom Title with text center
+- name: conference_custom_2_heading_id
+  type: text
+  config:
+    required: false
+  label: conference_custom_2_heading_id
+  description: Add name of the section to be used in the menu
 - name: conference_custom_2_heading
   type: text
   config:

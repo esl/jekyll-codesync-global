@@ -10,6 +10,8 @@ menu: |-
   * [Sponsors](#sponsors)
   * [Media](#media)
   * [Training](#training)
+  * [Tickets](#tickets)
+  * [Hybrid](#hybrid)
 title: Sample conference 2
 past: false
 bg_image: "/uploads/iot-web.jpg"
@@ -30,7 +32,7 @@ about_paragraph_1: Sample paragraph data 1
 about_paragraph_2: Sample paragraph data 2
 about_paragraph_3: Sample paragraph data 3
 about_title_right: About Sample data
-about_register_message: 'more information will be available soon. '
+about_register_message: ''
 about_group_tickets_message: 'Get special group discounts for group bookings. '
 about_academic_tickets_message: 'We love students and academics. Get a special academic
   discount. More information will be available soon. '
@@ -93,8 +95,8 @@ conference_custom_1: true
 conference_custom_1_img_bg: "/uploads/ldn.jpg"
 conference_custom_1_img_link: "#"
 conference_custom_2: true
-conference_custom_2_heading: Conference custom 2 heading
-conference_custom_2_subheading: Conference custom 2 subheading
+conference_custom_2_heading: Going Hybrid
+conference_custom_2_subheading: Description of going hybrid
 conference_custom_2_description: Conference custom 2 description
 conference_custom_2_heading_2: Conference custom 2 heading 2
 conference_custom_2_description_2: Conference custom 2 description 2
@@ -118,5 +120,6 @@ conference_custom_5_link_url: "#"
 conference_custom_5_link_text: Conference custom 5 link text
 conference_custom_5_subtitle: conference custom 5 subtitle
 conference_custom_5_description_2: conference custom 5 description 2
+conference_custom_2_heading_id: hybrid
 
 ---
