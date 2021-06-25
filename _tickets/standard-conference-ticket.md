@@ -1,5 +1,5 @@
 ---
-type: ''
+type: regular
 conference_path: _conferences/sample-conference-2.md
 title: STANDARD CONFERENCE TICKET
 desc: Access to the virtual conference (10-11 September, 13-20 CEST ). Price excludes
