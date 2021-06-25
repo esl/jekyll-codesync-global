@@ -381,6 +381,12 @@ fields:
 - name: conference_custom_2
   type: boolean
   label: Custom Title with text center
+- name: conference_custom_2_heading_id
+  type: text
+  config:
+    required: false
+  label: conference_custom_2_heading_id
+  description: Add name of the section to be used in the menu
 - name: conference_custom_2_heading
   type: text
   config:
