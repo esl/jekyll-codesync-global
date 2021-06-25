@@ -18,6 +18,7 @@ fields:
     schema:
       format: markdown
   label: menu
+  description: Sections available to scrool:<br>#tickets<br>#speakers
 - name: title
   type: text
   config:
