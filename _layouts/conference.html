@@ -10,16 +10,23 @@
         {% include conference_menu.html %}
         <main class="conference">
             {% include conference_head_section.html %}
-            {% include conference_overview.html %}
-            {% include conference_overview_details.html %}
-            {% include conference_themes.html %}
+            {% if page.conference_overview == true %}
+                {% include conference_overview.html %}
+            {% endif %}
+            {% if page.conference_themes == true %}
+                {% include conference_themes.html %}
+            {% endif %}
             {% if page.conference_tickets == true %}
                 {% include conference_tickets.html %}
                 {% include conference_group_tickets.html %}
                 {% include conference_academic_tickets.html %}
             {% endif %}
-            {% include conference_testimonials.html %}
-            {% include conference_speakers.html %}
+            {% if page.conference_testimonials == true %}
+                {% include conference_testimonials.html %}
+            {% endif %}
+            {% if page.conference_speakers == true %}
+                {% include conference_speakers.html %}
+            {% endif %}
             {% include conference_trainings.html %}
             {% if page.conference_health_advice == true %}
                 {% include conference_health_advice.html %}
@@ -34,8 +41,12 @@
             {% if page.conference_volunteers == true %}
                 {% include conference_volunteer.html %}
             {% endif %}
-            {% include conference_past_talks.html %}
-            {% include conference_call_for_talks.html %}
+            {% if page.conference_past_talks == true %}
+                {% include conference_past_talks.html %}
+            {% endif %}
+            {% if page.conference_call_for_talks == true %}
+                {% include conference_call_for_talks.html %}
+            {% endif %}
             {% if page.conference_sponsors == true %}
                 {% include conference_sponsors.html %}
             {% endif %}
