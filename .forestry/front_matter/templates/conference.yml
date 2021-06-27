@@ -422,6 +422,13 @@ fields:
 - name: conference_custom_3
   type: boolean
   label: Custom Title with text left
+- name: conference_custom_3_id
+  type: text
+  config:
+    required: false
+  description: This ID is for the menu to scroll directly to that section when you
+    click on the button
+  label: Conference_custom_3_id
 - name: conference_custom_3_bg
   type: file
   config:
