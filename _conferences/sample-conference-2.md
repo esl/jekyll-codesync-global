@@ -95,6 +95,7 @@ conference_custom_1: true
 conference_custom_1_img_bg: "/uploads/ldn.jpg"
 conference_custom_1_img_link: "#"
 conference_custom_2: true
+conference_custom_2_id: hybrid
 conference_custom_2_heading: Going Hybrid
 conference_custom_2_subheading: Description of going hybrid
 conference_custom_2_description: Conference custom 2 description
@@ -120,6 +121,5 @@ conference_custom_5_link_url: "#"
 conference_custom_5_link_text: Conference custom 5 link text
 conference_custom_5_subtitle: conference custom 5 subtitle
 conference_custom_5_description_2: conference custom 5 description 2
-conference_custom_2_heading_id: hybrid
 
 ---
