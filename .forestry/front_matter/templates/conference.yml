@@ -457,6 +457,13 @@ fields:
 - name: conference_custom_4
   type: boolean
   label: Custom Title with text right
+- name: conference_custom_4_id
+  type: text
+  config:
+    required: false
+  label: Conference custom 4 ID
+  description: This ID is for the menu to scroll directly to that section when you
+    click on the button
 - name: conference_custom_4_bg
   type: file
   config:
