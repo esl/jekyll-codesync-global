@@ -524,6 +524,30 @@ fields:
   config:
     required: false
   label: conference_custom_5_description_2
+- name: conference_themes
+  type: boolean
+  label: conference_themes
+  default: true
+- name: conference_overview
+  type: boolean
+  label: conference_overview
+  default: true
+- name: conference_testimonials
+  type: boolean
+  label: conference_testimonials
+  default: true
+- name: conference_speakers
+  type: boolean
+  label: conference_speakers
+  default: true
+- name: conference_past_talks
+  type: boolean
+  label: conference_past_talks
+  default: true
+- name: conference_call_for_talks
+  type: boolean
+  label: conference_call_for_talks
+  default: true
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
