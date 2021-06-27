@@ -368,6 +368,13 @@ fields:
 - name: conference_custom_1
   type: boolean
   label: Custom Image with url
+- name: conference_custom_1_id
+  type: text
+  config:
+    required: false
+  label: conference_custom_1_id
+  description: This ID is for the menu to scroll directly to that section when you
+    click on the button
 - name: conference_custom_1_img_bg
   type: file
   config:
