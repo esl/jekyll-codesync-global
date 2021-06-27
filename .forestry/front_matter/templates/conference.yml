@@ -86,6 +86,10 @@ fields:
   config:
     required: false
   label: Head Title
+- name: conference_overview
+  type: boolean
+  label: conference_overview
+  default: true
 - name: overview_heading
   type: text
   config:
@@ -111,6 +115,10 @@ fields:
   config:
     required: false
   label: Number Of Attendees
+- name: conference_themes
+  type: boolean
+  label: conference_themes
+  default: true
 - name: about_title_left
   type: text
   config:
@@ -224,6 +232,10 @@ fields:
   type: boolean
   label: Conference Health Advice
   default: true
+- name: conference_testimonials
+  type: boolean
+  label: conference_testimonials
+  default: true
 - name: health_advice_p_1
   type: text
   config:
@@ -335,6 +347,10 @@ fields:
     required: false
   label: volunteer link text
   description: Text for the volunteer link button
+- name: conference_call_for_talks
+  type: boolean
+  label: conference_call_for_talks
+  default: true
 - name: call_for_talks_background_image
   type: file
   config:
@@ -524,6 +540,14 @@ fields:
   config:
     required: false
   label: conference_custom_5_description_2
+- name: conference_speakers
+  type: boolean
+  label: conference_speakers
+  default: true
+- name: conference_past_talks
+  type: boolean
+  label: conference_past_talks
+  default: true
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
