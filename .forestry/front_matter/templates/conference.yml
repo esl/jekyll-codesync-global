@@ -492,6 +492,13 @@ fields:
 - name: conference_custom_5
   type: boolean
   label: Custom Section with 2 columns
+- name: conference_custom_5_id
+  type: text
+  config:
+    required: false
+  label: Conference custom 5 ID
+  description: This ID is for the menu to scroll directly to that section when you
+    click on the button
 - name: conference_custom_5_bg
   type: file
   config:
