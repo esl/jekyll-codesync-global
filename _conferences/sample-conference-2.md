@@ -4,14 +4,18 @@ conference_health_advice: false
 conference_venue: true
 conference_past_conferences: true
 menu: |-
-  * [Programme Committee](#committee)
+  * [Programme Committee](#custom1)
   * [Schedule](#schedule)
   * [Speakers](#speakers)
   * [Sponsors](#sponsors)
   * [Media](#media)
   * [Training](#training)
   * [Tickets](#tickets)
-  * [Hybrid](#hybrid)
+  * [custom1](#custom1)
+  * [custom2](#custom2)
+  * [custom3](#custom3)
+  * [custom4](#custom4)
+  * [custom5](#custom5)
 title: Sample conference 2
 past: false
 bg_image: "/uploads/iot-web.jpg"
@@ -95,7 +99,7 @@ conference_custom_1: true
 conference_custom_1_img_bg: "/uploads/ldn.jpg"
 conference_custom_1_img_link: "#"
 conference_custom_2: true
-conference_custom_2_id: hybrid
+conference_custom_2_id: custom2
 conference_custom_2_heading: Going Hybrid
 conference_custom_2_subheading: Description of going hybrid
 conference_custom_2_description: Conference custom 2 description
@@ -121,5 +125,9 @@ conference_custom_5_link_url: "#"
 conference_custom_5_link_text: Conference custom 5 link text
 conference_custom_5_subtitle: conference custom 5 subtitle
 conference_custom_5_description_2: conference custom 5 description 2
+conference_custom_5_id: custom5
+conference_custom_4_id: custom4
+conference_custom_3_id: custom3
+conference_custom_1_id: custom1
 
 ---
