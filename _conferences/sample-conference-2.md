@@ -36,8 +36,8 @@ about_paragraph_1: Sample paragraph data 1
 about_paragraph_2: Sample paragraph data 2
 about_paragraph_3: Sample paragraph data 3
 about_title_right: About Sample data
-about_register_message: ''
-about_group_tickets_message: 'Get special group discounts for group bookings. '
+about_register_message: register message
+about_group_tickets_message: ''
 about_academic_tickets_message: 'We love students and academics. Get a special academic
   discount. More information will be available soon. '
 about_diversity_message: We're committed to diversity at Code BEAM V. Applications
