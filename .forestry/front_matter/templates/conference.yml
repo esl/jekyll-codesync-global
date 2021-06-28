@@ -548,6 +548,17 @@ fields:
   type: boolean
   label: conference_past_talks
   default: true
+- name: conference_themes_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Conference Themes Content
+  description: Each column can be added manually using the following HTML format:<br><br>&lt;div
+    class="col m-col-12"&gt;<br>  &lt;p&gt;TITLE&lt;/p&gt;<br>  &lt;p&gt;Content&lt;/p&gt;<br>&lt;/div&gt;
 pages:
 - _conferences/cbl-amsterdam-2018.md
 - _conferences/cbl-munich-2018.md
