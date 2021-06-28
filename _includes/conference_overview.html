@@ -9,15 +9,15 @@
                         {{ page.number_of_days }}
                         <p>DAYS</p>
                     </li>
-                    <li style="color: #{{page.secondary}};">
+                    <li style="color: {{page.secondary}};">
                         {{ page.number_of_themes }}
                         <p>THEMES</p>
                     </li>
-                    <li style="color: #{{page.primary}};">
+                    <li style="color: {{page.primary}};">
                         {{ page.number_of_themes }}+
                         <p>SPEAKERS</p>
                     </li>
-                    <li style="color: #{{page.primary}};">
+                    <li style="color: {{page.primary}};">
                         {{ page.number_of_attendees }}+
                         <p>ATTENDEES</p>
                     </li>
@@ -28,7 +28,7 @@
             <div class="row mt--50 t-mt-20">
                 <div class="about__description">
                     <div class="about-column">
-                        <div class="heading heading--normal heading--roboto color--main" style="color: #{{page.primary}};">
+                        <div class="heading heading--normal heading--roboto color--main" style="color: {{page.primary}};">
                             {{ page.about_title_left }}
                         </div>
                         <p>
@@ -43,12 +43,12 @@
                         </p>
                     </div>
                     <div>
-                        <div class="heading heading--normal heading--roboto color--main" style="color: #{{page.primary}};">
+                        <div class="heading heading--normal heading--roboto color--main" style="color: {{page.primary}};">
                             {{ page.about_title_right }}
                         </div>
                         {% if page.about_register_message.size > 0 %}
                             <p>
-                                <a href="https://codesync.global/conferences/code-beam-sto/#tickets" style="color: #{{page.primary}};">
+                                <a href="https://codesync.global/conferences/code-beam-sto/#tickets" style="color: {{page.primary}};">
                                     <strong>REGISTER&nbsp;</strong>
                                 </a>
                                 -
@@ -58,7 +58,7 @@
 
                         {% if page.about_group_tickets_message.size > 0 %}
                             <p>
-                                <a href="https://codesync.global/conferences/code-beam-sto/#group-tickets" style="color: #{{page.primary}};">
+                                <a href="https://codesync.global/conferences/code-beam-sto/#group-tickets" style="color: {{page.primary}};">
                                     <strong>GROUP TICKETS</strong>
                                 </a>
                                 -
@@ -69,7 +69,7 @@
                         {% if page.about_academic_tickets_message.size > 0 %}
                             <p>
                                 <strong>
-                                    <a href="https://codesync.global/conferences/code-beam-sto/#student-tickets" style="color: #{{page.primary}};">ACADEMIC TICKETS</a>
+                                    <a href="https://codesync.global/conferences/code-beam-sto/#student-tickets" style="color: {{page.primary}};">ACADEMIC TICKETS</a>
                                 </strong>
                                 -
                                 {{ page.about_academic_tickets_message }}
@@ -79,7 +79,7 @@
                         {% if page.about_diversity_message.size > 0 %}
                             <p>
                                 <strong>
-                                    <a href="https://codesync.global/conferences/code-beam-sto/#diversity-inclusion" style="color: #{{page.primary}};">DIVERSITY &amp; INCLUSION</a>
+                                    <a href="https://codesync.global/conferences/code-beam-sto/#diversity-inclusion" style="color: {{page.primary}};">DIVERSITY &amp; INCLUSION</a>
                                 </strong>
                                 -
                                 {{ page.about_diversity_message }}
@@ -89,7 +89,7 @@
                         {% if page.about_volunteer_message.size > 0 %}
                             <p>
                                 <strong>
-                                    <a href="https://codesync.global/conferences/code-beam-sto/#volunteer" style="color: #{{page.primary}};">VOLUNTEER</a>
+                                    <a href="https://codesync.global/conferences/code-beam-sto/#volunteer" style="color: {{page.primary}};">VOLUNTEER</a>
                                 </strong>
                                 -
                                 {{ page.about_volunteer_message }}
