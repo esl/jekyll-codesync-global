@@ -45,6 +45,7 @@
                         <div class="heading heading--normal heading--roboto color--main" style="color: #{{page.primary}};">
                             {{ page.about_title_right }}
                         </div>
+                        {% if page.about_register_message %}
                         <p>
                             <a href="https://codesync.global/conferences/code-beam-sto/#tickets" style="color: #{{page.primary}};">
                                 <strong>REGISTER&nbsp;</strong>
@@ -52,6 +53,7 @@
                             -
                             {{ page.about_register_message }}
                         </p>
+                        {% endif %}
 
                         <p>
                             <a href="https://codesync.global/conferences/code-beam-sto/#group-tickets" style="color: #{{page.primary}};">
