@@ -36,6 +36,7 @@
                         </p>
                         <p>
                             {{ page.about_paragraph_2 }}
+                            {{ page.about_paragraph_2.size }}
                         </p>
                         <p>
                             {{ page.about_paragraph_3 }}
@@ -45,47 +46,55 @@
                         <div class="heading heading--normal heading--roboto color--main" style="color: #{{page.primary}};">
                             {{ page.about_title_right }}
                         </div>
-                        {% if page.about_register_message %}
-                        <p>
-                            <a href="https://codesync.global/conferences/code-beam-sto/#tickets" style="color: #{{page.primary}};">
-                                <strong>REGISTER&nbsp;</strong>
-                            </a>
-                            -
-                            {{ page.about_register_message }}
-                        </p>
+                        {% if page.about_register_message.size > 0 %}
+                            <p>
+                                <a href="https://codesync.global/conferences/code-beam-sto/#tickets" style="color: #{{page.primary}};">
+                                    <strong>REGISTER&nbsp;</strong>
+                                </a>
+                                -
+                                {{ page.about_register_message }}
+                            </p>
                         {% endif %}
 
-                        <p>
-                            <a href="https://codesync.global/conferences/code-beam-sto/#group-tickets" style="color: #{{page.primary}};">
-                                <strong>GROUP TICKETS</strong>
-                            </a>
-                            -
-                            {{ page.about_group_tickets_message }}
-                        </p>
+                        {% if page.about_group_tickets_message.size > 0 %}
+                            <p>
+                                <a href="https://codesync.global/conferences/code-beam-sto/#group-tickets" style="color: #{{page.primary}};">
+                                    <strong>GROUP TICKETS</strong>
+                                </a>
+                                -
+                                {{ page.about_group_tickets_message }}
+                            </p>
+                        {% endif %}
 
-                        <p>
-                            <strong>
-                                <a href="https://codesync.global/conferences/code-beam-sto/#student-tickets" style="color: #{{page.primary}};">ACADEMIC TICKETS</a>
-                            </strong>
-                            -
-                            {{ page.about_academic_tickets_message }}
-                        </p>
+                        {% if page.about_academic_tickets_message.size > 0 %}
+                            <p>
+                                <strong>
+                                    <a href="https://codesync.global/conferences/code-beam-sto/#student-tickets" style="color: #{{page.primary}};">ACADEMIC TICKETS</a>
+                                </strong>
+                                -
+                                {{ page.about_academic_tickets_message }}
+                            </p>
+                        {% endif %}
 
-                        <p>
-                            <strong>
-                                <a href="https://codesync.global/conferences/code-beam-sto/#diversity-inclusion" style="color: #{{page.primary}};">DIVERSITY &amp; INCLUSION</a>
-                            </strong>
-                            -
-                            {{ page.about_diversity_message }}
-                        </p>
+                        {% if page.about_diversity_message.size > 0 %}
+                            <p>
+                                <strong>
+                                    <a href="https://codesync.global/conferences/code-beam-sto/#diversity-inclusion" style="color: #{{page.primary}};">DIVERSITY &amp; INCLUSION</a>
+                                </strong>
+                                -
+                                {{ page.about_diversity_message }}
+                            </p>
+                        {% endif %}
 
-                        <p>
-                            <strong>
-                                <a href="https://codesync.global/conferences/code-beam-sto/#volunteer" style="color: #{{page.primary}};">VOLUNTEER</a>
-                            </strong>
-                            -
-                            {{ page.about_volunteer_message }}
-                        </p>
+                        {% if page.about_volunteer_message.size > 0 %}
+                            <p>
+                                <strong>
+                                    <a href="https://codesync.global/conferences/code-beam-sto/#volunteer" style="color: #{{page.primary}};">VOLUNTEER</a>
+                                </strong>
+                                -
+                                {{ page.about_volunteer_message }}
+                            </p>
+                        {% endif %}
 
                         <p>&nbsp;</p>
                     </div>
