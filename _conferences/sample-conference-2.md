@@ -140,8 +140,58 @@ conference_speakers: true
 conference_past_talks: true
 conference_themes_content: |-
   <div class="col m-col-12">
-  <p>TITLE</p>
-  <p>Content</p>
-  </div>
+                  <p>THE&nbsp;BEAM</p>
+
+                  <p>Learn from the leading experts and Erlang committers about new language constructs, VM
+                                          implementations, and powerful libraries which form the Erlang eco-system. You will learn how many of
+                                          its features work and how to best use them to write fast and efficient code.</p>
+              </div>
+              <div class="col m-col-12">
+                  <p>SCALABILITY AND RELIABILITY</p>
+
+                  <p>Scaling&nbsp;has been a given for many years now and the BEAM supervision concepts are well
+                                          understood. But you need more, much more. You want to build distributed clusters of massive
+                                          potential, you want to monitor your systems and automatically provision replacement hardware in case
+                                          of failures. What is best-practice? What are the big players doing? How do you ensure you don&#39;t
+                                          have to wake in the middle of the night?</p>
+              </div>
+              <div class="col m-col-12">
+                  <p>TOOLS</p>
+
+                  <p>It&#39;s not always clear what off-the-shelf software is useful in production-quality systems. In the
+                                          tools&nbsp;track, you will learn what existing production systems&#39; maintainers are using to
+                                          monitor and test their systems via war stories and experience reports of novice and expert users.
+                  </p>
+
+                  <p>FRAMEWORKS</p>
+
+                  <p>In the frameworks track, you will learn from the leading experts and committers about new and leading
+                                          frameworks such as&nbsp; Phoenix, MongooseIM, Nerves and RabbitMQ. You will find out how these
+                                          frameworks work, how to best use them and where not to use them.</p>
+              </div>
+              <div class="col m-col-12">
+                  <p>WEB &amp; APIS</p>
+
+                  <p>With recent innovations the BEAM is now suitable for rapid web application development and gives any
+                                          of the established frameworks a run for their money. Much work has been done to integrate with cloud
+                                          providers such as Google and Amazon, and containerisation such as Docker and Kubernetes. The BEAM of
+                                          2019 can control your infrastructure, write Google documents, and is ideal for integrating with 3rd
+                                          party services such as machine learning, and payment providers.</p>
+              </div>
+              <div class="col m-col-12">
+                  <p>CASE STUDIES</p>
+
+                  <p>Every new domain that Erlang and Elixir push into brings a new class of problems and a new class of
+                                          solutions. In this track, we&#39;ll learn from other&#39;s experience, where things have been peachy
+                                          and where they haven&#39;t been so much. We&#39;ll all walk away with a more clear idea of how to
+                                          build highly reliable software.</p>
+              </div>
+              <div class="col m-col-12">
+                  <p>INTRODUCTION TO ERLANG AND ELIXIR</p>
+
+                  <p>New to Erlang and/or Elixir? Interested, but don&#39;t know quite where to dig in? We&#39;ve all been
+                                          there! In this track, you will learn from other&#39;s experience, get a sense of the lay of the
+                                          software ecosystem, get help from the community and contribute back for everyone&#39;s benefit.</p>
+              </div>
 
 ---
