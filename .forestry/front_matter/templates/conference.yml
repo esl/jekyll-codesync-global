@@ -178,9 +178,9 @@ fields:
                 &lt;/div&gt;</code></pre>
   config:
     required: false
-    wysiwyg: true
+    wysiwyg: false
     schema:
-      format: html-blocks
+      format: markdown
   label: Conference Themes Content
   description: Each column can be added manually using the following HTML format:<br><br>&lt;div
     class="col m-col-12"&gt;<br>  &lt;p&gt;TITLE&lt;/p&gt;<br>  &lt;p&gt;Content&lt;/p&gt;<br>&lt;/div&gt;
