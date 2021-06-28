@@ -1,6 +1,6 @@
 ---
 conference_brand: _conference_brands/cbl.md
-conference_health_advice: false
+conference_health_advice: true
 conference_venue: true
 conference_past_conferences: true
 menu: |-
@@ -129,5 +129,14 @@ conference_custom_5_id: custom5
 conference_custom_4_id: custom4
 conference_custom_3_id: custom3
 conference_custom_1_id: custom1
+conference_overview: true
+conference_themes: true
+conference_testimonials: true
+conference_diversity: true
+conference_volunteers: true
+conference_call_for_talks: true
+conference_sponsors: true
+conference_speakers: true
+conference_past_talks: true
 
 ---
