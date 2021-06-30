@@ -79,7 +79,11 @@ call_for_talks_link: https://goo.gl/maps/gv3sFCw7xWKAsqf38
 programme_committee: false
 conference_overview: false
 conference_themes: true
-conference_themes_content: ''
+conference_themes_content: |-
+  <div class="col m-col-12">
+  <p>SAMPLE 1</p>
+  <p>text text text</p>
+  </div>
 conference_tickets: true
 conference_testimonials: false
 conference_diversity: false
