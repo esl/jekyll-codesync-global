@@ -41,7 +41,7 @@ about_volunteer_message: 'Join the Code BEAM V family and get free access to the
   Applications are open until 30 August 2020. '
 tickets_bg_image: "/uploads/codebeamsss.jpg"
 tickets_message: Very Early Bird tickets will be available to buy from 28 Nov.
-fees_message: All prices exclude fees and VAT
+fees_message: All prices exclude fees and VATTT
 eventbrite_url: https://www.eventbrite.co.uk/static/widgets/eb_widgets.js
 eventbrite_id: "113615013564"
 group_tickets_paragraph_1: Want to bring your team along to Code BEAM V? We have group
@@ -77,5 +77,54 @@ call_for_talks_message: Speak at Code BEAM STO! Call for talks closed on 17 Janu
   the status of your talk!
 call_for_talks_link: https://goo.gl/maps/gv3sFCw7xWKAsqf38
 programme_committee: false
+conference_overview: false
+conference_themes: true
+conference_themes_content: ''
+conference_tickets: true
+conference_testimonials: false
+conference_diversity: false
+diversity_background: ''
+diversity_link_text: ''
+conference_volunteers: false
+volunteers_background: ''
+volunteer_link_text: ''
+conference_call_for_talks: false
+call_for_talks_background_image: ''
+call_for_talks_link_text: ''
+conference_sponsors: false
+conference_custom_1: false
+conference_custom_1_id: ''
+conference_custom_1_img_bg: ''
+conference_custom_1_img_link: ''
+conference_custom_2: false
+conference_custom_2_id: ''
+conference_custom_2_heading: ''
+conference_custom_2_subheading: ''
+conference_custom_2_description: ''
+conference_custom_2_heading_2: ''
+conference_custom_2_description_2: ''
+conference_custom_3: false
+conference_custom_3_id: ''
+conference_custom_3_bg: ''
+conference_custom_3_heading: ''
+conference_custom_3_description: ''
+conference_custom_3_link_url: ''
+conference_custom_3_link_text: ''
+conference_custom_4: false
+conference_custom_4_id: ''
+conference_custom_4_bg: ''
+conference_custom_4_heading: ''
+conference_custom_4_description: ''
+conference_custom_4_link_url: ''
+conference_custom_4_link_text: ''
+conference_custom_5: false
+conference_custom_5_id: ''
+conference_custom_5_bg: ''
+conference_custom_5_heading: ''
+conference_custom_5_description: ''
+conference_custom_5_subtitle: ''
+conference_custom_5_description_2: ''
+conference_speakers: false
+conference_past_talks: false
 
 ---
