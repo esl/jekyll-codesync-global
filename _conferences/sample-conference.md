@@ -22,7 +22,7 @@ conference_init_date: 2020-12-12T07:00:00.000+00:00
 conference_dates: 12 - 15 of December
 head_title: Sample London Conference
 overview_heading: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
-number_of_days: "4"
+number_of_days: "5"
 number_of_themes: "7"
 number_of_speakers: "50"
 number_of_attendees: "300"
