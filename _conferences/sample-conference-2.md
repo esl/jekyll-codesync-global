@@ -12,7 +12,7 @@ menu: |-
   * [Training](#training)
   * [Tickets](#tickets)
   * [custom1](#custom1)
-  * [custom2](#custom2)
+  * [custom2](#Hybrid "Hybrid")
   * [custom3](#custom3)
   * [custom4](#custom4)
   * [custom5](#custom5)
@@ -99,7 +99,7 @@ conference_custom_1: true
 conference_custom_1_img_bg: "/uploads/ldn.jpg"
 conference_custom_1_img_link: "#"
 conference_custom_2: true
-conference_custom_2_id: my name
+conference_custom_2_id: Hybrid
 conference_custom_2_heading: Going Hybrid
 conference_custom_2_subheading: Description of going hybrid
 conference_custom_2_description: Conference custom 2 description
