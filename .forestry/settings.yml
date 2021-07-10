@@ -71,11 +71,15 @@ sections:
   label: Talks
   create: all
   match: "**/*"
+  templates:
+  - talk
 - type: directory
   path: _trainings
   label: Trainings
   create: all
   match: "**/*"
+  templates:
+  - training
 - type: directory
   path: _trainers
   label: Trainers
