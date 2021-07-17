@@ -49,6 +49,7 @@ fields:
   description: Replace <strong>conference-name </strong>with the slug of the conference
     that the user belongs to,
 pages:
+- _speakers/Sample Conference 3/sample-conference-3-abeba-birhane.md
 - _speakers/sample-conf/sample-conf-sample-2-speaker-3.md
 - _speakers/sample-conf/sample-speaker-1.md
 - _speakers/sample-conference-2/sample-conf-2-adrian-cruz.md
