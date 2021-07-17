@@ -68,3 +68,4 @@ fields:
   label: speakers
 pages:
 - _talks/sample conf/sample-talk.md
+- _talks/sample conference 2/sample-conference-2-example.md
