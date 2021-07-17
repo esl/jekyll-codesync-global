@@ -7,7 +7,7 @@ menu: |-
   * [Media](#media)
   * [Training](#training)
   * [Venue](#venue)
-conference_brand: _conference_brands/code-mesh.md
+conference_brand: _conference_brands/code-beam-v.md
 conference_overview: true
 conference_themes: true
 conference_themes_content: |-
