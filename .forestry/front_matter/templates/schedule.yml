@@ -2,8 +2,11 @@
 label: Schedule
 hide_body: false
 fields:
-- name: rooms
-  type: include
-  config: {}
-  template: conference-room
-  label: Rooms
+- name: roomss
+  type: blocks
+  label: rooms
+  template_types:
+  - conference-room
+  config:
+    min: 
+    max: 
