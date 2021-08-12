@@ -10,3 +10,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- _schedules/schedule one.md
