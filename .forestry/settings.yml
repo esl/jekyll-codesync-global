@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _conference_rooms
+  label: Rooms
+  create: all
+  match: "**/*"
+  templates:
+  - conference-room
+- type: directory
   path: _schedules
   label: Schedule
   create: all
