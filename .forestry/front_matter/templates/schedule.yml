@@ -1,4 +1,9 @@
 ---
 label: Schedule
 hide_body: false
-fields: []
+fields:
+- name: rooms
+  type: include
+  config: {}
+  template: conference-room
+  label: Rooms
