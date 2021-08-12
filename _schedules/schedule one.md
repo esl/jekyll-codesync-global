@@ -5,6 +5,6 @@ roomss:
 - template: conference-room
   name: room two
 - template: conference-room
-  name: Room three
+  name: room three
 
 ---
