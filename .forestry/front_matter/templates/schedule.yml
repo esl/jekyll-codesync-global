@@ -2,13 +2,13 @@
 label: Schedule
 hide_body: false
 fields:
-- name: roomss
+- name: conference_rooms
   type: blocks
-  label: rooms
   template_types:
   - conference-room
   config:
     min: 
     max: 
+  label: Conference Rooms
 pages:
 - _schedules/schedule one.md
