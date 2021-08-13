@@ -96,10 +96,16 @@ fields:
     required: false
   label: Overview Heading
 - name: number_of_days
-  type: text
-  config:
-    required: false
+  type: number
   label: Number Of Days
+  description: This will be used to display number of days in the Overview section
+    as well as <strong>it will be used for the schedule.</strong>
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: number_of_themes
   type: text
   config:
