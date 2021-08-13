@@ -66,6 +66,18 @@ fields:
       type: pages
       section: speakers
   label: speakers
+- name: rooms
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: rooms
+      file: 
+      path: 
+  label: rooms
 pages:
 - _talks/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua.md
 - _talks/sample conf/sample-talk.md
