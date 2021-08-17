@@ -7,17 +7,5 @@ fields:
   config:
     required: false
   label: Name
-- name: conference_path
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: conferences
-      file: 
-      path: 
-  label: Conference Path
 pages:
 - _conference_rooms/Sample conference/sample-conference-room-one.md
