@@ -19,5 +19,3 @@ fields:
       file: 
       path: 
   label: Conference Path
-pages:
-- _conference_rooms/uno.md
